@@ -1,0 +1,3062 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>投票クラスタリング</title>
+    <description>A graph-based open-ended survey framework.
+</description>
+    <link>http://localhost:4000/jp/</link>
+    <atom:link href="http://localhost:4000/jp/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 17 Nov 2020 00:30:05 +0900</pubDate>
+    <lastBuildDate>Tue, 17 Nov 2020 00:30:05 +0900</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>GoTo キャンペーン</title>
+        <description>&lt;p&gt;我々は、GoToすべきなのでしょうか、すべきではないのでしょうか。&lt;/p&gt;
+
+&lt;p&gt;GoToキャンペーンが始まってからしばらく経ち、すでに利用された方も多いかと思います。 また、GoToイート キャンペーンはそろそろ終了の見込みとのことです。
+皆さんがGoToキャンペーンについてどう考えているのかを募集しました。&lt;/p&gt;
+
+&lt;div class=&quot;jumbotron&quot;&gt;
+  &lt;h4&gt;あなたはGoToキャンペーンについてどう思っていますか？&lt;/h4&gt;
+&lt;/div&gt;
+
+&lt;table class=&quot;table table-striped table-hover&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Summary&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;期間&lt;/td&gt;
+      &lt;td&gt;2020/11/14 - 2020/11/16&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;回答者数&lt;/td&gt;
+      &lt;td&gt;281&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;回答意見数&lt;/td&gt;
+      &lt;td&gt;185&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;初期回答数&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;プラットフォーム&lt;/td&gt;
+      &lt;td&gt;Crowdworks&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;回答パターン&quot;&gt;回答パターン&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Linear palette diagram&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/jp/images/2020_GoTo/linear_palette_diagram.png&quot; alt=&quot;fig_group_size&quot; style=&quot;   width: 600px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;上の図は、パレットダイアグラムという図で、各回答者の回答パターンを可視化したものです。
+パレットダイアグラムでは、回答者が横一列に並べられ、回答パターンが縦軸方向に記されています。
+パレットダイアグラムに関する詳細は&lt;a href=&quot;https://github.com/palette-diagram/palette-diagram&quot;&gt;こちら&lt;/a&gt;をご覧ください。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;各意見グループ内の回答&quot;&gt;各意見グループ内の回答&lt;/h2&gt;
+&lt;p&gt;以下では、それぞれの意見グループで、支持の多かった回答をリストしています。&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  反対 (75 posts)
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    感染が広がってしまうのが怖いなと思います。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;27 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    GoTo トラベルGoTo イートともに、賛成したい気持ち半分、反対したい気持ち半分です。旅行や外食をしなければ旅行会社や飲食店が潰れてしまう。でも感染の危険性を考えれば利用は控えたほうがいい。板挟みになっています。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;20 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    現状ではやるべきではないと思います。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;17 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;div class=&quot;collapse&quot; id=&quot;collapseExample0&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    どうして今の時期にＧＯＴＯキャンペーン何でしょうか。目先の欲だけしか考えてない様にしか思えません。今後どうゆうリスクが起こるか考えなかったのでしょうか。今の政府のやり方は全く信用できません。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;15 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    GoTo トラベル、GoTo イートどちらも要りません。好きなことにお金を使いたいから代わりに給付金10万をやってほしいです。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;15 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Go Toトラベル 反対 全国的に人が動くことで感染が広がる。地方に住む者としては来てほしくないです。 お金と時間に余裕がある人が得しているだけに見えます。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;14 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    どちらも時期早々だと思います、反対です。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;14 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    感染が急激に広まって医療がひっ迫することが容易に想像できます。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    トラベルにしろ、イートにしろ特定の大手業者のみ恩恵を受けるシステムになっているような気がするので、本当にコロナ禍で困っている人の支援になっているのか疑問が残ります。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    まだ時期尚早だし、感染拡大を防ぐために止めるべきだと思います。 ただ、観光業界の苦境を打開するためには必要なのもわかるし、難しいところだと思います。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample0&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample0&quot;&gt;
+    See more
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  賛成 (101 posts)
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    食事や旅行などの人々の経済活動が無いと、特にその産業に携わる人にとってのダメージは尋常ではないと思うので、コロナ対策を万全にするという前提なら、私は賛成です。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    感染拡大を考えれば批判的になるとは思うが、経済的にはかなり助かった部分はあると思う。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    観光業界・飲食業界の業績挽回のためには、とても良い政策だと思う。ただし、感染が小康状態の場合に限る。感染拡大期の実施は、逆に医療逼迫を招来しかねず、消費喚起以前に命の問題に関わる。柔軟な運用を切に求める。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;div class=&quot;collapse&quot; id=&quot;collapseExample1&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    感染対策としてマスクと検温をきちんとして、換気がちゃんとできてるお店やホテル等に行くなら、いいと思う。 だけど、そこで馬鹿騒ぎして飛沫量を増やす行為はして欲しくない。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    どちらともいえません。感染拡大は怖いですが、これ以上の経済的打撃も厳しいと思います。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    経済活性化とストレス発散のためにも盛り上げることは重要だと思う。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    店と客、感染対策と体調管理をお互い万全にした上での利用が大前提だと思います。感染拡大を防ぐことと、逼迫している経済状況の改善、どちらも必要です。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    色々と批判はありますが、経済をまわすためには必要な施策だと考えます。 地域共通クーポンについても滞在先でしか使用できないための策が講じられており、私としては大賛成です。 しかしながら、発表までの流れや政治家の利権絡みの報道などは本当に国民として情けないです。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    GOTOについては賛成ですが、無限ループや感染対策をしない方が増えるのは困ります。税金を使っているのだから、簡単に旅行に行けない方にもメリットがほしいし、利用者には感染対策が万全であることを徹底すべきです。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;8 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    GoToイートに関して、コロナ禍において飲食店に行くことがなくなっていたので、このままだと外食するお店が倒産、廃業などを迫られるので、ユーザーと飲食店にとっては良かったと思います。ただ、一部の使用方法を違えた人たちがいたのは残念だと思います。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;8 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample1&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample1&quot;&gt;
+    See more
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Mon, 16 Nov 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/jp/GoTo2020/</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/GoTo2020/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>アメリカ大統領選挙 2020 (10月)</title>
+        <description>&lt;p&gt;大統領ディベート最終回（10/22）の後に実施された調査です。&lt;/p&gt;
+
+&lt;div class=&quot;jumbotron&quot;&gt;
+  &lt;h4&gt;What is the most important issue to you personally in the upcoming election?&lt;/h4&gt;
+&lt;/div&gt;
+
+&lt;table class=&quot;table table-striped table-hover&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Summary&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Period&lt;/td&gt;
+      &lt;td&gt;Oct. 26th – 30th, 2020&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Num. of respondents&lt;/td&gt;
+      &lt;td&gt;278&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Num. of opinions&lt;/td&gt;
+      &lt;td&gt;177&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Num. of initial opinions&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Platform&lt;/td&gt;
+      &lt;td&gt;MTurk (US residents)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;回答パターン&quot;&gt;回答パターン&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Circular palette diagram&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/jp/images/2020_USpresident/October/circular_palette_diagram.png&quot; alt=&quot;fig_circular_palette&quot; style=&quot;   width: 600px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Linear palette diagram&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/jp/images/2020_USpresident/October/linear_palette_diagram.png&quot; alt=&quot;fig_group_size&quot; style=&quot;   width: 600px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;上の図は、パレットダイアグラムという図で、各回答者の回答パターンを可視化したものです。
+円形のパレットダイアグラムでは、回答者が極方向に並べられ、回答パターンが動径方向に記されています。
+もう一つのパレットダイアグラムでは、回答者が横一列に並べられ、回答パターンが縦軸方向に記されています。
+パレットダイアグラムに関する詳細は&lt;a href=&quot;https://github.com/palette-diagram/palette-diagram&quot;&gt;こちら&lt;/a&gt;をご覧ください。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;技術的なポイント&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;このデータは、投票クラスタリング（英語名Aska）によって収集されました。これによって、意見グラフが生成されます。&lt;/li&gt;
+  &lt;li&gt;回答意見は、回答パターンに基づいてグラフ分割によって分類されています&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;。&lt;/li&gt;
+  &lt;li&gt;グループラベル（コーディング）は、意見グループの回答文章に基づいて、我々が付与したものです。&lt;/li&gt;
+  &lt;li&gt;この分析ではアノテーションはしておりません。意味が重複したグループ(&lt;em&gt;Economy&lt;/em&gt; and &lt;em&gt;COVID-19 &amp;amp; Economy&lt;/em&gt;)やいくつか分類ミスがあるのはそのためです。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;各意見グループ内の回答&quot;&gt;各意見グループ内の回答&lt;/h2&gt;
+&lt;p&gt;以下では、それぞれの意見グループで、支持の多かった回答をリストしています。&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  Healthcare (25 posts)
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    The most important to me is letting the president do his job. Parties working together. Accepting the results! Not destroying cities when you don't get your way.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;17 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Some sort of health care reform to make it more affordable.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;14 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    The most important issue is access to affordable healthcare
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;div class=&quot;collapse&quot; id=&quot;collapseExample0&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Healthcare is the most important issue in the upcoming election. I have a pre-existing condition, a daughter who is covered under my policy but is now 23 years old and I have concern for siblings, family members and friends. 
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Healthcare reform and access
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Universal healthcare.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Protecting health care and the affordable care act
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Change the president and change America
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    climate change
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Improving basic human rights issues like health, nourishment, housing, and education.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample0&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample0&quot;&gt;
+    See more
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  Economy (5 posts)
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Reopening and stabilizing the economy. Getting employment numbers back up. 
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    I SUPPORT ALL THE RESPONSES FIRST THE PEOPLE AND THE ECONOMY HAS TO BE OPEN NORMAL AND MORE JOBS HERE IN FLORIDA THE MINIMUN WAGE
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;5 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    The most important issue in the upcoming election is the economy. 
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;4 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;div class=&quot;collapse&quot; id=&quot;collapseExample1&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Income Inequality
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;0 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    My most important issue is the current economy. 
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;0 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample1&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample1&quot;&gt;
+    See more
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  COVID-19 &amp;amp; Economy (75 posts)
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Covid-19 Relief 
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;38 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Economy
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;33 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Covid-19 measures.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;30 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;div class=&quot;collapse&quot; id=&quot;collapseExample2&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    The most important issue to me is re-opening the economy and getting back to our normal lives.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;23 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    bringing back the economy to what it was pre covid-19
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;21 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Our healthcare and for those with pre-existing conditions 
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Healthcare coverage for all Americans to help us through the pandemic and beyond.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Coronavirus crises
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Solve Covid and preventing further sickness.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Preserving the rights of the individual. 
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;18 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample2&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample2&quot;&gt;
+    See more
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  Racial equality (11 posts)
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Racial equality
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;18 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Reduce the taxes
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Social justice issues
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;div class=&quot;collapse&quot; id=&quot;collapseExample3&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    ANY PARTY WILL BUT THE MAIN THING IS THE WORLD BECAME NORMAL
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;4 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    criminal justice reform, specifically being more lenient on laws and prevent prison overcrowding
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;4 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Stopping the race-baiting and division of the population
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;4 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Equality. Justice. A president who doesn't give handouts but also had a heart
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;4 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Decency, ending racism and bringing the country together.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;3 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Violence in the streets. 
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;1 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Some one with a moral compass. 
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;1 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample3&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample3&quot;&gt;
+    See more
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  Climate change, Women's rights, etc. (61 posts)
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    The corruption and lawlessness of the current administration. 
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;15 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Immigration
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;15 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Hunger, homelessness, and affordable housing
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;div class=&quot;collapse&quot; id=&quot;collapseExample4&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Climate change solutions, not denials
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Women's rights/pro-choice
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    abortion and reproductive rights 
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    covid and harm reduction from conservatives 
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Equal rights for women
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Corruption actually being addressed and nepotism laws being enforced. The fact that Trump has funneled millions into his own businesses and contacts at the tax payers expense is out of line and He should have sold off Mar-a-lag
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Climate change.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample4&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample4&quot;&gt;
+    See more
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;この分類を見て、「おかしい」と思われた方がいるかもしれません。実は、収集した回答の数自体は278件よりも多く、それらの情報（といくつかの”テクニック”）によって今回の分類を実現しています。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 04 Nov 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/jp/USpresidentOct/</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/USpresidentOct/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>大阪都構想</title>
+        <description>&lt;p&gt;幻と化した大阪都構想、皆さんはどう感じていたのでしょうか。&lt;/p&gt;
+
+&lt;div class=&quot;jumbotron&quot;&gt;
+  &lt;h4&gt;大阪都構想に関して、あなたのご意見をお聞かせください。&lt;/h4&gt;
+&lt;/div&gt;
+
+&lt;p&gt;2020年11月1日（日）、大阪都構想についての賛否を問う住民投票が行われました。
+投票日当日から翌日にかけて、大阪都構想についての意見を募集しました&lt;sup id=&quot;fnref:0&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:0&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;。
+主に関西在住の方、元関西住民の方に向けて呼びかけました&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;table class=&quot;table table-striped table-hover&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Summary&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;期間&lt;/td&gt;
+      &lt;td&gt;2020/11/1 - 2020/11/2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;回答者数&lt;/td&gt;
+      &lt;td&gt;129&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;回答意見数&lt;/td&gt;
+      &lt;td&gt;105&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;初期回答数&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;プラットフォーム&lt;/td&gt;
+      &lt;td&gt;Crowdworks&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;回答パターン&quot;&gt;回答パターン&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/jp/images/2020_OsakaToKoso/edge_bundles_OsakaToKoso.jpg&quot; alt=&quot;fig_palette&quot; style=&quot;   width: 700px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;投票クラスタリングでは、収集されたデータはグラフ（ネットワーク）を構成しています。
+上図は、一部の回答者の回答パターンを表しています。
+上に並んだ丸（頂点）が投稿された意見、下に並んだ丸（頂点）が回答者を表し、各回答者が支持した回答が線（枝）で結ばれています。
+各頂点は推論されたグループごとに色分けされています。
+各意見グループ内の意見の詳細は、下記をご覧ください。&lt;/p&gt;
+
+&lt;p&gt;今回、具体的に回答してくださった方が多く、大変興味深いです。
+賛成、反対の意見の他に、「いまいちよく分からない」という意見が多くみられ、意見グループとして検出されました。
+また、「いまいちよく分からない」という意見が、主に否定的なニュアンスを含んだものであることも読み取れます（詳しい説明は最下部&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;をご覧ください）。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;各意見グループ内の回答&quot;&gt;各意見グループ内の回答&lt;/h2&gt;
+&lt;p&gt;以下では、それぞれの意見グループで、支持の多かった回答をリストしています。&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  反対 (23 posts)
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    大阪が都になることで変更しなければならないことが沢山あるため、多くの人が大変になると思います。二重行政はややこしく現住民たちにも迷惑がかかることが多く、大変な思いをするのならば必要ないと思います。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    必要性を全く感じません。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    お金の問題を解決するには無駄を省いて、生み出すことでしょうが、やや無理があるように思います。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;div class=&quot;collapse&quot; id=&quot;collapseExample0&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    大阪都構想についてはデメリットもあるものの、二重行政解消などメリットも多く、概ね賛成です。しかし構想は良くても、「都民にメリットが還元できる方向でうまく実現できるか」ということを考えると、効果は期待するほど大きくないようにも思えます。民間企業が組織改編や合併で合理化をするのと違って、原則として公務員には民間企業並みの厳しいリストラはまだまだ難しいことや、既得権者との交渉が難しいなどさまざまなネックがあり、行政をどう変えていくのかという方法と実行力次第では、デメリットが目立ってしまう危険も多いとの心配もしています。 
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    改革に乗じた詐欺が増えそうで怖い
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    なにが変わるのか特にわかっていないが特に期待はしていない、だがこれによって税金が無駄に使われるのならしないほうがいいのではないかと考えている
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    大阪市を大阪府にして４つの区に分けるとすると、今までよりも住民サービスが低下するのではないか？大阪市を解消することは、人件費などを抑えるつもりなのか？理解できません。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;5 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    住民サービス低下が心配で、反対します。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;4 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample0&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample0&quot;&gt;
+    See more
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  賛成 (44 posts)
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    府と市の二重行政を解消すれば、税金の無駄遣いが減りそうなので賛成です。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;15 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    大阪が4つの区になり、行政が整理されることにより他の近隣府県に何か影響が出てくるか気になる。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;15 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    大阪の地域を活性化するためには必要なことなので、都にして欲しいです。これを機に、地域格差を是正して欲しいです。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;14 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;div class=&quot;collapse&quot; id=&quot;collapseExample1&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    二重行政の無駄をなくすことができ、効率がよくなるのなら賛成です。 
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    無駄なものは省き、より良く活気ある安全で、経済力をあげる努力は維新さんはしてくれるのではと期待しています。 何でもかんでも反対反対ではなく、党をあげ何ができるか歩み寄ってもらいたいです。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    変革も必要
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    今までの政策で、二重行政に無駄な支出、無駄な業務があったので、それを解決するには一度試みてみれば良いと思う。今の維新の政策で、府知事と市長の連携は取れているが、この先これが続くとは言い切れない。また歪みが生じてしまっては元の木阿弥だ。 この件に関してだけ急に自民も立憲民主も反対を表明しているが、反対する意図を明らかに説明できていない。大阪市を守りましょう。歴史を守りましょう、と言っても、名前を守るだけでは意味がない。 利権を失いたくないのが見えてしまう。 もっとクリアな反対意見を述べて欲しい。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    兵庫県民です。大阪が都になることによって発展が期待できます。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;8 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample1&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample1&quot;&gt;
+    See more
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  分からない・必要なのか (23 posts)
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    いまいち大阪都構想が理解出来ないです。二重行政を問題にしていますが、大阪都になってそれが果たして解決されるのでしょうか。二重行政の解消をスローガンにしていますけど、大阪都になればなぜ解消出来るかの説明はありません。そのあたりを詳しく説明してもらえないと、正直賛同は出来ないです。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    特別区になれば、住民サービスなどにあてる予算も必要になるので、現状を維持したい方にとっては意見が分かれそうです。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    いまいちメリットが分からないので、もっと説明をして欲しいです。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;8 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;div class=&quot;collapse&quot; id=&quot;collapseExample2&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    大阪市在住です。都構想に対して、なぜ今なのか？とゆう疑問があります。コロナで他にお金を費やすべきではないのか。本当に今しないといけないことなのか。このようなことに時間を使うならコロナで困ってる人のために何か対策を考えるべきではないのかと思います。賛成と反対で毎日路上でお話をされてますが、都構想が実現したなら本当に財政的な面は今よりよくなるのか。どこまで今の説明をしていることが実現されるのか。今のままでは本当にダメなのかはっきりいってわからないことが多いです。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;8 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    大阪都構想についてしっかりと議論されているとは思えず、性急すぎると思います。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    なぜ大阪都にならなければならないのかがわからない。二重行政の解消と言っているが、都になっても区長がいるということは同じ状況になるのではないのか？と思う。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    具体的にどんなメリットが住民にあるのかがイメージできない。 二重行政の解消は大阪都構想を実現しないとできないことなのかが謎。大阪都構想にはだいぶお金が必要となりそうなので、このタイミングではない気がする。今はコロナ関連の対策に注力を注ぐべきだと思う。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    大阪が東京並みの大都市になるのは賛成ですが、区割り案が微妙だし、新しい区の数も少なすぎて区役所に行くのが大変そうです。合理的にしたいんだろうけど、区役所の職員は減らされるだろうし、業務も今までより増えて滞ることもありそうで心配です。都の役割をしたいんだろうけど、やっぱりいきなり都化していくのは無理があるんじゃいかなと思います。東京23区にも大阪にも住んだ身としては「無理に大阪を東京化しなくてもいいんじゃないか」でした。23区の中でも色々問題があるし貧乏な区、裕福な区に別れてしまうので私は概ね反対です。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample2&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample2&quot;&gt;
+    See more
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:0&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;本調査はデモの一環であり、ここでの結果の正確性は保証されません。 &lt;a href=&quot;#fnref:0&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;「関西在住」「元関西住民」「その他」の属性も回答いただいておりますが、今回掲載しておりません。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;「よく分からない・必要なのか」のグループには明確に反対意見のものも含まれ、中立な意見ではなく、反対意見と強く結びついていることがわかります。また、回答者の回答パターンの図からも、反対意見グループと共に「よく分からない・必要なのか」グループを支持している人が多いことからもニュアンスを読み解くことができます。 &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 03 Nov 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/jp/OsakaToKoso/</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/OsakaToKoso/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>学校生活</title>
+        <description>&lt;p&gt;日本の学生は今、学校生活に関してどのような困難を抱えているのでしょうか。&lt;/p&gt;
+
+&lt;div class=&quot;jumbotron&quot;&gt;
+  &lt;h4&gt;学校生活に関して、今あなたが直面している主な困難をお答えください。&lt;/h4&gt;
+&lt;/div&gt;
+
+&lt;p&gt;日本国内の学生を対象に意見を募集しました。&lt;/p&gt;
+
+&lt;table class=&quot;table table-striped table-hover&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Summary&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;期間&lt;/td&gt;
+      &lt;td&gt;2020/10/18 - 2020/10/23&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;回答者数&lt;/td&gt;
+      &lt;td&gt;153&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;回答意見数&lt;/td&gt;
+      &lt;td&gt;128&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;初期回答数&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;プラットフォーム&lt;/td&gt;
+      &lt;td&gt;Crowdworks&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;回答パターン&quot;&gt;回答パターン&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/jp/images/SchoolLife2020/linear_palette_diagram.png&quot; alt=&quot;fig_palette&quot; style=&quot;   width: 700px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;上の図は、パレットダイアグラムという図で、各回答者の回答パターンを可視化したものです。
+回答者が横一列に並べられ、縦軸方向に回答パターンが記されています。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;各意見グループの回答&quot;&gt;各意見グループの回答&lt;/h2&gt;
+&lt;p&gt;以下では、それぞれの意見グループで、支持の多かった回答をリストしています。&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  受講・学習が困難 (10 posts)
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    オンライン授業でzoomを使用するのですが、Wi-Fi環境のせいで時間通りに入れなかったり途中で落ちてしまっても配慮がない教員がいます。ネット環境によって不利が生じている状況に不満があります。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;34 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    看護学生のため実習が行われません。 実習が行われないのにレポートに追われる日々でいつまで続くのか本当に不安です。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;30 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    医療系学部に通っていますが、実務実習の実施も、そのための全国的な実習試験の実施、そのための学校の実習、全てが先行きが不透明である。 さらに、大量のレジュメが今までは授業で配布されたのが、各自ダウンロードして印刷とされ、印刷費がかさんでいる。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;26 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;div class=&quot;collapse&quot; id=&quot;collapseExample0&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    必修単位が取れるかどうか
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;24 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    オンラインなのをいいことに、授業時間を大幅に超えた動画をとっている教授がいる。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;24 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    オンラインになって課題の量が増えてしまっている
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;24 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    オンライン授業で、各回の課題が重たくなり、あまり手をかけられずに、成績が下がった。今までは、テストを頑張れば成績に反映させることができたのに、毎回の細かいレポートで成績がつくのはどうかと思う。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;24 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    コロナ禍によるオンライン授業の増加があり普通の授業でその単元を理解していると思われています。 そのせいで全ての授業が分からなくなりらテストの点数も取れなくなってきました。。 帰宅した後も勉強に励んでいますが帰宅時間が遅くなったりして全然追いつくことができません。 塾なども視野に入れましたが学校よ終了時間が把握出来てない事やバラバラなため行けません。 学校の休み時間などを有効活用してなんとか授業に追いついています。 せめてコロナ禍による授業の遅れをゆっくりと回収して言って欲しいと思います。 
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;22 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample0&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample0&quot;&gt;
+    See more
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  授業料・制度 (11 posts)
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    文部科学省はハイブリッド授業を推しているが、正直に言ってそれが一番めんどくさいです。定期も買えないし、1時間の授業よりも通学時間のほうが長くかかります。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;48 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    コロナにより、全ての授業がオンライン授業になりましたが、動画配信は一切せず、プリントのみを配布し演習問題を課題とするだけの授業があります。説明がないので、とても難しく一コマ（90分）以上時間がかかってしまい大変な思いをしています。そのように明らかに教授が楽してる授業があるにも関わらず、学費は通常授業の時と変わらない額であることに不満を持っています。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;42 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    夏休み以降は対面の授業が一部で再開されると聞いていたが、蓋を開けたら月1回。ほとんど大学の施設を使わないのに、施設維持費や実験費を満額徴収されるのは腑に落ちない。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;42 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;div class=&quot;collapse&quot; id=&quot;collapseExample1&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    ほとんど大学に行ってないのに授業料は満額払っているので納得いきません。出来るだけバイトに入って貯金しています。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;38 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    この半年ほど、ほぼ学校の施設を使っていないのにも関わらず、特に学費が安くなったり助成金がでないところに不満を感じています
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;37 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    大学の敷地に入らずオンラインばかりなのにいつもと同じ学費を払っていることが疑問でしかない。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;36 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    施設を利用していないのに満額取られるのが納得いかない
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;33 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    オンライン授業になり、使っていないのに施設料を取られることに不満がある
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;32 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample1&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample1&quot;&gt;
+    See more
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  バイト (5 posts)
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    時間割が不規則になって、学校が終わるのが遅くなり、バイトに行けない 休日にバイトを一気に入れるや、午前の少しの時間に入れてる
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;17 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    オンライン授業になり、レポート課題による評価になったが、教授がそのレポートのファイル名や形式に細かい指示を出してきて本当にその指示は必要なのか疑問に思う。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    看護学校に通っているため、コロナにより厳しいので、バイトができずお金がなくて食費にすごく困っています…
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;div class=&quot;collapse&quot; id=&quot;collapseExample2&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    昨年までの対面授業ではレポート課題を出していなかった授業でも、レポート課題が課せられるためにバイトしている暇がない。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    大学院生で論文をやっていますが、調査対象が人間の行動学なので結果が得られず困っています。 卒業間近ですが無理やりテーマを変えて対応しています。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;3 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample2&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample2&quot;&gt;
+    See more
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  やる気 (8 posts)
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    ハイブリッド授業で、授業時間より移動時間の方がかかってしまうので学習時間が大幅に減った
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    オンライン授業が多すぎて、気が入らない。 特にゼミナール形式の授業では、対面による意見交換や議論などが重要だが、オンライン上だと聞き手の反応もわからず、どうしても実りある授業ができているとは思えない。 授業を少しでも活かすために、なるべく他人の意見をメモしたり、授業前に準備するなどしてしている。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    友達や先輩との交流が少なくなったため履修や授業、試験などの情報を得ることが難しくなった。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;div class=&quot;collapse&quot; id=&quot;collapseExample3&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    実験系の授業がオンラインになってしまったのでつまらない
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;18 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Zoomで授業をすると、家にいるのに出かけるときみたいに準備するのが嫌でやる気がなくなる。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;16 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    ZOOMによるリアルタイムオンライン授業になっているが、自宅ではリラックスしすぎて集中を持続するのが難しい。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    前期の早いうちから対面授業が始まったが大学内で十分な感染症対策がされておらず心配である
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    留学が中止になり緊急帰国したのにも関わらず、仲介の大学の配慮が出来ておらず困った。その上にすぐに履修登録を決めてと言われても、心身が追いつかなかった。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;2 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample3&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample3&quot;&gt;
+    See more
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  将来の不安 (6 posts)
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    一年生なので課題を協力する友達すらいない
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;25 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    学校卒業後就職先が本当にあるかどうか。 自分の選択肢が少しでも広がるように資格の勉強などに力を入れている。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;25 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    4回生で卒業研究を進めている。 前期は大学に入構できない期間もあり、資料閲覧などが不便になった。 卒業と就活に不安を感じた。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;21 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;div class=&quot;collapse&quot; id=&quot;collapseExample4&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    学校は週5で時間も予定通りですが、実習が行けないので社会に出た時に動けるか不安です
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;16 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    海外の大学に通っており、オンライン授業になったことにより帰国したが、将来がすごく不安。これからどうなるか分からないので、出国も勇気が出ない。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;14 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    うちの大学はオンラインかつリアルタイムの方式ではないため授業をためてしまっている生徒が多く見受けられる。もちろん生徒が自立した生活を心がけなければならないが大学側もできる対策があるように思える。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample4&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample4&quot;&gt;
+    See more
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Tue, 27 Oct 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/jp/SchoolLife2020_ja/</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/SchoolLife2020_ja/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>新型コロナ ワクチン</title>
+        <description>&lt;p&gt;もしワクチンが今日できたら、あなたは接種しますか？&lt;/p&gt;
+
+&lt;div class=&quot;jumbotron&quot;&gt;
+  &lt;h4&gt;Would you get a COVID-19 vaccine if it were available to you today?&lt;/h4&gt;
+&lt;/div&gt;
+
+&lt;p&gt;アメリカ在住の人々を対象に、Amazon Mechanical Turkで意見を募集しました。&lt;/p&gt;
+
+&lt;table class=&quot;table table-striped table-hover&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Summary&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Period&lt;/td&gt;
+      &lt;td&gt;Sep. 24th, 2020&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Num. of respondents&lt;/td&gt;
+      &lt;td&gt;415&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Num. of opinions&lt;/td&gt;
+      &lt;td&gt;235&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Num. of initial opinions&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Platform&lt;/td&gt;
+      &lt;td&gt;MTurk (US residents)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;回答パターン&quot;&gt;回答パターン&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/jp/images/COVID19vaccine/linear_palette_diagram.jpg&quot; alt=&quot;fig_popularity&quot; style=&quot;   width: 700px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;上の図は、パレットダイアグラムという図で、各回答者の回答パターンを可視化したものです。
+回答者が横一列に並べられ、縦軸方向に回答パターンが記されています。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;およそ20%の人が、今回の質問とは直接関係ない回答をしています（&lt;strong&gt;Not directly related to vaccine&lt;/strong&gt;とラベル付けされています）が、多くの人がこれらの回答に反応したため、無効回答とせずに残してあります。
+また、ワクチンと関係しているものの、はっきりとラベル付けできない回答もいくつかありました (&lt;strong&gt;Unknown&lt;/strong&gt;)。
+以下では、図中でこれらに対応する緑色・オレンジ色の部分は無視していくことにします。&lt;/li&gt;
+  &lt;li&gt;全体的に、ワクチン接種に対して肯定的な回答が多いですが、すぐさま受けたいという人はあまりいないようです。[&lt;strong&gt;Yes&lt;/strong&gt; and &lt;strong&gt;Yes, if it is ensured to be safe&lt;/strong&gt;]&lt;/li&gt;
+  &lt;li&gt;結構な割合の回答者が、受けない・少し待つ（&lt;strong&gt;No&lt;/strong&gt; and &lt;strong&gt;Wait for a while&lt;/strong&gt;）を支持していることも分かります。&lt;/li&gt;
+  &lt;li&gt;また、いくらかの回答者は、政治的な介入について懐疑的な考えを持っているようです。(&lt;strong&gt;Political influences&lt;/strong&gt;)&lt;/li&gt;
+  &lt;li&gt;初期状態での回答はないため、すべての回答は回答者から自発的に出現したものです。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;各意見グループ内の回答&quot;&gt;各意見グループ内の回答&lt;/h2&gt;
+&lt;p&gt;以下では、それぞれの意見グループで、支持の多かった回答をリストしています。&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  Concern about political influences (7 posts)
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    As long as Trump is in office, nothing can be trusted to be safe.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    I'm very concerned about a vaccine being approved strictly for political purposes and then being given to the public without sufficient trials. If proper procedure is followed, however, I'll get that vaccine as soon as it's available.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    I would never get a vaccine that is approved by USA entities while Trump is still president. I would wait for him to leave the office and THEN I can trust the US institutions again. 
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;div class=&quot;collapse&quot; id=&quot;collapseExample0&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    I will NOT take the vaccine if Donald Trump says it’s o.k. but no other credible people (like Dr. Fauci) agree.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    I am afraid of taking the vaccine, because of different rumors going around about the vaccine.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    I would like to know the vaccine development is free from political influence and was put through the standard research and trials as all vaccine are. Only then would I consider getting myself and my family vaccinated.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    I will not get any Vaccine rammed through by the Trump administration in order to get him re-elected.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;3 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample0&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample0&quot;&gt;
+    See more
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  Yes (41 posts)
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    I would get it to prevent spread
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;22 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Absolutely, I want the vaccine as soon as possible.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;22 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Yes.I would get it.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;21 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;div class=&quot;collapse&quot; id=&quot;collapseExample1&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    I am eagerly waiting for covid 9 vaccine. Covid 19 is a dangerous virus for all of us. I think vaccine helps us to get rid from Covid19.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;20 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    I would get a COVID vaccine, assuming I would not experience negative long-term side effects, but irrespective of the efficacy
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;20 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    I would take asap
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    I pray each and every time to find the vaccine for this deadly virus. I would be willing to get the vaccine and ensure all people in the world will afford and access it.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    I would take it. 
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample1&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample1&quot;&gt;
+    See more
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  No (19 posts)
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    I will not take the Covid-19 vaccine.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    covid-19 has a disastrous one. this  was stunned by the world. lot of people suffered and get more anexious. once find the suitable vaccine we will so much happy.also the safety of the vaccine is a big question. we will find a suitable one against covid-19
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    I'm aware of a previous vaccine that was rushed out and had disastrous results for some.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;div class=&quot;collapse&quot; id=&quot;collapseExample2&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    No, I wouldn't. The vaccine would not have been tested for long enough to know it is safe.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    No. You have to pay for the vaccine and pay me at least $500.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    What’s really in the vaccine? What are long term effects? How effective is it? What are the side effects or negative things that could happen? 
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    No. I would not get the vaccine
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    We need another stimulus check !
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample2&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample2&quot;&gt;
+    See more
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  Wait for a while (23 posts)
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    There is very low risk of me contracting Covid in my small, rural town. I am healthy, so there is very low risk of a Covid infection negatively impacting my health. I will wait a year or two until it has been proven safe and effective in real world use. 
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    I would consider it, but only after it has been proven safe. It would take a while to study the vaccine to know it's safety.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    I would wait a little bit until the vaccine has been out to make sure everything goes okay, then once it has been proven effective I would get it.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;18 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;div class=&quot;collapse&quot; id=&quot;collapseExample3&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    I'd want to know long term side effects - a year or more down the line - before I made a decision.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;18 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    I would get the vaccine, but would not be one of the first to do so. I would want to wait to make sure that it is safe.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;17 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    I would wait until I am sure the vaccine is safe and effective, that is others have taken it and are okay. I won't be first in line.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;16 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    I will probably wait a little while, but not too long. Just long enough to get a sense that it is safe.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;16 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    I would want to get the vaccine, but wait to see the side effects and until it has been out a while.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;16 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample3&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample3&quot;&gt;
+    See more
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  Unknown (17 posts)
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    It depends on the scientific data and consensus backing the efficacy and more importantly, safety of the vaccine. 
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;55 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    I will believe health practitioner if they are the one who recognized it for the masses  
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;44 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Even with a vaccine, still continue practicing good and healthy hygiene habits.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;22 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;div class=&quot;collapse&quot; id=&quot;collapseExample4&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    use properly very safe it 
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;21 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Its welcome stuff., but i dont really think i need it. At least not for now. Am still yet to trust new vaccines like this
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;21 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    I will get the vaccine once it has been tests using the proper methods and trials AND when I’m assured that its approval has not been influenced by politics, money, etc.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;17 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    let the WHO test it
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;16 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    If Mr president support it I accept it
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;15 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample4&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample4&quot;&gt;
+    See more
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  Yes, if it is ensured to be safe (49 posts)
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    I will get the vaccine as soon as there is one available that is proven to be effective and safe. Until then, keep wearing masks and maintaining distance.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;29 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    I would get it if it is proven to be safe. I think it is patriotic and everyone's responsibility to help stop the spread of the virus.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;26 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    I will get it after it has cleared all clinical trials and it has been extensively tested. 
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;25 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;div class=&quot;collapse&quot; id=&quot;collapseExample5&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Once the studies are completed and the vaccine[s] is/are verified as safe, I will get it/them as quickly as I can.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;25 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    I would get the vaccine if it is proven safe. I am high risk and want to be protected.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;24 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Everyone would as long as it is safe
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;24 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Yes, as long as it is proven reasonably safe I would eventually get it.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;23 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    I would be willing to get the COVID-19 vaccine if it was proven safe. But I believe it will be rushed to appease the public and ease tensions.
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;23 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample5&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample5&quot;&gt;
+    See more
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  Not directly related to vaccine (59 posts)
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    were mask when ever you go outside
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;23 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    it is the main area we could know our strength
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;23 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    i am just waiting to go for out and just want to talk people freely
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;22 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;div class=&quot;collapse&quot; id=&quot;collapseExample6&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    i was stunned foe each and keep distance and i use mask avoid the covid 19 in cautious and safe themselved
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;22 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Most people have no idea how #vaccines go from idea to syringe. What questions do you have about vaccine development?
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;21 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    Covid 19 very dangerous disease
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;21 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    the very thinking and good all the people is very sad
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;20 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    good think about the pandemic situation
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;20 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample6&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample6&quot;&gt;
+    See more
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Wed, 21 Oct 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/jp/COVIDvaccine_ja/</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/COVIDvaccine_ja/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>日本学術会議</title>
+        <description>&lt;p&gt;日本学術会議が推薦した105人の新会員候補のうち、菅内閣が６人を任命しなかったことが連日報道されています。&lt;/p&gt;
+
+&lt;p&gt;この件を人々はどのように受け止めているのか、世論調査を実施しました。&lt;/p&gt;
+
+&lt;div class=&quot;jumbotron&quot;&gt;
+  &lt;h4&gt;日本学術会議での会員任命拒否について、あなたの見解をお聞かせください&lt;/h4&gt;
+&lt;/div&gt;
+
+&lt;p&gt;2020年10月11日、上記のテーマで広く意見を募集しました&lt;sup id=&quot;fnref:0&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:0&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;。
+回答者数は365人です。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;回答傾向&quot;&gt;回答傾向&lt;/h2&gt;
+
+&lt;!-- [^1]: 本調査には、初期状態で用意された意見が６つあります。 --&gt;
+
+&lt;p&gt;&lt;img src=&quot;/jp/images/Gakujutsukaigi/linear_palette_diagram.jpg&quot; alt=&quot;linear_palette_diagram&quot; style=&quot;   width: 650px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;上図は、palette diagramと呼んでいる図で、回答者を横一列に並べ、各回答者の回答パターンを縦軸方向に色分けして図示しています。
+回答者は、回答パターンが近いものがなるべく隣り合うように並べられています。&lt;/p&gt;
+
+&lt;h2 id=&quot;回答者グループ&quot;&gt;回答者グループ&lt;/h2&gt;
+&lt;p&gt;回答者は、下図に示すように、３つの回答者グループに分類されます。
+各セルは、回答者グループの中で、どの意見グループに何パーセント賛同しているかを示しています。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/jp/images/Gakujutsukaigi/popularity_matrix.png&quot; alt=&quot;popularity_matrix&quot; style=&quot;   width: 400px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;意見グループ&quot;&gt;意見グループ&lt;/h2&gt;
+
+&lt;p&gt;4つの意見グループの内訳は以下の通りです。&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &quot;説明責任・不満&quot;（一部）
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      理由をきちんと説明しないと総理への不信感が募ってしまう。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;73 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      「機能していない」はたまた「きちんと提言等」提出しているなど、メディアによって様々な報じ方をされていて、分かり難い面がありますが、政府の傘から外れて、独自の提言を出し、政府もそれに対して主張・回答を出す方が健全な形の様な気がします。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;69 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      きちんと国民が納得できるよう説明責任を果たすべきだと思います
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;60 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      説明する必要性の有無に関係なく、説明を求めている人が国民に一人でもいるのであれば、説明をする責任があると思う。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;60 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;div class=&quot;collapse&quot; id=&quot;collapseExampleA&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      別に反対ありきではないし、政府を責めているわけでもない。 決める権利があるなら、問われれば説明する義務もあるというだけのこと。 でもそれができないのであれば、内閣府としてその機関を持つ大義がなくなる。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;58 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      政治利用しているのではないかと思われても仕方ないと思うので、きちんとした説明が必要だと思う。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;58 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      菅義偉首相が、政府の方針に反対する。学術会議の6人を任命しないのは、政治的な思惑があると思います。ちゃんと、拒否理由を説明するべきだと思います。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;56 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      政治家の暴走を止める安全装置の一つとして存続して欲しい。それこそが存在意義だと思う。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;55 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      政府は説明責任を全く果たしていないと思う。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;55 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExampleA&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExampleA&quot;&gt;
+  もっと見る
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &quot;否認賛成・無関心&quot;（一部）
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      そもそも学術会議の会員は内閣府に属する役職なのだから、学問の自由とは関係ないのでは。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;54 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      任命拒否が学問の自由の侵害になる理由がわからない。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;50 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      菅首相に学術会議メンバーを任命拒否する権限があるのは当然です。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;46 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      総理の眼力を信じます。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;37 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;div class=&quot;collapse&quot; id=&quot;collapseExampleB&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      学術会議の1人が、レジ袋有料化を提案しましたとか国民の得にもならない事を暴露し、自ら墓穴を掘ってて馬鹿だなあと笑ってしまった。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;34 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      菅内閣の言う「縦割り、既得権益、悪しき前例主義を打破し、規制改革」を進めた結果なのだと思う。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;33 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      中国科学技術協会と協力関係があるようなことをニュースで見たから拒否されるのも仕方ない感じがします。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;32 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      中国に牛耳られていたのでしょう？
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;32 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      そんな大事ではないと思います。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;31 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      正直どうでもいい問題だと思う。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;31 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      中国が絡んでいるのであれば仕方ないと思います。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;31 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExampleB&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExampleB&quot;&gt;
+  もっと見る
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &quot;存在意義・改革&quot;（一部）
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      税金をかけている以上、その存在意義をしっかりと確認するべきであり、明らかにしてほしいと思う。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;90 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      総理が任命しなくても出席できるようにすれば問題ないのでは？裁判所のように独立した機構になればいい
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;47 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      そもそもこの学会に大量の税金が注ぎ込まれてるとは知らなかった。100人以上も学術員が必要なのか疑問
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;46 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      内閣府に属さず、自ら運営しなければ自由はないと感じた。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;35 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;div class=&quot;collapse&quot; id=&quot;collapseExampleC&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      多額の税金が使われているのだから、改革する必要性は十分にあると思います。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;32 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      今まで当たり前のようにあった組織のようだけど、これを機会に良い意味で改革してほしい。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;29 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      この話題が議論に上がったことは良いことだと思う。 これからも活発に良い改革をしてほしい。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;28 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      9日に河野行政改革相が言っていましたが、日本学術会議について予算の見直しや制度の改革が必要だと思います。 この問題がもしなかったのであれば、殆どの日本人はこの会議について知らなかったまま過ごしていたと思います。会議の意義についてこれから議論していくべきだと思います。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;24 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      正しい方向へ動いて欲しいです。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;24 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      今まで存在も知らなかった団体で、ニュースを見ても結局何をしていたのかわからない。この団体に所属していなければできない学問があるようにも思えない。マスコミが一斉に大騒ぎをしているが、話題になる前からこの団体を取材していたマスコミがいくつあるのかと思う。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;18 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExampleC&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExampleC&quot;&gt;
+  もっと見る
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &quot;難しい・危険&quot;
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      本当に難しい話です。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;47 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      学術会議は廃止して、民営化すべき。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;39 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      とても難しい話だと思いました。 日本が良い国になりますように…
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;39 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      何が正解かはよく分からない。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;36 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;div class=&quot;collapse&quot; id=&quot;collapseExampleD&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      難しい話です。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;33 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      独立した組織へのあからさまな介入に吐き気がする。 法律の条文に任命権が書いてあることを理由にするのなら、下級裁判所の裁判官にもできるし、今の内閣ならやり兼ねない。 税金投入を理由にするなら、今後法律を改正できる政府・政党は、この社会のありとあらゆる組織に人事権を行使できることになる。まともな国ではない。 度を越したマイクロマネジメントぶりに、隠しきれない小物臭がする。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;22 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      軍国主義に戻ってしまう。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;17 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      このままだと、日本が滅びてしまう。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;15 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExampleD&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExampleD&quot;&gt;
+  もっと見る
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;!-- ## 分析手法
+- Non-negative matrix factorization (no annotations, no manual post-processing)
+ --&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:0&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;本調査は、日本の代表的サンプルである保証はありません。本調査はデモの一環であり、必ずしも日本人全体の意見の実情を反映しているわけではありません。 &lt;a href=&quot;#fnref:0&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 12 Oct 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/jp/gakujutsukaigi/</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/gakujutsukaigi/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>アメリカ大統領選挙 2020 (9月)</title>
+        <description>&lt;p&gt;9月29日、2020年アメリカ大統領選挙に向けた1回目のディベート（Presidential Debate）が行われました。&lt;/p&gt;
+
+&lt;div class=&quot;jumbotron&quot;&gt;
+  &lt;h4&gt;What is the most important issue to you personally in the upcoming election?&lt;/h4&gt;
+&lt;/div&gt;
+
+&lt;p&gt;2020年9月30日から10月2日まで、Amazon Mechanical Turkにて、上記のテーマで意見を募集しました&lt;sup id=&quot;fnref:0&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:0&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;。
+回答者数は881人です。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;回答パターン&quot;&gt;回答パターン&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/jp/images/2020_USpresident/population_matrix.png&quot; alt=&quot;fig_popularity&quot; style=&quot;   width: 600px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;回答者から提案された回答&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;に対する賛同傾向から、３つのグループに回答者が別れました。
+各列が回答者グループ、各行が意見グループを示しており、各セルは回答者グループの人が賛同した割合をペーセント表示しています（列で規格化されています）。
+意見グループの内訳は、下をご覧ください。&lt;/p&gt;
+
+&lt;p&gt;どのグループにおいても、「経済」（Economy）と「医療体制」（Healthcare）の割合が高いという結果になりました。
+また、COVID-19、未曾有の山火事、黒人差別問題、Ruth Bader Ginsburgの逝去等の影響を受けて、
+それらに関連する関心が高まっていることが見てとれますが、その比重はグループごとに異なっている様子です。&lt;/p&gt;
+
+&lt;p&gt;グループBは、「バイデン支持・トランプ不支持」（Support Biden, Never Trump）、グループAとCはそれ以外と解釈できます。
+グループAとCの「トランプ支持」（Support Trump）が5.2%および2.3%と比較的低いですが、これはトランプ支持者が少ないという意味ではないことに注意してください。
+これが意味しているのは、グループAとCの回答者は、大統領選挙において最も重要な点として「トランプ支持」が占める割合が少ないということです。
+各グループに属する回答者数の分布は以下をご覧ください。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;各グループの回答者数分布&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/jp/images/2020_USpresident/respondent_population.png&quot; alt=&quot;fig_group_size&quot; style=&quot;   width: 400px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;各意見グループの内訳は以下の通りです。
+144件の有効回答&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;のうち、いいねの多かった意見から順に、一部のみを抜粋しています。&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &quot;Kindness&quot;
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Love and unity
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;27 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Be kind.
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;27 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Kindness, compassion, and decency. I'd like for there to be more important things to the administration than their own power and income.
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;23 likes&lt;/span&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &quot;Climate change&quot;
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Taking action on climate change
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;67 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Pass laws that address climate change by reducing the use of fossil fuels and encouraging the use of alternative energy sources 
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;61 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Climate Change
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;56 likes&lt;/span&gt;
+    &lt;/li&gt;    
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &quot;Other responses&quot;
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      eliminating world wide corruption
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;90 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Basic human decency.
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;64 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      No new wars, reigning in the riots, removing anti-white and anti-American propaganda from schools ending all COVID lockdowns/stay at home orders, stopping Democrat politicians from imposing open-ended unconstitutional limitations on American citizens.
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;45 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Review and rewrite outdated laws and their process. 
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;30 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      We have had Democratic presidents and Republican presidents. The country always survives no matter who is in power.
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;28 likes&lt;/span&gt;
+    &lt;/li&gt;    
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &quot;COVID-19&quot;
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      COVID-19 GOING TO DO THE ALL EFFECTS IN ELECTION. WE NEED TO WAIT AND SEE IT
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;110 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      The COIVD virus. Slowing the spread and saving lives. And the economy
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;98 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      How covid 19 influences job market.
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;97 likes&lt;/span&gt;
+    &lt;/li&gt;    
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &quot;Support Biden/Never Trump&quot;
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Having a functional adult in office
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;75 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Biden earned a reputation for being a &quot;drug warrior&quot;, leading efforts in the war on drugs
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;65 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Who else believes that Donald tRump is a narcissist?
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;64 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Getting sanity and professionalism back into the White House and leading our country once again
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;63 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      I support Biden for president. 
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;62 likes&lt;/span&gt;
+    &lt;/li&gt;    
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &quot;Healthcare&quot;
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      I want to see healthcare become more affordable and that is available to everyone. No person should go bankrupt because of healthcare bills. 
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;84 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Universal Healthcare
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;71 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Medicare for all
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;70 likes&lt;/span&gt;
+    &lt;/li&gt;    
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &quot;Economy&quot;
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Universal Basic Income so people can breathe and stop living paycheck to paycheck in fear that if 1 little thing happens you lose it all
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;63 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Economy and jobs
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;55 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Protect the working middle class
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;55 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Student debt crisis.
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;54 likes&lt;/span&gt;
+    &lt;/li&gt;    
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &quot;Black lives matter&quot;
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Stopping police murders and brutality toward Black people
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;44 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Stopping environmental racism
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;43 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Electing people who will respect our constitution and the values that REALLY make our nation great, instead of the bigotry and hatred espoused by white supremacists.
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;43 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      I think race issues are the biggest problem right now.  It's become ridiculous all these people protesting, rioting, etc over two people who were involved in criminal activity.
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;40 likes&lt;/span&gt;
+    &lt;/li&gt;    
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &quot;Aptitude as the president&quot;
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Taking a step back and seeing the destruction of mankind in its self by the very ones who think they are upholding good values for the nation 
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;51 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Bringing people into office who prioritize what is best for the nation as a whole, instead of just an elite few.
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;41 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      I believe that the president should be able to lead the nation out of hardship.
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;41 likes&lt;/span&gt;
+    &lt;/li&gt;    
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &quot;Violence&quot;
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Safety for myself and family.
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;83 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      right wing violence
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;79 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Violence in America
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;75 likes&lt;/span&gt;
+    &lt;/li&gt;    
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &quot;Support Trump&quot;
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      I want to see our country continue in the right direction and love on the people inside it’s borders
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;28 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Trump 2020
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;26 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      I support Trump for president. 
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;26 likes&lt;/span&gt;
+    &lt;/li&gt;    
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &quot;LGBT rights&quot;
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Keeping and expanding on the rights for LGBT+ people, please do not take away my right to marry.
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;88 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Rights and protections for LGBT+ individuals, stopping the epidemic of violence against trans people
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;76 likes&lt;/span&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &quot;Women's rights&quot;
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Women's rights and their right to choose, keep abortion safe and legal.
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;79 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Overturning Roe v. Wade
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;75 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Women's reproductive rights (easier and more affordable access to feminine hygiene products, revised abortion laws, etc.)
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;72 likes&lt;/span&gt;
+    &lt;/li&gt;    
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &quot;Democracy&quot;
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Saving our democracy.
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;65 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Protect, preserve and expand where needed any and all issues which would threaten DEMOCRACY and each and every citizen's rights within said Democracy.
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;59 likes&lt;/span&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &quot;Immigration&quot;
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Abolishing ICE and ensuring safe asylum for refugees and others
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;54 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      10 year moratorium on legal immigration
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;53 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      illegal immigration 
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;51 likes&lt;/span&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &quot;Fascism&quot;
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Respecting Law and Order, denouncing ANTIFA
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;54 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Stopping America's descent into fascism
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;46 likes&lt;/span&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &quot;2nd amendment&quot;
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      2nd amendment 
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;67 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      2nd amendment AND 1ST ADMENDMENT!!!! 
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;59 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      Defending the right to keep and bear arms.
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;49 likes&lt;/span&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;!-- ## 分析手法
+- Non-negative matrix factorization (no annotations, no manual post-processing)
+ --&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:0&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;本調査はデモの一環であり、ここでの結果の正確性は保証されません。 &lt;a href=&quot;#fnref:0&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;本調査には、初期状態で用意された意見はありません。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;質問と関係のない回答は削除してあります。 &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 04 Oct 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/jp/USpresidentSep/</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/USpresidentSep/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>著名人の自殺</title>
+        <description>&lt;p&gt;著名人による自殺が今年の４月以降複数報じられています。&lt;/p&gt;
+
+&lt;div class=&quot;jumbotron&quot;&gt;
+  &lt;h4&gt;著名人の自殺あるいはそれに関する報道をあなたはどのように受け止めましたか？&lt;/h4&gt;
+&lt;/div&gt;
+
+&lt;p&gt;2020年9月29日、上記のテーマで広く意見を募集しました&lt;sup id=&quot;fnref:0&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:0&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;。
+回答者数は339人で、内訳は以下の通りです。&lt;/p&gt;
+
+&lt;table class=&quot;table table-striped table-hover&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;男性&lt;/th&gt;
+      &lt;th&gt;女性&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;性別&lt;/td&gt;
+      &lt;td&gt;128&lt;/td&gt;
+      &lt;td&gt;211&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table class=&quot;table table-striped table-hover&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;18~29歳&lt;/th&gt;
+      &lt;th&gt;30~39歳&lt;/th&gt;
+      &lt;th&gt;40~49歳&lt;/th&gt;
+      &lt;th&gt;50~59歳&lt;/th&gt;
+      &lt;th&gt;60~69歳&lt;/th&gt;
+      &lt;th&gt;70歳以上&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;年齢&lt;/td&gt;
+      &lt;td&gt;54&lt;/td&gt;
+      &lt;td&gt;137&lt;/td&gt;
+      &lt;td&gt;100&lt;/td&gt;
+      &lt;td&gt;37&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;回答傾向&quot;&gt;回答傾向&lt;/h2&gt;
+&lt;p&gt;回答者から提案された回答&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;は、７つの意見グループに分類され、下図は回答者の方々の賛成度合いを示しています。
+竹内結子さん逝去の直後ということから、この件に関する回答が多く寄せられました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/jp/images/CelebSuicide/Overall_opinion_histogram.png&quot; alt=&quot;fig_histogram&quot; style=&quot;   width: 600px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;７つの意見グループの内訳は以下の通りです。&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &quot;自殺はしてはいけない&quot;
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      本人しかわからない悩みがあるのも事実です。しかし、自殺は絶対にいけないことも真実です。自分自身はもちろんのこと、残された家族や関係する人に大きな苦しみを与えます。一人の悩みを軽くするための支え合いがいかに大切かを痛感します。 
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;69 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      とにかく生きてほしい。どんなことがあっても、生きてさえいてくれたらいいです。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;52 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      自分を決して殺めてはなりません。せっかく親を助けるために生まれて来たのでその機会を無駄にしてはいけません。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;42 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      苦しいかもしれんが、家族がもっと悲しむことで思いとどまって、本音を家族にぶつけてストレスや悩みを回避する道を探るべきだと思います。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;40 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;div class=&quot;collapse&quot; id=&quot;collapseExampleC&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      どんな理由があっても、自殺はしてはいかないと思います。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;36 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      人生で苦労があるかもしれませんが、自殺はしてはいけません。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;35 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      死んでしまったら全てが無駄になるので自殺は、止めてほしい
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;32 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      人にはその人にしか分からない悩みを誰しもが抱えていると思うので一概に自殺は悪だということは言えませんが自殺をすることで悲しむ人が多くいることも事実です。自殺をする人が少しでも減って優しい社会になって欲しいです。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;32 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      本人は終わっても、近くにいる人はずーっと苦しみ続ける。自分の大切な人のことを悲しませないでほしい。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExampleC&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExampleC&quot;&gt;
+  もっと見る
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &quot;事件性の疑い&quot;
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      竹内結子さんの自殺に関しては、すごく信じられなかった。理解不能です。 産後うつと言われていたけど、2人目だし上のお子さんは14歳だから十分に育児を手伝えるし・・・ 芦名星さんと竹内結子さんは、自殺に見せかけた他殺では？と思っている。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      自殺する理由がイマイチわからない人ばかりで事件性を疑ってしまう部分もあります。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      もっと事件性を疑った方がいいと思う。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &quot;ショック&quot;（一部）
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      ただただ悲しい。芸能人という立場上、抱え込むものは大きかったと思う。周りの人も悩みに気づいてあげることはできなかったのか。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;71 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      何故？と疑問に思う気持ちもあるし、同じ年代や年下の方が亡くなっているので胸が締め付けられる思いもしていて、報道することで自殺する人が増えないか心配である。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;68 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      連鎖的に自殺が起こっているこの状況はとても痛ましく残念でなりません。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;65 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      自殺した理由がわからない、というのはすごく不安がある。仮に何かに悩んでいた、何か問題を抱えていた、精神面で問題があった、というのなら残念で悲しいことだが納得はできる。でも何も理由がわからないとなると、ある日突然自分や自分の周りにも理由無しに起こるかもしれない、と考えるととても怖い。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;63 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;div class=&quot;collapse&quot; id=&quot;collapseExampleD&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      正直好きな作品に出演されているので残念です。ただ起きてしまったことはしかたないのでそっとしてあげることが一番かと思えます。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;61 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      この人がまさかというケースが相次ぎ、内容を確認できるまで人の名前を見るだけで不安になる。 一方で、嫌な時代になったというより、ずっと前からそんな時代だった気がする。 無数にあった種が芽生えていく過程に過ぎず、これから減っていくだろうという楽観が持てない。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;59 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      またこのような報道が出そうで怖い。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;58 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      如何なる理由があったにせよ、何とかして食い止めることはできなかったのかというのが率直な意見です。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;52 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      自分自身と年齢層など近い方もいて、とてもショックを受けました。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;52 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      自殺する以外に方法があるはずなので、方法をみんなで見つけて欲しかった。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;49 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      著名人が自殺をするとやはり大きなショックを受ける
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;47 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExampleD&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExampleD&quot;&gt;
+  もっと見る
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &quot;客観的意見&quot;
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      他者から見たら順風満帆に見える人でも他人には言えない悩みや葛藤を抱えているのかもしれないと思った。この人は幸せな人だ、順調な人生を送っている、と決めつけずに周りが気にかけていく必要性を求められていると思う。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;89 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      あたかも著名人の自殺だけが増えているかの報道だが、社会全体で命を絶つ人が増えていてそれが著名人に表れているだけとも思う。生きづらい世の中になったと思う。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;70 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      心から親身になって相談できる人がいたら、自殺なんてなかったのかなと思ったりもします。悩んでいる人に気づく心を持ちたいと思いました。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;59 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      なぜこの方が…という感覚が強いです。鬱というと周りが何か配慮をという察する心も大切かもしれませんが、少しでも自分で変だな？と思ったら病院に行く、という意識付けもいるのかも？と思いました。それで自分が救われるなら。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;54 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;div class=&quot;collapse&quot; id=&quot;collapseExampleE&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      一般人が持つイメージをプライベートでも守らないといけないと思ってしまって、自分を追い込んでしまう人が著名人には多いのかなと思った。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;48 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      人は生きているのではなく、生かされている事を忘れてはいけないと思います。自分の心の中にマイナスの感情ばかり芽生えはじめると、よくない兆候だと自覚して対処を考えた方が良いと思います。甘えるのが下手な人、自尊心の高い人は要注意なのかもしれません。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;46 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      芸能人の自殺はとてもショックなことなのかもしれないけど、日本のメディアはそれより他の重要なことをもっと国民に伝えるべきだと思う
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;37 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      ここに書かれている回答すべてに共感しました。解決策があるのかどうか難しいですが、報道の力をうまく使ってこれ以上悲しいことがおこらないでほしいです。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;32 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      幸せだからこそ、これからの世の中を考えて、今死にたくなる気持ちというものもあると思う。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;26 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      私は出産経験がないので産後の女性の苦しみ、辛さはわからないけど、ツイッターを見てるといかに辛いか、そしてそれをみんな隠しているかがわかる
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;23 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      いちものように普通に仕事をしていて、家族と食事をしていて、何か異常に気付くなんて難しいです。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;17 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      芸能人だから報道されるていますが、社会全体で自殺が増えているという報道を見ました。有名人に影響されるウエルテル効果で自殺者が増えるため、報道をしない国もあるそうです。自分の気持ちも、周りの人の気持ちにも、少し敏感になって、楽しい気持ちになれるように気をつけていきたいなと思っています。自分は大丈夫だと思っていると、突然闇が襲ってくるのかもしれないと思ったりします。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;16 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      自殺は確かに良くない事だとは思います。 でもそんなの自殺した本人たちが一番分かってるのではないでしょうか？  そして彼らの異変に誰も気が付かなかったのか？というコメントをSNSでよく見かけますが、優しい人ほど顔には出さずに気を使うから、彼らの異変に気付くのは難しかったのだと思います。 
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      どんなにお金が有り裕福でも、自殺しか選択肢が無かったと考えると凄い悲しい。 やっぱ世の中金以外にも大事な物が有るんだと感じました。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      自殺したくなる気持ちはよくわかります。人間完璧ではありません。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      憶測で報道することには耐えられないし、何が真実かわからないが、活躍していても自殺してしまうということに多くの人が気付いたと思う。 自殺に追い込まれること、大切な人が自殺してしまうこと、他人事ではないなと感じた。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;5 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      ルックスも成功具合も人並み以上で、自殺する理由など何もなさそうな芸能人が自殺すると、欠点だらけの一般人がぬけぬけと生きているのがなんだか不思議に思えてきてしまうほどだ。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;1 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;/div&gt;    
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExampleE&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExampleE&quot;&gt;
+  もっと見る
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &quot;報道の問題&quot;（一部）
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      メディアは事実を重要な順で伝えてください
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;112 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      憶測での報道も多く残されたご家族がさらに傷つくことがないか心配だなと思いました
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;92 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      ここ最近で有名人の自殺が増えてマイナスな気分になるので、自殺した理由を探りたいのはわかるけど、遺族や所属会社などを追いかけるのは止めるべきだと思う。 
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;87 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      自殺の原因や背景を理解したいという気持ちは分かるが、遺族、とくに子供の気持ちを考えると、プライバシーにかかわることに踏み込みすぎるのは倫理に反する。自殺の背景についての報道は、あくまでもこのような事件が再び起こらないようにするには、社会の一員としてどのようなことをすべきか、ということに焦点を当てて行うべきである。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;86 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;div class=&quot;collapse&quot; id=&quot;collapseExampleB&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      自殺の理由は本人にしか分からないので、推測するような報道は見ていて気分のいいものではない。 ただ自殺以外に方法はなかったのか、今悩んでいる人達の相談出来る機関を紹介している報道は自殺を考えている人達への希望となればいいなと思う。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;82 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      衝撃的な事とはいえ、報道のやり方に疑問を思う。芸能人だからといって、そこまでプライベートな自殺の原因を根掘り葉掘り探られなければいけないのだろうか？
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;68 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      本人しかわからない自殺の理由や背景を憶測であれこれとメディアか放送するのは良くないと思います。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;66 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      亡くなった方の自宅前に押し寄せて報道するマスコミの姿勢に疑問を感じます。  自死した真相を追い求めるよりは、自死をやめさせるにはどうすれば良いのかを考える必要があると思う。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;65 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      あまりに衝撃的ではっきり言って受け止めきれない。メディアは責任感を持った報道を心がけ、憶測で語ったり故人のプライバシーに関わる内容は伏せ、警察の発表を流すだけでよいと考える。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;64 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      芸能人は一般人より色々なことに恵まれているように見えるけど自殺してしまうんだなと思った。自殺の連鎖を止めるためにも過剰な報道は控えるべきだと思う。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;62 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      いかなる理由があろうとも自殺という選択を取るのは残念と思うしかないが、それを事細かに大々的に報道するのもどうかと思う。そっとしてやってほしい。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;61 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;/div&gt;   
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExampleB&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExampleB&quot;&gt;
+  もっと見る
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &quot;もっと知りたい&quot;
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      ご家族のことを考えると、そっとしておいて欲しいと思います。ただ、あまりにも衝撃的な出来事で、自分の周りにもいつ起こるかわからないという不安から、原因を知りたいと思う気持ちもあります。。。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;30 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      自殺するということはそれだけ追い込まれる悩みがあったと思わせていただきます。報道ではその内容などを追及する場合としない場合がございますが、どんな悩みだったのかは気になります。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;27 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      本当に心が優しい人で、自分都合な死に対する理由をあえて公表(遺書)しなかったのでは。  謎で永遠に物議をかもす死も女優らしくありますが、死を選ぶほどの目的は果たし終えたのかどうか。  あえてはっきりさせてあげた方が良いような気もしました。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      誰にでも起こりうることだと思うのでひと事で終わらないためにも原因を知りたいし、その原因の解決策も世間に伝えるべきだと思う。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;div class=&quot;collapse&quot; id=&quot;collapseExampleA&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      遺書がなく自殺となると様々な憶測がものを呼びます。 しかし、遺書が公開されればそれに同調する人がふえるかもしれない。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;8 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;/div&gt;
+	&lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExampleA&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExampleA&quot;&gt;
+	もっと見る
+	&lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    &quot;世の中・将来について&quot;
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      自殺したくなる気持ちはだれにでも起こります。芸能人の様な強い精神力の人でも自ら命を絶つのですから他人ごととは思えません。とにかく「いのちの電話」この組織を充実させて自殺志願者の救いになってほしいです。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;58 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      最近話題にあっているHSP（ハイリーセンシティブパーソン)というとても敏感で繊細な人が存在しますが、自殺された方みんなというわけではないですが、どこかなんとなく当てはまるような人物像であるな、、、と思ってしまいます。自分自身もHSPに当てはまる人間なのでこの生きづらい世の中が少しでも行きやすい世の中に変わればいいな、と思います。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;54 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      コロナ禍の2020年。自殺率は上がっているのかな。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;52 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      回りの人間にはわからないことを、みんな抱えて生きているのだと思う。回りが何を言おうとも解決はできないし、家族は一生後悔を抱えて生きていかなくてはいけないのだから、回りは騒ぎたてるのではなく、心をケアしていくことに焦点を充てるべき。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;43 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;div class=&quot;collapse&quot; id=&quot;collapseExampleG&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      コロナさえなければ起きなかったのではないかという事件が多すぎると思いました
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;41 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      今年はコロナウイルスの影響で生活のリズムも形態も変わり、あらゆる場面で常に緊張して生きているような気がします。強くあろうとするよりも、弱さを許容して前に進む考え方が必要なのではないかと思います。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;20 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      本人にしかわからないことがあるだろうけれど、誰も見ていなくても一方的でも良いから、吐き出すところが欲しい。  
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;18 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      自殺を考える人は、悩みに対して共感して欲しいんじゃないか？頑張り過ぎな人ほど、話せる環境が必要だと思う。自分さえいなくなれば…でなく、もしいなくなったら家族はどう思うかを考えられれば、少しは変わるかもしれない。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      育ってきた環境が本人の肯定を低くしていると思う。私に比べたら、みんなぜんぜんしっかりしているのに。これくらいでいいと思えることも大切だと思う。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      福祉が削られている事も影響しているのだろうか
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      辛い環境（仕事や家庭）から逃げていいよ。と言いにくい時代で逃げたくても逃げられない。特にコロナによりこの状況は一層強まっていると感じる。ただ話を聞いてもらうことではなく、具体的な解決方法とそれが実行できる環境を与えてあげない限り自殺は減らないと思います。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      真面目で優しい、気遣いができる方が生きにくい世の中なのだと思います。変わって欲しい、一人一人が気付いて欲しい。そしてもう優しい人が傷つかない世の中になって欲しい。今、環境問題が深刻化していますが、こんな世の中だからそうなったのでは？自己中な人間ばかりになると、人間はいつか滅びます。
+      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;2 likes&lt;/span&gt;
+    &lt;/li&gt;
+    &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExampleG&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExampleG&quot;&gt;
+  もっと見る
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;!-- ## 分析手法
+- Non-negative matrix factorization (no annotations, no manual post-processing)
+ --&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:0&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;本調査は、日本の代表的サンプルである保証はありません。本調査はデモの一環であり、必ずしも日本人全体の意見の実情を反映しているわけではありません。 &lt;a href=&quot;#fnref:0&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;本調査には、初期状態で用意された意見はありません。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 30 Sep 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/jp/CelebSuicide/</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/CelebSuicide/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>自民新総裁 2020</title>
+        <description>&lt;p&gt;安倍首相が体調悪化のため、新たな自民党総裁が9/14に選ばれました。
+9/13, 9/14 (開票前)に、自民党総裁選候補について、意見を募集しました。&lt;/p&gt;
+
+&lt;div class=&quot;jumbotron&quot;&gt;
+  &lt;h4&gt;「今回の自民党総裁選候補について、あなたが感じていることを出来るだけ詳細にお答えください」&lt;/h4&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/jp/images/JiminSosai2020/edge_bundling_jiminsosai2020.jpg&quot; alt=&quot;fig_jiminsosai2020&quot; style=&quot;   width: 600px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;投票クラスタリングでは、収集されたデータはグラフ（ネットワーク）を構成しています。上に並んだ丸（頂点）が投稿された意見&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;を表し、下に並んだ丸（頂点）が回答者を表しています。
+各回答者が「いいね」した回答が線（枝）で結ばれています。
+各頂点は自動的にグループ分けされ、色分けされています&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;。
+各グループ内の投稿意見は以下の通りです。（Like数が10以上の意見を表示しています）&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    グループA
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    どの候補者が総裁になったとしても、コロナウィルス収束後の経済対策をきちんと迅速にできる行動力のある人がなるべきと思います。個人的には、派閥云々でなく、総裁としての適任者をきちんと選んで欲しいですね。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;52 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    石破さんが3候補の中で1番中立的だと思います
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;22 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    石破が総理になって、検察を動かして、安倍の今までの悪事を追及して欲しいです。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;14 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    菅さんがなったら携帯料金が安くなるといいなと思っています。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;div class=&quot;collapse&quot; id=&quot;collapseExampleA&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    だれがやってもよいい未来が待っている気がしない。不毛な戦いだと思える。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    安倍さんはやめて良かった。菅さんじゃなく、石破さんに総裁なってほしいな。説明の声が大きくて頼りになると思った。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;/div&gt;
+	&lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExampleA&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExampleA&quot;&gt;
+	もっと見る
+	&lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    グループB
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    どの人がなってもコロナ対策と経済対策はしっかりとやって欲しいです。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;45 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    どの人がなっても、コロナ自粛で困窮した国民に寄り添って欲しいです。 私は、コロナの影響で残業が減りましたが、残業代数千円、2～3万円減った月もあり、それだけで苦しいです。 特別定額給付金の追加や、コロナが落ち着くまでの継続的な支援をお願いしたいです。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;37 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    誰が総理になるじゃなくて総理になって何をなすかが大事です。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;31 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    候補が３人ですけど、もう決まっている感じで捉えてよろしいのでしょうか。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;30 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;div class=&quot;collapse&quot; id=&quot;collapseExampleB&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    正直誰がなっても悪い意味で根本は変わらないような気がしています。できるだけ不信感の少ない人に選ばれてほしい…
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;29 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    国民目線の政治を期待したい
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;29 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    本当は自民党総裁を国民全てが投票したらいいんだけど、無理だろうな。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;28 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    国民のこと考えて欲しい
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;23 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    菅さんが総裁になるとして、9月までの代打起用な気がしてならない。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;21 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    日本のことを考えて、日本人のための政治をしてくれる方なら誰かでも良いです。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;20 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    菅さんになると思いますが、消費税を増税しなくてもいいように将来のことを見据えて頑張ってほしいです。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;20 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    誰が選ばれるかよりも、選挙後にどの派閥が主導権を取るかが目立っている。 選ばれた人は、独自色を出せるか？ 派閥を気にせず、山積みの諸問題解決に最善を尽くしてくれる実行力のある方が選ばれて欲しい。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;20 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    誰がなるにしても、コロナのこと、経済のこと、国民の生活にもう少し寄り添った政治を行ってもらえればと思います。いろいろとあるのかもしれませんが、今まではどこをみて政治を行われていたのか首を傾げます。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    出来レースだとしたら一番選ばれそうな人。その人が総裁になった場合、財政も外交も本質的にはこれまでと大きな変化なく進むのでしょう。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;15 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    国民目線の石破さんもいい
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;15 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    民意を反映させるなら、やはり党員投票を行う選挙をするべきだろうと思います。国会議員、しかも派閥の論理で決めてしまっては、旧態以前の体制と変わらないですよね。それだと誰がなっても同じではないかと思います。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;14 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    誰がなったとしても経済活性化に重点を置く政策を行って欲しい。国民感情には寄り添って欲しいが、世論に流されることなく国の方向を決定をし、自信をもって国民に説明できる方を期待したい。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    ネットなどで国民全員が投票できればいいのに。。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    石破さんかな。アメリカ大統領のように直接選びたいけど無理だろうな。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    派閥の論理で決まっているように見えるので、国民感覚と離れているように思います。その中で石破さんの発言は現状体制を批判する部分もあり、三人の中では国民感覚に一番近いと思います。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    誰がなっても同じな感じがするのは国民全員が思っているのではないのかと思っています。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    首相候補者たち3名には余り期待していません。 口では何とでも言える為です。 私は一言、「国会議員の人数を減らす。」と、言ってくれる人が居たら期待したいです。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;/div&gt;
+	&lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExampleB&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExampleB&quot;&gt;
+	もっと見る
+	&lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    グループC
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    派閥争いばかりで国民の事なんて何も考えていない。とりあえず早く解散総選挙して欲しい
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;39 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    支持したい候補がいない。もう少し若い人や女性の候補者ではないと日本は変わらない。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;34 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    安倍の様な嘘つきにだけは、総理になって欲しくない。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;29 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    どの候補もいまいちな感じがする。今までのやり方に縛られない人になって欲しい。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;29 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;div class=&quot;collapse&quot; id=&quot;collapseExampleC&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    誰がなっても期待していない。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    誰がやってもアメリカの言いなりで、アメリカの忠犬。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;18 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    誰がなってもあまり違いがないような気がする。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;18 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    菅さんに関しては安倍政権を踏襲するといっているが、各メディアで菅さん独自の取り組みが見受けられないので、総裁にはなって欲しくない。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;17 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    自民党のお偉い方々と上手くやれる人じゃないとダメなのかもしれませんね。 そういう選び方はやめていただきたいけど、現状そうであれば、菅さんしかいないのかも。 そうなると官房長官は誰にするのか…難しい。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;14 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    どの人がなっても不安しかないような気がするんですけど。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    皆、国民のことは考えていないのではないかと思います。オリンピックは取りやめるという人がなって欲しいです。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExampleC&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExampleC&quot;&gt;
+  もっと見る
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    グループD
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    菅さんは誠実な方だと思う。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;39 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    菅さんが1番まともかなと思います。 石破さんは有名なだけで何か実績を残しているわけではないので菅さんで決まりです。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;33 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    菅さんがいいけど消費税は上げて欲しくありません。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;29 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    菅さん、人当たり良さそうで、とても好感もてます。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;26 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;div class=&quot;collapse&quot; id=&quot;collapseExampleD&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    菅さんになるのが一番良いです。石破さんだと対中や対韓に甘くなってしまうので。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;24 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    菅さんが総理になって携帯代金などを改善して国民の生活を第一に考える政治をしてほしいです。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;22 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    菅さんが一番まともそうに見えるのが自民党の一番の人材不足だと思う。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    菅さんは世襲でなく叩き上げの政治家なので期待したい。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;18 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    菅さんの任期はたぶん短いのだろうけどできれば長くトップにいてほしい。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;16 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    石破さんでは国会議員をまとめるのは不可能。不満を言うしか脳の無い人に政治は任せられない。文句があるなら無役でもその解消に動くべきだった。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;15 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    安倍政権がすごく良かったとは言い難いですが、安定した長期の政権だったので、安定した政策を継続してくれる方に総理になって欲しいです。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;14 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    菅さんが一番まともで今まで通りの政権になれると思う
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    今までコロナ関連は安倍さんが主軸でやってきたのだから、他の人にまるっきり代わるよりか菅さんが引き継いだ方がスムーズだと思う。一旦受け継ぐって形でコロナが落ち着いたら改めて総裁選とかは駄目なのかな。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    今の流れを引き継いでいける、菅さんが適任だと思います。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    菅さんの行政改革と厳格性に期待します。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    菅さんの行政改革に期待します。 
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    菅さんだと、官僚がきついのでは
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    一番身近で見てきてる人だからこそ、他国とも今までと同じ様な信用を築いていく政権が続けられると思う
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExampleD&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExampleD&quot;&gt;
+  もっと見る
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;!-- ## 分析手法
+- Non-negative matrix factorization (no annotations, no manual post-processing)
+ --&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;本調査には、初期状態で用意された意見はありません。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;分類は（見ての通り）完璧とは言えませんが、あえてそのまま表示しています。 &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 14 Sep 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/jp/JiminSosai2020/</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/JiminSosai2020/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>安楽死について</title>
+        <description>&lt;p&gt;安楽死については賛否両論ありますが、議論される機会が少なく、法整備も進んでいないと言われています。&lt;/p&gt;
+
+&lt;p&gt;先日、依頼を受けた医師が、難病指定の患者を薬物投与によって死亡（安楽死）させたことで逮捕されたことがニュースになりました。
+中立的な立場から、広く考えを募集しました&lt;sup id=&quot;fnref:0&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:0&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;。
+&lt;!-- 本アンケートでは、中立的な立場から、皆さんの考えを広く募集します。
+システム内で、他人の意見が提示されますが、過去の回答者の投稿意見からランダムに抽出されたものであり、主催者が選択したものではありません。
+どなたからのご意見も歓迎します。 --&gt;&lt;/p&gt;
+
+&lt;div class=&quot;jumbotron&quot;&gt;
+  &lt;h4&gt;「安楽死や安楽死制度について、あなたの考えをお聞かせください。」&lt;/h4&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/jp/images/Euthanasia/edge_bundling_euthanasia.jpg&quot; alt=&quot;fig_Euthanasia&quot; style=&quot;   width: 600px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;投票クラスタリングでは、収集されたデータはグラフ（ネットワーク）を構成しています。上に並んだ丸（頂点）が投稿された意見&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;を表し、下に並んだ丸（頂点）が回答者を表しています。
+各回答者が「いいね」した回答が線（枝）で結ばれています。
+各頂点は自動的にグループ分けされ、色分けされています&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;。
+各グループ内の投稿意見は以下の通りです。（Like数が50以上の意見を表示しています）&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    グループA
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    自分だったら、認知症や障害で周囲に迷惑をかけながら生きたくはない。だから賛成である。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;161 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    自分がもしそういった状況になったら…と考えると賛成です。制度ができるとしたら、もしもの時に備えて意思を記入するものがあればいいと思う。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;157 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    賛成です。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;152 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    上記の御意見に賛成です。 本人の意思が確認でき、なおかつ公的に有効な形で書面が残せていたら安楽死は個人の意思を尊厳するべきだと思います。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;151 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;div class=&quot;collapse&quot; id=&quot;collapseExampleA&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    賛成です。 自分がもし病気になり、これ以上良くならず辛い思いをするだけ、そして、周りに迷惑をかけ続けるとなれば、安楽死の選択肢があってほしいと思います。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;144 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    良いと思います。人の尊厳は尊重すべきです。安楽死は、大賛成です。苦しみ抜きながら死ぬなら、死を選びたい人もいますので、安楽死は認めるべきです。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;126 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    賛成で良いと思います
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;120 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    賛成です。 生まれ変わりたいこともあるためです。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;114 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    私は賛成です。個人的に苦しまず死にたいと思っているので安楽死なら苦しまずに死ねるのでいいと思うし、当事者になった場合、そっちのが嬉しいはずだと思います。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;107 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    夫が緩和病棟に入りました、痛みと抗がん剤の副作用に耐えた一年でした、一年の余命宣告昨年９月うけ、家族は、緩和、しかし、夫は、抗がん剤にかけました、しかし、効果なく、10日前あきらめて緩和に入りました、痛みあまり、なくなり、穏やかです、賛成です、
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;107 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    全面的に安楽死に賛成です。周りの家族の気持ちが、といいますが、本人の意思の方が大事ではないでしょうか。 生死の意思決定をするのは自分でいいと思います。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;106 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    安楽死賛成派です。老齢の「おひとり様」が増えていく時代が来ると思います。高齢者の不安は病気や経済面です。もちろん若い人の難病も苦痛と不安でいっぱいです。誰も助けてくれないなら、自分の死は自分で選びたいです。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;106 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    安楽死に賛成です。 ドナーカードのように安楽死も明記できるようにして、もし安楽死が必要な状況になったら選択できるようになればいいなと思います。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;106 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    安楽死には賛成です。長く生きていても、病気や経済面で希望がないなら、安楽死を選択したいです。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;103 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;/div&gt;
+	&lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExampleA&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExampleA&quot;&gt;
+	もっと見る
+	&lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    グループB
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    安楽死を行う側の人間にストレスがかかるので反対。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;110 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    自分自身としては賛成の立場になりますが、家族や友人から見ると反対される可能性の高いことです。 その為、様々な面から考えると現状では、時期尚早として安楽死を認めない方がいいと思います。 仮に認めるとしても、本人の意志、家族の意志、医師の判断など総合的に判断ができるように、まずは法整備など整える必要があると思います。しかし、法律で認めるとどのような悪用がされるか見当がつかないので、もはや日本だけでなく、世界全体で考える必要があることだと思います。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;108 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    本来は意思表示を示していてもいざ安楽死の時に辛い思いをするのは家族だと思うので反対です
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;107 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    絶対に反対です、残った家族はどうするんですか。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;104 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;div class=&quot;collapse&quot; id=&quot;collapseExampleB&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    どんなことがあっても安楽死は反対です。何故なら自殺と同じことだから。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;103 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    自分の命なので、自分でできる選択肢の一つとしてあるべきだと思います。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;102 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    自分の命を決める選択肢の一つとしてあるべきだと思います。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;102 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;/div&gt;
+	&lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExampleB&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExampleB&quot;&gt;
+	もっと見る
+	&lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+    グループC
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    賛成です。 悪用されたりもすると思うので、しっかりとした法の整備が必要だと思います。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;360 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    賛成ですが、悪用されかねない制度のため、かなり慎重に取り扱うべきだと思います。たとえば、実際は望んでいないのにも関わらず、周囲の人間に無理やり同意書を書かされて安楽死を行ってしまうといった事例が発生すると思います。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;192 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    個人的には安楽死はあってもいいと思います。 ただ、それを実施するにあたっての法整備はしないといけないし、その為の議論は重ねるべきだと思います。 しっかりと法整備をした上に本人の意思確認等、超えるべきハードルは多々設定して、簡単に選べない様にはすべきだと思います。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;190 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    生きてる瞬間が苦痛でしかないような状態になってしまったら本人の選択肢に安楽死があってもいい気がします。医師の診断と関連した法整備は必須だと思いますが。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;156 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;div class=&quot;collapse&quot; id=&quot;collapseExampleC&quot;&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    もう回復が絶対に望めないという場合はそのまま生きていても辛く、金銭面も負担がかかるため安楽死という選択はあっていいと思います。しかしその場合の法律などをしっかりと細かく決める必要があると思います。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;147 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    死を選ぶことは個人の自由になっても良いと思っていますが、そのためにはどのようなツールや権利行使によって安楽死がなされるのかきちんと法律関係を整備し、倫理観のある対応が求められると思います。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;128 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    生まれた事が罰だと感じている私としては、あり。 でもその制度を悪用される可能性を考慮すると、手放しで賛成出来ないんですよね。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;117 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    法整備が必要です。単純に本人の自由ということだけではなく、一定の病気や症状の場合という限定的なものにとどめるべきだと思います。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;112 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    安楽死は本人の意思がきちんと本人の直筆の文字で遺言として書かれている場合のみ認めても良いと思います。ワード等で書かれているのは書かされているという疑いがあるので認定されません。必ず本人の直筆で○○さんに依頼する。この文面が必要です。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;91 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    選択肢の一つとしてあるべきだと思います。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;87 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    本人の意思が確認できれば良いと思います。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;85 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    いいと思う
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;74 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    自分の人生、自分で決めたらいいと思います。 生きているのが辛い時もあります。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;67 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    本人の意思確認を慎重に行うことはもちろんのこと、重病から回復する見込みがない場合などごく限定的に認められるべきだと思う。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;54 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    安楽死を選ぶのは自分の権利であるので認められるべきだと思います。本人の意思が必ず分かるようにすべきです。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;53 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;list-group-item&quot;&gt;
+    寿命が近い65歳以上の高齢者や、治る見込みのない難病の患者などで、事前に医師による精神的な治療や行政による保護を充分に行った上でも安楽死を望んでいる場合にのみ、安楽死を認めたほうが良いと思います。
+    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;52 likes&lt;/span&gt;
+  &lt;/li&gt;
+  &lt;/div&gt;
+  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExampleC&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExampleC&quot;&gt;
+  もっと見る
+  &lt;/button&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;!-- ## 分析手法
+- Non-negative matrix factorization (+ manual annotation, manual post-processing)
+ --&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:0&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;8月27日から8月31日までの実施を予定しておりましたが、十分な回答数が集まったため、予定より早めに終了させていただきました。 &lt;a href=&quot;#fnref:0&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;本調査には、初期状態で用意された意見はありません。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;本調査での意見分類は、意見のばらつきを見やすくするための「目安」程度と捉えてください。何らかの意味で”正しさ”が保証されているものではありません。特に意見グループBに関しては、文章の意味からすると分類がおかしいと思われるものが含まれていますが、あえてのそのままにしてあります。 &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 27 Aug 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/jp/Euthanasia/</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/Euthanasia/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
