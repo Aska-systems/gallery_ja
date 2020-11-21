@@ -39,7 +39,7 @@ disqus: no
 disqus-shortname: 
 
 #social
-facebook: http://facebook.com/voteclustringJP/
+facebook: http://facebook.com/Aska.systems.jp/
 #quora: http://quora.com/
 twitter: http://twitter.com/Aska_systems_jp/
 #github: http://github.com/
@@ -48,8 +48,8 @@ email: request@aska.systems
 #facebook like box
 fb-like-box: yes
 fb-app-id: 423248648569702
-fb-page-url: https://www.facebook.com/voteclustringJP/
-fb-page-title: voteclustringJP
+fb-page-url: https://www.facebook.com/Aska.systems.jp/
+fb-page-title: Aska.systems.jp
 
 # Sass style
 sass:
