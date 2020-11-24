@@ -1,14 +1,375 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>投票クラスタリング</title>
+    <title>Aska (投票クラスタリング)</title>
     <description>A graph-based open-ended survey framework.
 </description>
     <link>http://localhost:4000/jp/</link>
     <atom:link href="http://localhost:4000/jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 Nov 2020 00:30:05 +0900</pubDate>
-    <lastBuildDate>Tue, 17 Nov 2020 00:30:05 +0900</lastBuildDate>
+    <pubDate>Wed, 25 Nov 2020 00:12:00 +0900</pubDate>
+    <lastBuildDate>Wed, 25 Nov 2020 00:12:00 +0900</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>夫婦別姓</title>
+        <description>&lt;p&gt;夫婦別姓に関しては、近年関心が高まっており、度々ニュースで取り上げられています。&lt;/p&gt;
+
+&lt;p&gt;今回、少し聞き方を変えて2回募集を行いました。
+1回目はフラットに質問を問いかけました。&lt;/p&gt;
+
+&lt;div class=&quot;jumbotron&quot;&gt;
+  &lt;h4&gt;あなたの夫婦別姓についての考えをお聞かせください&lt;/h4&gt;
+  &lt;label&gt;&lt;i&gt;賛成・反対、メリット・デメリット、ご自身の関心の高さ・低さなど、自由にお答えください。&lt;/i&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+&lt;p&gt;下記で示すように、この質問に対しては、「選択肢がないよりもあった方が良い」という意見が多かったため、
+2回目は、1回目の翌日、以下のような注釈（バイアス &lt;sup id=&quot;fnref:0&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:0&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;）を入れたもとで、同じ質問を問いかけました。&lt;/p&gt;
+
+&lt;div class=&quot;jumbotron&quot;&gt;
+  &lt;h4&gt;あなたの夫婦別姓についての考えをお聞かせください&lt;/h4&gt;
+  &lt;label&gt;&lt;i&gt;もし夫婦別姓の制度が導入されれば、たとえご自身が夫婦別姓を選択しない場合でも、契約等に際して、戸籍抄本（発行は有料）の提出が必要となる機会が増えると考えられます。また、制度を維持するために、増税の可能性も生じます（これらの現実性に疑問がある方ももちろんいらっしゃると思いますが、とにかく何かしらのコストがかかるという想定でお願いいたします）。その上で、夫婦別姓制度導入について、賛成・反対、メリット・デメリット等、ご意見をお聞かせください。&lt;/i&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+&lt;p&gt;さてどうなったでしょうか&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;回答パターン&quot;&gt;回答パターン&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Opinion graphs&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/jp/images/2020_FamilyName/1st/opinion_graph.png&quot; alt=&quot;fig_group_size&quot; style=&quot;   width: 250px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; &quot; /&gt;
+&lt;img src=&quot;/jp/images/2020_FamilyName/2nd/opinion_graph.png&quot; alt=&quot;fig_group_size&quot; style=&quot;   width: 250px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Aska (投票クラスタリング)では、グラフ（ネットワーク）として意見が収集されます。
+上図で、緑色の頂点が賛成意見、赤色の頂点が反対意見に分類されたものを表しています。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;属性比較（第1回）&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/jp/images/2020_FamilyName/1st/histograms.png&quot; alt=&quot;fig_group_size&quot; style=&quot;   width: 700px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;一つ目のパネルは、各年齢層での男女の割合です。
+残り２つのパネルが、性別と年齢層ごとの回答者グループ&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;の分布です。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;属性比較（第2回）&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/jp/images/2020_FamilyName/2nd/histograms.png&quot; alt=&quot;fig_group_size&quot; style=&quot;   width: 700px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;2回目については、コストがかかることが論点として組み込まれ、顕著に反対意見が増加しました。
+しかし、依然として賛成意見が性別・年齢層に関わらず大きくリードしています。
+また、賛成・反対の度合いや理由についても、実際の意見から読み解くことができます（下記参照）。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;各意見グループ内の回答&quot;&gt;各意見グループ内の回答&lt;/h2&gt;
+&lt;p&gt;以下では、それぞれの意見グループで、支持の多かった回答をリストしています。&lt;/p&gt;
+
+&lt;h3 id=&quot;第1回&quot;&gt;第1回&lt;/h3&gt;
+
+&lt;p&gt;冒頭で述べたように、賛成意見は多いものの、単純に選択肢が増えることが望ましいという回答が多く見られました。&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+	&lt;div class=&quot;card-header&quot;&gt;
+	賛成 (230 posts)
+	&lt;/div&gt;
+	&lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		どうするかは夫婦の自由ですし、選択肢が増えることはいいことだと思います。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;40 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		お互いが納得できれば、別姓であっても構わないと思う
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;37 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		夫婦別姓は本人の意思に任せてもいいのかなっておもいます。  私の場合はなんとなく面倒そうなので夫婦は同じ姓のほうがいいですが相手が別姓にしたいと言ったら受け入れるつもりです。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;34 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;div class=&quot;collapse&quot; id=&quot;collapseExample0&quot;&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		好きなようにすればいいと思います。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;33 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		賛成です。 どちらの名字に変えるかはそれぞれの家庭によりますが、どちらか一方のみ役所の手続きが多く、面倒なためです。 ただ、デメリットとしては子供ができた際にどちらの名字をとるか揉めそうだなと思います。 すでに結婚しているので、もう別姓にはできませんが、韓国などの国では別姓とっているので、日本はどうなるのかが気になります。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;28 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		夫婦別姓については任意であれば良いと思います。 別姓にすることでそれぞれ「メリット」、「デメリット」がありますので、都度、夫婦間で決めれば良いでしょう。もちろん、行政のサポートがきちんとしていることが前提ですが。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;26 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		苗字が変わることで銀行の手続きなど面倒なことも多かったので、別姓でも良いと思います。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;25 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		今後女性活躍が推進されていくなかで、夫婦別姓は間違いなく必要になるので個人の選択してして夫婦別姓が選べる仕組みは必要だと思います。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;21 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		賛成です。なぜ女性だけが苗字を変えなくてはならないか分かりません。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;20 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		賛成 望んでいる人がいるんだから選択肢としてあった方が良い
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;20 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;/div&gt;
+	&lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample0&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample0&quot;&gt;
+		See more
+	&lt;/button&gt;
+	&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+	&lt;div class=&quot;card-header&quot;&gt;
+	反対 (7 posts)
+	&lt;/div&gt;
+	&lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		反対です。 せっかく夫婦になったのだから、同じ姓になるのは当然のことなのかなと思います。また、子供を産んだ時に、別姓だとのちのちなんで違うのと？質問されることが多いと思いますし、ややこしくなるのではないかなと考えます。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		反対です。夫婦同じ名前の方がいいです。改姓の手続きがそれほど難しいとは思いません。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;3 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		私は夫婦別姓について、多少の疑問があります。 現在、事実婚や同棲も多い中で婚姻をするのにあえて別姓にする必要があるのでしょうか。 それぞれの事情があるかとは思いますが、せっかく婚姻するのであれば、同一性の方が望ましいのではないかと思っています。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;2 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;div class=&quot;collapse&quot; id=&quot;collapseExample1&quot;&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		私は結婚をし夫の姓を選び、そこに幸せを感じております。 別姓にするのであれば夫婦である意味はないように思います。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;2 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		反対派です。別姓にするなら紙の儀式(婚姻届)もやめれば良いと思う。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;1 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		夫婦別姓に反対です。昨今簡単に結婚・離婚する人が増えている気がします。昔のように、耐え忍んで結婚生活した方がよいとは思いませんが、結婚したからにはお互いが責任を持って結婚生活を続けることは大切かと思います。夫婦の姓が一緒になることで、同じ責任を持って生活することが出来るような気がします。子どもがいれば尚更です。考え方が古いかもしれませんが、夫婦同姓であるべきだと思っています。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;1 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		反対。籍を入れる意味がないと思うから。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;1 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;/div&gt;
+	&lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample1&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample1&quot;&gt;
+		See more
+	&lt;/button&gt;
+	&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;第2回&quot;&gt;第2回&lt;/h3&gt;
+&lt;p&gt;2回目の調査では、「増税されるという想定がおかしい」という意見も両方の意見グループに見られました。
+単に賛成反対意見に留まらず、賛否の度合い、根拠、質問範囲を超えたメジャーな意見（とその分布まで）を拾えることが、この調査形式のメリットです。&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+	&lt;div class=&quot;card-header&quot;&gt;
+	賛成 (187 posts)
+	&lt;/div&gt;
+	&lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		賛成です。 結婚(入籍)しても仕事を続ける人が今は多いので、いちいち変えるのが手前だと思います。同姓にするか別姓にするかを2人で選べるのが、ベストだと思います。 
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;34 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		夫婦間の問題なのだから別姓を選択したいのならばそれでいいと思う。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;32 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		自分で決めて選べるほうがいいと考えます。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;30 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;div class=&quot;collapse&quot; id=&quot;collapseExample0&quot;&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		賛成です。コストがかかるといっても、女性の姓が変わることでの手続きも無くなるのであれば、トータルで見ればコストはかかっていないように思います。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;29 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		女性が働くということが当たり前になっている世の中で結婚をしても仕事を継続していきたい場合、今と同じ苗字のほうが何かと都合がいい、本人がメリットとしてとらえているならば別性でも構わないと思います。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;26 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		一つの家族を作るとき、同じ名字の方がいいと思うが、個人個人違うので、選択制にすればよい。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;24 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		夫婦別姓制度については、絶対別姓にすべきとか、別姓はNGとするのではなく、各個人の仕事や生活の状況で都合の良い方を選択できれば良いと思う。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;21 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		夫婦別姓は今後社会的に必要な制度になってくると思うので、多少の費用負担が発生するにしても進めていく必要があると思います。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;21 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		そもそも別性にするのにコストがかかることがおかしい
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		夫婦別姓には賛成です。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;18 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;/div&gt;
+	&lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample0&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample0&quot;&gt;
+		See more
+	&lt;/button&gt;
+	&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+	&lt;div class=&quot;card-header&quot;&gt;
+	反対 (48 posts)
+	&lt;/div&gt;
+	&lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		増税した場合は夫婦別姓を望みませんが、夫婦別姓を行うことによって増税する意味が分かりません
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;20 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		増税するぐらいならば反対です。それよりも、結婚によって、妻が夫の名字に変えることが当然だと思う男が多いので、それをフェアにするために、男の意識改革が重要だと思います。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;14 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		税金で夫婦別姓制度の維持をしなくてはいけないという部分で反対です。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;div class=&quot;collapse&quot; id=&quot;collapseExample1&quot;&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		別姓にする必要は無いと考えます。費用がかかるならなおさらです。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		選択肢が増えるのはいいことかもしれないけど、手間やコストが増えるなら反対。 
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;8 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		基本的には反対。仕事上などで必要に応じて使いわけは、良いと思います。制度を認めてしまうと、人知れず結婚、離婚を繰り返す事が出来、国籍取得の為の偽装結婚が増える気がします。 また別姓にしたとき、子供が凄く混乱すると考えます。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;8 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		コストがかかる前提を考えるならば、同じ姓のままでいいという人は増えるんじゃないかなぁと思いました。お金の話が絡むと夫婦別姓はデメリットに感じます。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;8 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		既婚者で夫婦別姓へ変更を希望する場合、役所での従来の手続きと同等のコストなら賛成します。 その手続きを済ませておくことによって、その人の将来的な社会的活動（就職や銀行口座開設など）に大きなメリットとなる可能性があるからです。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		別姓を選びたい人・選んだ人に対しての増税なら賛成ですが、国民全員に対しての増税なら反対です。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		社会の状況からして賛成だけど、増税の可能性があるとなるとやや反対。別姓を選択したのなら増税でも構わないけど、自分が同姓を選択してるなら理不尽な気がする。もし別姓を選択しているのに非課税の家庭があったら、尚更納得いかない。別姓を認めることで費用が必要なら、別姓選択する人で賄うべきだと思う。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;/div&gt;
+	&lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample1&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample1&quot;&gt;
+		See more
+	&lt;/button&gt;
+	&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table class=&quot;table table-striped table-hover&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Summary (1回目)&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;期間&lt;/td&gt;
+      &lt;td&gt;2020/11/22 - 2020/11/22&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;回答者数&lt;/td&gt;
+      &lt;td&gt;300&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;回答意見数&lt;/td&gt;
+      &lt;td&gt;237&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;初期回答数&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;プラットフォーム&lt;/td&gt;
+      &lt;td&gt;Crowdworks&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table class=&quot;table table-striped table-hover&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Summary (2回目)&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;期間&lt;/td&gt;
+      &lt;td&gt;2020/11/23 - 2020/11/23&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;回答者数&lt;/td&gt;
+      &lt;td&gt;312&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;回答意見数&lt;/td&gt;
+      &lt;td&gt;235&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;初期回答数&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;プラットフォーム&lt;/td&gt;
+      &lt;td&gt;Crowdworks&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;最後に&quot;&gt;最後に&lt;/h2&gt;
+
+&lt;p&gt;我々としては、夫婦別姓制度の賛否そのものついて、特定のメッセージがあるわけではありません。
+このような問題については、単に賛成か反対かを投票することにはあまり意味がなく、「なぜ賛成するのか」「なぜ反対するのか」をよく理解することが、どの立場の人にとっても大事だと考えています。&lt;/p&gt;
+
+&lt;p&gt;また、第2回目で想定した「コスト」は、特に根拠があるわけではなく、単純に第1回の結果を受け、逆向きのバイアスをかけることを目的とした仮説です。
+もし実際に試算できる方がいらっしゃれば、ご教示いただけると幸いです。&lt;/p&gt;
+
+&lt;p&gt;この結果を引用される場合は十分にご注意ください。
+本調査はデモの一環として実施しているものであり、（主に代表的サンプルとは言えないこと、同じ回答者の回答が1回目と2回目で変化したかを測っていないことから）学術的な信頼性はないとお考えください。
+本格的な調査に興味がある（かつそのための予算がある）方は、&lt;a href=&quot;mailto:request@aska.systems&quot;&gt;request@aska.systems&lt;/a&gt;までご相談ください。&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:0&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;かなり明示的なバイアスなので、これがプライミングと呼ぶ範疇に入っているのかはよく知りません。ご存知の方は教えていただけると幸いです。 &lt;a href=&quot;#fnref:0&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;1回目と2回目の回答者にはいくらかの重複がありますが、重複に関して管理はしておりません。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;意見グループと回答者グループは原理的には違うものですが、今回は区別しなくても混乱が少ないと考えられるので、説明を割愛します。これらの違いは、本サイトの他の記事をご参照ください。 &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 25 Nov 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/jp/FamilyName2020/</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/FamilyName2020/</guid>
+        
+        
+      </item>
     
       <item>
         <title>GoTo キャンペーン</title>
@@ -56,9 +417,12 @@
 
 &lt;h2 id=&quot;回答パターン&quot;&gt;回答パターン&lt;/h2&gt;
 
+&lt;p&gt;「はっきりと反対」という人が、「はっきりと賛成」という人よりも若干上回っていますが、
+全体的には「どちらの意見にも賛成・反対するところがある」という人が支配的のようです。&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;Linear palette diagram&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/jp/images/2020_GoTo/linear_palette_diagram.png&quot; alt=&quot;fig_group_size&quot; style=&quot;   width: 600px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/jp/images/2020_GoToCampaigns/linear_palette_diagram.png&quot; alt=&quot;fig_group_size&quot; style=&quot;   width: 600px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;上の図は、パレットダイアグラムという図で、各回答者の回答パターンを可視化したものです。
 パレットダイアグラムでは、回答者が横一列に並べられ、回答パターンが縦軸方向に記されています。
@@ -2819,241 +3183,6 @@
         <pubDate>Mon, 14 Sep 2020 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/jp/JiminSosai2020/</link>
         <guid isPermaLink="true">http://localhost:4000/jp/JiminSosai2020/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>安楽死について</title>
-        <description>&lt;p&gt;安楽死については賛否両論ありますが、議論される機会が少なく、法整備も進んでいないと言われています。&lt;/p&gt;
-
-&lt;p&gt;先日、依頼を受けた医師が、難病指定の患者を薬物投与によって死亡（安楽死）させたことで逮捕されたことがニュースになりました。
-中立的な立場から、広く考えを募集しました&lt;sup id=&quot;fnref:0&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:0&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;。
-&lt;!-- 本アンケートでは、中立的な立場から、皆さんの考えを広く募集します。
-システム内で、他人の意見が提示されますが、過去の回答者の投稿意見からランダムに抽出されたものであり、主催者が選択したものではありません。
-どなたからのご意見も歓迎します。 --&gt;&lt;/p&gt;
-
-&lt;div class=&quot;jumbotron&quot;&gt;
-  &lt;h4&gt;「安楽死や安楽死制度について、あなたの考えをお聞かせください。」&lt;/h4&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;/jp/images/Euthanasia/edge_bundling_euthanasia.jpg&quot; alt=&quot;fig_Euthanasia&quot; style=&quot;   width: 600px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;投票クラスタリングでは、収集されたデータはグラフ（ネットワーク）を構成しています。上に並んだ丸（頂点）が投稿された意見&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;を表し、下に並んだ丸（頂点）が回答者を表しています。
-各回答者が「いいね」した回答が線（枝）で結ばれています。
-各頂点は自動的にグループ分けされ、色分けされています&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;。
-各グループ内の投稿意見は以下の通りです。（Like数が50以上の意見を表示しています）&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-    グループA
-  &lt;/div&gt;
-  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    自分だったら、認知症や障害で周囲に迷惑をかけながら生きたくはない。だから賛成である。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;161 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    自分がもしそういった状況になったら…と考えると賛成です。制度ができるとしたら、もしもの時に備えて意思を記入するものがあればいいと思う。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;157 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    賛成です。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;152 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    上記の御意見に賛成です。 本人の意思が確認でき、なおかつ公的に有効な形で書面が残せていたら安楽死は個人の意思を尊厳するべきだと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;151 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;div class=&quot;collapse&quot; id=&quot;collapseExampleA&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    賛成です。 自分がもし病気になり、これ以上良くならず辛い思いをするだけ、そして、周りに迷惑をかけ続けるとなれば、安楽死の選択肢があってほしいと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;144 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    良いと思います。人の尊厳は尊重すべきです。安楽死は、大賛成です。苦しみ抜きながら死ぬなら、死を選びたい人もいますので、安楽死は認めるべきです。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;126 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    賛成で良いと思います
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;120 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    賛成です。 生まれ変わりたいこともあるためです。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;114 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    私は賛成です。個人的に苦しまず死にたいと思っているので安楽死なら苦しまずに死ねるのでいいと思うし、当事者になった場合、そっちのが嬉しいはずだと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;107 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    夫が緩和病棟に入りました、痛みと抗がん剤の副作用に耐えた一年でした、一年の余命宣告昨年９月うけ、家族は、緩和、しかし、夫は、抗がん剤にかけました、しかし、効果なく、10日前あきらめて緩和に入りました、痛みあまり、なくなり、穏やかです、賛成です、
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;107 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    全面的に安楽死に賛成です。周りの家族の気持ちが、といいますが、本人の意思の方が大事ではないでしょうか。 生死の意思決定をするのは自分でいいと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;106 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    安楽死賛成派です。老齢の「おひとり様」が増えていく時代が来ると思います。高齢者の不安は病気や経済面です。もちろん若い人の難病も苦痛と不安でいっぱいです。誰も助けてくれないなら、自分の死は自分で選びたいです。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;106 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    安楽死に賛成です。 ドナーカードのように安楽死も明記できるようにして、もし安楽死が必要な状況になったら選択できるようになればいいなと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;106 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    安楽死には賛成です。長く生きていても、病気や経済面で希望がないなら、安楽死を選択したいです。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;103 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;/div&gt;
-	&lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExampleA&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExampleA&quot;&gt;
-	もっと見る
-	&lt;/button&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-    グループB
-  &lt;/div&gt;
-  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    安楽死を行う側の人間にストレスがかかるので反対。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;110 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    自分自身としては賛成の立場になりますが、家族や友人から見ると反対される可能性の高いことです。 その為、様々な面から考えると現状では、時期尚早として安楽死を認めない方がいいと思います。 仮に認めるとしても、本人の意志、家族の意志、医師の判断など総合的に判断ができるように、まずは法整備など整える必要があると思います。しかし、法律で認めるとどのような悪用がされるか見当がつかないので、もはや日本だけでなく、世界全体で考える必要があることだと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;108 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    本来は意思表示を示していてもいざ安楽死の時に辛い思いをするのは家族だと思うので反対です
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;107 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    絶対に反対です、残った家族はどうするんですか。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;104 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;div class=&quot;collapse&quot; id=&quot;collapseExampleB&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    どんなことがあっても安楽死は反対です。何故なら自殺と同じことだから。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;103 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    自分の命なので、自分でできる選択肢の一つとしてあるべきだと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;102 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    自分の命を決める選択肢の一つとしてあるべきだと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;102 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;/div&gt;
-	&lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExampleB&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExampleB&quot;&gt;
-	もっと見る
-	&lt;/button&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-    グループC
-  &lt;/div&gt;
-  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    賛成です。 悪用されたりもすると思うので、しっかりとした法の整備が必要だと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;360 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    賛成ですが、悪用されかねない制度のため、かなり慎重に取り扱うべきだと思います。たとえば、実際は望んでいないのにも関わらず、周囲の人間に無理やり同意書を書かされて安楽死を行ってしまうといった事例が発生すると思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;192 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    個人的には安楽死はあってもいいと思います。 ただ、それを実施するにあたっての法整備はしないといけないし、その為の議論は重ねるべきだと思います。 しっかりと法整備をした上に本人の意思確認等、超えるべきハードルは多々設定して、簡単に選べない様にはすべきだと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;190 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    生きてる瞬間が苦痛でしかないような状態になってしまったら本人の選択肢に安楽死があってもいい気がします。医師の診断と関連した法整備は必須だと思いますが。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;156 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;div class=&quot;collapse&quot; id=&quot;collapseExampleC&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    もう回復が絶対に望めないという場合はそのまま生きていても辛く、金銭面も負担がかかるため安楽死という選択はあっていいと思います。しかしその場合の法律などをしっかりと細かく決める必要があると思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;147 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    死を選ぶことは個人の自由になっても良いと思っていますが、そのためにはどのようなツールや権利行使によって安楽死がなされるのかきちんと法律関係を整備し、倫理観のある対応が求められると思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;128 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    生まれた事が罰だと感じている私としては、あり。 でもその制度を悪用される可能性を考慮すると、手放しで賛成出来ないんですよね。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;117 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    法整備が必要です。単純に本人の自由ということだけではなく、一定の病気や症状の場合という限定的なものにとどめるべきだと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;112 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    安楽死は本人の意思がきちんと本人の直筆の文字で遺言として書かれている場合のみ認めても良いと思います。ワード等で書かれているのは書かされているという疑いがあるので認定されません。必ず本人の直筆で○○さんに依頼する。この文面が必要です。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;91 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    選択肢の一つとしてあるべきだと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;87 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    本人の意思が確認できれば良いと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;85 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    いいと思う
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;74 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    自分の人生、自分で決めたらいいと思います。 生きているのが辛い時もあります。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;67 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    本人の意思確認を慎重に行うことはもちろんのこと、重病から回復する見込みがない場合などごく限定的に認められるべきだと思う。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;54 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    安楽死を選ぶのは自分の権利であるので認められるべきだと思います。本人の意思が必ず分かるようにすべきです。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;53 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    寿命が近い65歳以上の高齢者や、治る見込みのない難病の患者などで、事前に医師による精神的な治療や行政による保護を充分に行った上でも安楽死を望んでいる場合にのみ、安楽死を認めたほうが良いと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;52 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;/div&gt;
-  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExampleC&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExampleC&quot;&gt;
-  もっと見る
-  &lt;/button&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;!-- ## 分析手法
-- Non-negative matrix factorization (+ manual annotation, manual post-processing)
- --&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:0&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;8月27日から8月31日までの実施を予定しておりましたが、十分な回答数が集まったため、予定より早めに終了させていただきました。 &lt;a href=&quot;#fnref:0&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;本調査には、初期状態で用意された意見はありません。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;本調査での意見分類は、意見のばらつきを見やすくするための「目安」程度と捉えてください。何らかの意味で”正しさ”が保証されているものではありません。特に意見グループBに関しては、文章の意味からすると分類がおかしいと思われるものが含まれていますが、あえてのそのままにしてあります。 &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Thu, 27 Aug 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/jp/Euthanasia/</link>
-        <guid isPermaLink="true">http://localhost:4000/jp/Euthanasia/</guid>
         
         
       </item>

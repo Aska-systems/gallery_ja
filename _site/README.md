@@ -1,2 +1,2 @@
-# voteclustering-JP
-voteclustering project in Japan.
+# Aska
+The project page in Japanese.
