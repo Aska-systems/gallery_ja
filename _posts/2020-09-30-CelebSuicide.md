@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "著名人の自殺"
-img: CelebSuicide/suicide_survey_Thumbnail.png
+img: 2020_CelebSuicide/suicide_survey_Thumbnail.png
 ---
 
 著名人による自殺が今年の４月以降複数報じられています。
@@ -35,7 +35,7 @@ img: CelebSuicide/suicide_survey_Thumbnail.png
 
 [^1]: 本調査には、初期状態で用意された意見はありません。
 
-<img src="{{site.baseurl}}/images/CelebSuicide/Overall_opinion_histogram.png" alt="fig_histogram"
+<img src="{{site.baseurl}}/images/2020_CelebSuicide/Overall_opinion_histogram.png" alt="fig_histogram"
 style = "
   width: 600px;
   border: none;
@@ -417,4 +417,6 @@ style = "
 
 ---
 
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="Aska_systems_jp" data-hashtags="Aska" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+---

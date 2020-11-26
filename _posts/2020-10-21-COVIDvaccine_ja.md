@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "新型コロナ ワクチン"
-img: COVID19vaccine/covid-vaccine_survey_Thumbnail.png
+img: 2020_COVID19vaccine/covid-vaccine_survey_Thumbnail.png
 ---
 
 もしワクチンが今日できたら、あなたは接種しますか？
@@ -27,7 +27,7 @@ img: COVID19vaccine/covid-vaccine_survey_Thumbnail.png
 
 ## 回答パターン
 
-<img src="{{site.baseurl}}/images/COVID19vaccine/linear_palette_diagram.jpg" alt="fig_popularity"
+<img src="{{site.baseurl}}/images/2020_COVID19vaccine/linear_palette_diagram.jpg" alt="fig_popularity"
 style = "
   width: 700px;
   border: none;
@@ -367,7 +367,9 @@ style = "
 </div>
 
 
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="Aska_systems_jp" data-hashtags="Aska" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+---
 
 
 

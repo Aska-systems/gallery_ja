@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "安楽死について"
-img: Euthanasia/euthanasia.png
+img: 2020_Euthanasia/euthanasia.png
 ---
 
 
@@ -20,7 +20,7 @@ img: Euthanasia/euthanasia.png
 
 
 
-<img src="{{site.baseurl}}/images/Euthanasia/edge_bundling_euthanasia.jpg" alt="fig_Euthanasia"
+<img src="{{site.baseurl}}/images/2020_Euthanasia/edge_bundling_euthanasia.jpg" alt="fig_Euthanasia"
 style = "
   width: 600px;
   border: none;
@@ -228,6 +228,8 @@ style = "
 <!-- ## 分析手法
 - Non-negative matrix factorization (+ manual annotation, manual post-processing)
  -->
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="Aska_systems_jp" data-hashtags="Aska" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 

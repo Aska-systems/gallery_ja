@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "日本学術会議"
-img: Gakujutsukaigi/gakujutsu_thumbnail.png
+img: 2020_Gakujutsukaigi/gakujutsu_thumbnail.png
 ---
 
 日本学術会議が推薦した105人の新会員候補のうち、菅内閣が６人を任命しなかったことが連日報道されています。
@@ -24,7 +24,7 @@ img: Gakujutsukaigi/gakujutsu_thumbnail.png
 
 <!-- [^1]: 本調査には、初期状態で用意された意見が６つあります。 -->
 
-<img src="{{site.baseurl}}/images/Gakujutsukaigi/linear_palette_diagram.jpg" alt="linear_palette_diagram"
+<img src="{{site.baseurl}}/images/2020_Gakujutsukaigi/linear_palette_diagram.jpg" alt="linear_palette_diagram"
 style = "
   width: 650px;
   border: none;
@@ -42,7 +42,7 @@ style = "
 回答者は、下図に示すように、３つの回答者グループに分類されます。
 各セルは、回答者グループの中で、どの意見グループに何パーセント賛同しているかを示しています。
 
-<img src="{{site.baseurl}}/images/Gakujutsukaigi/popularity_matrix.png" alt="popularity_matrix"
+<img src="{{site.baseurl}}/images/2020_Gakujutsukaigi/popularity_matrix.png" alt="popularity_matrix"
 style = "
   width: 400px;
   border: none;
@@ -270,4 +270,6 @@ style = "
 
 ---
 
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="Aska_systems_jp" data-hashtags="Aska" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+---

@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/jp/</link>
     <atom:link href="http://localhost:4000/jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Nov 2020 00:12:00 +0900</pubDate>
-    <lastBuildDate>Wed, 25 Nov 2020 00:12:00 +0900</lastBuildDate>
+    <pubDate>Thu, 26 Nov 2020 22:42:13 +0900</pubDate>
+    <lastBuildDate>Thu, 26 Nov 2020 22:42:13 +0900</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -347,19 +347,22 @@
 もし実際に試算できる方がいらっしゃれば、ご教示いただけると幸いです。&lt;/p&gt;
 
 &lt;p&gt;この結果を引用される場合は十分にご注意ください。
-本調査はデモの一環として実施しているものであり、（主に代表的サンプルとは言えないこと、同じ回答者の回答が1回目と2回目で変化したかを測っていないことから）学術的な信頼性はないとお考えください。
+本調査はデモの一環として実施しているものであり、（主にサンプルサイズが小さいこと、日本の代表的サンプルとは言えないこと、同じ回答者の回答が1回目と2回目で変化したかを測っていないことから）学術的な信頼性はないとお考えください。
 本格的な調査に興味がある（かつそのための予算がある）方は、&lt;a href=&quot;mailto:request@aska.systems&quot;&gt;request@aska.systems&lt;/a&gt;までご相談ください。&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-via=&quot;Aska_systems_jp&quot; data-hashtags=&quot;Aska&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:0&quot; role=&quot;doc-endnote&quot;&gt;
       &lt;p&gt;かなり明示的なバイアスなので、これがプライミングと呼ぶ範疇に入っているのかはよく知りません。ご存知の方は教えていただけると幸いです。 &lt;a href=&quot;#fnref:0&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;1回目と2回目の回答者にはいくらかの重複がありますが、重複に関して管理はしておりません。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;因果推論の意味では、1回目と2回目で、同じ回答者からの回答が変化したのかを見るのがより良いかと思います。両方に回答された方はある程度いらっしゃるようですが、今回その管理はしておりません。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;意見グループと回答者グループは原理的には違うものですが、今回は区別しなくても混乱が少ないと考えられるので、説明を割愛します。これらの違いは、本サイトの他の記事をご参照ください。 &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;意見グループと回答者グループは違うものですが、今回は説明を割愛します。これらの違いは、本サイトの他の記事をご参照ください。 &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
@@ -538,6 +541,10 @@
   &lt;/button&gt;
   &lt;/ul&gt;
 &lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-via=&quot;Aska_systems_jp&quot; data-hashtags=&quot;Aska&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
 
 </description>
         <pubDate>Mon, 16 Nov 2020 00:00:00 +0900</pubDate>
@@ -860,6 +867,9 @@
   &lt;/ul&gt;
 &lt;/div&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-via=&quot;Aska_systems_jp&quot; data-hashtags=&quot;Aska&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
@@ -1074,6 +1084,10 @@
   &lt;/ul&gt;
 &lt;/div&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-via=&quot;Aska_systems_jp&quot; data-hashtags=&quot;Aska&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:0&quot; role=&quot;doc-endnote&quot;&gt;
@@ -1140,7 +1154,7 @@
 
 &lt;h2 id=&quot;回答パターン&quot;&gt;回答パターン&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/jp/images/SchoolLife2020/linear_palette_diagram.png&quot; alt=&quot;fig_palette&quot; style=&quot;   width: 700px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/jp/images/2020_SchoolLife/linear_palette_diagram.png&quot; alt=&quot;fig_palette&quot; style=&quot;   width: 700px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;上の図は、パレットダイアグラムという図で、各回答者の回答パターンを可視化したものです。
 回答者が横一列に並べられ、縦軸方向に回答パターンが記されています。&lt;/p&gt;
@@ -1355,6 +1369,10 @@
   &lt;/ul&gt;
 &lt;/div&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-via=&quot;Aska_systems_jp&quot; data-hashtags=&quot;Aska&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
 </description>
         <pubDate>Tue, 27 Oct 2020 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/jp/SchoolLife2020_ja/</link>
@@ -1408,7 +1426,7 @@
 
 &lt;h2 id=&quot;回答パターン&quot;&gt;回答パターン&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/jp/images/COVID19vaccine/linear_palette_diagram.jpg&quot; alt=&quot;fig_popularity&quot; style=&quot;   width: 700px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/jp/images/2020_COVID19vaccine/linear_palette_diagram.jpg&quot; alt=&quot;fig_popularity&quot; style=&quot;   width: 700px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;上の図は、パレットダイアグラムという図で、各回答者の回答パターンを可視化したものです。
 回答者が横一列に並べられ、縦軸方向に回答パターンが記されています。&lt;/p&gt;
@@ -1739,6 +1757,10 @@
   &lt;/ul&gt;
 &lt;/div&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-via=&quot;Aska_systems_jp&quot; data-hashtags=&quot;Aska&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
 </description>
         <pubDate>Wed, 21 Oct 2020 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/jp/COVIDvaccine_ja/</link>
@@ -1766,7 +1788,7 @@
 
 &lt;!-- [^1]: 本調査には、初期状態で用意された意見が６つあります。 --&gt;
 
-&lt;p&gt;&lt;img src=&quot;/jp/images/Gakujutsukaigi/linear_palette_diagram.jpg&quot; alt=&quot;linear_palette_diagram&quot; style=&quot;   width: 650px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/jp/images/2020_Gakujutsukaigi/linear_palette_diagram.jpg&quot; alt=&quot;linear_palette_diagram&quot; style=&quot;   width: 650px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;上図は、palette diagramと呼んでいる図で、回答者を横一列に並べ、各回答者の回答パターンを縦軸方向に色分けして図示しています。
 回答者は、回答パターンが近いものがなるべく隣り合うように並べられています。&lt;/p&gt;
@@ -1775,7 +1797,7 @@
 &lt;p&gt;回答者は、下図に示すように、３つの回答者グループに分類されます。
 各セルは、回答者グループの中で、どの意見グループに何パーセント賛同しているかを示しています。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/jp/images/Gakujutsukaigi/popularity_matrix.png&quot; alt=&quot;popularity_matrix&quot; style=&quot;   width: 400px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/jp/images/2020_Gakujutsukaigi/popularity_matrix.png&quot; alt=&quot;popularity_matrix&quot; style=&quot;   width: 400px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;意見グループ&quot;&gt;意見グループ&lt;/h2&gt;
 
@@ -1991,6 +2013,9 @@
 
 &lt;hr /&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-via=&quot;Aska_systems_jp&quot; data-hashtags=&quot;Aska&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:0&quot; role=&quot;doc-endnote&quot;&gt;
@@ -2401,6 +2426,9 @@
 
 &lt;hr /&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-via=&quot;Aska_systems_jp&quot; data-hashtags=&quot;Aska&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:0&quot; role=&quot;doc-endnote&quot;&gt;
@@ -2481,7 +2509,7 @@
 &lt;p&gt;回答者から提案された回答&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;は、７つの意見グループに分類され、下図は回答者の方々の賛成度合いを示しています。
 竹内結子さん逝去の直後ということから、この件に関する回答が多く寄せられました。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/jp/images/CelebSuicide/Overall_opinion_histogram.png&quot; alt=&quot;fig_histogram&quot; style=&quot;   width: 600px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/jp/images/2020_CelebSuicide/Overall_opinion_histogram.png&quot; alt=&quot;fig_histogram&quot; style=&quot;   width: 600px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;７つの意見グループの内訳は以下の通りです。&lt;/p&gt;
 
@@ -2849,6 +2877,9 @@
 
 &lt;hr /&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-via=&quot;Aska_systems_jp&quot; data-hashtags=&quot;Aska&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:0&quot; role=&quot;doc-endnote&quot;&gt;
@@ -2876,7 +2907,7 @@
   &lt;h4&gt;「今回の自民党総裁選候補について、あなたが感じていることを出来るだけ詳細にお答えください」&lt;/h4&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/jp/images/JiminSosai2020/edge_bundling_jiminsosai2020.jpg&quot; alt=&quot;fig_jiminsosai2020&quot; style=&quot;   width: 600px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/jp/images/2020_JiminSosai/edge_bundling_jiminsosai2020.jpg&quot; alt=&quot;fig_jiminsosai2020&quot; style=&quot;   width: 600px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;投票クラスタリングでは、収集されたデータはグラフ（ネットワーク）を構成しています。上に並んだ丸（頂点）が投稿された意見&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;を表し、下に並んだ丸（頂点）が回答者を表しています。
 各回答者が「いいね」した回答が線（枝）で結ばれています。
@@ -3169,6 +3200,9 @@
 
 &lt;hr /&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-via=&quot;Aska_systems_jp&quot; data-hashtags=&quot;Aska&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
