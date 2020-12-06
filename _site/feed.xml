@@ -6,9 +6,189 @@
 </description>
     <link>http://localhost:4000/jp/</link>
     <atom:link href="http://localhost:4000/jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 26 Nov 2020 22:42:13 +0900</pubDate>
-    <lastBuildDate>Thu, 26 Nov 2020 22:42:13 +0900</lastBuildDate>
+    <pubDate>Sun, 06 Dec 2020 20:15:48 +0900</pubDate>
+    <lastBuildDate>Sun, 06 Dec 2020 20:15:48 +0900</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>『マスク拒否』</title>
+        <description>&lt;p&gt;マスクをしない客を店側が拒否をすること（いわゆる『マスク拒否』）については、海外でも多くの議論がなされています。&lt;/p&gt;
+
+&lt;div class=&quot;jumbotron&quot;&gt;
+  &lt;h4&gt;マスクをしない客を店側が拒否することについて、あなたはどう思いますか？&lt;/h4&gt;
+  &lt;label&gt;&lt;i&gt;新型コロナウィルス感染対策として、マスクをしない客を店側が拒否をすること（いわゆる『マスク拒否』）について意見を募集しています。&lt;/i&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table class=&quot;table table-striped table-hover&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Summary&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;期間&lt;/td&gt;
+      &lt;td&gt;2020/12/5 - 2020/12/5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;回答者数&lt;/td&gt;
+      &lt;td&gt;411&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;回答意見数&lt;/td&gt;
+      &lt;td&gt;306&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;初期回答数&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;プラットフォーム&lt;/td&gt;
+      &lt;td&gt;Crowdworks&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;回答パターン&quot;&gt;回答パターン&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Opinion graph&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/jp/images/2020_MaskWearing/opinion_graph.jpg&quot; alt=&quot;fig_group_size&quot; style=&quot;   width: 400px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Aska (投票クラスタリング)では、グラフ（ネットワーク）として意見が収集されます。
+上図で、青色の頂点が拒否賛成、赤色の頂点が拒否反対に分類されたものを表しています。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;属性情報&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/jp/images/2020_MaskWearing/histograms.png&quot; alt=&quot;fig_group_size&quot; style=&quot;   width: 400px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;各意見グループ内の回答&quot;&gt;各意見グループ内の回答&lt;/h2&gt;
+&lt;p&gt;以下では、それぞれの意見グループで、支持の多かった回答をリストしています。&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+	&lt;div class=&quot;card-header&quot;&gt;
+	拒否賛成 (295 posts)
+	&lt;/div&gt;
+	&lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		自分たちだけでなく周りのお客様や環境も守ることになると思います。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;52 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		店側の感染対策としては仕方ないと思いますので、私は問題ないと思います。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;48 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		コロナ対策の観点から他のお客さんの迷惑にもなるので、店が拒否するのは当然である
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;39 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;div class=&quot;collapse&quot; id=&quot;collapseExample0&quot;&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		いい事だと思う。 お店にはお店のルールがあり、身勝手な客を拒否する権利があると思う。ルールを守れないような客がその店に居座ることが不愉快。 お店にとっても不利益につながることもあると思う。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;38 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		コロナ禍で感染リスクを下げるためには仕方がないことだと思う。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;37 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		「アリ」だと思います。 店側が対策をとっていても、マスク無しの無症状の人が入ってきたら、そこから菌がまき散らされる可能性があるからです。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;34 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		今のご時世、しょうがないと思います。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;34 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		全然いいと思います。なぜならその客がウイルスを持っていて店で感染が拡大してしまうとそのお店の責任問題にもなりかねないからです。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;32 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		周囲のことを考えれば、マスクの着用は当然だと思います。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;31 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		ありだと思います。お店にとっても感染者が出てしまうと大きな痛手になります。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;31 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;/div&gt;
+	&lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample0&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample0&quot;&gt;
+		See more
+	&lt;/button&gt;
+	&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+	&lt;div class=&quot;card-header&quot;&gt;
+	拒否反対 (6 posts)
+	&lt;/div&gt;
+	&lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		入り口に分かりやすく示す必要がある。 入ってから追い出されるのは、皆にとって気分が良くない。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;8 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		マスク着用を拒否する店側の権利に関して、法的根拠を示して欲しい。マスク着用の強要は人権侵害にあたるとの見解もある。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;3 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		そこまでするのはやりすぎだし強要すべきではない
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;2 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;div class=&quot;collapse&quot; id=&quot;collapseExample1&quot;&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		飛沫が起こる場所や人が沢山居るお店での拒否は納得行きますが その他の感染リスクの見られないお店での拒否は私は不要かと思います。 人それぞれ色々な状況がありますし 店に入る度にマスクをしていない理由を伝えるまでも無いと思うので マスク拒否された場合は入店はしないと思います。 マスクがいかなる場合でも感染予防になるとは考えにくいと思います。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;1 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		個人の感情として周りのお客とかからみるとマスクをしないで店を入るのは嫌な感情を持つのは理解できますがそれを入店拒否するのは間違ってると思います。マスクをせずに入店する方からすると行動が制限されますし、極論人間らしい生活を営めなくなる可能性があるためそれを推奨するのは簡単なことではないと思いました。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;1 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		マスクを忘れてしまった人にはマスクを配布するなど完全に拒否するのではなく他の方法を提示するべきだと思う。 今となってはマスクも市場に出ており、マスクを忘れてしまった方へ配布する店もよく見かけます。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;1 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;/div&gt;
+	&lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample1&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample1&quot;&gt;
+		See more
+	&lt;/button&gt;
+	&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;最後に&quot;&gt;最後に&lt;/h2&gt;
+
+&lt;p&gt;圧倒的に『拒否賛成』の意見が多い結果となりました&lt;sup id=&quot;fnref:0&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:0&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;。
+ただ、『拒否反対』の意見も大変興味深いものがありますので、ぜひ参考にしていただければと思います。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-via=&quot;Aska_systems_jp&quot; data-hashtags=&quot;Aska&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;この結果を引用される場合は十分にご注意ください。
+本調査はデモの一環として実施しているものであり、学術的な信頼性はないとお考えください。
+本格的な調査に興味がある方は、&lt;a href=&quot;mailto:request@aska.systems&quot;&gt;request@aska.systems&lt;/a&gt;までご相談ください。&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:0&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;この結果は必ずしもエラーがないわけではありません。『拒否反対』の意見もわずかながら『拒否賛成』グループに含まれています。 &lt;a href=&quot;#fnref:0&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 03 Dec 2020 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/jp/MaskWearing2020/</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/MaskWearing2020/</guid>
+        
+        
+      </item>
     
       <item>
         <title>夫婦別姓</title>
@@ -2894,329 +3074,6 @@
         <pubDate>Wed, 30 Sep 2020 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/jp/CelebSuicide/</link>
         <guid isPermaLink="true">http://localhost:4000/jp/CelebSuicide/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>自民新総裁 2020</title>
-        <description>&lt;p&gt;安倍首相が体調悪化のため、新たな自民党総裁が9/14に選ばれました。
-9/13, 9/14 (開票前)に、自民党総裁選候補について、意見を募集しました。&lt;/p&gt;
-
-&lt;div class=&quot;jumbotron&quot;&gt;
-  &lt;h4&gt;「今回の自民党総裁選候補について、あなたが感じていることを出来るだけ詳細にお答えください」&lt;/h4&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;/jp/images/2020_JiminSosai/edge_bundling_jiminsosai2020.jpg&quot; alt=&quot;fig_jiminsosai2020&quot; style=&quot;   width: 600px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;投票クラスタリングでは、収集されたデータはグラフ（ネットワーク）を構成しています。上に並んだ丸（頂点）が投稿された意見&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;を表し、下に並んだ丸（頂点）が回答者を表しています。
-各回答者が「いいね」した回答が線（枝）で結ばれています。
-各頂点は自動的にグループ分けされ、色分けされています&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;。
-各グループ内の投稿意見は以下の通りです。（Like数が10以上の意見を表示しています）&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-    グループA
-  &lt;/div&gt;
-  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    どの候補者が総裁になったとしても、コロナウィルス収束後の経済対策をきちんと迅速にできる行動力のある人がなるべきと思います。個人的には、派閥云々でなく、総裁としての適任者をきちんと選んで欲しいですね。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;52 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    石破さんが3候補の中で1番中立的だと思います
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;22 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    石破が総理になって、検察を動かして、安倍の今までの悪事を追及して欲しいです。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;14 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    菅さんがなったら携帯料金が安くなるといいなと思っています。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;div class=&quot;collapse&quot; id=&quot;collapseExampleA&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    だれがやってもよいい未来が待っている気がしない。不毛な戦いだと思える。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    安倍さんはやめて良かった。菅さんじゃなく、石破さんに総裁なってほしいな。説明の声が大きくて頼りになると思った。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;/div&gt;
-	&lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExampleA&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExampleA&quot;&gt;
-	もっと見る
-	&lt;/button&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-    グループB
-  &lt;/div&gt;
-  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    どの人がなってもコロナ対策と経済対策はしっかりとやって欲しいです。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;45 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    どの人がなっても、コロナ自粛で困窮した国民に寄り添って欲しいです。 私は、コロナの影響で残業が減りましたが、残業代数千円、2～3万円減った月もあり、それだけで苦しいです。 特別定額給付金の追加や、コロナが落ち着くまでの継続的な支援をお願いしたいです。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;37 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    誰が総理になるじゃなくて総理になって何をなすかが大事です。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;31 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    候補が３人ですけど、もう決まっている感じで捉えてよろしいのでしょうか。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;30 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;div class=&quot;collapse&quot; id=&quot;collapseExampleB&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    正直誰がなっても悪い意味で根本は変わらないような気がしています。できるだけ不信感の少ない人に選ばれてほしい…
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;29 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    国民目線の政治を期待したい
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;29 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    本当は自民党総裁を国民全てが投票したらいいんだけど、無理だろうな。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;28 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    国民のこと考えて欲しい
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;23 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    菅さんが総裁になるとして、9月までの代打起用な気がしてならない。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;21 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    日本のことを考えて、日本人のための政治をしてくれる方なら誰かでも良いです。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;20 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    菅さんになると思いますが、消費税を増税しなくてもいいように将来のことを見据えて頑張ってほしいです。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;20 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    誰が選ばれるかよりも、選挙後にどの派閥が主導権を取るかが目立っている。 選ばれた人は、独自色を出せるか？ 派閥を気にせず、山積みの諸問題解決に最善を尽くしてくれる実行力のある方が選ばれて欲しい。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;20 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    誰がなるにしても、コロナのこと、経済のこと、国民の生活にもう少し寄り添った政治を行ってもらえればと思います。いろいろとあるのかもしれませんが、今まではどこをみて政治を行われていたのか首を傾げます。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    出来レースだとしたら一番選ばれそうな人。その人が総裁になった場合、財政も外交も本質的にはこれまでと大きな変化なく進むのでしょう。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;15 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    国民目線の石破さんもいい
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;15 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    民意を反映させるなら、やはり党員投票を行う選挙をするべきだろうと思います。国会議員、しかも派閥の論理で決めてしまっては、旧態以前の体制と変わらないですよね。それだと誰がなっても同じではないかと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;14 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    誰がなったとしても経済活性化に重点を置く政策を行って欲しい。国民感情には寄り添って欲しいが、世論に流されることなく国の方向を決定をし、自信をもって国民に説明できる方を期待したい。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    ネットなどで国民全員が投票できればいいのに。。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    石破さんかな。アメリカ大統領のように直接選びたいけど無理だろうな。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    派閥の論理で決まっているように見えるので、国民感覚と離れているように思います。その中で石破さんの発言は現状体制を批判する部分もあり、三人の中では国民感覚に一番近いと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    誰がなっても同じな感じがするのは国民全員が思っているのではないのかと思っています。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    首相候補者たち3名には余り期待していません。 口では何とでも言える為です。 私は一言、「国会議員の人数を減らす。」と、言ってくれる人が居たら期待したいです。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;/div&gt;
-	&lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExampleB&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExampleB&quot;&gt;
-	もっと見る
-	&lt;/button&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-    グループC
-  &lt;/div&gt;
-  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    派閥争いばかりで国民の事なんて何も考えていない。とりあえず早く解散総選挙して欲しい
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;39 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    支持したい候補がいない。もう少し若い人や女性の候補者ではないと日本は変わらない。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;34 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    安倍の様な嘘つきにだけは、総理になって欲しくない。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;29 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    どの候補もいまいちな感じがする。今までのやり方に縛られない人になって欲しい。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;29 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;div class=&quot;collapse&quot; id=&quot;collapseExampleC&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    誰がなっても期待していない。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    誰がやってもアメリカの言いなりで、アメリカの忠犬。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;18 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    誰がなってもあまり違いがないような気がする。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;18 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    菅さんに関しては安倍政権を踏襲するといっているが、各メディアで菅さん独自の取り組みが見受けられないので、総裁にはなって欲しくない。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;17 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    自民党のお偉い方々と上手くやれる人じゃないとダメなのかもしれませんね。 そういう選び方はやめていただきたいけど、現状そうであれば、菅さんしかいないのかも。 そうなると官房長官は誰にするのか…難しい。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;14 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    どの人がなっても不安しかないような気がするんですけど。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    皆、国民のことは考えていないのではないかと思います。オリンピックは取りやめるという人がなって欲しいです。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;/div&gt;
-  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExampleC&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExampleC&quot;&gt;
-  もっと見る
-  &lt;/button&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-    グループD
-  &lt;/div&gt;
-  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    菅さんは誠実な方だと思う。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;39 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    菅さんが1番まともかなと思います。 石破さんは有名なだけで何か実績を残しているわけではないので菅さんで決まりです。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;33 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    菅さんがいいけど消費税は上げて欲しくありません。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;29 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    菅さん、人当たり良さそうで、とても好感もてます。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;26 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;div class=&quot;collapse&quot; id=&quot;collapseExampleD&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    菅さんになるのが一番良いです。石破さんだと対中や対韓に甘くなってしまうので。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;24 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    菅さんが総理になって携帯代金などを改善して国民の生活を第一に考える政治をしてほしいです。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;22 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    菅さんが一番まともそうに見えるのが自民党の一番の人材不足だと思う。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    菅さんは世襲でなく叩き上げの政治家なので期待したい。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;18 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    菅さんの任期はたぶん短いのだろうけどできれば長くトップにいてほしい。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;16 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    石破さんでは国会議員をまとめるのは不可能。不満を言うしか脳の無い人に政治は任せられない。文句があるなら無役でもその解消に動くべきだった。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;15 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    安倍政権がすごく良かったとは言い難いですが、安定した長期の政権だったので、安定した政策を継続してくれる方に総理になって欲しいです。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;14 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    菅さんが一番まともで今まで通りの政権になれると思う
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    今までコロナ関連は安倍さんが主軸でやってきたのだから、他の人にまるっきり代わるよりか菅さんが引き継いだ方がスムーズだと思う。一旦受け継ぐって形でコロナが落ち着いたら改めて総裁選とかは駄目なのかな。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    今の流れを引き継いでいける、菅さんが適任だと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    菅さんの行政改革と厳格性に期待します。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    菅さんの行政改革に期待します。 
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    菅さんだと、官僚がきついのでは
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    一番身近で見てきてる人だからこそ、他国とも今までと同じ様な信用を築いていく政権が続けられると思う
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;/div&gt;
-  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExampleD&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExampleD&quot;&gt;
-  もっと見る
-  &lt;/button&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;!-- ## 分析手法
-- Non-negative matrix factorization (no annotations, no manual post-processing)
- --&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-via=&quot;Aska_systems_jp&quot; data-hashtags=&quot;Aska&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;本調査には、初期状態で用意された意見はありません。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;分類は（見ての通り）完璧とは言えませんが、あえてそのまま表示しています。 &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Mon, 14 Sep 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/jp/JiminSosai2020/</link>
-        <guid isPermaLink="true">http://localhost:4000/jp/JiminSosai2020/</guid>
         
         
       </item>

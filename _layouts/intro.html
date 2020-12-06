@@ -22,85 +22,150 @@
   <body>
     {% include header.html %}
 
-    <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
-      <h1 class="display-4">Aska</h1>
-      <h4>(投票クラスタリング)</h4>
-      <p class="lead">自由記述式アンケート フレームワーク</p>
-<!--       <button type="button" class="btn btn-outline-dark btn-lg">voteclustering v0.5</button>
-      <button type="button" class="btn btn-primary btn-lg">Aska v0.1</button> -->
-      <div class="row">
+    <div class="pricing-header px-3 py-3 pt-md-5 pb-md-5 mx-auto text-center">
+
+      <div class="jumbotron bg-white" style="border-style:solid;border-width: 12px;">
+        <h1 class="display-4">
+          <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-check text-danger" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" d="M10.97 4.97a.75.75 0 0 1 1.071 1.05l-3.992 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.236.236 0 0 1 .02-.022z"/>
+          </svg>
+          Aska
+          <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-check text-white" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" d="M10.97 4.97a.75.75 0 0 1 1.071 1.05l-3.992 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.236.236 0 0 1 .02-.022z"/>
+          </svg>
+        </h1>
+        <p class="lead small">(投票クラスタリング)</p>
+        <p class="lead text-muted">自由記述式アンケート フレームワーク</p>
+        <button type="button" class="btn btn-outline-dark btn-small">
+          See how it works
+          <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-caret-right-fill text-danger" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12.14 8.753l-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
+          </svg>
+        </button>
+        <!-- <hr class="my-4"> -->
+        <blockquote class="blockquote text-left mt-5 mb-0">
+          <p class="mb-0 font-italic small">"Freedom of speech doesn't mean very much if you can't figure out what it is that you want to say."</p>
+          <footer class="blockquote-footer"><cite title="">Edward Snowden</cite></footer>
+        </blockquote>
+      </div>
+
+
+    </div>
+      <!-- <div class="row">
+          <div class="col-12 col-md">
+          <div class="card flex-md-row mb-4 shadow-sm h-md-250">
+            <div class="card-body d-flex flex-column align-items-start">
+              <strong class="d-inline-block mb-2 text-success">NEWS</strong>
+              <h3 class="mb-0">
+                <a class="text-dark" href="#">Featured post</a>
+              </h3>
+              <div class="mb-1 text-muted">Nov 12</div>
+              <p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+            </div>
+            <img class="card-img-right flex-auto d-none d-lg-block" data-src="holder.js/200x250?theme=thumb" alt="Card image cap">
+          </div>
+          </div>
+      </div> -->
+
+
+<!--       <div class="row">
       <img class="mb-6" src="../images/voteimage.svg" class="img-fluid" alt="voteclustering image" width="800" height="400">
       </div>
-    </div>
+ -->      
+
 
 
 <div class="container">
 
+  <div class="row">
+    <div class="col-6 py-5 col-md">
+      <h2>Gallery</h2>
+      <p>Askaを使ってどんなことが見えてくるのか、例を紹介しています。</p>
+      <a href="{{site.baseurl}}/" type="button" class="btn btn-lg btn-outline-dark">Gallery</a>
+    </div>
 
-<!--   <div class="card-deck mb-3 text-center">
+    <div class="col-6 py-5 col-md">
+      <h2>Demo</h2>
+      <p>どなたでもご自由に、Askaのデモを立ち上げられます。</p>
+      <button type="button" class="btn btn-lg btn-outline-dark" style="opacity: 0.3;">Demo generator</button>
+      <p><small class="text-muted">現在準備中</small></p>
+    </div>
+  </div> <!-- row -->
+
+  <h2 class="text-center">Plans</h2>
+  <div class="card-deck mb-3 mt-3 text-center">
     <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Free</h4>
+        <h4 class="my-0 font-weight-normal">Demo</h4>
       </div>
       <div class="card-body">
-        <h1 class="card-title pricing-card-title">$0 <small class="text-muted">/ mo</small></h1>
+        <h1 class="card-title pricing-card-title">¥0 <small class="text-muted">/ instance</small></h1>
         <ul class="list-unstyled mt-3 mb-4">
-          <li>10 users included</li>
-          <li>2 GB of storage</li>
-          <li>Email support</li>
-          <li>Help center access</li>
+          <li>本番利用不可</li>
+          <li>投稿数上限あり</li>
+          <li>サポートなし</li>
         </ul>
-        <button type="button" class="btn btn-lg btn-block btn-outline-primary">Sign up for free</button>
+        <button type="button" class="btn btn-lg btn-block btn-outline-dark" style="opacity: 0.3;">Demo generator</button>
+        <small class="text-muted">現在準備中</small>
       </div>
     </div>
     <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Pro</h4>
+        <h4 class="my-0 font-weight-normal">Standard</h4>
       </div>
       <div class="card-body">
-        <h1 class="card-title pricing-card-title">$15 <small class="text-muted">/ mo</small></h1>
+        <h1 class="card-title pricing-card-title">¥0 <small class="text-muted">/ instance</small></h1>
         <ul class="list-unstyled mt-3 mb-4">
-          <li>20 users included</li>
-          <li>10 GB of storage</li>
-          <li>Priority email support</li>
-          <li>Help center access</li>
+          <li>本番利用可</li>
+          <li>投稿数上限解除 <small>(optional)</small></li>
+          <li>データ分析 <small>(optional)</small></li>
+          <!-- <li>パネル調達 <small>(comming)</small></li> -->
         </ul>
-        <button type="button" class="btn btn-lg btn-block btn-primary">Get started</button>
+        <!-- 上記はオプションは含まれない基本料金になります。 -->
+        <a href="mailto:request@aska.systems?subject=アンケート申込&amp;body=お名前：%0D%0A ご所属：%0D%0A 質問内容（自由記述/選択式）：%0D%0A ご利用目的：" class="btn btn-lg btn-block btn-primary">リクエスト送信</a>
+        <small class="text-muted">現在はベータ版のため、利用料はかかりません。</small>
       </div>
     </div>
     <div class="card mb-4 shadow-sm">
       <div class="card-header">
-        <h4 class="my-0 font-weight-normal">Enterprise</h4>
+        <h4 class="my-0 font-weight-normal">Academic</h4>
       </div>
       <div class="card-body">
-        <h1 class="card-title pricing-card-title">$29 <small class="text-muted">/ mo</small></h1>
+        <h1 class="card-title pricing-card-title">¥0 <small class="text-muted">/ instance</small></h1>
         <ul class="list-unstyled mt-3 mb-4">
-          <li>30 users included</li>
-          <li>15 GB of storage</li>
-          <li>Phone and email support</li>
-          <li>Help center access</li>
+          <li>本番利用可</li>
+          <li>Standard版全機能 <small>(optional)</small></li>
+          <li>Nightly build <small>(要相談)</small></li>
         </ul>
-        <button type="button" class="btn btn-lg btn-block btn-primary">Contact us</button>
+        <a href="mailto:request@aska.systems?subject=【academic】アンケート申込&amp;body=お名前：%0D%0A ご所属：%0D%0A 質問内容（自由記述/選択式）：%0D%0A ご利用目的：" class="btn btn-lg btn-block btn-dark">リクエスト送信</a>
+        <small class="text-muted">現在はベータ版のため、利用料はかかりません。</small>
       </div>
     </div>
   </div>
- -->
+  <p>
+    <ul>
+      <li>お申し込みいただくと、内容確認の上、アンケートシステムへの固有URLが提供されます。</li>
+      <li>1 URLにつき、1 instanceになります。</li>
+      <!-- <li>Demoには内容確認はありません。即時URLが配布されます。</li> -->
+      <li>現在、回答者パネル調達は請け負っておりませんので、ご利用者様で調査会社様等と契約していただき、Askaへ連携していただく必要あります。連携について不明な点があれば、ご相談ください。</li>
+    </ul>
+  </p>
 
   <footer class="pt-4 my-md-5 pt-md-5 border-top">
     <div class="row">
       <div class="col-12 col-md">
 <!--         <img class="mb-2" src="/docs/4.2/assets/brand/bootstrap-solid.svg" alt="" width="24" height="24"> -->
-        <h5>Try our method out!</h5>
-        <p class="text-muted">Askaは、現在ベータ版です。</p>
-        <p class="text-muted">Askaを試されたい方は、<a href="mailto:request@aska.systems">request@aska.systems</a>までご相談ください。</p>
+        <h5>Contact us</h5>
+        <p class="text-muted">Askaについてご不明な点は、<a href="mailto:request@aska.systems">request@aska.systems</a>までお問合せください。</p>
 
+        <p class="text-muted">Askaは、現在ベータ版です。</p>
         <small class="d-block mb-3 text-muted">&copy; 2015-2020</small>
       </div>
       <div class="col-6 col-md">
         <h5>Citation</h5>
         <ul class="list-unstyled text-small">
           <li><p class="text-muted">本サイトの内容は転載可能です。ただし、その場合は本サイトの該当ページへのリンクを引用してください。</p></li>
-          <li><p class="text-muted">手法に関しては、以下の論文を引用してください：</p>
+          <li><p class="text-muted">手法に関しての基本的なアイディアは、以下の論文に掲載されています：</p>
           <a class="text-muted" href="https://www.nature.com/articles/s42256-019-0071-y">Tatsuro Kawamoto and Takaaki Aoki, "Democratic classification of free-format survey responses with a network-based framework," Nature Machine Intelligence (2019).</a></li>
         </ul>
       </div>
