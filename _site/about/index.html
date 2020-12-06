@@ -97,12 +97,12 @@
         </h1>
         <p class="lead small">(投票クラスタリング)</p>
         <p class="lead text-muted">自由記述式アンケート フレームワーク</p>
-<!--         <button type="button" class="btn btn-outline-dark btn-small">
-          See how it works
+        <a href="javascript:OnLinkClick();" type="button" class="btn btn-outline-dark btn-small">
+          使い方をみる <!-- See how it works -->
           <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-caret-right-fill text-danger" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
             <path d="M12.14 8.753l-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
           </svg>
-        </button> -->
+        </a>
         <!-- <hr class="my-4"> -->
         <blockquote class="blockquote text-left mt-5 mb-0">
           <p class="mb-0 font-italic small">"Freedom of speech doesn't mean very much if you can't figure out what it is that you want to say."</p>
@@ -137,6 +137,13 @@
 
 
 <div class="container">
+
+  <div class="row">
+    <div class="col-6 py-5 col-md text-center" id="youtube">
+      <h2>How Aska works</h2>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/lddQxPNSx6s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
 
   <div class="row">
     <div class="col-6 py-5 col-md">
@@ -241,5 +248,14 @@
     </div>
   </footer>
 </div>
+
+<script type="text/javascript">
+  function OnLinkClick() {
+    document.getElementById('youtube').scrollIntoView({
+      behavior: 'smooth'
+    });
+  }
+</script>
+
 </body>
 </html>
