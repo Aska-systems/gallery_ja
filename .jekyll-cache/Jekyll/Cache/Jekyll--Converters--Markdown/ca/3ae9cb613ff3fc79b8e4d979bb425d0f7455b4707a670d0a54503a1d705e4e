@@ -1,4 +1,4 @@
-I"�$<p>性犯罪者にGPSの装着を義務付けることが、昨今日本でも検討されています。</p>
+I"�)<p>性犯罪者にGPSの装着を義務付けることが、昨今日本でも検討されています。</p>
 
 <div class="jumbotron">
   <h4>性犯罪者のGPS装着義務化について、あなたはどう思いますか？</h4>
@@ -40,18 +40,30 @@
 
 <p><br /></p>
 
+<blockquote class="twitter-tweet tw-align-center"><p lang="ja" dir="ltr">性犯罪者にG P Sを装着するべき？金があれば何度も示談できるのはおかしい？<br /><br />性的暴行容疑で逮捕！ 元ミスター慶応出場男の「卑劣な手口」(FRIDAY)<br />#Yahooニュース#金夜討論#アンケート候補<a href="https://t.co/uwSqILRW2b">https://t.co/uwSqILRW2b</a></p>&mdash; Aska (投票クラスタリング) (@Aska_systems_jp) <a href="https://twitter.com/Aska_systems_jp/status/1336878219123781635?ref_src=twsrc%5Etfw">December 10, 2020</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <h2 id="回答パターン">回答パターン</h2>
 
-<p><strong>Opinion graph</strong></p>
+<p><strong>Palette diagram</strong></p>
 
-<p><img src="/jp/images/2020_MaskWearing/linear_palette_diagram.jpg" alt="fig_group_size" style="   width: 400px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; " /></p>
+<p><img src="/jp/images/2020_CriminalGPS/linear_palette_diagram.jpg" alt="fig_group_size" style="   width: 650px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; " /></p>
 
-<p>Aska (投票クラスタリング)では、グラフ（ネットワーク）として意見が収集されます。
-上図で、青色の頂点が拒否賛成、赤色の頂点が拒否反対に分類されたものを表しています。</p>
+<p>上の図は、パレットダイアグラム<sup id="fnref:0" role="doc-noteref"><a href="#fn:0" class="footnote">1</a></sup>という図で、各回答者の回答パターンを可視化したものです。
+パレットダイアグラムでは、回答者が横一列に並べられ、回答パターンが縦軸方向に記されています。</p>
 
-<p><strong>属性情報</strong></p>
+<!-- **属性情報**
 
-<p><img src="/jp/images/2020_MaskWearing/histograms.png" alt="fig_group_size" style="   width: 400px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; " /></p>
+<img src="/jp/images/2020_MaskWearing/histograms.png" alt="fig_group_size"
+style = "
+  width: 400px;
+  border: none;
+  background: none;
+  margin: 1% 1% 1% 1%;
+  text-align: center;
+  display: inline-block;
+">
+ -->
 
 <p><br /></p>
 
@@ -60,7 +72,7 @@
 
 <div class="card">
 	<div class="card-header">
-	賛成 (167 posts)
+	賛成 (168 posts)
 	</div>
 	<ul class="list-group list-group-flush">
 	<li class="list-group-item">
@@ -81,11 +93,11 @@
 		<br /><span class="badge badge-dark">26 likes</span>
 	</li>
 	<li class="list-group-item">
-		再犯者が多いので必要だと思う
+		何度も再犯を繰り返す人物には必要だと思います。
 		<br /><span class="badge badge-dark">25 likes</span>
 	</li>
 	<li class="list-group-item">
-		何度も再犯を繰り返す人物には必要だと思います。
+		再犯者が多いので必要だと思う
 		<br /><span class="badge badge-dark">25 likes</span>
 	</li>
 	<li class="list-group-item">
@@ -113,7 +125,7 @@
 
 <div class="card">
 	<div class="card-header">
-	賛成以外 (22 posts)
+	賛成以外 (21 posts)
 	</div>
 	<ul class="list-group list-group-flush">
 	<li class="list-group-item">
@@ -138,12 +150,12 @@
 		<br /><span class="badge badge-dark">7 likes</span>
 	</li>
 	<li class="list-group-item">
-		性犯罪は繰り返されるので、強硬な手段は必要であると考えます。
+		世の中の女性が少しでも安心になれるのならと思いましたが、犯罪者とはいえプライバシーの問題が出て来ますね。
 		<br /><span class="badge badge-dark">5 likes</span>
 	</li>
 	<li class="list-group-item">
-		世の中の女性が少しでも安心になれるのならと思いましたが、犯罪者とはいえプライバシーの問題が出て来ますね。
-		<br /><span class="badge badge-dark">5 likes</span>
+		GPSの装着には賛成ですが性犯罪者とはいえ一人の人間であるため、再犯を重ねている悪質な人間から試していくなど慎重に進めていく必要もある気がします。
+		<br /><span class="badge badge-dark">4 likes</span>
 	</li>
 	<li class="list-group-item">
 		期間を限定してのものなら　賛成です
@@ -167,9 +179,10 @@
 <p><br /></p>
 
 <h2 id="最後に">最後に</h2>
+<p>大多数がGPS装着義務化に対して賛成、という結果になりました。</p>
 
-<p>圧倒的に『拒否賛成』の意見が多い結果となりました<sup id="fnref:0" role="doc-noteref"><a href="#fn:0" class="footnote">1</a></sup>。
-ただ、『拒否反対』の意見も大変興味深いものがありますので、ぜひ参考にしていただければと思います。</p>
+<p>今回、お題として少々一面的な問いかけだったかもしれません。
+<a href="https://aska.systems/jp/FamilyName2020/">「夫婦別姓についての調査」</a>のように、あえてカウンターをかけるような聞き方をすると、より深みが出るかもしれません。</p>
 
 <p><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="Aska_systems_jp" data-hashtags="Aska" data-show-count="false">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
@@ -177,10 +190,13 @@
 <p>この結果を引用される場合は十分にご注意ください。
 本調査はデモの一環として実施しているものであり、学術的な信頼性はないとお考えください。
 本格的な調査に興味がある方は、<a href="mailto:request@aska.systems">request@aska.systems</a>までご相談ください。</p>
+
+<p>ここで掲載している調査の目的は、Askaシステムの挙動の実証実験です。
+意見のバラエティを増やすために、あえてバイアスのかかった質問の仕方をすることもありますが、その場合は、バイアス下での結果であることを十分にご注意ください。</p>
 <div class="footnotes" role="doc-endnotes">
   <ol>
     <li id="fn:0" role="doc-endnote">
-      <p>この結果は必ずしもエラーがないわけではありません。『拒否反対』の意見もわずかながら『拒否賛成』グループに含まれています。 <a href="#fnref:0" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      <p>パレットダイアグラムに関する詳細は<a href="https://github.com/palette-diagram/palette-diagram">こちら</a>をご覧ください。 <a href="#fnref:0" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
 </div>
