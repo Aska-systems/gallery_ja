@@ -6,8 +6,6 @@ img: 2020_CriminalGPS/CriminalGPS.png
 
 性犯罪者にGPSの装着を義務付けることが、昨今日本でも検討されています。
 
-<blockquote class="twitter-tweet tw-align-center"><p lang="ja" dir="ltr">性犯罪者にG P Sを装着するべき？金があれば何度も示談できるのはおかしい？<br><br>性的暴行容疑で逮捕！ 元ミスター慶応出場男の「卑劣な手口」(FRIDAY)<br>#Yahooニュース#金夜討論#アンケート候補<a href="https://t.co/uwSqILRW2b">https://t.co/uwSqILRW2b</a></p>&mdash; Aska (投票クラスタリング) (@Aska_systems_jp) <a href="https://twitter.com/Aska_systems_jp/status/1336878219123781635?ref_src=twsrc%5Etfw">December 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 <div class="jumbotron">
   <h4>性犯罪者のGPS装着義務化について、あなたはどう思いますか？</h4>
@@ -28,6 +26,8 @@ img: 2020_CriminalGPS/CriminalGPS.png
 
 
 <br>
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="ja" dir="ltr">性犯罪者にG P Sを装着するべき？金があれば何度も示談できるのはおかしい？<br><br>性的暴行容疑で逮捕！ 元ミスター慶応出場男の「卑劣な手口」(FRIDAY)<br>#Yahooニュース#金夜討論#アンケート候補<a href="https://t.co/uwSqILRW2b">https://t.co/uwSqILRW2b</a></p>&mdash; Aska (投票クラスタリング) (@Aska_systems_jp) <a href="https://twitter.com/Aska_systems_jp/status/1336878219123781635?ref_src=twsrc%5Etfw">December 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## 回答パターン
