@@ -1,0 +1,242 @@
+I"�\<p>著名人への中傷・批判と侮辱罪、そして王室への批判と不敬罪</p>
+
+<h2 id="はじめに">はじめに</h2>
+<p>ネットでの中傷・批判について、どう扱われるべきかについては、様々な意見があります。
+今回は、３つのケースをテーマに、人々の意見がどう変化するかを調査しました<sup id="fnref:0" role="doc-noteref"><a href="#fn:0" class="footnote">1</a></sup>：</p>
+
+<ol>
+<li>著名人の自殺に関連して、ツイッターで中傷した男が侮辱容疑で書類送検される</li>
+<li>首相の発言に対して中傷（批判）した男が侮辱容疑で書類送検される</li>
+<li>王室の批判をした男が不敬罪で逮捕される</li>
+</ol>
+
+<p>これらはどれもネットでの中傷・批判に対して、刑罰が下されたという設定です。
+しかし、それぞれ批判される側の立ち位置が異なったり、刑罰の名目が異なります。
+これらについて、どのような意見が出るのでしょうか。
+それぞれ背景を追加していますが（後述）、メインの質問文は次に統一されています：</p>
+
+<div class="jumbotron">
+  <h4>あなたが司法に関わるとしたら、ネットでの中傷について、どう判断すべきと考えますか？</h4>
+  <!-- <label><i>性犯罪者にGPSの装着を義務付けることが、昨今日本でも検討されています。犯罪予防・人権問題・法制度など幅広い観点から、ご意見を募集します。</i></label> -->
+</div>
+
+<p>これらの調査は一度に実施したのではなく、別々の日に実施されています。</p>
+
+<h2 id="結果">結果</h2>
+
+<h3 id="1-著名人への中傷と書類送検">1. 著名人への中傷と書類送検</h3>
+
+<h3 id="2-首相発言批判と書類送検">2. 首相発言批判と書類送検</h3>
+
+<h3 id="3-王室批判と不敬罪">3. 王室批判と不敬罪</h3>
+<div class="jumbotron">
+<p>
+某国にて、ツイッターで王室批判をした男が不敬罪で逮捕されました。
+</p>
+<p>
+〔背景〕 男は複数回にわたって批判を繰り返した/某国では連日デモが行われ、王室批判が続いている
+</p>
+</div>
+
+<div>                        <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
+        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>                <div id="50aa0ef9-f89d-437e-a87c-e550a3967695" class="plotly-graph-div" style="height:100%; width:100%;"></div>            <script type="text/javascript">                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById("50aa0ef9-f89d-437e-a87c-e550a3967695")) {                    Plotly.newPlot(                        "50aa0ef9-f89d-437e-a87c-e550a3967695",                        [{"branchvalues": "total", "customdata": [[63.0], [6.0], [42.0], [4.0], [48.0], [6.0], [26.0], [4.0], [56.513513513513516], [6.0], [35.88235294117647], [4.0], [48.675977653631286], [5.2]], "domain": {"x": [0.0, 1.0], "y": [0.0, 1.0]}, "hovertemplate": "labels=%{label}<br>Count_sum=%{value}<br>parent=%{parent}<br>id=%{id}<br>Count=%{color}<extra></extra>", "ids": ["\u88c1\u304b\u308c\u308b\u3079\u304d/\u521d\u56de/\u5973\u6027", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044/\u521d\u56de/\u5973\u6027", "\u88c1\u304b\u308c\u308b\u3079\u304d/\u975e\u521d\u56de/\u5973\u6027", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044/\u975e\u521d\u56de/\u5973\u6027", "\u88c1\u304b\u308c\u308b\u3079\u304d/\u521d\u56de/\u7537\u6027", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044/\u521d\u56de/\u7537\u6027", "\u88c1\u304b\u308c\u308b\u3079\u304d/\u975e\u521d\u56de/\u7537\u6027", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044/\u975e\u521d\u56de/\u7537\u6027", "\u88c1\u304b\u308c\u308b\u3079\u304d/\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044/\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d/\u975e\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044/\u975e\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044"], "labels": ["\u5973\u6027", "\u5973\u6027", "\u5973\u6027", "\u5973\u6027", "\u7537\u6027", "\u7537\u6027", "\u7537\u6027", "\u7537\u6027", "\u521d\u56de", "\u521d\u56de", "\u975e\u521d\u56de", "\u975e\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044"], "marker": {"coloraxis": "coloraxis", "colors": [63.0, 6.0, 42.0, 4.0, 48.0, 6.0, 26.0, 4.0, 56.513513513513516, 6.0, 35.88235294117647, 4.0, 48.675977653631286, 5.2]}, "name": "", "parents": ["\u88c1\u304b\u308c\u308b\u3079\u304d/\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044/\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d/\u975e\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044/\u975e\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d/\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044/\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d/\u975e\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044/\u975e\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044", "\u88c1\u304b\u308c\u308b\u3079\u304d", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044", "", ""], "type": "sunburst", "values": [63, 6, 42, 4, 48, 6, 26, 4, 111, 12, 68, 8, 179, 20]}],                        {"coloraxis": {"colorbar": {"title": {"text": "Count"}}, "colorscale": [[0.0, "rgb(75, 41, 145)"], [0.16666666666666666, "rgb(135, 44, 162)"], [0.3333333333333333, "rgb(192, 54, 157)"], [0.5, "rgb(234, 79, 136)"], [0.6666666666666666, "rgb(250, 120, 118)"], [0.8333333333333334, "rgb(246, 169, 122)"], [1.0, "rgb(237, 217, 163)"]]}, "legend": {"tracegroupgap": 0}, "margin": {"t": 60}, "template": {"data": {"bar": [{"error_x": {"color": "#2a3f5f"}, "error_y": {"color": "#2a3f5f"}, "marker": {"line": {"color": "#E5ECF6", "width": 0.5}}, "type": "bar"}], "barpolar": [{"marker": {"line": {"color": "#E5ECF6", "width": 0.5}}, "type": "barpolar"}], "carpet": [{"aaxis": {"endlinecolor": "#2a3f5f", "gridcolor": "white", "linecolor": "white", "minorgridcolor": "white", "startlinecolor": "#2a3f5f"}, "baxis": {"endlinecolor": "#2a3f5f", "gridcolor": "white", "linecolor": "white", "minorgridcolor": "white", "startlinecolor": "#2a3f5f"}, "type": "carpet"}], "choropleth": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "choropleth"}], "contour": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "contour"}], "contourcarpet": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "contourcarpet"}], "heatmap": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "heatmap"}], "heatmapgl": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "heatmapgl"}], "histogram": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "histogram"}], "histogram2d": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "histogram2d"}], "histogram2dcontour": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "histogram2dcontour"}], "mesh3d": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "mesh3d"}], "parcoords": [{"line": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "parcoords"}], "pie": [{"automargin": true, "type": "pie"}], "scatter": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatter"}], "scatter3d": [{"line": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatter3d"}], "scattercarpet": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattercarpet"}], "scattergeo": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattergeo"}], "scattergl": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattergl"}], "scattermapbox": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattermapbox"}], "scatterpolar": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterpolar"}], "scatterpolargl": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterpolargl"}], "scatterternary": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterternary"}], "surface": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "surface"}], "table": [{"cells": {"fill": {"color": "#EBF0F8"}, "line": {"color": "white"}}, "header": {"fill": {"color": "#C8D4E3"}, "line": {"color": "white"}}, "type": "table"}]}, "layout": {"annotationdefaults": {"arrowcolor": "#2a3f5f", "arrowhead": 0, "arrowwidth": 1}, "autotypenumbers": "strict", "coloraxis": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "colorscale": {"diverging": [[0, "#8e0152"], [0.1, "#c51b7d"], [0.2, "#de77ae"], [0.3, "#f1b6da"], [0.4, "#fde0ef"], [0.5, "#f7f7f7"], [0.6, "#e6f5d0"], [0.7, "#b8e186"], [0.8, "#7fbc41"], [0.9, "#4d9221"], [1, "#276419"]], "sequential": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "sequentialminus": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]]}, "colorway": ["#636efa", "#EF553B", "#00cc96", "#ab63fa", "#FFA15A", "#19d3f3", "#FF6692", "#B6E880", "#FF97FF", "#FECB52"], "font": {"color": "#2a3f5f"}, "geo": {"bgcolor": "white", "lakecolor": "white", "landcolor": "#E5ECF6", "showlakes": true, "showland": true, "subunitcolor": "white"}, "hoverlabel": {"align": "left"}, "hovermode": "closest", "mapbox": {"style": "light"}, "paper_bgcolor": "white", "plot_bgcolor": "#E5ECF6", "polar": {"angularaxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}, "bgcolor": "#E5ECF6", "radialaxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}}, "scene": {"xaxis": {"backgroundcolor": "#E5ECF6", "gridcolor": "white", "gridwidth": 2, "linecolor": "white", "showbackground": true, "ticks": "", "zerolinecolor": "white"}, "yaxis": {"backgroundcolor": "#E5ECF6", "gridcolor": "white", "gridwidth": 2, "linecolor": "white", "showbackground": true, "ticks": "", "zerolinecolor": "white"}, "zaxis": {"backgroundcolor": "#E5ECF6", "gridcolor": "white", "gridwidth": 2, "linecolor": "white", "showbackground": true, "ticks": "", "zerolinecolor": "white"}}, "shapedefaults": {"line": {"color": "#2a3f5f"}}, "ternary": {"aaxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}, "baxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}, "bgcolor": "#E5ECF6", "caxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}}, "title": {"x": 0.05}, "xaxis": {"automargin": true, "gridcolor": "white", "linecolor": "white", "ticks": "", "title": {"standoff": 15}, "zerolinecolor": "white", "zerolinewidth": 2}, "yaxis": {"automargin": true, "gridcolor": "white", "linecolor": "white", "ticks": "", "title": {"standoff": 15}, "zerolinecolor": "white", "zerolinewidth": 2}}}},                        {"responsive": true}                    )                };                            </script>        </div>
+
+<p>ネットでの中傷が、中傷される人を自殺等へ追い込んでしまうことがあることから、厳しく取り締まるべきだという意見がある一方で、
+刑罰は言論の自由を侵すものだという意見もあります。
+首相や政府に対する批判を対象とした刑罰は、国家反逆罪とも繋がるものがあり、王室批判を対象とした刑罰は、不敬罪に繋がるものがあります。</p>
+
+<h2 id="詳細">詳細</h2>
+
+<p><br /></p>
+
+<table class="table table-striped table-hover">
+  <thead>
+    <tr>
+      <th>Summary</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>期間</td>
+      <td>2020/12/11 - 2020/12/11</td>
+    </tr>
+    <tr>
+      <td>回答者数</td>
+      <td>307</td>
+    </tr>
+    <tr>
+      <td>回答意見数</td>
+      <td>195</td>
+    </tr>
+    <tr>
+      <td>初期回答数</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>プラットフォーム</td>
+      <td>Crowdworks</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<h2 id="結果-1">結果</h2>
+
+<p><strong>Palette diagram</strong></p>
+
+<p><img src="/jp/images/2020_CriminalGPS/linear_palette_diagram.jpg" alt="fig_group_size" style="   width: 650px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; " /></p>
+
+<p>上の図は、パレットダイアグラム<sup id="fnref:0:1" role="doc-noteref"><a href="#fn:0" class="footnote">1</a></sup>という図で、各回答者の回答パターンを可視化したものです。
+パレットダイアグラムでは、回答者が横一列に並べられ、回答パターンが縦軸方向に記されています。</p>
+
+<!-- **属性情報**
+
+<img src="/jp/images/2020_MaskWearing/histograms.png" alt="fig_group_size"
+style = "
+  width: 400px;
+  border: none;
+  background: none;
+  margin: 1% 1% 1% 1%;
+  text-align: center;
+  display: inline-block;
+">
+ -->
+
+<p><br /></p>
+
+<h2 id="各意見グループ内の回答">各意見グループ内の回答</h2>
+<p>以下では、それぞれの意見グループで、支持の多かった回答をリストしています。</p>
+
+<div class="card">
+	<div class="card-header">
+	賛成 (168 posts)
+	</div>
+	<ul class="list-group list-group-flush">
+	<li class="list-group-item">
+		性犯罪は再犯率が高いと聞くので、ある程度の基準を設けた上での義務化は必要だと思います。
+		<br /><span class="badge badge-dark">36 likes</span>
+	</li>
+	<li class="list-group-item">
+		賛成。性犯罪者は同じ犯罪を繰り返す傾向があり、抑止力になると思うから。
+		<br /><span class="badge badge-dark">29 likes</span>
+	</li>
+	<li class="list-group-item">
+		犯罪者の人権よりもこれから被害に遭うかもしれない人の人権の方が大事なので、GPSの装着には賛成です。
+		<br /><span class="badge badge-dark">27 likes</span>
+	</li>
+	<div class="collapse" id="collapseOpinion0">
+	<li class="list-group-item">
+		性犯罪は再犯が多いと聞くので、有効な手段だと思います。
+		<br /><span class="badge badge-dark">26 likes</span>
+	</li>
+	<li class="list-group-item">
+		何度も再犯を繰り返す人物には必要だと思います。
+		<br /><span class="badge badge-dark">25 likes</span>
+	</li>
+	<li class="list-group-item">
+		再犯者が多いので必要だと思う
+		<br /><span class="badge badge-dark">25 likes</span>
+	</li>
+	<li class="list-group-item">
+		そうしてもらいたい。犯罪の予防になるならば実施してもいいと思う。
+		<br /><span class="badge badge-dark">24 likes</span>
+	</li>
+	<li class="list-group-item">
+		プライバシーの問題があるかもしれませんが、それ以上に被害者は常に怯えた状況で毎日を過ごしていると思います。 実際に性犯罪者で再犯の犯人もいますし、それ相応の犯罪を犯しているわけですから実刑の1つとしてGPSを装着させたほうがいいです。 
+		<br /><span class="badge badge-dark">24 likes</span>
+	</li>
+	<li class="list-group-item">
+		賛成です。性犯罪は再犯率高いと言われています。安心安全の為、GPSでの監視は必要だと思います。
+		<br /><span class="badge badge-dark">23 likes</span>
+	</li>
+	<li class="list-group-item">
+		賛成です。こういった種類の犯罪を犯すタイプの人は、再犯の可能性がかなり高いと思われます。起きてしまってからでは遅い、特に性犯罪については泣き寝入りも多いと聞きますので、未然に防ぐための策を可能な限り取るべきだと考えます。ただ、人権の観点から、数年間ほどGPSを付けて、小さな犯罪もなかった場合は、その後は付けなくても良いなどの法整備も必要かと思われます。
+		<br /><span class="badge badge-dark">22 likes</span>
+	</li>
+	</div>
+	<button class="btn btn-light btn-block" type="button" data-toggle="collapse" data-target="#collapseOpinion0" aria-expanded="false" aria-controls="collapseOpinion0">
+		See more
+	</button>
+	</ul>
+</div>
+
+<div class="card">
+	<div class="card-header">
+	賛成以外 (21 posts)
+	</div>
+	<ul class="list-group list-group-flush">
+	<li class="list-group-item">
+		人権問題としてどうなのかとは思いますが、女性としてはその方が安心ではあります。
+		<br /><span class="badge badge-dark">21 likes</span>
+	</li>
+	<li class="list-group-item">
+		常に悪いことをしているとは限らないのでGPSを装着するというのはよくないのかもしれないと思う。
+		<br /><span class="badge badge-dark">11 likes</span>
+	</li>
+	<li class="list-group-item">
+		人権を考えた上で、個人のプライバシーをどこまで制限できるかというについては、慎重に検討していく必要があると思います。
+		<br /><span class="badge badge-dark">9 likes</span>
+	</li>
+	<div class="collapse" id="collapseOpinion1">
+	<li class="list-group-item">
+		性犯罪者の監視用としては必要な措置のひとつだと思いますし、住民への安心感を与えるものとしては有用だと思います。ただ、GPS装着義務化が性犯罪の抑制になるかは少し疑問に思いますし、性犯罪者とはいえ人権る観点からは慎重に検討する必要があると思います。
+		<br /><span class="badge badge-dark">9 likes</span>
+	</li>
+	<li class="list-group-item">
+		再犯予防という観点からすれば良いと思いますが、人権保護の問題が出てくるのでGPS装置義務化は無しだと思います。
+		<br /><span class="badge badge-dark">7 likes</span>
+	</li>
+	<li class="list-group-item">
+		世の中の女性が少しでも安心になれるのならと思いましたが、犯罪者とはいえプライバシーの問題が出て来ますね。
+		<br /><span class="badge badge-dark">5 likes</span>
+	</li>
+	<li class="list-group-item">
+		GPSの装着には賛成ですが性犯罪者とはいえ一人の人間であるため、再犯を重ねている悪質な人間から試していくなど慎重に進めていく必要もある気がします。
+		<br /><span class="badge badge-dark">4 likes</span>
+	</li>
+	<li class="list-group-item">
+		期間を限定してのものなら　賛成です
+		<br /><span class="badge badge-dark">4 likes</span>
+	</li>
+	<li class="list-group-item">
+		微妙です。確かに性犯罪は凶悪な犯罪ですがきちんと構成する人もいると思います。すべての人にＧＰＳを付けて監視するのもどうなのかと思います
+		<br /><span class="badge badge-dark">4 likes</span>
+	</li>
+	<li class="list-group-item">
+		義務付けられれば安心できるとは思いますが、それを悪用する人も出てくる気がするので賛成はできません。
+		<br /><span class="badge badge-dark">4 likes</span>
+	</li>
+	</div>
+	<button class="btn btn-light btn-block" type="button" data-toggle="collapse" data-target="#collapseOpinion1" aria-expanded="false" aria-controls="collapseOpinion1">
+		See more
+	</button>
+	</ul>
+</div>
+
+<p><br /></p>
+
+<h2 id="最後に">最後に</h2>
+<p>大多数がGPS装着義務化に対して賛成、という結果になりました。</p>
+
+<p>今回、お題として少々一面的な問いかけだったかもしれません。
+<a href="https://aska.systems/jp/FamilyName2020/">「夫婦別姓についての調査」</a>のように、あえてカウンターをかけるような聞き方をすると、より深みが出るかもしれません。</p>
+
+<p><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="Aska_systems_jp" data-hashtags="Aska" data-show-count="false">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+<hr />
+<p>この結果を引用される場合は十分にご注意ください。
+本調査はデモの一環として実施しているものであり、学術的な信頼性はないとお考えください。
+本格的な調査に興味がある方は、<a href="mailto:request@aska.systems">request@aska.systems</a>までご相談ください。</p>
+
+<p>ここで掲載している調査の目的は、Askaシステムの挙動の実証実験です。
+意見のバラエティを増やすために、あえてバイアスのかかった質問の仕方をすることもありますが、その場合は、バイアス下での結果であることを十分にご注意ください。</p>
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:0" role="doc-endnote">
+      <p>パレットダイアグラムに関する詳細は<a href="https://github.com/palette-diagram/palette-diagram">こちら</a>をご覧ください。 <a href="#fnref:0" class="reversefootnote" role="doc-backlink">&#8617;</a> <a href="#fnref:0:1" class="reversefootnote" role="doc-backlink">&#8617;<sup>2</sup></a></p>
+    </li>
+  </ol>
+</div>
+:ET
