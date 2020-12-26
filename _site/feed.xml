@@ -6,13 +6,13 @@
 </description>
     <link>http://localhost:4000/jp/</link>
     <atom:link href="http://localhost:4000/jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 26 Dec 2020 23:27:54 +0900</pubDate>
-    <lastBuildDate>Sat, 26 Dec 2020 23:27:54 +0900</lastBuildDate>
+    <pubDate>Sun, 27 Dec 2020 00:46:25 +0900</pubDate>
+    <lastBuildDate>Sun, 27 Dec 2020 00:46:25 +0900</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
         <title>ネット中傷と刑事罰</title>
-        <description>&lt;p&gt;著名人への中傷・批判と侮辱罪、そして王室への批判と不敬罪&lt;/p&gt;
+        <description>&lt;p&gt;著名人への中傷は侮辱罪ですか？首相への批判は有罪ですか？王室への批判は不敬罪ですか？&lt;/p&gt;
 
 &lt;h2 id=&quot;はじめに&quot;&gt;はじめに&lt;/h2&gt;
 &lt;p&gt;ネットでの中傷・批判について、どう扱われるべきかについては、様々な意見があります。
@@ -390,14 +390,15 @@
 
 &lt;p&gt;ネットでの中傷が、中傷される人を自殺等へ追い込んでしまうことがあることから、厳しく取り締まるべきだという意見がある一方で、慎重派の意見も見られました。
 慎重派は、必ずしも刑罰に対して反対という意味ではなく、条件付きで正当化されるというものもあります。
-また、慎重派の意見からは、公人か私人かの区別に焦点を当てられたものもありました。&lt;/p&gt;
+第1回目の「慎重派」グループは、裁かれるべきではないという意見群というよりも、主に法律に照らし合わせるべきという意見が多く、その意味で、2回目・3回目の「慎重派・裁かれるべきではない」グループとは少し違うようにも見えます。
+また、公人か私人かの区別に焦点を当てられたものもありました。&lt;/p&gt;
 
-&lt;p&gt;第1回目の「慎重派」グループは、裁かれるべきではないという意見群というよりも、主に法律に照らし合わせるべきという意見でした。
-その意味で、2回目・3回目の「慎重派・裁かれるべきではない」グループとは少し違うようにも見えます。&lt;/p&gt;
+&lt;p&gt;1回目の調査は、自殺に追い込まれた著名人に対する中傷であり、犯人への刑罰を求める傾向が高いことは予想されますが、第2回目以降の回答も、1回目の調査内容に影響を受けている可能性は少なからずあります&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;。
+1回目の調査に参加していない回答者も、1回目の回答募集の内容は閲覧し、質問内容から影響を受けているかもしれません。&lt;/p&gt;
+
+&lt;p&gt;本調査で収集された意見文章は、利用規約への同意のもと公開していますが、もし侮辱容疑の男がこのページを見て自殺に追い込まれた場合は、どうなるのでしょうか&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
 
 &lt;p&gt;様々な視点からの意見が予想される興味深いテーマがあれば、&lt;a href=&quot;mailto:request@aska.systems&quot;&gt;request@aska.systems&lt;/a&gt;まで、ご意見お寄せください。&lt;/p&gt;
-
-&lt;!-- 首相や政府に対する批判を対象とした刑罰は、国家反逆罪が連想されるかもしれないと思いましたが、そのような意見は出ませんでした。 --&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-via=&quot;Aska_systems_jp&quot; data-hashtags=&quot;Aska&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
 
@@ -486,6 +487,12 @@ style = &quot;
     &lt;/li&gt;
     &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
       &lt;p&gt;ネット上での意見は、過激な意見に偏る傾向があるということが指摘されていますが、クラウドソーシングでのサンプルにどの程度当てはまるかは、定かではありません。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;実は、他人の回答が見えることによるプライミングの影響を極力除いた分析も可能です。しかし、それをしても全体的な傾向は大きく変化しませんでした。 &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;この例は、今回の質問で想定した状況とは少し異なります。直接個人へ中傷する意図があったかというのも大きなポイントかと思います。「直接メッセージを伝えたか」という論点は、今回の調査の回答にも出てきていますね。 &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;

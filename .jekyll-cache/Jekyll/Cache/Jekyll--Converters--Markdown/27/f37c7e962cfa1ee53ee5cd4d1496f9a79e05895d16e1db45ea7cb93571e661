@@ -1,16 +1,8 @@
----
-layout: post
-title:  "ネット中傷と刑事罰"
-img: 2020_SlanderingOnSNS/SlanderingOnSNS.png
----
+I"��<p>著名人への中傷は侮辱罪ですか？首相への批判は有罪ですか？王室への批判は不敬罪ですか？</p>
 
-著名人への中傷は侮辱罪ですか？首相への批判は有罪ですか？王室への批判は不敬罪ですか？
-
-## はじめに
-ネットでの中傷・批判について、どう扱われるべきかについては、様々な意見があります。
-今回は、３つのケースをテーマに、人々の意見がどう変化するかを調査しました[^0]：
-
-[^0]: 具体的な事例を想像される方もいると思いますが、ここでは例え話として扱っています。
+<h2 id="はじめに">はじめに</h2>
+<p>ネットでの中傷・批判について、どう扱われるべきかについては、様々な意見があります。
+今回は、３つのケースをテーマに、人々の意見がどう変化するかを調査しました<sup id="fnref:0" role="doc-noteref"><a href="#fn:0" class="footnote">1</a></sup>：</p>
 
 <ol>
 <li>著名人の自殺に関連して、ツイッターで中傷した男が侮辱容疑で書類送検される</li>
@@ -18,26 +10,25 @@ img: 2020_SlanderingOnSNS/SlanderingOnSNS.png
 <li>王室の批判をした男が不敬罪で逮捕される</li>
 </ol>
 
-これらはどれもネットでの中傷・批判に対して、刑罰が下されたという設定です。
+<p>これらはどれもネットでの中傷・批判に対して、刑罰が下されたという設定です。
 しかし、それぞれ批判される側の立ち位置が異なったり、刑罰の名目が異なります。
-それぞれ背景を追加していますが（後述）、メインの質問文は次に統一されています：
+それぞれ背景を追加していますが（後述）、メインの質問文は次に統一されています：</p>
 
 <div class="jumbotron">
   <h4>あなたが司法に関わるとしたら、ネットでの中傷について、どう判断すべきと考えますか？</h4>
   <!-- <label><i>性犯罪者にGPSの装着を義務付けることが、昨今日本でも検討されています。犯罪予防・人権問題・法制度など幅広い観点から、ご意見を募集します。</i></label> -->
 </div>
 
-これらの調査は一度に実施したのではなく、別々の日に実施されています。
-性別のほかに、「2. 首相発言批判と書類送検」では、第1回目の調査に参加したかどうか（初回/非初回）、「3. 王室批判と不敬罪」では第1回目もしくは第2回の調査に参加したかどうか（初回/非初回）を聞きました。
+<p>これらの調査は一度に実施したのではなく、別々の日に実施されています。
+性別のほかに、「2. 首相発言批判と書類送検」では、第1回目の調査に参加したかどうか（初回/非初回）、「3. 王室批判と不敬罪」では第1回目もしくは第2回の調査に参加したかどうか（初回/非初回）を聞きました。</p>
 
-どのような意見が出たでしょうか。
+<p>どのような意見が出たでしょうか。</p>
 
-<br>
+<p><br /></p>
 
+<h2 id="結果">結果</h2>
 
-## 結果
-
-### 1. 著名人への中傷と書類送検
+<h3 id="1-著名人への中傷と書類送検">1. 著名人への中傷と書類送検</h3>
 
 <div class="jumbotron py-2">
 <p>
@@ -47,7 +38,7 @@ img: 2020_SlanderingOnSNS/SlanderingOnSNS.png
 〔背景〕 男は複数回にわたって中傷を繰り返した/その著名人のツイッターに投稿された誹謗中傷は数百件に上る/ 男は６月、「自殺に追い込んだ一人です」と遺族にメールを送って謝罪している
 </p>
 </div>
-（インタラクティブな図です）
+<p>（インタラクティブな図です）</p>
 
 <div>                        <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
         <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>                <div id="6bd88d88-6455-4cfe-b921-59597818d68d" class="plotly-graph-div" style="height:100%; width:100%;"></div>            <script type="text/javascript">                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById("6bd88d88-6455-4cfe-b921-59597818d68d")) {                    Plotly.newPlot(                        "6bd88d88-6455-4cfe-b921-59597818d68d",                        [{"branchvalues": "total", "customdata": [[3.0], [196.0], [3.0], [117.0], [3.0], [166.4696485623003]], "domain": {"x": [0.0, 1.0], "y": [0.0, 1.0]}, "hovertemplate": "labels=%{label}<br>Count_sum=%{value}<br>parent=%{parent}<br>id=%{id}<br>Count=%{color}<extra></extra>", "ids": ["\u614e\u91cd\u6d3e/\u5973\u6027", "\u88c1\u304b\u308c\u308b\u3079\u304d/\u5973\u6027", "\u614e\u91cd\u6d3e/\u7537\u6027", "\u88c1\u304b\u308c\u308b\u3079\u304d/\u7537\u6027", "\u614e\u91cd\u6d3e", "\u88c1\u304b\u308c\u308b\u3079\u304d"], "labels": ["\u5973\u6027", "\u5973\u6027", "\u7537\u6027", "\u7537\u6027", "\u614e\u91cd\u6d3e", "\u88c1\u304b\u308c\u308b\u3079\u304d"], "marker": {"coloraxis": "coloraxis", "colors": [3.0, 196.0, 3.0, 117.0, 3.0, 166.4696485623003]}, "name": "", "parents": ["\u614e\u91cd\u6d3e", "\u88c1\u304b\u308c\u308b\u3079\u304d", "\u614e\u91cd\u6d3e", "\u88c1\u304b\u308c\u308b\u3079\u304d", "", ""], "type": "sunburst", "values": [3, 196, 3, 117, 6, 313]}],                        {"coloraxis": {"colorbar": {"title": {"text": "Count"}}, "colorscale": [[0.0, "rgb(75, 41, 145)"], [0.16666666666666666, "rgb(135, 44, 162)"], [0.3333333333333333, "rgb(192, 54, 157)"], [0.5, "rgb(234, 79, 136)"], [0.6666666666666666, "rgb(250, 120, 118)"], [0.8333333333333334, "rgb(246, 169, 122)"], [1.0, "rgb(237, 217, 163)"]]}, "legend": {"tracegroupgap": 0}, "margin": {"t": 60}, "template": {"data": {"bar": [{"error_x": {"color": "#2a3f5f"}, "error_y": {"color": "#2a3f5f"}, "marker": {"line": {"color": "#E5ECF6", "width": 0.5}}, "type": "bar"}], "barpolar": [{"marker": {"line": {"color": "#E5ECF6", "width": 0.5}}, "type": "barpolar"}], "carpet": [{"aaxis": {"endlinecolor": "#2a3f5f", "gridcolor": "white", "linecolor": "white", "minorgridcolor": "white", "startlinecolor": "#2a3f5f"}, "baxis": {"endlinecolor": "#2a3f5f", "gridcolor": "white", "linecolor": "white", "minorgridcolor": "white", "startlinecolor": "#2a3f5f"}, "type": "carpet"}], "choropleth": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "choropleth"}], "contour": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "contour"}], "contourcarpet": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "contourcarpet"}], "heatmap": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "heatmap"}], "heatmapgl": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "heatmapgl"}], "histogram": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "histogram"}], "histogram2d": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "histogram2d"}], "histogram2dcontour": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "histogram2dcontour"}], "mesh3d": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "mesh3d"}], "parcoords": [{"line": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "parcoords"}], "pie": [{"automargin": true, "type": "pie"}], "scatter": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatter"}], "scatter3d": [{"line": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatter3d"}], "scattercarpet": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattercarpet"}], "scattergeo": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattergeo"}], "scattergl": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattergl"}], "scattermapbox": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattermapbox"}], "scatterpolar": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterpolar"}], "scatterpolargl": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterpolargl"}], "scatterternary": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterternary"}], "surface": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "surface"}], "table": [{"cells": {"fill": {"color": "#EBF0F8"}, "line": {"color": "white"}}, "header": {"fill": {"color": "#C8D4E3"}, "line": {"color": "white"}}, "type": "table"}]}, "layout": {"annotationdefaults": {"arrowcolor": "#2a3f5f", "arrowhead": 0, "arrowwidth": 1}, "autotypenumbers": "strict", "coloraxis": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "colorscale": {"diverging": [[0, "#8e0152"], [0.1, "#c51b7d"], [0.2, "#de77ae"], [0.3, "#f1b6da"], [0.4, "#fde0ef"], [0.5, "#f7f7f7"], [0.6, "#e6f5d0"], [0.7, "#b8e186"], [0.8, "#7fbc41"], [0.9, "#4d9221"], [1, "#276419"]], "sequential": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "sequentialminus": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]]}, "colorway": ["#636efa", "#EF553B", "#00cc96", "#ab63fa", "#FFA15A", "#19d3f3", "#FF6692", "#B6E880", "#FF97FF", "#FECB52"], "font": {"color": "#2a3f5f"}, "geo": {"bgcolor": "white", "lakecolor": "white", "landcolor": "#E5ECF6", "showlakes": true, "showland": true, "subunitcolor": "white"}, "hoverlabel": {"align": "left"}, "hovermode": "closest", "mapbox": {"style": "light"}, "paper_bgcolor": "white", "plot_bgcolor": "#E5ECF6", "polar": {"angularaxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}, "bgcolor": "#E5ECF6", "radialaxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}}, "scene": {"xaxis": {"backgroundcolor": "#E5ECF6", "gridcolor": "white", "gridwidth": 2, "linecolor": "white", "showbackground": true, "ticks": "", "zerolinecolor": "white"}, "yaxis": {"backgroundcolor": "#E5ECF6", "gridcolor": "white", "gridwidth": 2, "linecolor": "white", "showbackground": true, "ticks": "", "zerolinecolor": "white"}, "zaxis": {"backgroundcolor": "#E5ECF6", "gridcolor": "white", "gridwidth": 2, "linecolor": "white", "showbackground": true, "ticks": "", "zerolinecolor": "white"}}, "shapedefaults": {"line": {"color": "#2a3f5f"}}, "ternary": {"aaxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}, "baxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}, "bgcolor": "#E5ECF6", "caxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}}, "title": {"x": 0.05}, "xaxis": {"automargin": true, "gridcolor": "white", "linecolor": "white", "ticks": "", "title": {"standoff": 15}, "zerolinecolor": "white", "zerolinewidth": 2}, "yaxis": {"automargin": true, "gridcolor": "white", "linecolor": "white", "ticks": "", "title": {"standoff": 15}, "zerolinecolor": "white", "zerolinewidth": 2}}}},                        {"responsive": true}                    )                };                            </script>        </div>
@@ -59,44 +50,44 @@ img: 2020_SlanderingOnSNS/SlanderingOnSNS.png
 	<ul class="list-group list-group-flush">
 	<li class="list-group-item">
 		あまりに執拗な中傷に対しては対処するべきだと思う
-		<br><span class="badge badge-dark">48 likes</span>
+		<br /><span class="badge badge-dark">48 likes</span>
 	</li>
 	<li class="list-group-item">
 		厳罰化するべき
-		<br><span class="badge badge-dark">32 likes</span>
+		<br /><span class="badge badge-dark">32 likes</span>
 	</li>
 	<li class="list-group-item">
 		いくら匿名とは言え、精神的に追い込むのは立派な犯罪だと思うので許されるべきものではないと思います。
-		<br><span class="badge badge-dark">32 likes</span>
+		<br /><span class="badge badge-dark">32 likes</span>
 	</li>
 	<div class="collapse" id="collapseOpinion0">
 	<li class="list-group-item">
 		ネットへの書き込み自体は自由です。しかし、ネットでの書き込み内容はすぐにリツイート等され、さまざまな人の目に晒されます。そのため、苦手程度ならいいが、中傷まではしていけないと思います。書き込んだことが主な要因として死亡につながったのならば、罪に問われることは当然だとおもいます。
-		<br><span class="badge badge-dark">30 likes</span>
+		<br /><span class="badge badge-dark">30 likes</span>
 	</li>
 	<li class="list-group-item">
 		ネットであろうと、直接メッセージを伝えた手段であれば侮辱や排除や攻撃などの危害を加えることは、罰するものとしてよいと思います。心を破壊することはとても悪いことです。
-		<br><span class="badge badge-dark">29 likes</span>
+		<br /><span class="badge badge-dark">29 likes</span>
 	</li>
 	<li class="list-group-item">
 		危機感を持って書き込みをするべき
-		<br><span class="badge badge-dark">28 likes</span>
+		<br /><span class="badge badge-dark">28 likes</span>
 	</li>
 	<li class="list-group-item">
 		自分の行動に責任をもつべきだと思う。
-		<br><span class="badge badge-dark">28 likes</span>
+		<br /><span class="badge badge-dark">28 likes</span>
 	</li>
 	<li class="list-group-item">
 		個人を誹謗中傷する行為はどんな理由があろうとやってはいけない行為であるため、徹底的に取り締まるべきだと考えます。罪に問われるのは当たり前だと思います。
-		<br><span class="badge badge-dark">27 likes</span>
+		<br /><span class="badge badge-dark">27 likes</span>
 	</li>
 	<li class="list-group-item">
 		SNSでならバレないだろう、大丈夫だろうと軽く考えている人がまたまだ世の中にたくさんいると思います。今回の誹謗中傷を繰り返し行っていた男は重い罪に問われるべきだと思います。今後、誹謗中傷も罪に問われるという意識が根付いて、誹謗中傷をする人が減っていくことを期待したいです。
-		<br><span class="badge badge-dark">26 likes</span>
+		<br /><span class="badge badge-dark">26 likes</span>
 	</li>
 	<li class="list-group-item">
 		中傷は、わざわざ本人に送るものではないと思うし、顔が見えないからといって軽率にそのようなコメントなどするべきではないと思います。もっと、自分の発言に責任を持つべきだと思います。
-		<br><span class="badge badge-dark">26 likes</span>
+		<br /><span class="badge badge-dark">26 likes</span>
 	</li>
 	</div>
 	<button class="btn btn-light btn-block" type="button" data-toggle="collapse" data-target="#collapseOpinion0" aria-expanded="false" aria-controls="collapseOpinion0">
@@ -112,24 +103,24 @@ img: 2020_SlanderingOnSNS/SlanderingOnSNS.png
 	<ul class="list-group list-group-flush">
 	<li class="list-group-item">
 		現在施行されている法律を下に、証拠等が十分確認できるようであれば、きちんと罰を与えるようにすべきであり、民事と刑事でも同様にすべきだと思う。
-		<br><span class="badge badge-dark">33 likes</span>
+		<br /><span class="badge badge-dark">33 likes</span>
 	</li>
 	<li class="list-group-item">
 		あくまでも現在の法律に則り判断すべきだと思う。謝罪のメールも法律上の扱いで汲み取るかどうかを判断すべきだと思う。
-		<br><span class="badge badge-dark">7 likes</span>
+		<br /><span class="badge badge-dark">7 likes</span>
 	</li>
 	<li class="list-group-item">
 		公人と私人で分けるべきだと思います。政治家への批判は徹底的に行っても良いと思いますが、私人に対する誹謗中傷は慎むべきです。
-		<br><span class="badge badge-dark">6 likes</span>
+		<br /><span class="badge badge-dark">6 likes</span>
 	</li>
 	<div class="collapse" id="collapseOpinion1">
 	<li class="list-group-item">
 		誹謗中傷問題は線引きが非常に難しいので、司法判断は慎重にならざるを得ないと思います。どうしても主観が入ってしまうので。司法の専門家に任せた方がいいと考えます。
-		<br><span class="badge badge-dark">5 likes</span>
+		<br /><span class="badge badge-dark">5 likes</span>
 	</li>
 	<li class="list-group-item">
 		匿名で顔と名前を出さずに誹謗中傷することに対して刑罰を設ける必要はないと感じます。私は中学生の頃からスマホを自然に使って来た世代なので、匿名であることないことを発言する人がいることに慣れています。確かに知らない人から執拗に中傷されると誰でも傷つきますが、SNSではそういう人が多いですし匿名だと過激な発言になりがちなものだと思います。匿名での中傷を刑罰化するとSNSが窮屈なものになって誰も発言しなくなる可能性があるかもしれません。匿名で発言する人は自分に自信が無い哀れな人がやる事というのが常識になるように教育や価値観が変わっていけば良いと思います。
-		<br><span class="badge badge-dark">5 likes</span>
+		<br /><span class="badge badge-dark">5 likes</span>
 	</li>
 	</div>
 	<button class="btn btn-light btn-block" type="button" data-toggle="collapse" data-target="#collapseOpinion1" aria-expanded="false" aria-controls="collapseOpinion1">
@@ -138,9 +129,7 @@ img: 2020_SlanderingOnSNS/SlanderingOnSNS.png
 	</ul>
 </div>
 
-
-
-### 2. 首相発言批判と書類送検
+<h3 id="2-首相発言批判と書類送検">2. 首相発言批判と書類送検</h3>
 
 <div class="jumbotron py-2">
 <p>
@@ -150,7 +139,7 @@ img: 2020_SlanderingOnSNS/SlanderingOnSNS.png
 〔背景〕 男は複数回にわたって中傷を繰り返した/その首相のツイッターに投稿された誹謗中傷は数百件に上る/ 首相は医師からストレス障害の診断を受けている
 </p>
 </div>
-（インタラクティブな図です）
+<p>（インタラクティブな図です）</p>
 
 <div>                        <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
         <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>                <div id="7eeddbf3-6b57-43f0-8f72-04c4010dbadf" class="plotly-graph-div" style="height:100%; width:100%;"></div>            <script type="text/javascript">                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById("7eeddbf3-6b57-43f0-8f72-04c4010dbadf")) {                    Plotly.newPlot(                        "7eeddbf3-6b57-43f0-8f72-04c4010dbadf",                        [{"branchvalues": "total", "customdata": [[73.0], [11.0], [96.0], [6.0], [61.0], [5.0], [75.0], [11.0], [67.53731343283582], [9.125], [86.78947368421052], [9.235294117647058], [78.33114754098361], [9.181818181818182]], "domain": {"x": [0.0, 1.0], "y": [0.0, 1.0]}, "hovertemplate": "labels=%{label}<br>Count_sum=%{value}<br>parent=%{parent}<br>id=%{id}<br>Count=%{color}<extra></extra>", "ids": ["\u88c1\u304b\u308c\u308b\u3079\u304d/\u521d\u56de/\u5973\u6027", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044/\u521d\u56de/\u5973\u6027", "\u88c1\u304b\u308c\u308b\u3079\u304d/\u975e\u521d\u56de/\u5973\u6027", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044/\u975e\u521d\u56de/\u5973\u6027", "\u88c1\u304b\u308c\u308b\u3079\u304d/\u521d\u56de/\u7537\u6027", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044/\u521d\u56de/\u7537\u6027", "\u88c1\u304b\u308c\u308b\u3079\u304d/\u975e\u521d\u56de/\u7537\u6027", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044/\u975e\u521d\u56de/\u7537\u6027", "\u88c1\u304b\u308c\u308b\u3079\u304d/\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044/\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d/\u975e\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044/\u975e\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044"], "labels": ["\u5973\u6027", "\u5973\u6027", "\u5973\u6027", "\u5973\u6027", "\u7537\u6027", "\u7537\u6027", "\u7537\u6027", "\u7537\u6027", "\u521d\u56de", "\u521d\u56de", "\u975e\u521d\u56de", "\u975e\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044"], "marker": {"coloraxis": "coloraxis", "colors": [73.0, 11.0, 96.0, 6.0, 61.0, 5.0, 75.0, 11.0, 67.53731343283582, 9.125, 86.78947368421052, 9.235294117647058, 78.33114754098361, 9.181818181818182]}, "name": "", "parents": ["\u88c1\u304b\u308c\u308b\u3079\u304d/\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044/\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d/\u975e\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044/\u975e\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d/\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044/\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d/\u975e\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044/\u975e\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044", "\u88c1\u304b\u308c\u308b\u3079\u304d", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044", "", ""], "type": "sunburst", "values": [73, 11, 96, 6, 61, 5, 75, 11, 134, 16, 171, 17, 305, 33]}],                        {"coloraxis": {"colorbar": {"title": {"text": "Count"}}, "colorscale": [[0.0, "rgb(75, 41, 145)"], [0.16666666666666666, "rgb(135, 44, 162)"], [0.3333333333333333, "rgb(192, 54, 157)"], [0.5, "rgb(234, 79, 136)"], [0.6666666666666666, "rgb(250, 120, 118)"], [0.8333333333333334, "rgb(246, 169, 122)"], [1.0, "rgb(237, 217, 163)"]]}, "legend": {"tracegroupgap": 0}, "margin": {"t": 60}, "template": {"data": {"bar": [{"error_x": {"color": "#2a3f5f"}, "error_y": {"color": "#2a3f5f"}, "marker": {"line": {"color": "#E5ECF6", "width": 0.5}}, "type": "bar"}], "barpolar": [{"marker": {"line": {"color": "#E5ECF6", "width": 0.5}}, "type": "barpolar"}], "carpet": [{"aaxis": {"endlinecolor": "#2a3f5f", "gridcolor": "white", "linecolor": "white", "minorgridcolor": "white", "startlinecolor": "#2a3f5f"}, "baxis": {"endlinecolor": "#2a3f5f", "gridcolor": "white", "linecolor": "white", "minorgridcolor": "white", "startlinecolor": "#2a3f5f"}, "type": "carpet"}], "choropleth": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "choropleth"}], "contour": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "contour"}], "contourcarpet": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "contourcarpet"}], "heatmap": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "heatmap"}], "heatmapgl": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "heatmapgl"}], "histogram": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "histogram"}], "histogram2d": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "histogram2d"}], "histogram2dcontour": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "histogram2dcontour"}], "mesh3d": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "mesh3d"}], "parcoords": [{"line": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "parcoords"}], "pie": [{"automargin": true, "type": "pie"}], "scatter": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatter"}], "scatter3d": [{"line": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatter3d"}], "scattercarpet": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattercarpet"}], "scattergeo": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattergeo"}], "scattergl": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattergl"}], "scattermapbox": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattermapbox"}], "scatterpolar": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterpolar"}], "scatterpolargl": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterpolargl"}], "scatterternary": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterternary"}], "surface": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "surface"}], "table": [{"cells": {"fill": {"color": "#EBF0F8"}, "line": {"color": "white"}}, "header": {"fill": {"color": "#C8D4E3"}, "line": {"color": "white"}}, "type": "table"}]}, "layout": {"annotationdefaults": {"arrowcolor": "#2a3f5f", "arrowhead": 0, "arrowwidth": 1}, "autotypenumbers": "strict", "coloraxis": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "colorscale": {"diverging": [[0, "#8e0152"], [0.1, "#c51b7d"], [0.2, "#de77ae"], [0.3, "#f1b6da"], [0.4, "#fde0ef"], [0.5, "#f7f7f7"], [0.6, "#e6f5d0"], [0.7, "#b8e186"], [0.8, "#7fbc41"], [0.9, "#4d9221"], [1, "#276419"]], "sequential": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "sequentialminus": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]]}, "colorway": ["#636efa", "#EF553B", "#00cc96", "#ab63fa", "#FFA15A", "#19d3f3", "#FF6692", "#B6E880", "#FF97FF", "#FECB52"], "font": {"color": "#2a3f5f"}, "geo": {"bgcolor": "white", "lakecolor": "white", "landcolor": "#E5ECF6", "showlakes": true, "showland": true, "subunitcolor": "white"}, "hoverlabel": {"align": "left"}, "hovermode": "closest", "mapbox": {"style": "light"}, "paper_bgcolor": "white", "plot_bgcolor": "#E5ECF6", "polar": {"angularaxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}, "bgcolor": "#E5ECF6", "radialaxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}}, "scene": {"xaxis": {"backgroundcolor": "#E5ECF6", "gridcolor": "white", "gridwidth": 2, "linecolor": "white", "showbackground": true, "ticks": "", "zerolinecolor": "white"}, "yaxis": {"backgroundcolor": "#E5ECF6", "gridcolor": "white", "gridwidth": 2, "linecolor": "white", "showbackground": true, "ticks": "", "zerolinecolor": "white"}, "zaxis": {"backgroundcolor": "#E5ECF6", "gridcolor": "white", "gridwidth": 2, "linecolor": "white", "showbackground": true, "ticks": "", "zerolinecolor": "white"}}, "shapedefaults": {"line": {"color": "#2a3f5f"}}, "ternary": {"aaxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}, "baxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}, "bgcolor": "#E5ECF6", "caxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}}, "title": {"x": 0.05}, "xaxis": {"automargin": true, "gridcolor": "white", "linecolor": "white", "ticks": "", "title": {"standoff": 15}, "zerolinecolor": "white", "zerolinewidth": 2}, "yaxis": {"automargin": true, "gridcolor": "white", "linecolor": "white", "ticks": "", "title": {"standoff": 15}, "zerolinecolor": "white", "zerolinewidth": 2}}}},                        {"responsive": true}                    )                };                            </script>        </div>
@@ -162,44 +151,44 @@ img: 2020_SlanderingOnSNS/SlanderingOnSNS.png
 	<ul class="list-group list-group-flush">
 	<li class="list-group-item">
 		投稿内容の事実関係の確認をした上で、数百回渡る中傷の正当性を問う。これほどまでき執拗にシェアしたことによる精神的苦痛は立件されてもおかしくはないと思う。
-		<br><span class="badge badge-dark">28 likes</span>
+		<br /><span class="badge badge-dark">28 likes</span>
 	</li>
 	<li class="list-group-item">
 		一般的にネットでの発言は「自由」が原則だと思いますが、特定の人間の身体・生命に悪影響を及ぼすような度を越えた発言は当然許されるべきではなく、刑事罰を課すことは尤もな事だと考えます。
-		<br><span class="badge badge-dark">25 likes</span>
+		<br /><span class="badge badge-dark">25 likes</span>
 	</li>
 	<li class="list-group-item">
 		首相の発言と中傷の内容によると思う。中傷の内容が殺すなど恐ろしいものであれば罰すべきとも思う。
-		<br><span class="badge badge-dark">17 likes</span>
+		<br /><span class="badge badge-dark">17 likes</span>
 	</li>
 	<div class="collapse" id="collapseOpinion0">
 	<li class="list-group-item">
 		政策に対する批判は自由だが、執拗な人格攻撃に対しては取り締まるべきだ。
-		<br><span class="badge badge-dark">17 likes</span>
+		<br /><span class="badge badge-dark">17 likes</span>
 	</li>
 	<li class="list-group-item">
 		何らかの罰を与えるべきだと思いますが厳重注意で良いと思います。
-		<br><span class="badge badge-dark">16 likes</span>
+		<br /><span class="badge badge-dark">16 likes</span>
 	</li>
 	<li class="list-group-item">
 		首相というのは公人なので、批判されたり、あれこれ言われるのは当然だと思います。日本では、安倍や菅のやっていることを見ていると、無茶苦茶過ぎて、批判するのは当然です。 
-		<br><span class="badge badge-dark">15 likes</span>
+		<br /><span class="badge badge-dark">15 likes</span>
 	</li>
 	<li class="list-group-item">
 		損害賠償は請求できると思います。ただ首相と言うのは公人です。様々な意見を聴くのも仕事だと思います。私人よりも損害賠償金額は少なくします。
-		<br><span class="badge badge-dark">12 likes</span>
+		<br /><span class="badge badge-dark">12 likes</span>
 	</li>
 	<li class="list-group-item">
 		言論の自由は保障されるべきことであり、何でもかんでも規制はするべきではないと思います。ただし、ある一定の立場の人、特に政治家などは人前に自ら出てきている以上、一般人よりもより批判にさらされることはむしろ必要であると思います。それでもある一定の基準で判断することは求められるので、その基準を超えた批判・中傷に対しては重い刑罰で臨むことが必要だと思います。
-		<br><span class="badge badge-dark">11 likes</span>
+		<br /><span class="badge badge-dark">11 likes</span>
 	</li>
 	<li class="list-group-item">
 		その特定のツイートのみが原因なのであれば罪だと思う。
-		<br><span class="badge badge-dark">10 likes</span>
+		<br /><span class="badge badge-dark">10 likes</span>
 	</li>
 	<li class="list-group-item">
 		難しいです。人を傷つける発言は良くないですが、言論の自由がなくなるのは怖いです。
-		<br><span class="badge badge-dark">9 likes</span>
+		<br /><span class="badge badge-dark">9 likes</span>
 	</li>
 	</div>
 	<button class="btn btn-light btn-block" type="button" data-toggle="collapse" data-target="#collapseOpinion0" aria-expanded="false" aria-controls="collapseOpinion0">
@@ -215,44 +204,44 @@ img: 2020_SlanderingOnSNS/SlanderingOnSNS.png
 	<ul class="list-group list-group-flush">
 	<li class="list-group-item">
 		侮辱すること自体が精神的苦痛を与えることだと思うので、厳しい罰を与えることは必要だと考えます
-		<br><span class="badge badge-dark">40 likes</span>
+		<br /><span class="badge badge-dark">40 likes</span>
 	</li>
 	<li class="list-group-item">
 		かなりの件数が増えてきているので、普通の刑事罰と同じように裁くべきだと思います。
-		<br><span class="badge badge-dark">28 likes</span>
+		<br /><span class="badge badge-dark">28 likes</span>
 	</li>
 	<li class="list-group-item">
 		リスクを承知して投稿する必要がある
-		<br><span class="badge badge-dark">27 likes</span>
+		<br /><span class="badge badge-dark">27 likes</span>
 	</li>
 	<div class="collapse" id="collapseOpinion1">
 	<li class="list-group-item">
 		言葉でも相手が傷つくのなら、暴力とみなします。ましてや自分の素性をさらさないという陰湿で悪質なやり方には、実刑を下すべきです。
-		<br><span class="badge badge-dark">27 likes</span>
+		<br /><span class="badge badge-dark">27 likes</span>
 	</li>
 	<li class="list-group-item">
 		ネットでの中傷は顔が見えない分悪質だと思います。実際いじめられるのと変わらない威力があり、人を追い詰めるものだと思います。それ相応の罰は必要なのではないかと思います。
-		<br><span class="badge badge-dark">27 likes</span>
+		<br /><span class="badge badge-dark">27 likes</span>
 	</li>
 	<li class="list-group-item">
 		複数回にわたって悪意のある嫌がらせ書き込みをしたのであれば逮捕しても良いと思います。
-		<br><span class="badge badge-dark">26 likes</span>
+		<br /><span class="badge badge-dark">26 likes</span>
 	</li>
 	<li class="list-group-item">
 		厳罰化するべき
-		<br><span class="badge badge-dark">24 likes</span>
+		<br /><span class="badge badge-dark">24 likes</span>
 	</li>
 	<li class="list-group-item">
 		侮辱罪以外にも、精神的にも苦痛を与えられたり、自殺に追い込まれる人もいるので罪を重くするべきだと思う。
-		<br><span class="badge badge-dark">24 likes</span>
+		<br /><span class="badge badge-dark">24 likes</span>
 	</li>
 	<li class="list-group-item">
 		ネットでの中傷により自殺においこまれる人もいるので何らかの罪に問うべきだと思います。
-		<br><span class="badge badge-dark">23 likes</span>
+		<br /><span class="badge badge-dark">23 likes</span>
 	</li>
 	<li class="list-group-item">
 		男は書類送検されて当然だと思います。ネットの誹謗中傷はいかなる理由でも許されることではありません。
-		<br><span class="badge badge-dark">23 likes</span>
+		<br /><span class="badge badge-dark">23 likes</span>
 	</li>
 	</div>
 	<button class="btn btn-light btn-block" type="button" data-toggle="collapse" data-target="#collapseOpinion1" aria-expanded="false" aria-controls="collapseOpinion1">
@@ -261,11 +250,7 @@ img: 2020_SlanderingOnSNS/SlanderingOnSNS.png
 	</ul>
 </div>
 
-
-
-
-
-### 3. 王室批判と不敬罪
+<h3 id="3-王室批判と不敬罪">3. 王室批判と不敬罪</h3>
 <div class="jumbotron py-2">
 <p>
 某国にて、ツイッターで王室批判をした男が不敬罪で逮捕されました。
@@ -274,11 +259,10 @@ img: 2020_SlanderingOnSNS/SlanderingOnSNS.png
 〔背景〕 男は複数回にわたって批判を繰り返した/某国では連日デモが行われ、王室批判が続いている
 </p>
 </div>
-（インタラクティブな図です）
+<p>（インタラクティブな図です）</p>
 
 <div>                        <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
         <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>                <div id="50aa0ef9-f89d-437e-a87c-e550a3967695" class="plotly-graph-div" style="height:100%; width:100%;"></div>            <script type="text/javascript">                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById("50aa0ef9-f89d-437e-a87c-e550a3967695")) {                    Plotly.newPlot(                        "50aa0ef9-f89d-437e-a87c-e550a3967695",                        [{"branchvalues": "total", "customdata": [[63.0], [6.0], [42.0], [4.0], [48.0], [6.0], [26.0], [4.0], [56.513513513513516], [6.0], [35.88235294117647], [4.0], [48.675977653631286], [5.2]], "domain": {"x": [0.0, 1.0], "y": [0.0, 1.0]}, "hovertemplate": "labels=%{label}<br>Count_sum=%{value}<br>parent=%{parent}<br>id=%{id}<br>Count=%{color}<extra></extra>", "ids": ["\u88c1\u304b\u308c\u308b\u3079\u304d/\u521d\u56de/\u5973\u6027", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044/\u521d\u56de/\u5973\u6027", "\u88c1\u304b\u308c\u308b\u3079\u304d/\u975e\u521d\u56de/\u5973\u6027", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044/\u975e\u521d\u56de/\u5973\u6027", "\u88c1\u304b\u308c\u308b\u3079\u304d/\u521d\u56de/\u7537\u6027", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044/\u521d\u56de/\u7537\u6027", "\u88c1\u304b\u308c\u308b\u3079\u304d/\u975e\u521d\u56de/\u7537\u6027", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044/\u975e\u521d\u56de/\u7537\u6027", "\u88c1\u304b\u308c\u308b\u3079\u304d/\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044/\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d/\u975e\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044/\u975e\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044"], "labels": ["\u5973\u6027", "\u5973\u6027", "\u5973\u6027", "\u5973\u6027", "\u7537\u6027", "\u7537\u6027", "\u7537\u6027", "\u7537\u6027", "\u521d\u56de", "\u521d\u56de", "\u975e\u521d\u56de", "\u975e\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044"], "marker": {"coloraxis": "coloraxis", "colors": [63.0, 6.0, 42.0, 4.0, 48.0, 6.0, 26.0, 4.0, 56.513513513513516, 6.0, 35.88235294117647, 4.0, 48.675977653631286, 5.2]}, "name": "", "parents": ["\u88c1\u304b\u308c\u308b\u3079\u304d/\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044/\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d/\u975e\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044/\u975e\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d/\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044/\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d/\u975e\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044/\u975e\u521d\u56de", "\u88c1\u304b\u308c\u308b\u3079\u304d", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044", "\u88c1\u304b\u308c\u308b\u3079\u304d", "\u88c1\u304b\u308c\u308b\u3079\u304d\u3067\u306f\u306a\u3044", "", ""], "type": "sunburst", "values": [63, 6, 42, 4, 48, 6, 26, 4, 111, 12, 68, 8, 179, 20]}],                        {"coloraxis": {"colorbar": {"title": {"text": "Count"}}, "colorscale": [[0.0, "rgb(75, 41, 145)"], [0.16666666666666666, "rgb(135, 44, 162)"], [0.3333333333333333, "rgb(192, 54, 157)"], [0.5, "rgb(234, 79, 136)"], [0.6666666666666666, "rgb(250, 120, 118)"], [0.8333333333333334, "rgb(246, 169, 122)"], [1.0, "rgb(237, 217, 163)"]]}, "legend": {"tracegroupgap": 0}, "margin": {"t": 60}, "template": {"data": {"bar": [{"error_x": {"color": "#2a3f5f"}, "error_y": {"color": "#2a3f5f"}, "marker": {"line": {"color": "#E5ECF6", "width": 0.5}}, "type": "bar"}], "barpolar": [{"marker": {"line": {"color": "#E5ECF6", "width": 0.5}}, "type": "barpolar"}], "carpet": [{"aaxis": {"endlinecolor": "#2a3f5f", "gridcolor": "white", "linecolor": "white", "minorgridcolor": "white", "startlinecolor": "#2a3f5f"}, "baxis": {"endlinecolor": "#2a3f5f", "gridcolor": "white", "linecolor": "white", "minorgridcolor": "white", "startlinecolor": "#2a3f5f"}, "type": "carpet"}], "choropleth": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "choropleth"}], "contour": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "contour"}], "contourcarpet": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "contourcarpet"}], "heatmap": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "heatmap"}], "heatmapgl": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "heatmapgl"}], "histogram": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "histogram"}], "histogram2d": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "histogram2d"}], "histogram2dcontour": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "histogram2dcontour"}], "mesh3d": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "mesh3d"}], "parcoords": [{"line": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "parcoords"}], "pie": [{"automargin": true, "type": "pie"}], "scatter": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatter"}], "scatter3d": [{"line": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatter3d"}], "scattercarpet": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattercarpet"}], "scattergeo": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattergeo"}], "scattergl": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattergl"}], "scattermapbox": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattermapbox"}], "scatterpolar": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterpolar"}], "scatterpolargl": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterpolargl"}], "scatterternary": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterternary"}], "surface": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "surface"}], "table": [{"cells": {"fill": {"color": "#EBF0F8"}, "line": {"color": "white"}}, "header": {"fill": {"color": "#C8D4E3"}, "line": {"color": "white"}}, "type": "table"}]}, "layout": {"annotationdefaults": {"arrowcolor": "#2a3f5f", "arrowhead": 0, "arrowwidth": 1}, "autotypenumbers": "strict", "coloraxis": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "colorscale": {"diverging": [[0, "#8e0152"], [0.1, "#c51b7d"], [0.2, "#de77ae"], [0.3, "#f1b6da"], [0.4, "#fde0ef"], [0.5, "#f7f7f7"], [0.6, "#e6f5d0"], [0.7, "#b8e186"], [0.8, "#7fbc41"], [0.9, "#4d9221"], [1, "#276419"]], "sequential": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "sequentialminus": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]]}, "colorway": ["#636efa", "#EF553B", "#00cc96", "#ab63fa", "#FFA15A", "#19d3f3", "#FF6692", "#B6E880", "#FF97FF", "#FECB52"], "font": {"color": "#2a3f5f"}, "geo": {"bgcolor": "white", "lakecolor": "white", "landcolor": "#E5ECF6", "showlakes": true, "showland": true, "subunitcolor": "white"}, "hoverlabel": {"align": "left"}, "hovermode": "closest", "mapbox": {"style": "light"}, "paper_bgcolor": "white", "plot_bgcolor": "#E5ECF6", "polar": {"angularaxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}, "bgcolor": "#E5ECF6", "radialaxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}}, "scene": {"xaxis": {"backgroundcolor": "#E5ECF6", "gridcolor": "white", "gridwidth": 2, "linecolor": "white", "showbackground": true, "ticks": "", "zerolinecolor": "white"}, "yaxis": {"backgroundcolor": "#E5ECF6", "gridcolor": "white", "gridwidth": 2, "linecolor": "white", "showbackground": true, "ticks": "", "zerolinecolor": "white"}, "zaxis": {"backgroundcolor": "#E5ECF6", "gridcolor": "white", "gridwidth": 2, "linecolor": "white", "showbackground": true, "ticks": "", "zerolinecolor": "white"}}, "shapedefaults": {"line": {"color": "#2a3f5f"}}, "ternary": {"aaxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}, "baxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}, "bgcolor": "#E5ECF6", "caxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}}, "title": {"x": 0.05}, "xaxis": {"automargin": true, "gridcolor": "white", "linecolor": "white", "ticks": "", "title": {"standoff": 15}, "zerolinecolor": "white", "zerolinewidth": 2}, "yaxis": {"automargin": true, "gridcolor": "white", "linecolor": "white", "ticks": "", "title": {"standoff": 15}, "zerolinecolor": "white", "zerolinewidth": 2}}}},                        {"responsive": true}                    )                };                            </script>        </div>
-
 
 <div class="card">
 	<div class="card-header">
@@ -287,44 +271,44 @@ img: 2020_SlanderingOnSNS/SlanderingOnSNS.png
 	<ul class="list-group list-group-flush">
 	<li class="list-group-item">
 		王室批判に限らずあまりにも悪質かつシツこい中傷をされる方は処罰されて当然かなっておもいます。そのような輩はどんどん重罪に化すべきです。
-		<br><span class="badge badge-dark">19 likes</span>
+		<br /><span class="badge badge-dark">19 likes</span>
 	</li>
 	<li class="list-group-item">
 		王室に限らずあまりに酷い中傷などは裁かれるべきだと思う。
-		<br><span class="badge badge-dark">17 likes</span>
+		<br /><span class="badge badge-dark">17 likes</span>
 	</li>
 	<li class="list-group-item">
 		ネットでの中傷は現在深刻な問題となっております。自殺者まで出るほどネットでの心ない言葉は人の心を傷つけます。そのため、中傷を行った人は厳しい罰を与えるべきと思います。そうしないと減らないと考えます。
-		<br><span class="badge badge-dark">16 likes</span>
+		<br /><span class="badge badge-dark">16 likes</span>
 	</li>
 	<div class="collapse" id="collapseOpinion0">
 	<li class="list-group-item">
 		匿名だからといって何でも発言して良いわけではない。限度を超える内容・相手に肉体的精神的苦痛をもたらしたのであれば、罰せられるべきと考えます。
-		<br><span class="badge badge-dark">16 likes</span>
+		<br /><span class="badge badge-dark">16 likes</span>
 	</li>
 	<li class="list-group-item">
 		適切な罪で処罰すべき
-		<br><span class="badge badge-dark">15 likes</span>
+		<br /><span class="badge badge-dark">15 likes</span>
 	</li>
 	<li class="list-group-item">
 		常軌を逸した執拗な攻撃は犯罪です。
-		<br><span class="badge badge-dark">14 likes</span>
+		<br /><span class="badge badge-dark">14 likes</span>
 	</li>
 	<li class="list-group-item">
 		ネットであろうと同じように処罰すると思います。
-		<br><span class="badge badge-dark">13 likes</span>
+		<br /><span class="badge badge-dark">13 likes</span>
 	</li>
 	<li class="list-group-item">
 		有罪になると考えます。なぜなら自身の考えによって社会に影響を及ぼしたからです。個人でどう考えようとそれは個人の自由ではありますが、デモによって他人を巻き添えにして不利益を被る人間が出るのであればそれは罪人になると考えています。
-		<br><span class="badge badge-dark">12 likes</span>
+		<br /><span class="badge badge-dark">12 likes</span>
 	</li>
 	<li class="list-group-item">
 		過去の書き込みも考慮して判断する
-		<br><span class="badge badge-dark">11 likes</span>
+		<br /><span class="badge badge-dark">11 likes</span>
 	</li>
 	<li class="list-group-item">
 		ネットだからと言ってなんでも言っていいことはないと思います。刑罰が必要です。
-		<br><span class="badge badge-dark">11 likes</span>
+		<br /><span class="badge badge-dark">11 likes</span>
 	</li>
 	</div>
 	<button class="btn btn-light btn-block" type="button" data-toggle="collapse" data-target="#collapseOpinion0" aria-expanded="false" aria-controls="collapseOpinion0">
@@ -340,44 +324,44 @@ img: 2020_SlanderingOnSNS/SlanderingOnSNS.png
 	<ul class="list-group list-group-flush">
 	<li class="list-group-item">
 		自分が司法に関わるとしたら、すぐには「不敬罪」にはしないです。中傷の内容で判断したいと思います。 全くのデマやでたらめの場合は刑罰を考えたいと思います。
-		<br><span class="badge badge-dark">18 likes</span>
+		<br /><span class="badge badge-dark">18 likes</span>
 	</li>
 	<li class="list-group-item">
 		王室批判自体は、言論の自由がある以上認められるべきであるし、連日デモが行われたとしても男自身がデモを主導したのではないのなら、そのデモは国民全体の意思であり、批判を繰り返した男だけを罪に問うのは間違っていると思う。
-		<br><span class="badge badge-dark">17 likes</span>
+		<br /><span class="badge badge-dark">17 likes</span>
 	</li>
 	<li class="list-group-item">
 		根拠があっての批判は、別に問題ないと考えます。ただの悪口であれば、誹謗中傷として取り締まるべきと考えます。 
-		<br><span class="badge badge-dark">16 likes</span>
+		<br /><span class="badge badge-dark">16 likes</span>
 	</li>
 	<div class="collapse" id="collapseOpinion1">
 	<li class="list-group-item">
 		言論の自由は保障されるべきです。ただ、書き込んだ内容が限度を超える誹謗中傷である場合、罰せられるべきです。
-		<br><span class="badge badge-dark">15 likes</span>
+		<br /><span class="badge badge-dark">15 likes</span>
 	</li>
 	<li class="list-group-item">
 		王室の人がどう捉えているかの情報がないので、判断が難しい。その国の王室が正しいのか正しくないのかも判断が難しいので、正しい意見かも知れず、広く意見を聞き、慎重に判断して欲しい。
-		<br><span class="badge badge-dark">15 likes</span>
+		<br /><span class="badge badge-dark">15 likes</span>
 	</li>
 	<li class="list-group-item">
 		この場合、その批判が国の存亡や国民の安寧を脅かしたり、思想的なもので暴動等を先導する様なものであれば処罰されるものと考えるが、対象に明らかな問題があったことに起因しているのであれば、その限りではない様に思う。
-		<br><span class="badge badge-dark">13 likes</span>
+		<br /><span class="badge badge-dark">13 likes</span>
 	</li>
 	<li class="list-group-item">
 		それによって王室が被った被害を具体的かつ客観的に分析する必要があると思う。 特に大きな損害がない場合、言論の自由を許容する必要がある。
-		<br><span class="badge badge-dark">13 likes</span>
+		<br /><span class="badge badge-dark">13 likes</span>
 	</li>
 	<li class="list-group-item">
 		政府に対する批判は容認されるのに、王室を批判すると不敬罪で逮捕と言うのは疑問が残る。もちろん個人攻撃は全く容認できないが、デモを先導したのでなければ、たとえ王室が相手でも批判するのは言論の自由の範疇ではないだろうか。
-		<br><span class="badge badge-dark">12 likes</span>
+		<br /><span class="badge badge-dark">12 likes</span>
 	</li>
 	<li class="list-group-item">
 		批判をしただけでは中傷には当たらないと思う。
-		<br><span class="badge badge-dark">11 likes</span>
+		<br /><span class="badge badge-dark">11 likes</span>
 	</li>
 	<li class="list-group-item">
 		中傷内容にもよる。例えば殺害予告などは罰するべき。単なる誹謗中傷は度を越えないようなら厳重注意にとどめておく。
-		<br><span class="badge badge-dark">11 likes</span>
+		<br /><span class="badge badge-dark">11 likes</span>
 	</li>
 	</div>
 	<button class="btn btn-light btn-block" type="button" data-toggle="collapse" data-target="#collapseOpinion1" aria-expanded="false" aria-controls="collapseOpinion1">
@@ -386,61 +370,78 @@ img: 2020_SlanderingOnSNS/SlanderingOnSNS.png
 	</ul>
 </div>
 
+<h2 id="最後に">最後に</h2>
 
-## 最後に
+<p>全体的な回答傾向としては、どの場合も、刑罰に賛成する意見が多い結果となりました<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote">2</a></sup>。</p>
 
-全体的な回答傾向としては、どの場合も、刑罰に賛成する意見が多い結果となりました[^1]。
-
-ネットでの中傷が、中傷される人を自殺等へ追い込んでしまうことがあることから、厳しく取り締まるべきだという意見がある一方で、慎重派の意見も見られました。
+<p>ネットでの中傷が、中傷される人を自殺等へ追い込んでしまうことがあることから、厳しく取り締まるべきだという意見がある一方で、慎重派の意見も見られました。
 慎重派は、必ずしも刑罰に対して反対という意味ではなく、条件付きで正当化されるというものもあります。
 第1回目の「慎重派」グループは、裁かれるべきではないという意見群というよりも、主に法律に照らし合わせるべきという意見が多く、その意味で、2回目・3回目の「慎重派・裁かれるべきではない」グループとは少し違うようにも見えます。
-また、公人か私人かの区別に焦点を当てられたものもありました。
+また、公人か私人かの区別に焦点を当てられたものもありました。</p>
 
-1回目の調査は、自殺に追い込まれた著名人に対する中傷であり、犯人への刑罰を求める傾向が高いことは予想されますが、第2回目以降の回答も、1回目の調査内容に影響を受けている可能性は少なからずあります[^2]。
-1回目の調査に参加していない回答者も、1回目の回答募集の内容は閲覧し、質問内容から影響を受けているかもしれません。
+<p>1回目の調査は、自殺に追い込まれた著名人に対する中傷であり、犯人への刑罰を求める傾向が高いことは予想されますが、第2回目以降の回答も、1回目の調査内容に影響を受けている可能性は少なからずあります<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote">3</a></sup>。
+1回目の調査に参加していない回答者も、1回目の回答募集の内容は閲覧し、質問内容から影響を受けているかもしれません。</p>
 
-本調査で収集された意見文章は、利用規約への同意のもと公開していますが、もし侮辱容疑の男がこのページを見て自殺に追い込まれた場合は、どうなるのでしょうか[^3]。
+<p>本調査で収集された意見文章は、利用規約への同意のもと公開していますが、もし侮辱容疑の男がこのページを見て自殺に追い込まれた場合は、どうなるのでしょうか<sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote">4</a></sup>。</p>
 
+<p>様々な視点からの意見が予想される興味深いテーマがあれば、<a href="mailto:request@aska.systems">request@aska.systems</a>まで、ご意見お寄せください。</p>
 
-様々な視点からの意見が予想される興味深いテーマがあれば、<a href="mailto:request@aska.systems">request@aska.systems</a>まで、ご意見お寄せください。
-
-[^1]: ネット上での意見は、過激な意見に偏る傾向があるということが指摘されていますが、クラウドソーシングでのサンプルにどの程度当てはまるかは、定かではありません。
-[^2]: 実は、他人の回答が見えることによるプライミングの影響を極力除いた分析も可能です。しかし、それをしても全体的な傾向は大きく変化しませんでした。
-[^3]: この例は、今回の質問で想定した状況とは少し異なります。直接個人へ中傷する意図があったかというのも大きなポイントかと思います。「直接メッセージを伝えたか」という論点は、今回の調査の回答にも出てきていますね。
-
-
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="Aska_systems_jp" data-hashtags="Aska" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
+<p><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="Aska_systems_jp" data-hashtags="Aska" data-show-count="false">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
 <!-- ## 詳細 -->
 
-
-| Summary | |
-|------|------|
-|  | 第1回 | 第2回 | 第3回 |
-| 期間 | 2020/12/18 | 2020/12/19 | 2020/12/21 |
-| 回答者数 | 321 | 340 | 201 |
-| 回答意見数 | 229 | 251 | 145 |
-| 初期回答数 | 0 | 0 | 0 |
-| プラットフォーム | Crowdworks | Crowdworks | Crowdworks |
-{: .table .table-striped .table-hover}
-
-
-
-
-
-
-
-
-
-
-
-
+<table class="table table-striped table-hover">
+  <thead>
+    <tr>
+      <th>Summary</th>
+      <th> </th>
+      <th> </th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> </td>
+      <td>第1回</td>
+      <td>第2回</td>
+      <td>第3回</td>
+    </tr>
+    <tr>
+      <td>期間</td>
+      <td>2020/12/18</td>
+      <td>2020/12/19</td>
+      <td>2020/12/21</td>
+    </tr>
+    <tr>
+      <td>回答者数</td>
+      <td>321</td>
+      <td>340</td>
+      <td>201</td>
+    </tr>
+    <tr>
+      <td>回答意見数</td>
+      <td>229</td>
+      <td>251</td>
+      <td>145</td>
+    </tr>
+    <tr>
+      <td>初期回答数</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>プラットフォーム</td>
+      <td>Crowdworks</td>
+      <td>Crowdworks</td>
+      <td>Crowdworks</td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- **Palette diagram**
 
-<img src="{{site.baseurl}}/images/2020_CriminalGPS/linear_palette_diagram.jpg" alt="fig_group_size"
+<img src="/jp/images/2020_CriminalGPS/linear_palette_diagram.jpg" alt="fig_group_size"
 style = "
   width: 650px;
   border: none;
@@ -456,19 +457,29 @@ style = "
 [^0]: パレットダイアグラムに関する詳細は[こちら](https://github.com/palette-diagram/palette-diagram)をご覧ください。
  -->
 
+<p><br /></p>
 
-
-
-<br>
-
-
-
-
-
----
-この結果を引用される場合は十分にご注意ください。
+<hr />
+<p>この結果を引用される場合は十分にご注意ください。
 本調査はデモの一環として実施しているものであり、学術的な信頼性はないとお考えください。
-本格的な調査に興味がある方は、<a href="mailto:request@aska.systems">request@aska.systems</a>までご相談ください。
+本格的な調査に興味がある方は、<a href="mailto:request@aska.systems">request@aska.systems</a>までご相談ください。</p>
 
-ここで掲載している調査の目的は、Askaシステムの挙動の実証実験です。
-意見のバラエティを増やすために、あえてバイアスのかかった質問の仕方をすることもありますが、その場合は、バイアス下での結果であることを十分にご注意ください。
+<p>ここで掲載している調査の目的は、Askaシステムの挙動の実証実験です。
+意見のバラエティを増やすために、あえてバイアスのかかった質問の仕方をすることもありますが、その場合は、バイアス下での結果であることを十分にご注意ください。</p>
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:0" role="doc-endnote">
+      <p>具体的な事例を想像される方もいると思いますが、ここでは例え話として扱っています。 <a href="#fnref:0" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:1" role="doc-endnote">
+      <p>ネット上での意見は、過激な意見に偏る傾向があるということが指摘されていますが、クラウドソーシングでのサンプルにどの程度当てはまるかは、定かではありません。 <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>実は、他人の回答が見えることによるプライミングの影響を極力除いた分析も可能です。しかし、それをしても全体的な傾向は大きく変化しませんでした。 <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:3" role="doc-endnote">
+      <p>この例は、今回の質問で想定した状況とは少し異なります。直接個人へ中傷する意図があったかというのも大きなポイントかと思います。「直接メッセージを伝えたか」という論点は、今回の調査の回答にも出てきていますね。 <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET
