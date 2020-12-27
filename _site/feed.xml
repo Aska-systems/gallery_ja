@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/jp/</link>
     <atom:link href="http://localhost:4000/jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 27 Dec 2020 00:46:25 +0900</pubDate>
-    <lastBuildDate>Sun, 27 Dec 2020 00:46:25 +0900</lastBuildDate>
+    <pubDate>Sun, 27 Dec 2020 09:05:20 +0900</pubDate>
+    <lastBuildDate>Sun, 27 Dec 2020 09:05:20 +0900</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -16,7 +16,7 @@
 
 &lt;h2 id=&quot;はじめに&quot;&gt;はじめに&lt;/h2&gt;
 &lt;p&gt;ネットでの中傷・批判について、どう扱われるべきかについては、様々な意見があります。
-今回は、３つのケースをテーマに、人々の意見がどう変化するかを調査しました&lt;sup id=&quot;fnref:0&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:0&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;：&lt;/p&gt;
+今回は３つのケースを背景に、ネット上での中傷と刑事罰について、人々の意見を募集しました&lt;sup id=&quot;fnref:0&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:0&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;：&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;著名人の自殺に関連して、ツイッターで中傷した男が侮辱容疑で書類送検される&lt;/li&gt;
@@ -50,6 +50,9 @@
 &lt;/p&gt;
 &lt;p&gt;
 〔背景〕 男は複数回にわたって中傷を繰り返した/その著名人のツイッターに投稿された誹謗中傷は数百件に上る/ 男は６月、「自殺に追い込んだ一人です」と遺族にメールを送って謝罪している
+&lt;/p&gt;
+&lt;p&gt;
+	あなたが司法に関わるとしたら、ネットでの中傷について、どう判断すべきと考えますか？
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;（インタラクティブな図です）&lt;/p&gt;
@@ -151,6 +154,9 @@
 &lt;/p&gt;
 &lt;p&gt;
 〔背景〕 男は複数回にわたって中傷を繰り返した/その首相のツイッターに投稿された誹謗中傷は数百件に上る/ 首相は医師からストレス障害の診断を受けている
+&lt;/p&gt;
+&lt;p&gt;
+	あなたが司法に関わるとしたら、ネットでの中傷について、どう判断すべきと考えますか？
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;（インタラクティブな図です）&lt;/p&gt;
@@ -271,6 +277,9 @@
 &lt;/p&gt;
 &lt;p&gt;
 〔背景〕 男は複数回にわたって批判を繰り返した/某国では連日デモが行われ、王室批判が続いている
+&lt;/p&gt;
+&lt;p&gt;
+	あなたが司法に関わるとしたら、ネットでの中傷について、どう判断すべきと考えますか？
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;（インタラクティブな図です）&lt;/p&gt;
