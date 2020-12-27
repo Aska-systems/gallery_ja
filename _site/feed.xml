@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/jp/</link>
     <atom:link href="http://localhost:4000/jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 27 Dec 2020 09:09:08 +0900</pubDate>
-    <lastBuildDate>Sun, 27 Dec 2020 09:09:08 +0900</lastBuildDate>
+    <pubDate>Sun, 27 Dec 2020 09:10:26 +0900</pubDate>
+    <lastBuildDate>Sun, 27 Dec 2020 09:10:26 +0900</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -26,11 +26,10 @@
 
 &lt;p&gt;これらはどれもネットでの中傷・批判に対して、刑罰が下されたという設定です。
 しかし、それぞれ批判される側の立ち位置が異なったり、刑罰の名目が異なります。
-それぞれ背景を追加していますが（後述）、メインの質問文は次に統一されています：&lt;/p&gt;
+それぞれ背景説明を追加していますが（後述）、メインの質問文は次に統一されています：&lt;/p&gt;
 
 &lt;div class=&quot;jumbotron&quot;&gt;
   &lt;h4&gt;あなたが司法に関わるとしたら、ネットでの中傷について、どう判断すべきと考えますか？&lt;/h4&gt;
-  &lt;!-- &lt;label&gt;&lt;i&gt;性犯罪者にGPSの装着を義務付けることが、昨今日本でも検討されています。犯罪予防・人権問題・法制度など幅広い観点から、ご意見を募集します。&lt;/i&gt;&lt;/label&gt; --&gt;
 &lt;/div&gt;
 
 &lt;p&gt;これらの調査は一度に実施したのではなく、別々の日に実施されています。
