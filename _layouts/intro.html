@@ -1,9 +1,14 @@
-<!doctype html>
+---
+layout: compress
+--- 
+
+<!DOCTYPE html>
 <html>
+
   {% include head.html %}
   <head>
 
-    <style>
+<!--     <style>
       .bd-placeholder-img {
         font-size: 1.125rem;
         text-anchor: middle;
@@ -15,278 +20,22 @@
         }
       }
 
-      .movie-wrap {
-           position: relative;
-           padding-bottom: 56.25%;
-           height: 0;
-           overflow: hidden;
-      }
-       
-      .movie-wrap iframe {
-           position: absolute;
-           top: 0;
-           left: 0;
-           width: 100%;
-           height: 100%;
-      }      
-    </style>
+    </style> -->
     <!-- Custom styles for this template -->
-    <link href="../css/pricing.css" rel="stylesheet">
+    <link href="./css/pricing.css" rel="stylesheet">
   </head>
 
   <body>
     {% include header.html %}
 
-    <div class="pricing-header px-3 py-3 pt-md-5 pb-md-5 mx-auto">
-      <div class="row">
-        <div class="col-5 py-5 col-md">
-          <h1 class="display-4 pt-3">
-            Aska
-          </h1>
-          <p class="lead small">(投票クラスタリング)</p>
-          <p class="lead text-muted">Opinion-sharing platform</p>
-          <a href="{{site.baseurl}}/" role="button" class="btn btn-lg btn-dark btn-small mb-2">Gallery</a>
-          <a href="javascript:OnLinkClick();" role="button" class="btn btn-outline-dark btn-small mb-2">
-            How Aska works <!-- See how it works -->
-          </a>
-          <blockquote class="blockquote text-left mt-5 mb-0 d-none d-sm-block">
-            <p class="mb-0 font-italic small">"Freedom of speech doesn't mean very much if you can't figure out what it is that you want to say."</p>
-            <footer class="blockquote-footer"><cite title="">Edward Snowden</cite></footer>
-          </blockquote>
-        </div>
-        <div class="col-7 py-5 col-md">
-          <div class="card shadow">
-            <img src="{{site.baseurl}}/images/screenshot_main.png" class="img-thumbnail">
-          </div>        
-        </div>
-      </div>
 
-    </div>
+    {{ content }}
 
-      <!-- <div class="row">
-          <div class="col-12 col-md">
-          <div class="card flex-md-row mb-4 shadow-sm h-md-250">
-            <div class="card-body d-flex flex-column align-items-start">
-              <strong class="d-inline-block mb-2 text-success">NEWS</strong>
-              <h3 class="mb-0">
-                <a class="text-dark" href="#">Featured post</a>
-              </h3>
-              <div class="mb-1 text-muted">Nov 12</div>
-              <p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
-            </div>
-            <img class="card-img-right flex-auto d-none d-lg-block" data-src="holder.js/200x250?theme=thumb" alt="Card image cap">
-          </div>
-          </div>
-      </div> -->
-
-
-
-
-<div class="container" id="howitworks">
-
-  <div class="row px-3 py-3 pt-md-5 pb-md-5 mx-auto">
-  <div class="col-12 col-md text-center">
-    <h2>How Aska works</h2>
-    <p class="px-3 py-3 pt-md-2 pb-md-2 mx-3">Askaは、「人々（ユーザー）に意見を出し合ってもらいたい」という方々（ホスト）へ、プラットフォームを提供いたします。</p>
-    <div class="card-deck mb-3 mt-3 text-center">
-      <div class="card mb-4 mx-4">
-        <img class="card-img-top img-fluid" src="{{site.baseurl}}/images/OpinionSharing.png" alt="OpinionSharing" style="max-width:100%;height:auto;">
-        <div class="card-body">
-          <h4 class="card-title pricing-card-title text-info">意見共有（ユーザー側）</h4>
-          <p class="card-text">
-            ユーザーは、自分の意見を書き込んだり、他人の意見を支持（"いいね"）したりします。掲示板のように使うことができます。
-            <small class="text-muted">（ユーザーのアカウント登録は不要です）</small>
-          </p>
-        </div>
-      </div>
-
-      <div class="card mb-4 mx-4">
-        <img class="card-img-top img-fluid" src="{{site.baseurl}}/images/OpinionClassification.png" alt="OpinionSharing" style="max-width:100%;height:auto;">
-        <div class="card-body">
-          <h4 class="card-title pricing-card-title text-danger">意見集約（ホスト側）</h4>
-          <p class="card-text">どんな意見が集まったか、少人数ならば把握するのは簡単です。しかし、大人数の意見が集まった場合はどうでしょうか？Askaでは、大量の意見の集約が可能です。</p>
-        </div>
-      </div>
-    </div>
-  </div>
-  </div> <!-- row -->
-
-
-  <div class="row px-3 py-3 pt-md-5 pb-md-5 mx-auto">
-  <div class="col-12 col-md text-center">
-
-    <h2>Applications</h2>
-    <p class="px-3 py-3 pt-md-2 pb-md-2 mx-5">
-      <small class="text-muted text-center">アンケートとして利用する場合、選択式質問も設置できます</small>
-    </p>
-
-    <div class="card-deck mb-3 mt-3 text-center">
-      <div class="card mb-3 shadow-sm bg-light">
-        <div class="card-body">
-          <h5>世論調査・社会科学系研究</h5>
-        </div>
-      </div>
-
-      <div class="card mb-3 shadow-sm bg-light">
-        <div class="card-body">
-          <h5>オンライン ディスカッション</h5>
-        </div>
-      </div>
-
-      <div class="card mb-3 shadow-sm bg-light">
-        <div class="card-body">
-          <h5>掲示板・コメント欄</h5>
-        </div>
-      </div>
-
-      <div class="card mb-3 shadow-sm bg-light">
-        <div class="card-body">
-          <h5>採用・研修アンケート</h5>
-        </div>
-      </div>
-
-      <div class="card mb-3 shadow-sm bg-light">
-        <div class="card-body">
-          <h5>学校内アンケート</h5>
-        </div>
-      </div>
-    </div>
-
-  </div>
-  </div> <!-- row -->
-
-
-<!--   <div class="row px-3 py-3 pt-md-5 pb-md-5 mx-auto">
-  <div class="col-12 col-md text-center">
-
-  <h2>Features</h2>
-
-  <div class="row">
-    <div class="col-6 col-md">
-      <h4>Preview (iframe)/Link</h4>
-        <div class="mx-5">
-          <div class="card shadow">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="380" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Image cap"><title>Placeholder</title><rect fill="#868e96" width="100%" height="100%"/><text fill="#dee2e6" dy=".3em" x="50%" y="50%">Image cap</text></svg>
-          </div>        
-        </div>
-
-    </div>
-    <div class="col-6 col-md">
-      <h4>Launch your demo</h4>
-      <p>どなたでもご自由に、Askaのデモを立ち上げられます。</p>
-      <button type="button" class="btn btn-lg btn-outline-dark" style="opacity: 0.3;">Demo generator</button>
-      <p><small class="text-muted">現在準備中</small></p>
-    </div>
-  </div>
-
-  </div>
-  </div> --> <!-- row -->
-
-
-  <div class="row px-3 py-3 pt-md-5 pb-md-5 mx-auto">
-  <div class="col-12 col-md">
-
-    <h2 class="text-center">Plans</h2>
-    <div class="card-deck mb-3 mt-3 text-center">
-      <div class="card mb-4 shadow-sm">
-        <div class="card-header">
-          <h4 class="my-0 font-weight-normal">Demo</h4>
-        </div>
-        <div class="card-body">
-          <h1 class="card-title pricing-card-title">¥0 <small class="text-muted">/ instance</small></h1>
-          <ul class="list-unstyled mt-3 mb-4">
-            <li>本番利用不可</li>
-            <li>投稿数上限あり</li>
-            <li>サポートなし</li>
-          </ul>
-          <button type="button" class="btn btn-lg btn-block btn-outline-dark" style="opacity: 0.3;">Demo generator</button>
-          <small class="text-muted">現在準備中</small>
-        </div>
-      </div>
-      <div class="card mb-4 shadow-sm">
-        <div class="card-header">
-          <h4 class="my-0 font-weight-normal">Standard</h4>
-        </div>
-        <div class="card-body">
-          <h1 class="card-title pricing-card-title">¥0 <small class="text-muted">/ instance</small></h1>
-          <ul class="list-unstyled mt-3 mb-4">
-            <li>本番利用可</li>
-            <li>投稿数上限解除 <small>(optional)</small></li>
-            <li>意見集約 <small>(optional)</small></li>
-            <!-- <li>パネル調達 <small>(comming)</small></li> -->
-          </ul>
-          <!-- 上記はオプションは含まれない基本料金になります。 -->
-          <a href="mailto:request@aska.systems?subject=アンケート申込&amp;body=お名前：%0D%0A ご所属：%0D%0A 質問内容（自由記述/選択式）：%0D%0A ご利用目的：" class="btn btn-lg btn-block btn-primary">リクエスト送信</a>
-          <small class="text-muted">現在はベータ版のため、利用料はかかりません。</small>
-        </div>
-      </div>
-      <div class="card mb-4 shadow-sm">
-        <div class="card-header">
-          <h4 class="my-0 font-weight-normal">Academic</h4>
-        </div>
-        <div class="card-body">
-          <h1 class="card-title pricing-card-title">¥0 <small class="text-muted">/ instance</small></h1>
-          <ul class="list-unstyled mt-3 mb-4">
-            <li>本番利用可</li>
-            <li>Standard版全機能 <small>(optional)</small></li>
-            <li>Nightly build <small>(要相談)</small></li>
-          </ul>
-          <a href="mailto:request@aska.systems?subject=【academic】アンケート申込&amp;body=お名前：%0D%0A ご所属：%0D%0A 質問内容（自由記述/選択式）：%0D%0A ご利用目的：" class="btn btn-lg btn-block btn-dark">リクエスト送信</a>
-          <small class="text-muted">現在はベータ版のため、利用料はかかりません。</small>
-        </div>
-      </div>
-    </div>
-    <p>
-      <ul>
-        <li>お申し込みいただくと、内容確認の上、アンケートシステムへの固有URLが提供されます。</li>
-        <li>1 URLにつき、1 instanceになります。</li>
-        <!-- <li>Demoには内容確認はありません。即時URLが配布されます。</li> -->
-        <li>現在、回答者パネル調達は請け負っておりませんので、ご利用者様で調査会社様等と契約していただき、Askaへ連携していただく必要あります。連携について不明な点があれば、ご相談ください。</li>
-      </ul>
-    </p>
-
-  </div>
-  </div> <!-- row -->
-
-
-
-  <footer class="pt-4 my-md-5 pt-md-5 border-top">
-    <div class="row">
-      <div class="col-12 col-md">
-<!--         <img class="mb-2" src="/docs/4.2/assets/brand/bootstrap-solid.svg" alt="" width="24" height="24"> -->
-        <h5>Contact us</h5>
-        <p class="text-muted">Askaについてご不明な点は、<a href="mailto:request@aska.systems">request@aska.systems</a>までお問合せください。</p>
-
-        <p class="text-muted">Askaは、現在ベータ版です。</p>
-        <small class="d-block mb-3 text-muted">&copy; 2015-2020</small>
-      </div>
-      <div class="col-6 col-md">
-        <h5>Citation</h5>
-        <ul class="list-unstyled text-small">
-          <li><p class="text-muted">本サイトの内容は転載可能です。ただし、その場合は本サイトの該当ページへのリンクを引用してください。</p></li>
-          <li><p class="text-muted">手法に関しての基本的なアイディアは、以下の論文に掲載されています：</p>
-          <a class="text-muted" href="https://www.nature.com/articles/s42256-019-0071-y">Tatsuro Kawamoto and Takaaki Aoki, "Democratic classification of free-format survey responses with a network-based framework," Nature Machine Intelligence (2019).</a></li>
-        </ul>
-      </div>
-      <div class="col-6 col-md">
-        <h5>About</h5>
-        <ul class="list-unstyled text-small">
-          <li><p class="text-muted">本サイトおよび本サイトでのプロジェクトは、Aska project teamによって管理・運営されています。</p></li>
-          <li><p class="text-muted">国立研究開発法人 産業技術総合研究所（産総研）が管理する投票クラスタリングのプロジェクトサイトは<a href='https://aistairc.github.io/prom-vc/'>こちら</a>へ移転しました。</p></li>
-          <li><p class="text-muted">Aska project teamは個人からなるサークル団体であり、産総研に属する団体ではありません。</p></li>
-        </ul>
-      </div>
-    </div>
-  </footer>
-</div>
-
-<script type="text/javascript">
-  function OnLinkClick() {
-    document.getElementById('howitworks').scrollIntoView({
-      behavior: 'smooth'
-    });
-  }
-</script>
-
-</body>
+    <!-- JS, Popper.js, and jQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+   {% if site.analytics %}{% include analytics.html %}{% endif %}
+  </body>
 </html>
