@@ -15,14 +15,30 @@
 
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav ml-auto">
+      <!-- Language Dropdown Menu -->
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          JP 
+          <i class="flag-icon flag-icon-jp"></i>
         </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="https://aska.systems/">US</a>
+        <div class="dropdown-menu">
+          <a href="https://aska.systems/" class="dropdown-item">
+            <i class="flag-icon flag-icon-us mr-2"></i> English
+          </a>
+          <a href="https://aska.systems/jp/" class="dropdown-item">
+            <i class="flag-icon flag-icon-jp mr-2"></i> 日本語
+          </a>
+          <!-- <a href="#" class="dropdown-item">
+            <i class="flag-icon flag-icon-de mr-2"></i> German
+          </a>
+          <a href="#" class="dropdown-item">
+            <i class="flag-icon flag-icon-fr mr-2"></i> French
+          </a>
+          <a href="#" class="dropdown-item">
+            <i class="flag-icon flag-icon-es mr-2"></i> Spanish
+          </a> -->
         </div>
-      </li>      
+      </li>
+
       <li class="nav-item active">
         <a class="nav-link" href="{{site.baseurl}}/gallery">Gallery <span class="sr-only">(current)</span></a>
       </li>
