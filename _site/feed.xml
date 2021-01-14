@@ -6,9 +6,214 @@
 </description>
     <link>http://localhost:4000/jp/</link>
     <atom:link href="http://localhost:4000/jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Jan 2021 15:05:18 +0900</pubDate>
-    <lastBuildDate>Tue, 12 Jan 2021 15:05:18 +0900</lastBuildDate>
+    <pubDate>Thu, 14 Jan 2021 10:57:20 +0900</pubDate>
+    <lastBuildDate>Thu, 14 Jan 2021 10:57:20 +0900</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>緊急事態宣言</title>
+        <description>&lt;p&gt;首都圏では緊急事態宣言が出され、他の地域でも発令が検討されています。&lt;/p&gt;
+
+&lt;h2 id=&quot;はじめに&quot;&gt;はじめに&lt;/h2&gt;
+&lt;p&gt;この調査は、首都圏で緊急事態宣言が発令され、他県でも発令が検討されている、2021/1/9 - 1/10に実施されたものです。
+今回は、具体的な問いかけはせず、この状況下での不安・不満を募集しました。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;結果&quot;&gt;結果&lt;/h2&gt;
+
+&lt;div class=&quot;jumbotron py-2&quot;&gt;
+&lt;h5&gt;あなたの不安・不満をお聞かせください&lt;/h5&gt;
+&lt;p&gt;
+首都圏では緊急事態宣言が出され、他の地域でも発令が検討されています。ご自身の実状をふまえ、コロナ禍で抱えている最も大きな不安・不満を１つお答えください。
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;（インタラクティブな図です）&lt;/p&gt;
+
+&lt;div&gt;                        &lt;script type=&quot;text/javascript&quot;&gt;window.PlotlyConfig = {MathJaxConfig: 'local'};&lt;/script&gt;
+        &lt;script src=&quot;https://cdn.plot.ly/plotly-latest.min.js&quot;&gt;&lt;/script&gt;                &lt;div id=&quot;6d8169ed-03bd-46cb-b075-1ce988ffa586&quot; class=&quot;plotly-graph-div&quot; style=&quot;height:100%; width:100%;&quot;&gt;&lt;/div&gt;            &lt;script type=&quot;text/javascript&quot;&gt;                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById(&quot;6d8169ed-03bd-46cb-b075-1ce988ffa586&quot;)) {                    Plotly.newPlot(                        &quot;6d8169ed-03bd-46cb-b075-1ce988ffa586&quot;,                        [{&quot;branchvalues&quot;: &quot;total&quot;, &quot;customdata&quot;: [[82.0], [32.0], [73.0], [58.0], [24.0], [39.0], [72.05714285714286], [28.571428571428573], [61.160714285714285]], &quot;domain&quot;: {&quot;x&quot;: [0.0, 1.0], &quot;y&quot;: [0.0, 1.0]}, &quot;hovertemplate&quot;: &quot;labels=%{label}&lt;br&gt;Count_sum=%{value}&lt;br&gt;parent=%{parent}&lt;br&gt;id=%{id}&lt;br&gt;Count=%{color}&lt;extra&gt;&lt;/extra&gt;&quot;, &quot;ids&quot;: [&quot;\u305d\u306e\u4ed6\u306e\u5730\u57df/\u611f\u67d3\u30fb\u4ed5\u4e8b\u7b49\u3078\u306e\u4e0d\u5b89&quot;, &quot;\u95a2\u897f\u90fd\u5e02\u90e8/\u611f\u67d3\u30fb\u4ed5\u4e8b\u7b49\u3078\u306e\u4e0d\u5b89&quot;, &quot;\u9996\u90fd\u570f/\u611f\u67d3\u30fb\u4ed5\u4e8b\u7b49\u3078\u306e\u4e0d\u5b89&quot;, &quot;\u305d\u306e\u4ed6\u306e\u5730\u57df/\u7dca\u6025\u4e8b\u614b\u5ba3\u8a00\u3078\u306e\u61d0\u7591&quot;, &quot;\u95a2\u897f\u90fd\u5e02\u90e8/\u7dca\u6025\u4e8b\u614b\u5ba3\u8a00\u3078\u306e\u61d0\u7591&quot;, &quot;\u9996\u90fd\u570f/\u7dca\u6025\u4e8b\u614b\u5ba3\u8a00\u3078\u306e\u61d0\u7591&quot;, &quot;\u305d\u306e\u4ed6\u306e\u5730\u57df&quot;, &quot;\u95a2\u897f\u90fd\u5e02\u90e8&quot;, &quot;\u9996\u90fd\u570f&quot;], &quot;labels&quot;: [&quot;\u611f\u67d3\u30fb\u4ed5\u4e8b\u7b49\u3078\u306e\u4e0d\u5b89&quot;, &quot;\u611f\u67d3\u30fb\u4ed5\u4e8b\u7b49\u3078\u306e\u4e0d\u5b89&quot;, &quot;\u611f\u67d3\u30fb\u4ed5\u4e8b\u7b49\u3078\u306e\u4e0d\u5b89&quot;, &quot;\u7dca\u6025\u4e8b\u614b\u5ba3\u8a00\u3078\u306e\u61d0\u7591&quot;, &quot;\u7dca\u6025\u4e8b\u614b\u5ba3\u8a00\u3078\u306e\u61d0\u7591&quot;, &quot;\u7dca\u6025\u4e8b\u614b\u5ba3\u8a00\u3078\u306e\u61d0\u7591&quot;, &quot;\u305d\u306e\u4ed6\u306e\u5730\u57df&quot;, &quot;\u95a2\u897f\u90fd\u5e02\u90e8&quot;, &quot;\u9996\u90fd\u570f&quot;], &quot;marker&quot;: {&quot;coloraxis&quot;: &quot;coloraxis&quot;, &quot;colors&quot;: [82.0, 32.0, 73.0, 58.0, 24.0, 39.0, 72.05714285714286, 28.571428571428573, 61.160714285714285]}, &quot;name&quot;: &quot;&quot;, &quot;parents&quot;: [&quot;\u305d\u306e\u4ed6\u306e\u5730\u57df&quot;, &quot;\u95a2\u897f\u90fd\u5e02\u90e8&quot;, &quot;\u9996\u90fd\u570f&quot;, &quot;\u305d\u306e\u4ed6\u306e\u5730\u57df&quot;, &quot;\u95a2\u897f\u90fd\u5e02\u90e8&quot;, &quot;\u9996\u90fd\u570f&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;], &quot;type&quot;: &quot;sunburst&quot;, &quot;values&quot;: [82, 32, 73, 58, 24, 39, 140, 56, 112]}],                        {&quot;coloraxis&quot;: {&quot;colorbar&quot;: {&quot;title&quot;: {&quot;text&quot;: &quot;Count&quot;}}, &quot;colorscale&quot;: [[0.0, &quot;rgb(75, 41, 145)&quot;], [0.16666666666666666, &quot;rgb(135, 44, 162)&quot;], [0.3333333333333333, &quot;rgb(192, 54, 157)&quot;], [0.5, &quot;rgb(234, 79, 136)&quot;], [0.6666666666666666, &quot;rgb(250, 120, 118)&quot;], [0.8333333333333334, &quot;rgb(246, 169, 122)&quot;], [1.0, &quot;rgb(237, 217, 163)&quot;]]}, &quot;legend&quot;: {&quot;tracegroupgap&quot;: 0}, &quot;margin&quot;: {&quot;t&quot;: 60}, &quot;template&quot;: {&quot;data&quot;: {&quot;bar&quot;: [{&quot;error_x&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}, &quot;error_y&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}, &quot;marker&quot;: {&quot;line&quot;: {&quot;color&quot;: &quot;#E5ECF6&quot;, &quot;width&quot;: 0.5}}, &quot;type&quot;: &quot;bar&quot;}], &quot;barpolar&quot;: [{&quot;marker&quot;: {&quot;line&quot;: {&quot;color&quot;: &quot;#E5ECF6&quot;, &quot;width&quot;: 0.5}}, &quot;type&quot;: &quot;barpolar&quot;}], &quot;carpet&quot;: [{&quot;aaxis&quot;: {&quot;endlinecolor&quot;: &quot;#2a3f5f&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;minorgridcolor&quot;: &quot;white&quot;, &quot;startlinecolor&quot;: &quot;#2a3f5f&quot;}, &quot;baxis&quot;: {&quot;endlinecolor&quot;: &quot;#2a3f5f&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;minorgridcolor&quot;: &quot;white&quot;, &quot;startlinecolor&quot;: &quot;#2a3f5f&quot;}, &quot;type&quot;: &quot;carpet&quot;}], &quot;choropleth&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;type&quot;: &quot;choropleth&quot;}], &quot;contour&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;contour&quot;}], &quot;contourcarpet&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;type&quot;: &quot;contourcarpet&quot;}], &quot;heatmap&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;heatmap&quot;}], &quot;heatmapgl&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;heatmapgl&quot;}], &quot;histogram&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;histogram&quot;}], &quot;histogram2d&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;histogram2d&quot;}], &quot;histogram2dcontour&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;histogram2dcontour&quot;}], &quot;mesh3d&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;type&quot;: &quot;mesh3d&quot;}], &quot;parcoords&quot;: [{&quot;line&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;parcoords&quot;}], &quot;pie&quot;: [{&quot;automargin&quot;: true, &quot;type&quot;: &quot;pie&quot;}], &quot;scatter&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatter&quot;}], &quot;scatter3d&quot;: [{&quot;line&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatter3d&quot;}], &quot;scattercarpet&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattercarpet&quot;}], &quot;scattergeo&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattergeo&quot;}], &quot;scattergl&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattergl&quot;}], &quot;scattermapbox&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattermapbox&quot;}], &quot;scatterpolar&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatterpolar&quot;}], &quot;scatterpolargl&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatterpolargl&quot;}], &quot;scatterternary&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatterternary&quot;}], &quot;surface&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;surface&quot;}], &quot;table&quot;: [{&quot;cells&quot;: {&quot;fill&quot;: {&quot;color&quot;: &quot;#EBF0F8&quot;}, &quot;line&quot;: {&quot;color&quot;: &quot;white&quot;}}, &quot;header&quot;: {&quot;fill&quot;: {&quot;color&quot;: &quot;#C8D4E3&quot;}, &quot;line&quot;: {&quot;color&quot;: &quot;white&quot;}}, &quot;type&quot;: &quot;table&quot;}]}, &quot;layout&quot;: {&quot;annotationdefaults&quot;: {&quot;arrowcolor&quot;: &quot;#2a3f5f&quot;, &quot;arrowhead&quot;: 0, &quot;arrowwidth&quot;: 1}, &quot;autotypenumbers&quot;: &quot;strict&quot;, &quot;coloraxis&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;colorscale&quot;: {&quot;diverging&quot;: [[0, &quot;#8e0152&quot;], [0.1, &quot;#c51b7d&quot;], [0.2, &quot;#de77ae&quot;], [0.3, &quot;#f1b6da&quot;], [0.4, &quot;#fde0ef&quot;], [0.5, &quot;#f7f7f7&quot;], [0.6, &quot;#e6f5d0&quot;], [0.7, &quot;#b8e186&quot;], [0.8, &quot;#7fbc41&quot;], [0.9, &quot;#4d9221&quot;], [1, &quot;#276419&quot;]], &quot;sequential&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;sequentialminus&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]]}, &quot;colorway&quot;: [&quot;#636efa&quot;, &quot;#EF553B&quot;, &quot;#00cc96&quot;, &quot;#ab63fa&quot;, &quot;#FFA15A&quot;, &quot;#19d3f3&quot;, &quot;#FF6692&quot;, &quot;#B6E880&quot;, &quot;#FF97FF&quot;, &quot;#FECB52&quot;], &quot;font&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}, &quot;geo&quot;: {&quot;bgcolor&quot;: &quot;white&quot;, &quot;lakecolor&quot;: &quot;white&quot;, &quot;landcolor&quot;: &quot;#E5ECF6&quot;, &quot;showlakes&quot;: true, &quot;showland&quot;: true, &quot;subunitcolor&quot;: &quot;white&quot;}, &quot;hoverlabel&quot;: {&quot;align&quot;: &quot;left&quot;}, &quot;hovermode&quot;: &quot;closest&quot;, &quot;mapbox&quot;: {&quot;style&quot;: &quot;light&quot;}, &quot;paper_bgcolor&quot;: &quot;white&quot;, &quot;plot_bgcolor&quot;: &quot;#E5ECF6&quot;, &quot;polar&quot;: {&quot;angularaxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}, &quot;bgcolor&quot;: &quot;#E5ECF6&quot;, &quot;radialaxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}}, &quot;scene&quot;: {&quot;xaxis&quot;: {&quot;backgroundcolor&quot;: &quot;#E5ECF6&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;gridwidth&quot;: 2, &quot;linecolor&quot;: &quot;white&quot;, &quot;showbackground&quot;: true, &quot;ticks&quot;: &quot;&quot;, &quot;zerolinecolor&quot;: &quot;white&quot;}, &quot;yaxis&quot;: {&quot;backgroundcolor&quot;: &quot;#E5ECF6&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;gridwidth&quot;: 2, &quot;linecolor&quot;: &quot;white&quot;, &quot;showbackground&quot;: true, &quot;ticks&quot;: &quot;&quot;, &quot;zerolinecolor&quot;: &quot;white&quot;}, &quot;zaxis&quot;: {&quot;backgroundcolor&quot;: &quot;#E5ECF6&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;gridwidth&quot;: 2, &quot;linecolor&quot;: &quot;white&quot;, &quot;showbackground&quot;: true, &quot;ticks&quot;: &quot;&quot;, &quot;zerolinecolor&quot;: &quot;white&quot;}}, &quot;shapedefaults&quot;: {&quot;line&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}}, &quot;ternary&quot;: {&quot;aaxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}, &quot;baxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}, &quot;bgcolor&quot;: &quot;#E5ECF6&quot;, &quot;caxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}}, &quot;title&quot;: {&quot;x&quot;: 0.05}, &quot;xaxis&quot;: {&quot;automargin&quot;: true, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;, &quot;title&quot;: {&quot;standoff&quot;: 15}, &quot;zerolinecolor&quot;: &quot;white&quot;, &quot;zerolinewidth&quot;: 2}, &quot;yaxis&quot;: {&quot;automargin&quot;: true, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;, &quot;title&quot;: {&quot;standoff&quot;: 15}, &quot;zerolinecolor&quot;: &quot;white&quot;, &quot;zerolinewidth&quot;: 2}}}},                        {&quot;responsive&quot;: true}                    )                };                            &lt;/script&gt;        &lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+	&lt;div class=&quot;card-header&quot;&gt;
+	感染・仕事等への不安 (164 posts)
+	&lt;/div&gt;
+	&lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		終わりが見えないことがとても不安です。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;15 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		あまりにも対応が遅すぎます。政府の人達はそれで高給取りなので許せないです。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;14 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		「またか」という気持ちもあるが、今は我慢の時。 一人一人が自覚して行動しないと、この戦いには勝てないと思う。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;div class=&quot;collapse&quot; id=&quot;collapseOpinion0&quot;&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		感染しないか本当に不安
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		飲食店だけが自粛の対象では、あまり効果が無いのではないかと不安に感じています。経済も大切ですが、感染者が減らない方が、経済損失は大きくなるのではないでしょうか。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		20時以降外出することを自粛しても、日中の人出の多さは変わらず、あまり効果は出ないと思います。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		早く収まって、安心して仕事がしたいです。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		経済活動が滞り生活に影響があり困ります。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		家庭の中でさえコロナに対する危機感が違うので全ての人が自分と同じような危機感をもって感染予防を徹底することの難しさに直面して虚しさを感じます。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		自分が感染しないようにしたり、感染させないように行動を制限し、我慢をしているのに、一部の人たちは旅行したり楽しんでいて、そこでクラスターを起こしていたりするのが腹立たしい。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;/div&gt;
+	&lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseOpinion0&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseOpinion0&quot;&gt;
+		See more
+	&lt;/button&gt;
+	&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+	&lt;div class=&quot;card-header&quot;&gt;
+	緊急事態宣言への懐疑 (103 posts)
+	&lt;/div&gt;
+	&lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		緊急事態宣言を出すのが遅すぎてすでに手遅れになっている。感染者はさらに増え続けていくと思う。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		これだけ拡大した感染を、地域を限定した緊急事態宣言で抑えることが出来るのか不安です。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;16 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		緊急事態宣言が発令されたからといって、子供の学校は通常通り、主人の会社もほぼ通常出勤、主婦の私は食料や日用品の買い出しのため、スーパー等には行かなければなりません。普通に多くの人と接触します。前回よりもコロナウィルスは蔓延しているはずなのに、前回よりも人の動きは活発になっています。自粛自粛と言われているけれど、自粛意識があっても中途半端な自粛しかできません。中途半端な緊急事態宣言ではもう取返しがつかないかもしれません。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;div class=&quot;collapse&quot; id=&quot;collapseOpinion1&quot;&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		対応が遅すぎます。 こうなることは目に見えていたと思います。 
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		飲食をメインターゲットにし、その他の対策が甘いことが疑問です。前回の緊急事態宣言下とは明らかに国民の意識が下がっていると思います。コロナに対してわかったことが多くなったとはいえ、1年間収束できていないので、もう少し厳しくしてもいい気がします。とはいえ経済を回さないといけないので、その対策をもっと政府に考えてほしいと思います。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		緊急事態宣言といっても飲食店などの時短要請などでは意味があるのかイマイチわからない。不要不急の外出を控えるだけでは首都圏の感染者が減るとは全く思えない。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		真面目に自粛する人と気にせず行動する人の差がでてきたように思います。緊急事態宣言が出ても気にしない人は気にしないだろうし、正直意味あるのかなという感じです。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		不満や不安はあるが、受け入れるしかないと思います。みんなが意識を変えないといけない。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		今回は一律の給付金が検討されていないのが大変不満
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;
+		今回の緊急事態宣言で本当に人々の行動が制限されて、感染者が減少するのか。
+		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
+	&lt;/li&gt;
+	&lt;/div&gt;
+	&lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseOpinion1&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseOpinion1&quot;&gt;
+		See more
+	&lt;/button&gt;
+	&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;最後に&quot;&gt;最後に&lt;/h2&gt;
+&lt;p&gt;感染不安、仕事への影響の不安、緊急事態宣言の効果への懐疑、政府判断への不満などが多く寄せられました。
+ただ、今回は満足のいく分類ができなかったので、（人力分類という選択肢を除いて）ベストエフォートの結果ということで、
+緊急事態宣言の効果への懐疑（グループ2）を切り出しました（グループ1にも、意味としてはグループ2に属すべき意見もいくらかあります）。
+グループ1は「その他」と読んでいただいても結構です。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-via=&quot;Aska_systems_jp&quot; data-hashtags=&quot;Aska&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;!-- ## 詳細 --&gt;
+
+&lt;table class=&quot;table table-striped table-hover&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Summary&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;期間&lt;/td&gt;
+      &lt;td&gt;2021/1/9 - 2021/1/10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;回答者数&lt;/td&gt;
+      &lt;td&gt;308&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;回答意見数&lt;/td&gt;
+      &lt;td&gt;267&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;初期回答数&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;プラットフォーム&lt;/td&gt;
+      &lt;td&gt;Crowdworks&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;!-- **Palette diagram**
+
+&lt;img src=&quot;/jp/images/2020_CriminalGPS/linear_palette_diagram.jpg&quot; alt=&quot;fig_group_size&quot;
+style = &quot;
+  width: 650px;
+  border: none;
+  background: none;
+  margin: 1% 1% 1% 1%;
+  text-align: center;
+  display: inline-block;
+&quot;&gt;
+
+上の図は、パレットダイアグラム[^0]という図で、各回答者の回答パターンを可視化したものです。
+パレットダイアグラムでは、回答者が横一列に並べられ、回答パターンが縦軸方向に記されています。
+
+[^0]: パレットダイアグラムに関する詳細は[こちら](https://github.com/palette-diagram/palette-diagram)をご覧ください。
+ --&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;この結果を引用される場合は十分にご注意ください。
+本調査はデモの一環として実施しているものであり、学術的な信頼性はないとお考えください。
+本格的な調査に興味がある方は、&lt;a href=&quot;mailto:request@aska.systems&quot;&gt;request@aska.systems&lt;/a&gt;までご相談ください。&lt;/p&gt;
+
+&lt;p&gt;ここで掲載している調査の目的は、Askaシステムの挙動の実証実験です。
+意見のバラエティを増やすために、あえてバイアスのかかった質問の仕方をすることもありますが、その場合は、バイアス下での結果であることを十分にご注意ください。&lt;/p&gt;
+</description>
+        <pubDate>Thu, 14 Jan 2021 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/jp/COVIDEmergency/</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/COVIDEmergency/</guid>
+        
+        
+      </item>
     
       <item>
         <title>ネット中傷と刑事罰</title>
@@ -2659,268 +2864,6 @@ style = &quot;
         <pubDate>Wed, 21 Oct 2020 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/jp/COVIDvaccine_ja/</link>
         <guid isPermaLink="true">http://localhost:4000/jp/COVIDvaccine_ja/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>日本学術会議</title>
-        <description>&lt;p&gt;日本学術会議が推薦した105人の新会員候補のうち、菅内閣が６人を任命しなかったことが連日報道されています。&lt;/p&gt;
-
-&lt;p&gt;この件を人々はどのように受け止めているのか、世論調査を実施しました。&lt;/p&gt;
-
-&lt;div class=&quot;jumbotron&quot;&gt;
-  &lt;h4&gt;日本学術会議での会員任命拒否について、あなたの見解をお聞かせください&lt;/h4&gt;
-&lt;/div&gt;
-
-&lt;p&gt;2020年10月11日、上記のテーマで広く意見を募集しました&lt;sup id=&quot;fnref:0&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:0&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;。
-回答者数は365人です。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;回答傾向&quot;&gt;回答傾向&lt;/h2&gt;
-
-&lt;!-- [^1]: 本調査には、初期状態で用意された意見が６つあります。 --&gt;
-
-&lt;p&gt;&lt;img src=&quot;/jp/images/2020_Gakujutsukaigi/linear_palette_diagram.jpg&quot; alt=&quot;linear_palette_diagram&quot; style=&quot;   width: 650px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;上図は、palette diagramと呼んでいる図で、回答者を横一列に並べ、各回答者の回答パターンを縦軸方向に色分けして図示しています。
-回答者は、回答パターンが近いものがなるべく隣り合うように並べられています。&lt;/p&gt;
-
-&lt;h2 id=&quot;回答者グループ&quot;&gt;回答者グループ&lt;/h2&gt;
-&lt;p&gt;回答者は、下図に示すように、３つの回答者グループに分類されます。
-各セルは、回答者グループの中で、どの意見グループに何パーセント賛同しているかを示しています。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/jp/images/2020_Gakujutsukaigi/popularity_matrix.png&quot; alt=&quot;popularity_matrix&quot; style=&quot;   width: 400px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;意見グループ&quot;&gt;意見グループ&lt;/h2&gt;
-
-&lt;p&gt;4つの意見グループの内訳は以下の通りです。&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-    &quot;説明責任・不満&quot;（一部）
-  &lt;/div&gt;
-  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      理由をきちんと説明しないと総理への不信感が募ってしまう。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;73 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      「機能していない」はたまた「きちんと提言等」提出しているなど、メディアによって様々な報じ方をされていて、分かり難い面がありますが、政府の傘から外れて、独自の提言を出し、政府もそれに対して主張・回答を出す方が健全な形の様な気がします。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;69 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      きちんと国民が納得できるよう説明責任を果たすべきだと思います
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;60 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      説明する必要性の有無に関係なく、説明を求めている人が国民に一人でもいるのであれば、説明をする責任があると思う。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;60 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;div class=&quot;collapse&quot; id=&quot;collapseExampleA&quot;&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      別に反対ありきではないし、政府を責めているわけでもない。 決める権利があるなら、問われれば説明する義務もあるというだけのこと。 でもそれができないのであれば、内閣府としてその機関を持つ大義がなくなる。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;58 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      政治利用しているのではないかと思われても仕方ないと思うので、きちんとした説明が必要だと思う。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;58 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      菅義偉首相が、政府の方針に反対する。学術会議の6人を任命しないのは、政治的な思惑があると思います。ちゃんと、拒否理由を説明するべきだと思います。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;56 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      政治家の暴走を止める安全装置の一つとして存続して欲しい。それこそが存在意義だと思う。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;55 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      政府は説明責任を全く果たしていないと思う。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;55 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;/div&gt;
-  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExampleA&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExampleA&quot;&gt;
-  もっと見る
-  &lt;/button&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-    &quot;否認賛成・無関心&quot;（一部）
-  &lt;/div&gt;
-  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      そもそも学術会議の会員は内閣府に属する役職なのだから、学問の自由とは関係ないのでは。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;54 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      任命拒否が学問の自由の侵害になる理由がわからない。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;50 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      菅首相に学術会議メンバーを任命拒否する権限があるのは当然です。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;46 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      総理の眼力を信じます。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;37 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;div class=&quot;collapse&quot; id=&quot;collapseExampleB&quot;&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      学術会議の1人が、レジ袋有料化を提案しましたとか国民の得にもならない事を暴露し、自ら墓穴を掘ってて馬鹿だなあと笑ってしまった。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;34 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      菅内閣の言う「縦割り、既得権益、悪しき前例主義を打破し、規制改革」を進めた結果なのだと思う。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;33 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      中国科学技術協会と協力関係があるようなことをニュースで見たから拒否されるのも仕方ない感じがします。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;32 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      中国に牛耳られていたのでしょう？
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;32 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      そんな大事ではないと思います。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;31 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      正直どうでもいい問題だと思う。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;31 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      中国が絡んでいるのであれば仕方ないと思います。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;31 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;/div&gt;
-  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExampleB&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExampleB&quot;&gt;
-  もっと見る
-  &lt;/button&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-    &quot;存在意義・改革&quot;（一部）
-  &lt;/div&gt;
-  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      税金をかけている以上、その存在意義をしっかりと確認するべきであり、明らかにしてほしいと思う。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;90 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      総理が任命しなくても出席できるようにすれば問題ないのでは？裁判所のように独立した機構になればいい
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;47 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      そもそもこの学会に大量の税金が注ぎ込まれてるとは知らなかった。100人以上も学術員が必要なのか疑問
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;46 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      内閣府に属さず、自ら運営しなければ自由はないと感じた。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;35 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;div class=&quot;collapse&quot; id=&quot;collapseExampleC&quot;&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      多額の税金が使われているのだから、改革する必要性は十分にあると思います。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;32 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      今まで当たり前のようにあった組織のようだけど、これを機会に良い意味で改革してほしい。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;29 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      この話題が議論に上がったことは良いことだと思う。 これからも活発に良い改革をしてほしい。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;28 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      9日に河野行政改革相が言っていましたが、日本学術会議について予算の見直しや制度の改革が必要だと思います。 この問題がもしなかったのであれば、殆どの日本人はこの会議について知らなかったまま過ごしていたと思います。会議の意義についてこれから議論していくべきだと思います。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;24 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      正しい方向へ動いて欲しいです。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;24 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      今まで存在も知らなかった団体で、ニュースを見ても結局何をしていたのかわからない。この団体に所属していなければできない学問があるようにも思えない。マスコミが一斉に大騒ぎをしているが、話題になる前からこの団体を取材していたマスコミがいくつあるのかと思う。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;18 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;/div&gt;
-  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExampleC&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExampleC&quot;&gt;
-  もっと見る
-  &lt;/button&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-    &quot;難しい・危険&quot;
-  &lt;/div&gt;
-  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      本当に難しい話です。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;47 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      学術会議は廃止して、民営化すべき。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;39 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      とても難しい話だと思いました。 日本が良い国になりますように…
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;39 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      何が正解かはよく分からない。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;36 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;div class=&quot;collapse&quot; id=&quot;collapseExampleD&quot;&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      難しい話です。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;33 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      独立した組織へのあからさまな介入に吐き気がする。 法律の条文に任命権が書いてあることを理由にするのなら、下級裁判所の裁判官にもできるし、今の内閣ならやり兼ねない。 税金投入を理由にするなら、今後法律を改正できる政府・政党は、この社会のありとあらゆる組織に人事権を行使できることになる。まともな国ではない。 度を越したマイクロマネジメントぶりに、隠しきれない小物臭がする。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;22 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      軍国主義に戻ってしまう。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;17 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      このままだと、日本が滅びてしまう。
-      &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;15 likes&lt;/span&gt;
-    &lt;/li&gt;
-    &lt;/div&gt;
-  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExampleD&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExampleD&quot;&gt;
-  もっと見る
-  &lt;/button&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;!-- ## 分析手法
-- Non-negative matrix factorization (no annotations, no manual post-processing)
- --&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-via=&quot;Aska_systems_jp&quot; data-hashtags=&quot;Aska&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:0&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;本調査は、日本の代表的サンプルである保証はありません。本調査はデモの一環であり、必ずしも日本人全体の意見の実情を反映しているわけではありません。 &lt;a href=&quot;#fnref:0&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Mon, 12 Oct 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/jp/gakujutsukaigi/</link>
-        <guid isPermaLink="true">http://localhost:4000/jp/gakujutsukaigi/</guid>
         
         
       </item>
