@@ -63,75 +63,38 @@ layout: intro
   <div class="col-12 col-md text-center">
     <h2>How Aska works</h2>
     <p class="px-3 py-3 pt-md-2 pb-md-2 mx-3">
-      Askaは、「ユーザーに意見を出し合ってもらいたい」という方（ホスト）へ、プラットフォームを提供いたします。
-      <!-- Askaは、オンラインの小さな議会です。あなたは議会の議長（ホスト）で、あなたが問いかける議題について、ユーザーの方々に意見を出し合っっていただきます。 -->
-      <!-- 
-      Aska is an online-congress platform. You are the chair (host) of the congress, and you ask users to present their opinions on a topic you propose.  -->
+      Askaは、意見共有プラットフォームです
+    </p>
+    <p class="px-3 py-3 pt-md-2 pb-md-2 mx-3">
+      意見共有したいテーマ（質問）を提示するホストの方へ、Askaインスタンスを提供します
     </p>
     <div class="card-deck mb-3 mt-3 text-center">
       <div class="card mb-4 mx-4">
+        <div class="card-header">
+            カード形式のインターフェイスから、ユーザーは意見を投稿できます
+        </div>
         <img class="card-img-top img-fluid" src="{{site.baseurl}}/images/OpinionSharing.png" alt="OpinionSharing" style="max-width:100%;height:auto;">
         <div class="card-body">
           <h4 class="card-title pricing-card-title text-info">意見共有（ユーザー側）</h4>
           <p class="card-text">
             ユーザーは、自分の意見を書き込んだり、他人の意見を支持（"いいね"）したりします。掲示板のように使うことができます。
-            <small class="text-muted">（ユーザーのアカウント登録は不要です）</small>
           </p>
+            <small class="text-muted">（ユーザーのアカウント登録は不要です）</small>
         </div>
       </div>
 
       <div class="card mb-4 mx-4">
+        <div class="card-header">
+          Askaの特徴は、膨大な意見の集約（分類）ができることです
+        </div>
         <img class="card-img-top img-fluid" src="{{site.baseurl}}/images/OpinionClassification.png" alt="OpinionSharing" style="max-width:100%;height:auto;">
         <div class="card-body">
           <h4 class="card-title pricing-card-title text-danger">意見集約（ホスト側）</h4>
-          <p class="card-text">どんな意見が集まったか、少人数ならば把握するのは簡単です。しかし、大人数の意見が集まった場合はどうでしょうか？Askaでは、機械学習を用いた、大量の意見の集約が可能です。</p>
+          <p class="card-text">
+          少人数の意見ならば、どんな意見が集まったか把握するのは簡単です。しかし、大量の意見が集まった場合はどうでしょうか？Askaなら、機械学習を用いた意見集約が可能です。</p>
         </div>
       </div>
     </div>
-  </div>
-  </div> <!-- row -->
-
-
-  <div class="row px-3 py-5 pt-md-5 pb-md-5 mx-auto">
-  <div class="col-12 col-md text-center">
-
-    <h2>Applications</h2>
-    <!-- <p class="px-3 py-3 pt-md-2 pb-md-2 mx-5">
-      <small class="text-muted text-center">アンケートとして利用する場合、選択式質問も設置できます</small>
-    </p> -->
-
-    <div class="card-deck mb-3 mt-3 text-center">
-      <div class="card mb-3 shadow-sm bg-light">
-        <div class="card-body">
-          <h5>世論調査・社会科学系研究</h5>
-        </div>
-      </div>
-
-      <div class="card mb-3 shadow-sm bg-light">
-        <div class="card-body">
-          <h5>オンライン討論・ブレインストーミング</h5>
-        </div>
-      </div>
-
-      <div class="card mb-3 shadow-sm bg-light">
-        <div class="card-body">
-          <h5>掲示板・コメント欄</h5>
-        </div>
-      </div>
-
-      <div class="card mb-3 shadow-sm bg-light">
-        <div class="card-body">
-          <h5>企業採用・研修アンケート</h5>
-        </div>
-      </div>
-
-      <div class="card mb-3 shadow-sm bg-light">
-        <div class="card-body">
-          <h5>学校内アンケート</h5>
-        </div>
-      </div>
-    </div>
-
   </div>
   </div> <!-- row -->
 
@@ -147,7 +110,7 @@ layout: intro
       <div class="card mb-4 mx-0 py-2 shadow-none">
         <h3 class="card-title">デモ機能</h3>
         <div class="card-body">
-        <img class="card-img-top img-fluid shadow" src="{{site.baseurl}}/images/DemoGenerator.png" alt="DemoGenerator" style="max-width:100%;height:auto;">
+        <img class="card-img-top img-fluid shadow" src="{{site.baseurl}}/images/DemoGenerator.jpg" alt="DemoGenerator" style="max-width:100%;height:auto;">
         <p class="pt-3">すぐに簡単なデモを立ち上げ、どのようなものができるかを確認することができます</p>
         </div>
       </div>
@@ -157,7 +120,7 @@ layout: intro
       <div class="card mb-4 mx-0 py-2 shadow-none">
         <h3 class="card-title">プレビュー埋め込み</h3>
         <div class="card-body">
-        <img class="card-img-top img-fluid" src="{{site.baseurl}}/images/OpinionSharing.png" alt="OpinionSharing" style="max-width:100%;height:auto;">
+        <img class="card-img-top img-fluid shadow" src="{{site.baseurl}}/images/Preview.jpg" alt="Preview" style="max-width:100%;height:auto;">
         <p class="pt-3">外部サイトで、Askaのプレビュー画面を埋め込むことができます</p>
         </div>
       </div>
@@ -196,6 +159,51 @@ layout: intro
 
   </div>
 
+
+  </div>
+  </div> <!-- row -->
+
+
+
+  <div class="row px-3 py-5 pt-md-5 pb-md-5 mx-auto">
+  <div class="col-12 col-md text-center">
+
+    <h2>Applications</h2>
+    <!-- <p class="px-3 py-3 pt-md-2 pb-md-2 mx-5">
+      <small class="text-muted text-center">アンケートとして利用する場合、選択式質問も設置できます</small>
+    </p> -->
+
+    <div class="card-deck mb-3 mt-3 text-center">
+      <div class="card mb-3 shadow-sm bg-light">
+        <div class="card-body">
+          <h5>世論調査・社会科学系研究</h5>
+        </div>
+      </div>
+
+      <div class="card mb-3 shadow-sm bg-light">
+        <div class="card-body">
+          <h5>オンライン討論・ブレインストーミング</h5>
+        </div>
+      </div>
+
+      <div class="card mb-3 shadow-sm bg-light">
+        <div class="card-body">
+          <h5>各種アンケート（企業採用・研修・学内調査等）</h5>
+        </div>
+      </div>
+
+      <div class="card mb-3 shadow-sm bg-light">
+        <div class="card-body">
+          <h5>掲示板・コメント欄</h5>
+        </div>
+      </div>
+
+      <div class="card mb-3 shadow-sm bg-light">
+        <div class="card-body">
+          <h5>オンラインサロン</h5>
+        </div>
+      </div>
+    </div>
 
   </div>
   </div> <!-- row -->
