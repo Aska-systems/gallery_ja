@@ -1,0 +1,191 @@
+I"�I<p>How did (or did not) the Trump administration Make America Great Again?</p>
+
+<h2 id="はじめに">はじめに</h2>
+<p>今やSNSは主要メディアとして大きな影響力を持っており、特に著名人のアカウント規制は、社会へ強く介入することが示唆されます。
+SNS企業が、著名人のアカウントを規制することについて、意見を募集しました。</p>
+
+<p><br /></p>
+
+<h2 id="質問">質問</h2>
+<div class="jumbotron py-2">
+<h5>SNS企業が、著名人のアカウントを規制することについての意見をお聞かせください</h5>
+<!-- <p>
+先日トランプ大統領のTwitterアカウントが凍結されました。今やSNSは主要メディアとして大きな影響力を持っており、特に著名人のアカウント規制は、社会へ強く介入することが示唆されます。（＊自由記述欄は必須ではありません）
+</p> -->
+</div>
+
+<h2 id="結果">結果</h2>
+<h3 id="dot-plot">Dot plot</h3>
+
+<div>                        <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
+        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>                <div id="f388ab05-2e6e-4273-a3a8-b7b337775954" class="plotly-graph-div" style="height:600px; width:700px;"></div>            <script type="text/javascript">                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById("f388ab05-2e6e-4273-a3a8-b7b337775954")) {                    Plotly.newPlot(                        "f388ab05-2e6e-4273-a3a8-b7b337775954",                        [{"hovertemplate": "Opinion=Biden supporters<br>Population ratio=%{x}<br>Category=%{y}<extra></extra>", "legendgroup": "Biden supporters", "marker": {"color": "rgba(0,0,128,0.95)", "line": {"width": 0}, "size": 16, "symbol": "circle"}, "mode": "markers", "name": "Biden supporters", "orientation": "h", "showlegend": true, "type": "scatter", "x": [0.42, 0.84, 0.18, 0.41, 0.38], "xaxis": "x", "y": ["I did not vote for anyone in both elections", "No, I have never voted for Trump", "Yes, both in 2016 and 2020", "Yes, only in 2016", "Yes, only in 2020"], "yaxis": "y"}, {"hovertemplate": "Opinion=Neither<br>Population ratio=%{x}<br>Category=%{y}<extra></extra>", "legendgroup": "Neither", "marker": {"color": "rgba(204, 204, 204, 0.95)", "line": {"width": 0}, "size": 16, "symbol": "circle"}, "mode": "markers", "name": "Neither", "orientation": "h", "showlegend": true, "type": "scatter", "x": [0.35, 0.13, 0.23, 0.48, 0.23], "xaxis": "x", "y": ["I did not vote for anyone in both elections", "No, I have never voted for Trump", "Yes, both in 2016 and 2020", "Yes, only in 2016", "Yes, only in 2020"], "yaxis": "y"}, {"hovertemplate": "Opinion=Trump supporters<br>Population ratio=%{x}<br>Category=%{y}<extra></extra>", "legendgroup": "Trump supporters", "marker": {"color": "rgba(153,0,0,0.95)", "line": {"width": 0}, "size": 16, "symbol": "circle"}, "mode": "markers", "name": "Trump supporters", "orientation": "h", "showlegend": true, "type": "scatter", "x": [0.23, 0.03, 0.58, 0.11, 0.38], "xaxis": "x", "y": ["I did not vote for anyone in both elections", "No, I have never voted for Trump", "Yes, both in 2016 and 2020", "Yes, only in 2016", "Yes, only in 2020"], "yaxis": "y"}],                        {"height": 600, "hovermode": "closest", "legend": {"title": {"text": "Opinion"}, "tracegroupgap": 0}, "margin": {"t": 60}, "paper_bgcolor": "white", "plot_bgcolor": "white", "template": {"data": {"bar": [{"error_x": {"color": "#2a3f5f"}, "error_y": {"color": "#2a3f5f"}, "marker": {"line": {"color": "#E5ECF6", "width": 0.5}}, "type": "bar"}], "barpolar": [{"marker": {"line": {"color": "#E5ECF6", "width": 0.5}}, "type": "barpolar"}], "carpet": [{"aaxis": {"endlinecolor": "#2a3f5f", "gridcolor": "white", "linecolor": "white", "minorgridcolor": "white", "startlinecolor": "#2a3f5f"}, "baxis": {"endlinecolor": "#2a3f5f", "gridcolor": "white", "linecolor": "white", "minorgridcolor": "white", "startlinecolor": "#2a3f5f"}, "type": "carpet"}], "choropleth": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "choropleth"}], "contour": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "contour"}], "contourcarpet": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "contourcarpet"}], "heatmap": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "heatmap"}], "heatmapgl": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "heatmapgl"}], "histogram": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "histogram"}], "histogram2d": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "histogram2d"}], "histogram2dcontour": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "histogram2dcontour"}], "mesh3d": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "mesh3d"}], "parcoords": [{"line": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "parcoords"}], "pie": [{"automargin": true, "type": "pie"}], "scatter": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatter"}], "scatter3d": [{"line": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatter3d"}], "scattercarpet": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattercarpet"}], "scattergeo": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattergeo"}], "scattergl": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattergl"}], "scattermapbox": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattermapbox"}], "scatterpolar": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterpolar"}], "scatterpolargl": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterpolargl"}], "scatterternary": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterternary"}], "surface": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "surface"}], "table": [{"cells": {"fill": {"color": "#EBF0F8"}, "line": {"color": "white"}}, "header": {"fill": {"color": "#C8D4E3"}, "line": {"color": "white"}}, "type": "table"}]}, "layout": {"annotationdefaults": {"arrowcolor": "#2a3f5f", "arrowhead": 0, "arrowwidth": 1}, "autotypenumbers": "strict", "coloraxis": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "colorscale": {"diverging": [[0, "#8e0152"], [0.1, "#c51b7d"], [0.2, "#de77ae"], [0.3, "#f1b6da"], [0.4, "#fde0ef"], [0.5, "#f7f7f7"], [0.6, "#e6f5d0"], [0.7, "#b8e186"], [0.8, "#7fbc41"], [0.9, "#4d9221"], [1, "#276419"]], "sequential": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "sequentialminus": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]]}, "colorway": ["#636efa", "#EF553B", "#00cc96", "#ab63fa", "#FFA15A", "#19d3f3", "#FF6692", "#B6E880", "#FF97FF", "#FECB52"], "font": {"color": "#2a3f5f"}, "geo": {"bgcolor": "white", "lakecolor": "white", "landcolor": "#E5ECF6", "showlakes": true, "showland": true, "subunitcolor": "white"}, "hoverlabel": {"align": "left"}, "hovermode": "closest", "mapbox": {"style": "light"}, "paper_bgcolor": "white", "plot_bgcolor": "#E5ECF6", "polar": {"angularaxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}, "bgcolor": "#E5ECF6", "radialaxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}}, "scene": {"xaxis": {"backgroundcolor": "#E5ECF6", "gridcolor": "white", "gridwidth": 2, "linecolor": "white", "showbackground": true, "ticks": "", "zerolinecolor": "white"}, "yaxis": {"backgroundcolor": "#E5ECF6", "gridcolor": "white", "gridwidth": 2, "linecolor": "white", "showbackground": true, "ticks": "", "zerolinecolor": "white"}, "zaxis": {"backgroundcolor": "#E5ECF6", "gridcolor": "white", "gridwidth": 2, "linecolor": "white", "showbackground": true, "ticks": "", "zerolinecolor": "white"}}, "shapedefaults": {"line": {"color": "#2a3f5f"}}, "ternary": {"aaxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}, "baxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}, "bgcolor": "#E5ECF6", "caxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}}, "title": {"x": 0.05}, "xaxis": {"automargin": true, "gridcolor": "white", "linecolor": "white", "ticks": "", "title": {"standoff": 15}, "zerolinecolor": "white", "zerolinewidth": 2}, "yaxis": {"automargin": true, "gridcolor": "white", "linecolor": "white", "ticks": "", "title": {"standoff": 15}, "zerolinecolor": "white", "zerolinewidth": 2}}}, "title": {"text": "Response distribution"}, "width": 700, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "dtick": 0.1, "linecolor": "rgb(102, 102, 102)", "showgrid": true, "showline": true, "showticklabels": true, "tickcolor": "rgb(102, 102, 102)", "tickfont": {"color": "rgb(102, 102, 102)"}, "ticks": "outside", "title": {"text": "Population ratio"}}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {"text": "Category"}}},                        {"responsive": true}                    )                };                            </script>        </div>
+
+<div class="card">
+	<div class="card-header">
+	Negative opinions (54 posts)
+	</div>
+	<ul class="list-group list-group-flush">
+	<li class="list-group-item">
+		Trump did not make America great again. I think he divided the country more than any President in my lifetime.
+		<br /><span class="badge badge-dark">64 likes</span>
+	</li>
+	<li class="list-group-item">
+		They did not. They brought strife and mistrust to America in ways never seen before. They nearly brought democracy to a shattering end.
+		<br /><span class="badge badge-dark">60 likes</span>
+	</li>
+	<li class="list-group-item">
+		The "law and order" president tried to skirt the laws and create mass chaos and disorder. 
+		<br /><span class="badge badge-dark">55 likes</span>
+	</li>
+	<div class="collapse" id="collapseOpinion0">
+	<li class="list-group-item">
+		He did not make America great, he made it worse. He Is the worst President we ever had. 
+		<br /><span class="badge badge-dark">50 likes</span>
+	</li>
+	<li class="list-group-item">
+		Trump made America worse and not great again. He delayed closing of market and it led to many covid19 related deaths.
+		<br /><span class="badge badge-dark">47 likes</span>
+	</li>
+	<li class="list-group-item">
+		Trump and the Trump Administration was self-serving and did not uphold the integrity and respect of holding office. The lies and deceitful nature of the whole administration is so disappointing. 
+		<br /><span class="badge badge-dark">46 likes</span>
+	</li>
+	<li class="list-group-item">
+		He tried to play the presidency like his game show. Sometimes it was a big joke to him.
+		<br /><span class="badge badge-dark">36 likes</span>
+	</li>
+	<li class="list-group-item">
+		Trash president. Trash human being. 
+		<br /><span class="badge badge-dark">35 likes</span>
+	</li>
+	<li class="list-group-item">
+		Trump disrespected many people and undermined democracy. He is responsible for the death of many hundreds of thousands of people. America may never be the same after this divisive administration. 
+		<br /><span class="badge badge-dark">35 likes</span>
+	</li>
+	<li class="list-group-item">
+		He sabotaged every American except the rich. #OnePercentPresident
+		<br /><span class="badge badge-dark">33 likes</span>
+	</li>
+	</div>
+	<button class="btn btn-light btn-block" type="button" data-toggle="collapse" data-target="#collapseOpinion0" aria-expanded="false" aria-controls="collapseOpinion0">
+		See more
+	</button>
+	</ul>
+</div>
+
+<div class="card">
+	<div class="card-header">
+	Positive opinions (42 posts)
+	</div>
+	<ul class="list-group list-group-flush">
+	<li class="list-group-item">
+		He fought for the people ignored by mainstream media and represented some conservative values. The left is socialist, racist, and accepting of authoritarian values. 
+		<br /><span class="badge badge-dark">18 likes</span>
+	</li>
+	<li class="list-group-item">
+		He had a pandemic thrown at him from the hateful left and China and he still managed to help the economy to the best of his ability.  
+		<br /><span class="badge badge-dark">18 likes</span>
+	</li>
+	<li class="list-group-item">
+		He got rid of the individual mandate in Obama care that was harming so many.
+		<br /><span class="badge badge-dark">18 likes</span>
+	</li>
+	<div class="collapse" id="collapseOpinion1">
+	<li class="list-group-item">
+		He brought back jobs and made us Energy independent the first time that has occured.
+		<br /><span class="badge badge-dark">17 likes</span>
+	</li>
+	<li class="list-group-item">
+		Well, he brought the Middle East a little closer together.  Who would have thought that a few years ago.
+		<br /><span class="badge badge-dark">16 likes</span>
+	</li>
+	<li class="list-group-item">
+		All of these options are against Trump. I do not know a lot of details, but I do know that he improved our relations with some countries and brought more production back to the USA which are both positives. 
+		<br /><span class="badge badge-dark">16 likes</span>
+	</li>
+	<li class="list-group-item">
+		The tax cuts he passed put more money in working families pockets and the stock market went up creating a better retirement for many.
+		<br /><span class="badge badge-dark">16 likes</span>
+	</li>
+	<li class="list-group-item">
+		Trump's action may be undone in many areas over time. but win or lose,his legacy will endure in the federal courts where his conservative lifetime appointees will influence every aspect of American life for decades.
+		<br /><span class="badge badge-dark">14 likes</span>
+	</li>
+	<li class="list-group-item">
+		Trump did an excellent job he did several peace deals in the Middle East. He was one of the only presidents to not actively start a war, he brought many troops home.
+		<br /><span class="badge badge-dark">13 likes</span>
+	</li>
+	<li class="list-group-item">
+		He exposed the corrupt media and many politicians that are not working for the people.
+		<br /><span class="badge badge-dark">13 likes</span>
+	</li>
+	</div>
+	<button class="btn btn-light btn-block" type="button" data-toggle="collapse" data-target="#collapseOpinion1" aria-expanded="false" aria-controls="collapseOpinion1">
+		See more
+	</button>
+	</ul>
+</div>
+
+<p><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="Aska_systems_jp" data-hashtags="Aska" data-show-count="false">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+<!-- ## 詳細 -->
+
+<table class="table table-striped table-hover">
+  <thead>
+    <tr>
+      <th>Summary</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>期間</td>
+      <td>2021/1/17 - 2021/1/17</td>
+    </tr>
+    <tr>
+      <td>回答者数</td>
+      <td>319</td>
+    </tr>
+    <tr>
+      <td>回答意見数</td>
+      <td>126</td>
+    </tr>
+    <tr>
+      <td>初期回答数</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>プラットフォーム</td>
+      <td>Crowdworks</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- **Palette diagram**
+
+<img src="/jp/images/2020_CriminalGPS/linear_palette_diagram.jpg" alt="fig_group_size"
+style = "
+  width: 650px;
+  border: none;
+  background: none;
+  margin: 1% 1% 1% 1%;
+  text-align: center;
+  display: inline-block;
+">
+
+上の図は、パレットダイアグラム[^0]という図で、各回答者の回答パターンを可視化したものです。
+パレットダイアグラムでは、回答者が横一列に並べられ、回答パターンが縦軸方向に記されています。
+
+[^0]: パレットダイアグラムに関する詳細は[こちら](https://github.com/palette-diagram/palette-diagram)をご覧ください。
+ -->
+
+<p><br /></p>
+
+<hr />
+<p>この結果を引用される場合は十分にご注意ください。
+本調査はデモの一環として実施しているものであり、学術的な信頼性はないとお考えください。
+本格的な調査に興味がある方は、<a href="mailto:request@aska.systems">request@aska.systems</a>までご相談ください。</p>
+
+<p>ここで掲載している調査の目的は、Askaシステムの挙動の実証実験です。
+意見のバラエティを増やすために、あえてバイアスのかかった質問の仕方をすることもありますが、その場合は、バイアス下での結果であることを十分にご注意ください。</p>
+:ET
