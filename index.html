@@ -118,6 +118,33 @@ layout: intro
 
     <div class="col-md-6 my-3">
       <div class="card mb-4 mx-0 py-2 shadow-none">
+        <h3 class="card-title">アンケート機能</h3>
+        <p class="text-left text-muted">Askaは、自由記述式アンケートフレームワークとしての様々なオプションを用意しています</p>
+        <div class="card-body">
+          <ul class="px-1 text-left">
+            <li>各種質問形式テンプレート</li>
+              <ul>
+                <li>選択式質問（単一選択および複数選択）</li>
+                <li>スクリーニング用質問（投稿資格の確認）</li>
+                <li>自由記述オプション（自身の回答を記入する前に/記入した後に、他人の回答を参照）</li>
+              </ul>
+            <li>各種アンケートサービスとの連携</li>
+              <ul>
+                <li>現在連携可能なサービスについては、下記リストをご覧ください</li>
+                <li>独自システムとのリダイレクト連携については、別途ご相談ください</li>
+              </ul>
+            <li>利用規約設定</li>
+              <ul>
+                <li>規約内容を自由に設定できます</li>
+                <li>明示的/非明示的同意・設置の有無の選択</li>
+              </ul>
+          </ul>
+        </div>
+      </div>
+    </div>    
+
+    <div class="col-md-6 my-3">
+      <div class="card mb-4 mx-0 py-2 shadow-none">
         <h3 class="card-title">プレビュー埋め込み</h3>
         <div class="card-body">
         <img class="card-img-top img-fluid shadow" src="{{site.baseurl}}/images/Preview.jpg" alt="Preview" style="max-width:100%;height:auto;">
@@ -135,30 +162,7 @@ layout: intro
         <p class="pt-3">進捗状況をライブで確認できます</p>
       </div>
     </div>
-
-    <div class="col-md-6 my-3">
-      <div class="card mb-4 mx-0 py-2 shadow-none">
-        <h3 class="card-title">アンケート機能</h3>
-        <p class="text-left text-muted">Askaは、自由記述式アンケートフレームワークとして利用することができます</p>
-        <div class="card-body">
-          <ul class="px-1 text-left">
-            <li>Askaには、選択式アンケートのテンプレートも用意されています</li>
-            <li>我々が保有している回答者パネルはございませんが、様々なサービスと連携してAskaをご利用いただけます</li>
-              <ul>
-                <li><strong>Amazon Mechanical Turk (MTurk)</strong></li>
-                <p>MTurkでアンケートを実施する際に必要な「認証コード」を生成できます</p>
-                <li><strong>国内クラウドソーシングサービス</strong></li>
-                <p>外部リンクとして、AskaインスタンスのURLを掲載し、誘導していただくことで利用可能です（詳細については、各社の利用規約をよくご確認ください）</p>
-                <li><strong>Lucid</strong></li>
-                <p>リダイレクトの設定ができますので、Lucidとの連携が可能です</p>
-              </ul>
-          </ul>
-        </div>
-      </div>
-    </div>    
-
   </div>
-
 
   </div>
   </div> <!-- row -->
@@ -166,44 +170,65 @@ layout: intro
 
 
   <div class="row px-3 py-5 pt-md-5 pb-md-5 mx-auto">
-  <div class="col-12 col-md text-center">
+  <div class="col-12 col-md">
 
-    <h2>Applications</h2>
-    <!-- <p class="px-3 py-3 pt-md-2 pb-md-2 mx-5">
-      <small class="text-muted text-center">アンケートとして利用する場合、選択式質問も設置できます</small>
-    </p> -->
+    <h2 class="text-center">Systems that can be linked to Aska</h2>
 
-    <div class="card-deck mb-3 mt-3 text-center">
-      <div class="card mb-3 shadow-sm bg-light">
-        <div class="card-body">
-          <h5>世論調査・社会科学系研究</h5>
+    <div class="row my-3">
+      <div class="col-md-4">
+        <div class="card h-100">
+          <div class="card-body">
+            <h5 class="card-title text-warning"><strong>Amazon Mechanical Turk (MTurk)</strong></h5>
+            <p class="card-text">MTurkでアンケートを実施する際に必要な「認証コード」を生成できます</p>
+          </div>
         </div>
       </div>
-
-      <div class="card mb-3 shadow-sm bg-light">
-        <div class="card-body">
-          <h5>オンライン討論・ブレインストーミング</h5>
+      <div class="col-md-4">
+        <div class="card h-100">
+          <div class="card-body">
+            <h5 class="card-title text-primary"><strong>Qualtrics</strong></h5>
+            <p class="card-text">設定画面にて、回答者IDと紐づけたリダイレクトをすることにより、Askaへの一方的な接続によって連携できます。</p>
+            <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
+          </div>
         </div>
       </div>
-
-      <div class="card mb-3 shadow-sm bg-light">
-        <div class="card-body">
-          <h5>各種アンケート（企業採用・研修・学内調査等）</h5>
+      <div class="col-md-4">
+        <div class="card h-100">
+          <div class="card-body">
+            <h5 class="card-title text-primary"><strong>Lucid</strong></h5>
+            <p class="card-text">Lucidの設定で必要な、ステータスごとのリダイレクトに対応しています。</p>
+            <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
+          </div>
+        </div>
+      </div>        
+    </div> <!-- row -->
+    <div class="row my-3">
+      <div class="col-md-4">
+        <div class="card h-100">
+          <div class="card-body">
+            <h5 class="card-title text-warning"><strong>クラウドワークス</strong></h5>
+            <p class="card-text">（例）概要欄にAskaのリンクを貼り、認証コードのスクリーンショット提出によって承認作業が可能です。</p>
+          </div>
         </div>
       </div>
+    </div> <!-- row -->
 
-      <div class="card mb-3 shadow-sm bg-light">
-        <div class="card-body">
-          <h5>掲示板・コメント欄</h5>
-        </div>
-      </div>
+  </div>
+  </div>
 
-      <div class="card mb-3 shadow-sm bg-light">
-        <div class="card-body">
-          <h5>オンラインサロン</h5>
-        </div>
-      </div>
-    </div>
+
+
+  <div class="pricing-header px-3 py-5 pt-md-5 pb-md-5 mx-auto">
+  <div class="col-12 col-md">
+    <h2 class="text-center">Applications</h2>
+
+    <ul class="list-group mt-4">
+      <li class="list-group-item">世論調査・社会科学系研究</li>
+      <li class="list-group-item">オンライン討論・ブレインストーミング</li>
+      <li class="list-group-item">各種アンケート（企業採用・研修・学内調査等）</li>
+      <li class="list-group-item">掲示板・コメント欄</li>
+      <li class="list-group-item">オンラインサロン</li>
+    </ul>    
 
   </div>
   </div> <!-- row -->
@@ -300,7 +325,8 @@ layout: intro
       </div>
     </div>
   </footer>
-</div>
+
+</div> <!-- container -->
 
 <script type="text/javascript">
   function OnLinkClick() {
