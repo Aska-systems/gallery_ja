@@ -6,9 +6,107 @@
 </description>
     <link>http://localhost:4000/jp/</link>
     <atom:link href="http://localhost:4000/jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Jan 2021 22:38:00 +0900</pubDate>
-    <lastBuildDate>Wed, 27 Jan 2021 22:38:00 +0900</lastBuildDate>
+    <pubDate>Sun, 07 Feb 2021 11:57:49 +0900</pubDate>
+    <lastBuildDate>Sun, 07 Feb 2021 11:57:49 +0900</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Clubhouse、どう？</title>
+        <description>&lt;p&gt;認知が広まると同時に、非常に注目が集まっているClubhouse。今後どうなっていくのでしょうか。&lt;/p&gt;
+
+&lt;p&gt;Clubhouseとは、音声をベースとした、ラジオのようなSNSアプリです。現在アプリは招待制で、既存ユーザーから招待を受けることで利用可能になります。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;質問&quot;&gt;質問&lt;/h2&gt;
+&lt;div class=&quot;jumbotron py-2&quot;&gt;
+&lt;h5&gt;Clubhouseについてどう思いますか？&lt;/h5&gt;
+&lt;p&gt;
+使ったことのある・なしに関わらず、期待感・嫌悪感、メリット・デメリットについて、最も感じていることをお答えください。
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;募集中&quot;&gt;募集中&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://aska-1-5-2.herokuapp.com/ja/aska/XOS4wWrTBBNgj8wC2EmLACeHskq_Xd-z51KFiVdfNtg/A/hp/&quot; target=&quot;_blank&quot;&gt;
+	https://aska-1-5-2.herokuapp.com/ja/aska/XOS4wWrTBBNgj8wC2EmLACeHskq_Xd-z51KFiVdfNtg/A/hp/
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;現在ご意見募集中です（2021/2/7 24:00まで）&lt;/p&gt;
+
+&lt;!-- ## 結果 --&gt;
+
+&lt;!-- ## 最後に --&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-via=&quot;Aska_systems_jp&quot; data-hashtags=&quot;Aska&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;!-- ## 詳細 --&gt;
+
+&lt;table class=&quot;table table-striped table-hover&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Summary&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;期間&lt;/td&gt;
+      &lt;td&gt;2021/2/7 - 2021/2/7&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;回答者数&lt;/td&gt;
+      &lt;td&gt;—&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;回答意見数&lt;/td&gt;
+      &lt;td&gt;—&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;初期回答数&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;プラットフォーム&lt;/td&gt;
+      &lt;td&gt;—&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;!-- **Palette diagram**
+
+&lt;img src=&quot;/jp/images/2020_CriminalGPS/linear_palette_diagram.jpg&quot; alt=&quot;fig_group_size&quot;
+style = &quot;
+  width: 650px;
+  border: none;
+  background: none;
+  margin: 1% 1% 1% 1%;
+  text-align: center;
+  display: inline-block;
+&quot;&gt;
+
+上の図は、パレットダイアグラム[^0]という図で、各回答者の回答パターンを可視化したものです。
+パレットダイアグラムでは、回答者が横一列に並べられ、回答パターンが縦軸方向に記されています。
+
+[^0]: パレットダイアグラムに関する詳細は[こちら](https://github.com/palette-diagram/palette-diagram)をご覧ください。
+ --&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;この結果を引用される場合は十分にご注意ください。
+本調査はデモの一環として実施しているものであり、学術的な信頼性はないとお考えください。
+本格的な調査に興味がある方は、&lt;a href=&quot;mailto:request@aska.systems&quot;&gt;request@aska.systems&lt;/a&gt;までご相談ください。&lt;/p&gt;
+
+&lt;p&gt;ここで掲載している調査の目的は、Askaシステムの挙動の実証実験です。
+意見のバラエティを増やすために、あえてバイアスのかかった質問の仕方をすることもありますが、その場合は、バイアス下での結果であることを十分にご注意ください。&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 Feb 2021 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/jp/Clubhouse/</link>
+        <guid isPermaLink="true">http://localhost:4000/jp/Clubhouse/</guid>
+        
+        
+      </item>
     
       <item>
         <title>核禁止条約</title>
@@ -2519,337 +2617,6 @@ style = &quot;
         <pubDate>Mon, 16 Nov 2020 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/jp/GoTo2020/</link>
         <guid isPermaLink="true">http://localhost:4000/jp/GoTo2020/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>アメリカ大統領選挙 2020 (10月)</title>
-        <description>&lt;p&gt;大統領ディベート最終回（10/22）の後に実施された調査です。&lt;/p&gt;
-
-&lt;div class=&quot;jumbotron&quot;&gt;
-  &lt;h4&gt;What is the most important issue to you personally in the upcoming election?&lt;/h4&gt;
-&lt;/div&gt;
-
-&lt;table class=&quot;table table-striped table-hover&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Summary&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Period&lt;/td&gt;
-      &lt;td&gt;Oct. 26th – 30th, 2020&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Num. of respondents&lt;/td&gt;
-      &lt;td&gt;278&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Num. of opinions&lt;/td&gt;
-      &lt;td&gt;177&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Num. of initial opinions&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Platform&lt;/td&gt;
-      &lt;td&gt;MTurk (US residents)&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;回答パターン&quot;&gt;回答パターン&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Circular palette diagram&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/jp/images/2020_USpresident/October/circular_palette_diagram.png&quot; alt=&quot;fig_circular_palette&quot; style=&quot;   width: 600px;   border: none;   background: none;   margin: 1% 1% 1% 1%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Linear palette diagram&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/jp/images/2020_USpresident/October/linear_palette_diagram.png&quot; alt=&quot;fig_group_size&quot; style=&quot;   width: 600px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;上の図は、パレットダイアグラムという図で、各回答者の回答パターンを可視化したものです。
-円形のパレットダイアグラムでは、回答者が極方向に並べられ、回答パターンが動径方向に記されています。
-もう一つのパレットダイアグラムでは、回答者が横一列に並べられ、回答パターンが縦軸方向に記されています。
-パレットダイアグラムに関する詳細は&lt;a href=&quot;https://github.com/palette-diagram/palette-diagram&quot;&gt;こちら&lt;/a&gt;をご覧ください。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;技術的なポイント&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;このデータは、投票クラスタリング（英語名Aska）によって収集されました。これによって、意見グラフが生成されます。&lt;/li&gt;
-  &lt;li&gt;回答意見は、回答パターンに基づいてグラフ分割によって分類されています&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;。&lt;/li&gt;
-  &lt;li&gt;グループラベル（コーディング）は、意見グループの回答文章に基づいて、我々が付与したものです。&lt;/li&gt;
-  &lt;li&gt;この分析ではアノテーションはしておりません。意味が重複したグループ(&lt;em&gt;Economy&lt;/em&gt; and &lt;em&gt;COVID-19 &amp;amp; Economy&lt;/em&gt;)やいくつか分類ミスがあるのはそのためです。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;各意見グループ内の回答&quot;&gt;各意見グループ内の回答&lt;/h2&gt;
-&lt;p&gt;以下では、それぞれの意見グループで、支持の多かった回答をリストしています。&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-  Healthcare (25 posts)
-  &lt;/div&gt;
-  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    The most important to me is letting the president do his job. Parties working together. Accepting the results! Not destroying cities when you don't get your way.
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;17 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Some sort of health care reform to make it more affordable.
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;14 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    The most important issue is access to affordable healthcare
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;div class=&quot;collapse&quot; id=&quot;collapseExample0&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Healthcare is the most important issue in the upcoming election. I have a pre-existing condition, a daughter who is covered under my policy but is now 23 years old and I have concern for siblings, family members and friends. 
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Healthcare reform and access
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Universal healthcare.
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Protecting health care and the affordable care act
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Change the president and change America
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    climate change
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Improving basic human rights issues like health, nourishment, housing, and education.
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;/div&gt;
-  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample0&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample0&quot;&gt;
-    See more
-  &lt;/button&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-  Economy (5 posts)
-  &lt;/div&gt;
-  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Reopening and stabilizing the economy. Getting employment numbers back up. 
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    I SUPPORT ALL THE RESPONSES FIRST THE PEOPLE AND THE ECONOMY HAS TO BE OPEN NORMAL AND MORE JOBS HERE IN FLORIDA THE MINIMUN WAGE
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;5 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    The most important issue in the upcoming election is the economy. 
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;4 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;div class=&quot;collapse&quot; id=&quot;collapseExample1&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Income Inequality
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;0 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    My most important issue is the current economy. 
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;0 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;/div&gt;
-  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample1&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample1&quot;&gt;
-    See more
-  &lt;/button&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-  COVID-19 &amp;amp; Economy (75 posts)
-  &lt;/div&gt;
-  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Covid-19 Relief 
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;38 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Economy
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;33 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Covid-19 measures.
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;30 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;div class=&quot;collapse&quot; id=&quot;collapseExample2&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    The most important issue to me is re-opening the economy and getting back to our normal lives.
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;23 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    bringing back the economy to what it was pre covid-19
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;21 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Our healthcare and for those with pre-existing conditions 
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Healthcare coverage for all Americans to help us through the pandemic and beyond.
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Coronavirus crises
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Solve Covid and preventing further sickness.
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Preserving the rights of the individual. 
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;18 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;/div&gt;
-  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample2&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample2&quot;&gt;
-    See more
-  &lt;/button&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-  Racial equality (11 posts)
-  &lt;/div&gt;
-  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Racial equality
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;18 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Reduce the taxes
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Social justice issues
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;div class=&quot;collapse&quot; id=&quot;collapseExample3&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    ANY PARTY WILL BUT THE MAIN THING IS THE WORLD BECAME NORMAL
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;4 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    criminal justice reform, specifically being more lenient on laws and prevent prison overcrowding
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;4 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Stopping the race-baiting and division of the population
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;4 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Equality. Justice. A president who doesn't give handouts but also had a heart
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;4 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Decency, ending racism and bringing the country together.
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;3 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Violence in the streets. 
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;1 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Some one with a moral compass. 
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;1 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;/div&gt;
-  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample3&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample3&quot;&gt;
-    See more
-  &lt;/button&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-  Climate change, Women's rights, etc. (61 posts)
-  &lt;/div&gt;
-  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    The corruption and lawlessness of the current administration. 
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;15 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Immigration
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;15 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Hunger, homelessness, and affordable housing
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;div class=&quot;collapse&quot; id=&quot;collapseExample4&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Climate change solutions, not denials
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Women's rights/pro-choice
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    abortion and reproductive rights 
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    covid and harm reduction from conservatives 
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Equal rights for women
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Corruption actually being addressed and nepotism laws being enforced. The fact that Trump has funneled millions into his own businesses and contacts at the tax payers expense is out of line and He should have sold off Mar-a-lag
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    Climate change.
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;/div&gt;
-  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseExample4&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseExample4&quot;&gt;
-    See more
-  &lt;/button&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-via=&quot;Aska_systems_jp&quot; data-hashtags=&quot;Aska&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;この分類を見て、「おかしい」と思われた方がいるかもしれません。実は、収集した回答の数自体は278件よりも多く、それらの情報（といくつかの”テクニック”）によって今回の分類を実現しています。 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Wed, 04 Nov 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/jp/USpresidentOct/</link>
-        <guid isPermaLink="true">http://localhost:4000/jp/USpresidentOct/</guid>
         
         
       </item>
