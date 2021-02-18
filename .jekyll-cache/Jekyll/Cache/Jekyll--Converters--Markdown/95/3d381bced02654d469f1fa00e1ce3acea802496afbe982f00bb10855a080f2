@@ -1,0 +1,421 @@
+I"�z<p>長引きがちな会議や学級会。長引くのはなぜでしょうか。</p>
+
+<p>森喜朗氏の発言をきっかけに、昨今注目が集まっている(?)「〇〇だから会議が長引く」問題について、皆様のご意見を募集しました。
+森元会長が〇〇の部分に埋めた回答は大炎上となったわけですが、みなさんならどう答えるでしょうか？</p>
+
+<p><br /></p>
+
+<h1 id="質問１">質問１</h1>
+<div class="jumbotron py-2">
+<h5>あなたの周りで会議を長引かせている人（自分自身でも構いません）を思い浮かべてください。その人の何が会議を長くしているか、あなたの考えをお答えください。</h5>
+<p>
+思い浮かべた人の性別は伏せるよう、お願いします。
+</p>
+</div>
+
+<h2 id="結果">結果</h2>
+
+<h3 id="pie-chart">Pie chart</h3>
+
+<div>                        <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
+        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>                <div id="5da3577c-8d20-4249-b3c2-19d437075bfc" class="plotly-graph-div" style="height:100%; width:100%;"></div>            <script type="text/javascript">                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById("5da3577c-8d20-4249-b3c2-19d437075bfc")) {                    Plotly.newPlot(                        "5da3577c-8d20-4249-b3c2-19d437075bfc",                        [{"domain": {"x": [0.0, 1.0], "y": [0.0, 1.0]}, "hole": 0.5, "hovertemplate": "choice=%{label}<br>Count=%{value}<extra></extra>", "labels": ["\u7406\u89e3\u4e0d\u8db3\u7cfb", "\u76ee\u7684\u898b\u5931\u3046\u7cfb\n\u8aac\u660e\u9577\u3044\u30fb\u4e00\u65b9\u7684\u7cfb", "\u8aac\u660e\u9577\u3044\u30fb\u4e00\u65b9\u7684\u7cfb", "\u8b70\u984c\u304b\u3089\u8131\u7dda\u3059\u308b\u7cfb"], "legendgroup": "", "name": "", "showlegend": true, "type": "pie", "values": [21, 144, 92, 68]}],                        {"legend": {"tracegroupgap": 0}, "margin": {"t": 60}, "piecolorway": ["rgb(102, 197, 204)", "rgb(246, 207, 113)", "rgb(248, 156, 116)", "rgb(220, 176, 242)", "rgb(135, 197, 95)", "rgb(158, 185, 243)", "rgb(254, 136, 177)", "rgb(201, 219, 116)", "rgb(139, 224, 164)", "rgb(180, 151, 231)", "rgb(179, 179, 179)"], "template": {"data": {"bar": [{"error_x": {"color": "#2a3f5f"}, "error_y": {"color": "#2a3f5f"}, "marker": {"line": {"color": "#E5ECF6", "width": 0.5}}, "type": "bar"}], "barpolar": [{"marker": {"line": {"color": "#E5ECF6", "width": 0.5}}, "type": "barpolar"}], "carpet": [{"aaxis": {"endlinecolor": "#2a3f5f", "gridcolor": "white", "linecolor": "white", "minorgridcolor": "white", "startlinecolor": "#2a3f5f"}, "baxis": {"endlinecolor": "#2a3f5f", "gridcolor": "white", "linecolor": "white", "minorgridcolor": "white", "startlinecolor": "#2a3f5f"}, "type": "carpet"}], "choropleth": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "choropleth"}], "contour": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "contour"}], "contourcarpet": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "contourcarpet"}], "heatmap": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "heatmap"}], "heatmapgl": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "heatmapgl"}], "histogram": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "histogram"}], "histogram2d": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "histogram2d"}], "histogram2dcontour": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "histogram2dcontour"}], "mesh3d": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "mesh3d"}], "parcoords": [{"line": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "parcoords"}], "pie": [{"automargin": true, "type": "pie"}], "scatter": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatter"}], "scatter3d": [{"line": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatter3d"}], "scattercarpet": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattercarpet"}], "scattergeo": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattergeo"}], "scattergl": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattergl"}], "scattermapbox": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattermapbox"}], "scatterpolar": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterpolar"}], "scatterpolargl": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterpolargl"}], "scatterternary": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterternary"}], "surface": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "surface"}], "table": [{"cells": {"fill": {"color": "#EBF0F8"}, "line": {"color": "white"}}, "header": {"fill": {"color": "#C8D4E3"}, "line": {"color": "white"}}, "type": "table"}]}, "layout": {"annotationdefaults": {"arrowcolor": "#2a3f5f", "arrowhead": 0, "arrowwidth": 1}, "autotypenumbers": "strict", "coloraxis": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "colorscale": {"diverging": [[0, "#8e0152"], [0.1, "#c51b7d"], [0.2, "#de77ae"], [0.3, "#f1b6da"], [0.4, "#fde0ef"], [0.5, "#f7f7f7"], [0.6, "#e6f5d0"], [0.7, "#b8e186"], [0.8, "#7fbc41"], [0.9, "#4d9221"], [1, "#276419"]], "sequential": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "sequentialminus": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]]}, "colorway": ["#636efa", "#EF553B", "#00cc96", "#ab63fa", "#FFA15A", "#19d3f3", "#FF6692", "#B6E880", "#FF97FF", "#FECB52"], "font": {"color": "#2a3f5f"}, "geo": {"bgcolor": "white", "lakecolor": "white", "landcolor": "#E5ECF6", "showlakes": true, "showland": true, "subunitcolor": "white"}, "hoverlabel": {"align": "left"}, "hovermode": "closest", "mapbox": {"style": "light"}, "paper_bgcolor": "white", "plot_bgcolor": "#E5ECF6", "polar": {"angularaxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}, "bgcolor": "#E5ECF6", "radialaxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}}, "scene": {"xaxis": {"backgroundcolor": "#E5ECF6", "gridcolor": "white", "gridwidth": 2, "linecolor": "white", "showbackground": true, "ticks": "", "zerolinecolor": "white"}, "yaxis": {"backgroundcolor": "#E5ECF6", "gridcolor": "white", "gridwidth": 2, "linecolor": "white", "showbackground": true, "ticks": "", "zerolinecolor": "white"}, "zaxis": {"backgroundcolor": "#E5ECF6", "gridcolor": "white", "gridwidth": 2, "linecolor": "white", "showbackground": true, "ticks": "", "zerolinecolor": "white"}}, "shapedefaults": {"line": {"color": "#2a3f5f"}}, "ternary": {"aaxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}, "baxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}, "bgcolor": "#E5ECF6", "caxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}}, "title": {"x": 0.05}, "xaxis": {"automargin": true, "gridcolor": "white", "linecolor": "white", "ticks": "", "title": {"standoff": 15}, "zerolinecolor": "white", "zerolinewidth": 2}, "yaxis": {"automargin": true, "gridcolor": "white", "linecolor": "white", "ticks": "", "title": {"standoff": 15}, "zerolinecolor": "white", "zerolinewidth": 2}}}},                        {"responsive": true}                    )                };                            </script>        </div>
+
+<h3 id="意見グループ-vs-回答者グループ-親和性行列">意見グループ vs 回答者グループ (親和性行列)</h3>
+
+<p>各行が意見グループのラベル、各列が回答者グループのラベルとなっています。
+ラベルは、分析者が投稿意見の内訳と、回答パターンを見て付けたものです。
+X行Y列目の数値は、回答者グループYの人たちが、意見グループXの意見（のどれか）を支持した投票数です。</p>
+
+<p><img src="/jp/images/2021_LongMTG/popularity_matrix.jpg" alt="fig_popularity" style="   width: 500px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; " /></p>
+
+<h3 id="各意見グループの内訳一部">各意見グループの内訳（一部）</h3>
+
+<div class="card">
+  <div class="card-header">
+  理解不足系 (10 posts)
+  </div>
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item">
+    議題に沿って要点をまとめて話せないから。会議の前に内容を把握して発言の準備をしないし、会議に集中して人の意見をきちんと聞いていないので。
+    <br /><span class="badge badge-dark">20 likes</span>
+  </li>
+  <li class="list-group-item">
+    議題の論点を完結に述べず分かりにくい言葉を使って会議を長くしてしまう人がいます。
+    <br /><span class="badge badge-dark">18 likes</span>
+  </li>
+  <li class="list-group-item">
+    会議の議題についての下調べを充分にしておらず、話の内容が的を得ていない為に結論がなかなか出ないから。
+    <br /><span class="badge badge-dark">18 likes</span>
+  </li>
+  <div class="collapse" id="collapseOpinion0">
+  <li class="list-group-item">
+    みんなが分かりきったことを何度も細かく質問する人がいると会議が長くなります。
+    <br /><span class="badge badge-dark">17 likes</span>
+  </li>
+  <li class="list-group-item">
+    会議で方針が決まった後に、ネガティブな指摘をして、もう一度協議が始めからになる。
+    <br /><span class="badge badge-dark">16 likes</span>
+  </li>
+  <li class="list-group-item">
+    話にまとまりがなく、いつまでたっても結論にたどり着かず長引いてしまう。
+    <br /><span class="badge badge-dark">14 likes</span>
+  </li>
+  <li class="list-group-item">
+    会議の内容を事前に把握せず、会場に来てから初めて資料に目を通し議題や課題などを知る人が多いと、話も考えも意見もまとまらず時間だけが過ぎていき、結果会議時間も長くなると思います。
+    <br /><span class="badge badge-dark">12 likes</span>
+  </li>
+  <li class="list-group-item">
+    話す前に自分の意見を整理していないこと
+    <br /><span class="badge badge-dark">12 likes</span>
+  </li>
+  <li class="list-group-item">
+    事前資料などを確認してきておらず、流れを滞らせている。
+    <br /><span class="badge badge-dark">10 likes</span>
+  </li>
+  <li class="list-group-item">
+    空気を読めない人がとにかく時間を気にせず話が長い。
+    <br /><span class="badge badge-dark">6 likes</span>
+  </li>
+  </div>
+  <button class="btn btn-light btn-block" type="button" data-toggle="collapse" data-target="#collapseOpinion0" aria-expanded="false" aria-controls="collapseOpinion0">
+    See more
+  </button>
+  </ul>
+</div>
+
+<div class="card">
+  <div class="card-header">
+  説明長い・一方的系 (48 posts)
+  </div>
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item">
+    自分の言いたいことを一方的に言っている
+    <br /><span class="badge badge-dark">21 likes</span>
+  </li>
+  <li class="list-group-item">
+    自分の意見がまとまらずに発言しない割に人の意見の粗探しをしてまとめることをしようとしないこと。
+    <br /><span class="badge badge-dark">19 likes</span>
+  </li>
+  <li class="list-group-item">
+    話の要点がまとまっておらず、あっちこっちに話が行きがちなところです。
+    <br /><span class="badge badge-dark">17 likes</span>
+  </li>
+  <div class="collapse" id="collapseOpinion1">
+  <li class="list-group-item">
+    とにかく1つ事でも説明が無駄に長いので
+    <br /><span class="badge badge-dark">16 likes</span>
+  </li>
+  <li class="list-group-item">
+    自分の意見を述べる能力や技術が不足している日本人にありがち。
+    <br /><span class="badge badge-dark">14 likes</span>
+  </li>
+  <li class="list-group-item">
+    説明の一つ一つが長いから、それを長くさせている。
+    <br /><span class="badge badge-dark">14 likes</span>
+  </li>
+  <li class="list-group-item">
+    同じことを何度も言い方を変えるなどして長引かせていると思う
+    <br /><span class="badge badge-dark">13 likes</span>
+  </li>
+  <li class="list-group-item">
+    それぞれの意見を聞いてもまとめられず、単純な話を難しくする。
+    <br /><span class="badge badge-dark">13 likes</span>
+  </li>
+  <li class="list-group-item">
+    決断力がなく、みんなの意見を聞き過ぎて話があちこちに派生してまとまらないからだと思います。
+    <br /><span class="badge badge-dark">13 likes</span>
+  </li>
+  <li class="list-group-item">
+    話好きの人がいると雑談も混ざって会議が長くなります。
+    <br /><span class="badge badge-dark">13 likes</span>
+  </li>
+  <li class="list-group-item">
+    たまにですが、会議の趣旨や要点がうまく纏まっていないケースがある
+    <br /><span class="badge badge-dark">13 likes</span>
+  </li>
+  <li class="list-group-item">
+    自分の意見に対して異論を訴えてくる人に対して戦いを挑む感じで自分に酔っているなどが長引く原因にもなると思います
+    <br /><span class="badge badge-dark">12 likes</span>
+  </li>
+  <li class="list-group-item">
+    順序立てて話そうとせず言葉を発していて、だらだら長くなる。
+    <br /><span class="badge badge-dark">12 likes</span>
+  </li>
+  <li class="list-group-item">
+    話の大筋から外れて細かいことを言い始めて、話が脱線していくことが多い。話し手が本来言いたかったことを言えず、ゴールまでたどり着かなくなる。
+    <br /><span class="badge badge-dark">12 likes</span>
+  </li>
+  <li class="list-group-item">
+    会議の中身の議論よりも自分の話が長い人。
+    <br /><span class="badge badge-dark">11 likes</span>
+  </li>
+  <li class="list-group-item">
+    話好きな人が会議と関係ない話をする。
+    <br /><span class="badge badge-dark">11 likes</span>
+  </li>
+  <li class="list-group-item">
+    内容がない会議をしているからです。
+    <br /><span class="badge badge-dark">11 likes</span>
+  </li>
+  <li class="list-group-item">
+    長文で意見を言ってくるところ
+    <br /><span class="badge badge-dark">11 likes</span>
+  </li>
+  <li class="list-group-item">
+    話が脱線するから長引く。
+    <br /><span class="badge badge-dark">10 likes</span>
+  </li>
+  <li class="list-group-item">
+    一番は話の本線とは大幅にずれている発言をしている人がいることが原因になり得ると思います。例えば今は来週のイベントの話をしているにもかかわらず会計の話を会社全体の管理の話に広げたりなどと、場違いな発言があると長引来がちだと思います。
+    <br /><span class="badge badge-dark">9 likes</span>
+  </li>
+  </div>
+  <button class="btn btn-light btn-block" type="button" data-toggle="collapse" data-target="#collapseOpinion1" aria-expanded="false" aria-controls="collapseOpinion1">
+    See more
+  </button>
+  </ul>
+</div>
+
+<div class="card">
+  <div class="card-header">
+  議題から脱線する系 (16 posts)
+  </div>
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item">
+    本題から、話しが脱線して別の案件の話しになるから
+    <br /><span class="badge badge-dark">30 likes</span>
+  </li>
+  <li class="list-group-item">
+    議題から逸れた話題を出したり、それについて話したりするからです。
+    <br /><span class="badge badge-dark">28 likes</span>
+  </li>
+  <li class="list-group-item">
+    だんだんと脱線するから。その脱線した内容にこだわって譲らないから、軌道修正させるのに時間がかかって長引きます。
+    <br /><span class="badge badge-dark">28 likes</span>
+  </li>
+  <div class="collapse" id="collapseOpinion2">
+  <li class="list-group-item">
+    会議の議題と関係なく、会社全体の話や関係ない話にも言及して話が脱線するから。
+    <br /><span class="badge badge-dark">20 likes</span>
+  </li>
+  <li class="list-group-item">
+    会議の議題から脱線し、どうでも良い話をし出す為。
+    <br /><span class="badge badge-dark">19 likes</span>
+  </li>
+  <li class="list-group-item">
+    感情的な私見を話している人が多くの時間を使って話していること、また、異論を唱える人に対して感情的にぶつかることが多いような気がします。
+    <br /><span class="badge badge-dark">18 likes</span>
+  </li>
+  <li class="list-group-item">
+    話が脱線する、話が逸れる、まとまりかけていた話をまた根底から覆す等があるからだと思います。
+    <br /><span class="badge badge-dark">18 likes</span>
+  </li>
+  <li class="list-group-item">
+    仕事のための会議ではなく、会議をすることが仕事になってしまっているから。
+    <br /><span class="badge badge-dark">16 likes</span>
+  </li>
+  <li class="list-group-item">
+    決めないとダメなこと以外の話題を出してくる人がいます。今はその話ではないでしょっと思ってしまいます。必要なことはさっさと話し合い終わらせたいものです。残業代もでないのに。
+    <br /><span class="badge badge-dark">15 likes</span>
+  </li>
+  <li class="list-group-item">
+    話が主題からそれていくから。
+    <br /><span class="badge badge-dark">14 likes</span>
+  </li>
+  <li class="list-group-item">
+    話している最中に思いが強くなっていって話が長くなり、会議が長引くことが多いです。何回も同じことを言ったり、例え話が長かったりします。また、どんどん話を派生させていくため、だんだん脱線していきます。最終元には戻るのですが、今この会議でその話をする必要はなかったのでは？とよく思うことがあります。
+    <br /><span class="badge badge-dark">14 likes</span>
+  </li>
+  <li class="list-group-item">
+    会議で質問しなくても良い内容。別の場で個人的に聞けば良いと思うことの積み重ねで長くなる。
+    <br /><span class="badge badge-dark">12 likes</span>
+  </li>
+  <li class="list-group-item">
+    特に新しい改善策があるわけではないのに、若手が提案する改善策に対して大きな意味の無いあらさがしをしてるだけな口だけ上司。
+    <br /><span class="badge badge-dark">10 likes</span>
+  </li>
+  <li class="list-group-item">
+    結局会議をするということが仕事になっており、何のために会議をしているのか分からない
+    <br /><span class="badge badge-dark">10 likes</span>
+  </li>
+  <li class="list-group-item">
+    結論に近づかない思いつきの意見を言ったり、前の人と同じことを繰り返すだけのコメントを言うため。
+    <br /><span class="badge badge-dark">8 likes</span>
+  </li>
+  <li class="list-group-item">
+    方針が決まった後に突然反対する上司がいるので結局まとまらない
+    <br /><span class="badge badge-dark">6 likes</span>
+  </li>
+  </div>
+  <button class="btn btn-light btn-block" type="button" data-toggle="collapse" data-target="#collapseOpinion2" aria-expanded="false" aria-controls="collapseOpinion2">
+    See more
+  </button>
+  </ul>
+</div>
+
+<div class="card">
+  <div class="card-header">
+  目的見失う系 (184 posts)
+  </div>
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item">
+    会議の目的をきちんと理解していない。今しなければならない議論や決定事項を把握していない。細部や弊害ばかりを気にして決断する裁量が無い。
+    <br /><span class="badge badge-dark">10 likes</span>
+  </li>
+  <li class="list-group-item">
+    論点を絞らずに話をしたり、話している途中で会議の目的を忘れてしまって、思いつくままに話を広げて結論がいつまでたっても出てこない話をする
+    <br /><span class="badge badge-dark">10 likes</span>
+  </li>
+  <li class="list-group-item">
+    会議中、管理職の人が部下に沢山意見を言わせて、リーダーシップを取ったつもりになっている（最終的には管理職の方が方向決定するし、最初からその方向は決まっているので、時間の無駄）
+    <br /><span class="badge badge-dark">10 likes</span>
+  </li>
+  <div class="collapse" id="collapseOpinion3">
+  <li class="list-group-item">
+    自分の意見はないのに人の意見などをすぐに否定する人がいると、話が進まず会議が長引く。
+    <br /><span class="badge badge-dark">9 likes</span>
+  </li>
+  <li class="list-group-item">
+    会議で話す必要がないことも会議中に話すから時間がかかる。
+    <br /><span class="badge badge-dark">8 likes</span>
+  </li>
+  <li class="list-group-item">
+    決まりかけていたことに納得が行かず、終盤になってわざわざ掘り返して改めて問題提起して再検討に持ち込もうとする。既に納得していた人の中にも、「そう言われてみれば」と迷いが出る人も少数ながら現れ、総じて議論が長引いてしまう。
+    <br /><span class="badge badge-dark">8 likes</span>
+  </li>
+  <li class="list-group-item">
+    明確な目的がないままにただ話を続けているから。 結局何がしたいのかがわからないから結論が出ない。
+    <br /><span class="badge badge-dark">7 likes</span>
+  </li>
+  <li class="list-group-item">
+    同じ話題を無限ループしたり、他人の意見を素直に聞き入れないところ
+    <br /><span class="badge badge-dark">7 likes</span>
+  </li>
+  <li class="list-group-item">
+    話がすぐに脱線する。主題からズレた雑談＝コミュニケーションと思っている。会議がコミュニケーションをとるための場所だというスタンスで進行されている。
+    <br /><span class="badge badge-dark">7 likes</span>
+  </li>
+  <li class="list-group-item">
+    会議の趣旨を理解しておらず本筋とは別の話題を膨らませるところ
+    <br /><span class="badge badge-dark">7 likes</span>
+  </li>
+  <li class="list-group-item">
+    事前に意見をまとめてから発言するのではなく、会議中に思いついたことをつらつらと喋りながら頭の中を整理していること。
+    <br /><span class="badge badge-dark">7 likes</span>
+  </li>
+  <li class="list-group-item">
+    議題に対する下調べや熟考度が足りない人
+    <br /><span class="badge badge-dark">7 likes</span>
+  </li>
+  <li class="list-group-item">
+    自分の頭でまとまっていない話をだらだらと長時間話し続けてしまっている
+    <br /><span class="badge badge-dark">7 likes</span>
+  </li>
+  <li class="list-group-item">
+    本題に入るまでの前置きが長い。
+    <br /><span class="badge badge-dark">6 likes</span>
+  </li>
+  <li class="list-group-item">
+    他のプロジェクトに話を混ぜて話すから結局結論が出なくて話がまとまらない
+    <br /><span class="badge badge-dark">6 likes</span>
+  </li>
+  <li class="list-group-item">
+    元々自分(長引かせている人)の意見や考えがあり、その意見や考えに到達するのを期待しているため、他の人の意見や考えに対して否定的であるため。自分の思い通りになるまで終わらせようとしない。
+    <br /><span class="badge badge-dark">6 likes</span>
+  </li>
+  <li class="list-group-item">
+    結論に達するまでの関係のないことに夢中で話す人がいるため。
+    <br /><span class="badge badge-dark">6 likes</span>
+  </li>
+  <li class="list-group-item">
+    私もそうなのですが、自分が言いたいことをまとめるのが下手です。また、会議の議題と関係ないことをダラダラととりとめもなく話す。
+    <br /><span class="badge badge-dark">6 likes</span>
+  </li>
+  <li class="list-group-item">
+    雑談が長いのが原因。本題から話が派生し、自分の聞いて欲しいことを話し始めることがよくある。
+    <br /><span class="badge badge-dark">6 likes</span>
+  </li>
+  <li class="list-group-item">
+    一人めんどくさい人がいると長引く。意見を否定したり、みんなでやることを一人でぐだぐだ文句言う人がいると長引きます。
+    <br /><span class="badge badge-dark">6 likes</span>
+  </li>
+  </div>
+  <button class="btn btn-light btn-block" type="button" data-toggle="collapse" data-target="#collapseOpinion3" aria-expanded="false" aria-controls="collapseOpinion3">
+    See more
+  </button>
+  </ul>
+</div>
+
+<h1 id="質問２">質問２</h1>
+
+<div class="jumbotron py-2">
+<h5></h5>
+<p>
+思い浮かべた人の性別は伏せるよう、お願いします。
+</p>
+</div>
+
+<h2 id="最後に">最後に</h2>
+<p>全体的に利用に慎重なニュアンスの意見が多く見られました。</p>
+
+<p>意見グループ「否定的・一時的流行」からは、否定的である”理由”よりも、（ただの）一過性のものであるという”見解”が多いです。
+一方、意見グループ「デメリット」は、メリットも挙げた上でデメリットもあるという特徴があります。
+ある程度興味があり中立的だが、安全面で不安があるというような中身（理由）が伺えます。</p>
+
+<p>意見グループ「若者向け・期待感」「興味はある」は、回答者グループとしては一つにまとまる結果となりました。
+「若者向け・期待感」のグループは、同じ文章でも肯定的か否定的かははっきりしないものもありますが、全体的には肯定的・やや肯定的な意見とより強く紐づいているようです。
+「興味はある」は、少し引いた見方が多い様子です。「自身は積極的に利用しない/できないが、使いたい人には良いものなのではないか」と言った意見が目立ちます。</p>
+
+<p>まだ世論が定着していない段階での調査のせいか、様々な視点の意見が出現した印象があります。
+また、各意見グループ（回答者グループ）から特徴的な傾向を拾うことができたので、興味深い結果になったと思います。</p>
+
+<p><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="Aska_systems_jp" data-hashtags="Aska" data-show-count="false">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+<h2 id="詳細">詳細</h2>
+
+<table class="table table-striped table-hover">
+  <thead>
+    <tr>
+      <th>Summary</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>期間</td>
+      <td>2021/2/7 - 2021/2/7</td>
+    </tr>
+    <tr>
+      <td>回答者数</td>
+      <td>320</td>
+    </tr>
+    <tr>
+      <td>回答意見数</td>
+      <td>246</td>
+    </tr>
+    <tr>
+      <td>初期回答数</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>プラットフォーム</td>
+      <td>Crowdworks</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="palette-diagram">Palette diagram</h3>
+<p>（Palette diagramの見方については、例えば<a href="/jp/Clubhouse">こちらの記事</a>をご覧ください）</p>
+
+<p><img src="/jp/images/2021_LongMTG/linear_palette_diagram.jpg" alt="linear_palette_diagram" style="   width: 650px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; " /></p>
+
+<p><br /></p>
+
+<hr />
+<p>この結果を引用される場合は十分にご注意ください。
+本調査はデモの一環として実施しているものであり、学術的な信頼性はないとお考えください。
+本格的な調査に興味がある方は、<a href="mailto:request@aska.systems">request@aska.systems</a>までご相談ください。</p>
+
+<p>ここで掲載している調査の目的は、Askaシステムの挙動の実証実験です。
+意見のバラエティを増やすために、あえてバイアスのかかった質問の仕方をすることもありますが、その場合は、バイアス下での結果であることを十分にご注意ください。</p>
+:ET
