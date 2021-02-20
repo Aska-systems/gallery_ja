@@ -6,8 +6,8 @@
 </description>
     <link>https://aska.systems/jp/</link>
     <atom:link href="https://aska.systems/jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 19 Feb 2021 01:04:16 +0900</pubDate>
-    <lastBuildDate>Fri, 19 Feb 2021 01:04:16 +0900</lastBuildDate>
+    <pubDate>Sat, 20 Feb 2021 11:58:20 +0900</pubDate>
+    <lastBuildDate>Sat, 20 Feb 2021 11:58:20 +0900</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -15,7 +15,7 @@
         <description>&lt;p&gt;長引きがちな会議や学級会。長引くのはなぜでしょうか。&lt;/p&gt;
 
 &lt;p&gt;森喜朗氏の発言をきっかけに、昨今注目が集まっている(?)「〇〇だから会議が長引く」問題について、皆様のご意見を募集しました。
-森元会長が〇〇の部分に埋めた回答は大炎上となったわけですが、みなさんならどう答えるでしょうか？&lt;/p&gt;
+森元会長が〇〇の部分に埋めた内容は大炎上となったわけですが、みなさんならどう答えるでしょうか？&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -398,8 +398,8 @@ X行Y列目の数値は、回答者グループYの人たちが、意見グル�
 &lt;p&gt;あなたの思い浮かべた人はどのタイプだったでしょうか。
 また、これらの意見に身に覚えがあり、背筋が凍った人も多いのではないでしょうか。&lt;/p&gt;
 
-&lt;p&gt;森元会長は（回答者側の分類として）「目的見失う系/説明長い・一方的系」かなと思います。
-長引く会議に苛立つこと自体は、人間である以上仕方ないことだと思います。
+&lt;p&gt;森元会長は、回答者側の分類として「目的見失う系/説明長い・一方的系」かなと思います。
+長引く会議に苛立つこと自体は、仕方ないことだと思います。
 ただ森元会長は、なぜか公の場で、しかも完全に間違ったぼかし方で発言してしまったために、大炎上となってしまったのではないでしょうか。&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-via=&quot;Aska_systems_jp&quot; data-hashtags=&quot;Aska&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
@@ -411,28 +411,34 @@ X行Y列目の数値は、回答者グループYの人たちが、意見グル�
     &lt;tr&gt;
       &lt;th&gt;Summary&lt;/th&gt;
       &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;期間&lt;/td&gt;
       &lt;td&gt;2021/2/14 - 2021/2/14&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;回答者数&lt;/td&gt;
       &lt;td&gt;327&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;回答意見数&lt;/td&gt;
       &lt;td&gt;263 (質問1)&lt;/td&gt;
+      &lt;td&gt;236 (質問2)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;初期回答数&lt;/td&gt;
-      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;0（質問1）&lt;/td&gt;
+      &lt;td&gt;3 (質問2)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;プラットフォーム&lt;/td&gt;
       &lt;td&gt;Crowdworks&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
