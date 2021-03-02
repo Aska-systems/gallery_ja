@@ -1,0 +1,280 @@
+I"cr<p>最近の小学校では、名字に「さん」をつけて呼ぶのが望ましいとする指導が定着し、あだ名を禁止しているそうです。</p>
+
+<p>小学生にあだ名を禁止させる指導について、皆さんの意見を募集しました。
+また、あだ名に対する意見と比較するため、</p>
+
+<p><br /></p>
+
+<h2 id="質問">質問</h2>
+<h3 id="質問１">質問１</h3>
+<div class="jumbotron py-2">
+<h5>学校が、子供同士の呼び名に制限を設けるのには賛成でしょうか。それはなぜですか？</h5>
+</div>
+
+<h3 id="質問2">質問2</h3>
+<div class="jumbotron py-2">
+<h5>学校が、子供の髪色・髪型や服装に制限を設けるのには賛成でしょうか。それはなぜですか？</h5>
+</div>
+
+<h2 id="結果">結果</h2>
+
+<h3 id="pie-chart">Pie chart</h3>
+<p>回答者の分類</p>
+
+<div>                        <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
+        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>                <div id="f64524e7-29b7-45d1-a4ef-b0f922dda7c1" class="plotly-graph-div" style="height:100%; width:100%;"></div>            <script type="text/javascript">                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById("f64524e7-29b7-45d1-a4ef-b0f922dda7c1")) {                    Plotly.newPlot(                        "f64524e7-29b7-45d1-a4ef-b0f922dda7c1",                        [{"branchvalues": "total", "customdata": [[91.0], [38.0], [8.0], [113.0], [37.0], [10.0], [103.18627450980392], [37.50666666666667], [9.11111111111111]], "domain": {"x": [0.0, 1.0], "y": [0.0, 1.0]}, "hovertemplate": "labels=%{label}<br>Count_sum=%{value}<br>parent=%{parent}<br>id=%{id}<br>Count=%{color}<extra></extra>", "ids": ["Q1<br>\u898f\u5236\u53cd\u5bfe/Q2<br>\u898f\u5236\u53cd\u5bfe", "Q1<br>\u898f\u5236\u8cdb\u6210/Q2<br>\u898f\u5236\u53cd\u5bfe", "Q1<br>\u8cdb\u5426\u4e21\u8ad6/Q2<br>\u898f\u5236\u53cd\u5bfe", "Q1<br>\u898f\u5236\u53cd\u5bfe/Q2<br>\u898f\u5236\u8cdb\u6210", "Q1<br>\u898f\u5236\u8cdb\u6210/Q2<br>\u898f\u5236\u8cdb\u6210", "Q1<br>\u8cdb\u5426\u4e21\u8ad6/Q2<br>\u898f\u5236\u8cdb\u6210", "Q1<br>\u898f\u5236\u53cd\u5bfe", "Q1<br>\u898f\u5236\u8cdb\u6210", "Q1<br>\u8cdb\u5426\u4e21\u8ad6"], "labels": ["Q2<br>\u898f\u5236\u53cd\u5bfe", "Q2<br>\u898f\u5236\u53cd\u5bfe", "Q2<br>\u898f\u5236\u53cd\u5bfe", "Q2<br>\u898f\u5236\u8cdb\u6210", "Q2<br>\u898f\u5236\u8cdb\u6210", "Q2<br>\u898f\u5236\u8cdb\u6210", "Q1<br>\u898f\u5236\u53cd\u5bfe", "Q1<br>\u898f\u5236\u8cdb\u6210", "Q1<br>\u8cdb\u5426\u4e21\u8ad6"], "marker": {"coloraxis": "coloraxis", "colors": [91.0, 38.0, 8.0, 113.0, 37.0, 10.0, 103.18627450980392, 37.50666666666667, 9.11111111111111]}, "name": "", "parents": ["Q1<br>\u898f\u5236\u53cd\u5bfe", "Q1<br>\u898f\u5236\u8cdb\u6210", "Q1<br>\u8cdb\u5426\u4e21\u8ad6", "Q1<br>\u898f\u5236\u53cd\u5bfe", "Q1<br>\u898f\u5236\u8cdb\u6210", "Q1<br>\u8cdb\u5426\u4e21\u8ad6", "", "", ""], "type": "sunburst", "values": [91, 38, 8, 113, 37, 10, 204, 75, 18]}],                        {"coloraxis": {"colorbar": {"title": {"text": "Count"}}, "colorscale": [[0.0, "rgb(75, 41, 145)"], [0.16666666666666666, "rgb(135, 44, 162)"], [0.3333333333333333, "rgb(192, 54, 157)"], [0.5, "rgb(234, 79, 136)"], [0.6666666666666666, "rgb(250, 120, 118)"], [0.8333333333333334, "rgb(246, 169, 122)"], [1.0, "rgb(237, 217, 163)"]]}, "legend": {"tracegroupgap": 0}, "margin": {"t": 60}, "template": {"data": {"bar": [{"error_x": {"color": "#2a3f5f"}, "error_y": {"color": "#2a3f5f"}, "marker": {"line": {"color": "#E5ECF6", "width": 0.5}}, "type": "bar"}], "barpolar": [{"marker": {"line": {"color": "#E5ECF6", "width": 0.5}}, "type": "barpolar"}], "carpet": [{"aaxis": {"endlinecolor": "#2a3f5f", "gridcolor": "white", "linecolor": "white", "minorgridcolor": "white", "startlinecolor": "#2a3f5f"}, "baxis": {"endlinecolor": "#2a3f5f", "gridcolor": "white", "linecolor": "white", "minorgridcolor": "white", "startlinecolor": "#2a3f5f"}, "type": "carpet"}], "choropleth": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "choropleth"}], "contour": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "contour"}], "contourcarpet": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "contourcarpet"}], "heatmap": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "heatmap"}], "heatmapgl": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "heatmapgl"}], "histogram": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "histogram"}], "histogram2d": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "histogram2d"}], "histogram2dcontour": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "histogram2dcontour"}], "mesh3d": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "type": "mesh3d"}], "parcoords": [{"line": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "parcoords"}], "pie": [{"automargin": true, "type": "pie"}], "scatter": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatter"}], "scatter3d": [{"line": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatter3d"}], "scattercarpet": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattercarpet"}], "scattergeo": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattergeo"}], "scattergl": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattergl"}], "scattermapbox": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scattermapbox"}], "scatterpolar": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterpolar"}], "scatterpolargl": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterpolargl"}], "scatterternary": [{"marker": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "type": "scatterternary"}], "surface": [{"colorbar": {"outlinewidth": 0, "ticks": ""}, "colorscale": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "type": "surface"}], "table": [{"cells": {"fill": {"color": "#EBF0F8"}, "line": {"color": "white"}}, "header": {"fill": {"color": "#C8D4E3"}, "line": {"color": "white"}}, "type": "table"}]}, "layout": {"annotationdefaults": {"arrowcolor": "#2a3f5f", "arrowhead": 0, "arrowwidth": 1}, "autotypenumbers": "strict", "coloraxis": {"colorbar": {"outlinewidth": 0, "ticks": ""}}, "colorscale": {"diverging": [[0, "#8e0152"], [0.1, "#c51b7d"], [0.2, "#de77ae"], [0.3, "#f1b6da"], [0.4, "#fde0ef"], [0.5, "#f7f7f7"], [0.6, "#e6f5d0"], [0.7, "#b8e186"], [0.8, "#7fbc41"], [0.9, "#4d9221"], [1, "#276419"]], "sequential": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]], "sequentialminus": [[0.0, "#0d0887"], [0.1111111111111111, "#46039f"], [0.2222222222222222, "#7201a8"], [0.3333333333333333, "#9c179e"], [0.4444444444444444, "#bd3786"], [0.5555555555555556, "#d8576b"], [0.6666666666666666, "#ed7953"], [0.7777777777777778, "#fb9f3a"], [0.8888888888888888, "#fdca26"], [1.0, "#f0f921"]]}, "colorway": ["#636efa", "#EF553B", "#00cc96", "#ab63fa", "#FFA15A", "#19d3f3", "#FF6692", "#B6E880", "#FF97FF", "#FECB52"], "font": {"color": "#2a3f5f"}, "geo": {"bgcolor": "white", "lakecolor": "white", "landcolor": "#E5ECF6", "showlakes": true, "showland": true, "subunitcolor": "white"}, "hoverlabel": {"align": "left"}, "hovermode": "closest", "mapbox": {"style": "light"}, "paper_bgcolor": "white", "plot_bgcolor": "#E5ECF6", "polar": {"angularaxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}, "bgcolor": "#E5ECF6", "radialaxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}}, "scene": {"xaxis": {"backgroundcolor": "#E5ECF6", "gridcolor": "white", "gridwidth": 2, "linecolor": "white", "showbackground": true, "ticks": "", "zerolinecolor": "white"}, "yaxis": {"backgroundcolor": "#E5ECF6", "gridcolor": "white", "gridwidth": 2, "linecolor": "white", "showbackground": true, "ticks": "", "zerolinecolor": "white"}, "zaxis": {"backgroundcolor": "#E5ECF6", "gridcolor": "white", "gridwidth": 2, "linecolor": "white", "showbackground": true, "ticks": "", "zerolinecolor": "white"}}, "shapedefaults": {"line": {"color": "#2a3f5f"}}, "ternary": {"aaxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}, "baxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}, "bgcolor": "#E5ECF6", "caxis": {"gridcolor": "white", "linecolor": "white", "ticks": ""}}, "title": {"x": 0.05}, "xaxis": {"automargin": true, "gridcolor": "white", "linecolor": "white", "ticks": "", "title": {"standoff": 15}, "zerolinecolor": "white", "zerolinewidth": 2}, "yaxis": {"automargin": true, "gridcolor": "white", "linecolor": "white", "ticks": "", "title": {"standoff": 15}, "zerolinecolor": "white", "zerolinewidth": 2}}}},                        {"responsive": true}                    )                };                            </script>        </div>
+
+<p>内側が質問１、外側が質問２の回答者分類です。</p>
+
+<p><br /></p>
+
+<h3 id="各意見グループの内訳一部">各意見グループの内訳（一部）</h3>
+
+<div class="card">
+  <div class="card-header">
+  規制反対 (193 posts)
+  </div>
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item">
+    子供同士の呼び方に学校が干渉すべきではないと思います。いじめの防止という意見もありますが、意味はない規制だと感じています。
+    <br /><span class="badge badge-dark">20 likes</span>
+  </li>
+  <li class="list-group-item">
+    あだ名は親しみを込められていたり、個性を認めるひとつのツールだと思います。あだ名で呼び合う事で距離感も縮まります。あだ名が全て悪いのではなくあだ名をつけられた人の気持ちを傷つけるようなあだ名はやめようということを、家庭や学校で教えることが一番大事だと思います。
+    <br /><span class="badge badge-dark">19 likes</span>
+  </li>
+  <li class="list-group-item">
+    そもそも何故あだ名禁止が望ましいとされるのかよくわからないが、もしそれがいじめや嫌がらせにつながる原因だと考えられているのだとしたら、大半が特に問題のないあだ名なのに全てを禁止するというのはいささか安直だと思う。 子供が名字に「さん」付けなんて堅苦しい。
+    <br /><span class="badge badge-dark">16 likes</span>
+  </li>
+  <div class="collapse" id="collapseOpinion0">
+  <li class="list-group-item">
+    呼び名を付けることそのものが悪いことではないと思うから。確かに子供は、何の気なしに相手を傷つけるようなあだ名を考えがちかもしれないが、何が良くて何が悪いのか、子供に考えさせるのも教育のうちだと思う。呼び名そのものに制限を付けることは、その過程をすっ飛ばすことと同じだと感じる。
+    <br /><span class="badge badge-dark">14 likes</span>
+  </li>
+  <li class="list-group-item">
+    ニックネームで呼び合うのは、フランクな人間関係を築く上で大切な事だと思う。 禁止するより、悪意であだ名を付けないという教育をすべき
+    <br /><span class="badge badge-dark">14 likes</span>
+  </li>
+  <li class="list-group-item">
+    確かに人を傷つけるようなあだ名を付けて喜んでいる子もいるとは思いますが、そういうことも含めて、「それはどうなの？ちゃんと相手の気持ちになって考えられてる？」などと指導して、クラスなり学年なりで考えさせるのも教育だと思います。大人が指導することにめんどくささを感じたり、トラブルが起きることを恐れてこのような規制を作っているとしたら子どもの学びや自由を奪うことだとも思います。
+    <br /><span class="badge badge-dark">14 likes</span>
+  </li>
+  <li class="list-group-item">
+    あだ名を付けあうことで生まれるコミュニケーションが無くなるのは寂しい気がします。 あだ名を付けることによって仲が深まっていく最初の一歩だと思うので反対です。 「さん」付けだと距離が遠いままのような気がします。
+    <br /><span class="badge badge-dark">13 likes</span>
+  </li>
+  <li class="list-group-item">
+    子供同士であだ名を、つけること自体は、反対では、ありませんが、他の人より劣ってるいるような、あだ名や、身体的な、あだ名だと、つけた方は、満足しますが、つけられた、本人は、コンプレクスを、感じたり、不快な気持ちに、おちいりやすい！例、ちびだとか、ゼッペキだとか、赤顔とか、明らかに身体的な、ことは、やめてほしい！
+    <br /><span class="badge badge-dark">13 likes</span>
+  </li>
+  <li class="list-group-item">
+    いじめ防止対策であだ名を禁止にしたがそもそもそれでいじめが減るとは思わない。むしろあだ名は友達同士の距離が近くなると思っているので、禁止するほどなのかとは思っている。
+    <br /><span class="badge badge-dark">13 likes</span>
+  </li>
+  <li class="list-group-item">
+    個性を消してしまうから
+    <br /><span class="badge badge-dark">12 likes</span>
+  </li>
+  <li class="list-group-item">
+    子供同士が呼び合う名前は子供同士で決めたらいい。もしそこに悪意を感じられる、モラル的におかしいなどの問題があるのであれば、それは大人の指導が必要になるかもしれないが、学校が最初から決めるようなことではないし、基本的には介入するべきではないと思う。たとえあだ名禁止を決めたとしても子供たちは陰であだ名を使うだろうと思う。
+    <br /><span class="badge badge-dark">12 likes</span>
+  </li>
+  <li class="list-group-item">
+    確かに嫌がらせのようなあだ名をつけられて嫌な思いをする子どもがいるので、あだ名を禁止することが全く悪いとは思いません。 しかし、小学生くらいの子供は、友達同士あだ名で呼びあって徐々に仲良くなっていくものだと思います。さん付けだとよそよそしい感じがして、仲良くなるのに時間がかかりそうな印象を受けます。 社会人になったら職場でさん付けで呼びあうのが当たり前になるので、子供のうちは子供らしくあだ名で呼びあってもいいのではないかと思います。
+    <br /><span class="badge badge-dark">12 likes</span>
+  </li>
+  <li class="list-group-item">
+    小学生の時は友達を作るうえであだ名などで呼び合い中を深めていたので、校則等で決めるほどのことではないかなぁと思います。
+    <br /><span class="badge badge-dark">11 likes</span>
+  </li>
+  <li class="list-group-item">
+    明らかに相手を蔑む言い方は良くないが、親しみを込めた呼び方はお互い自由にしたらいい。嫌な呼ばれ方ならやめてもらえばよい。そういった意思表示をすることもコミュニケーションを学ぶ一貫になる。
+    <br /><span class="badge badge-dark">11 likes</span>
+  </li>
+  <li class="list-group-item">
+    確かに嫌なあだ名もあると思いますが、何でも禁止するのではなく、子供に良いあだ名かどうか、嫌なあだ名をつけられたらどう思うかなど考えさせる事も必要に思います。
+    <br /><span class="badge badge-dark">11 likes</span>
+  </li>
+  <li class="list-group-item">
+    いじめの根本的解決にはならないと思う。 表面的なことを禁止しても、形を変えて発生する可能性がある。 人の嫌がることをしない、相手の気持ちを考える、嫌なことは嫌ときちんというなどの力を養うことの方が大切。
+    <br /><span class="badge badge-dark">11 likes</span>
+  </li>
+  <li class="list-group-item">
+    あだ名まで規制をかけるべきではないと思います。 あだ名を付けられた人がネガティブな気持ちになるのなら、その名前では呼ぶべきではないです。しかし、あだ名をつけられ、そのあだ名で呼ばれるのは、必ずしも悪いことばかりではないと思います。友人同士でも◯◯さんと呼び合っていたら、なんだか隔たりがあるように感じますが、あだ名で呼び合うことができれば、仲が深まると思います。
+    <br /><span class="badge badge-dark">10 likes</span>
+  </li>
+  <li class="list-group-item">
+    制限を設けても、人をからかうような悪いあだ名は無くならないと思います。むしろ、大人の見ていないところでいじめが進行すると思います。また、「さん」付けを強制すると、生徒同士の仲が縮まりにくくなるのではとも思います。
+    <br /><span class="badge badge-dark">10 likes</span>
+  </li>
+  <li class="list-group-item">
+    あだ名で呼ぶこと自体は悪いことではないですし、仲の良さに合わせて呼び方を変えることは社会に出てからも普通にあります。ただ、相手のことを悪く言ったり貶めるような呼び方はしてはいけないということだと思うので、わざわざ制限を設けることはしなくていいと思います。
+    <br /><span class="badge badge-dark">10 likes</span>
+  </li>
+  <li class="list-group-item">
+    みんな名字にさん付だと、なんだかよそよそしく感じる また呼び名に制限を設けた所でいじめ自体がなくなるわけではないし結局陰で変なあだ名はつけられるだろうから
+    <br /><span class="badge badge-dark">10 likes</span>
+  </li>
+  </div>
+  <button class="btn btn-light btn-block" type="button" data-toggle="collapse" data-target="#collapseOpinion0" aria-expanded="false" aria-controls="collapseOpinion0">
+    See more
+  </button>
+  </ul>
+</div>
+
+<div class="card">
+  <div class="card-header">
+  規制賛成 (126 posts)
+  </div>
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item">
+    お互いを尊重する感じが出るので、さん付けで呼ぶことは良いと思う。
+    <br /><span class="badge badge-dark">13 likes</span>
+  </li>
+  <li class="list-group-item">
+    あだ名だけが問題なのかと思います。 昔からこの論争はあり私が小さい頃も小学校が合併してあだ名禁止校、あだ名が大丈夫な学校と合併しましたが何も変わりませんでした。 禁止をされても子供同士は好きなように呼び合います。 あだ名よりもっと他に目を向けてほしいです。
+    <br /><span class="badge badge-dark">12 likes</span>
+  </li>
+  <li class="list-group-item">
+    良いあだ名で有ればいいが、悪口のようなあだ名が定着していじめにつながる可能性(実際に小学生の頃ありました)があるので、あだ名を推奨するのは絶対に反対です。
+    <br /><span class="badge badge-dark">10 likes</span>
+  </li>
+  <div class="collapse" id="collapseOpinion1">
+  <li class="list-group-item">
+    あだ名がいじめの原因になる場合があるので、今の指導で良いと思います。
+    <br /><span class="badge badge-dark">9 likes</span>
+  </li>
+  <li class="list-group-item">
+    あだ名にも色々あり、その内容で判断すべきです。高山→たかやん、てつや→てっちゃんなど、愛称であれば問題ないでしょう。
+    <br /><span class="badge badge-dark">9 likes</span>
+  </li>
+  <li class="list-group-item">
+    なんでもかんでも規制すれば良いというものではない。差別や侮辱的なあだ名は許されることではないが、あだ名によってユーモアの線引きを学ぶことも必要な気がする。
+    <br /><span class="badge badge-dark">9 likes</span>
+  </li>
+  <li class="list-group-item">
+    場合によってはあだ名でも人を傷つけてしまう可能性もあるので加減の分からない小学生だからやむを得ない処置かなと思ったので。
+    <br /><span class="badge badge-dark">8 likes</span>
+  </li>
+  <li class="list-group-item">
+    親しみのあるあだ名なら問題ないのですが個人をバカにしたり身体的特徴のあるようなあだ名をつけることによる子供の心理に与える影響がある場合があるから制限を設けることに賛成です。
+    <br /><span class="badge badge-dark">7 likes</span>
+  </li>
+  <li class="list-group-item">
+    嫌な思いをする子供もいるから
+    <br /><span class="badge badge-dark">7 likes</span>
+  </li>
+  <li class="list-group-item">
+    小学生だとまだ自分の発言に責任を持てないことや知識不足から、無意識のうちに相手のことを傷つけてしまうようなあだ名を考えがちです。だから制限を設けるのに賛成します。
+    <br /><span class="badge badge-dark">7 likes</span>
+  </li>
+  <li class="list-group-item">
+    どちらともいえない。全てに制限をかけてしまうのはあまりに支配的すぎると思うが、あだ名から始まるいじり、いじめは存在するので反対ともいえない。
+    <br /><span class="badge badge-dark">7 likes</span>
+  </li>
+  <li class="list-group-item">
+    あだ名に限らず、本人が呼ばれたくない呼び方はしない方が良いと思うから
+    <br /><span class="badge badge-dark">6 likes</span>
+  </li>
+  <li class="list-group-item">
+    アダ名は親しみを込めて言う場合も多いが、時に身体的特徴をとらまえて言う場合もあります。言われた本人は外に出さないが内心気にしていても笑ってこたえて、周りも勘違いして傷つける結果になることもあるので、アダ名禁止はありと思います
+    <br /><span class="badge badge-dark">6 likes</span>
+  </li>
+  <li class="list-group-item">
+    子供が呼ばれて嫌なあだ名は避けられるからです。ただ、頭ごなしに何でもダメだと制限するのは良くないと思います。
+    <br /><span class="badge badge-dark">6 likes</span>
+  </li>
+  <li class="list-group-item">
+    もちろん、相手が嫌な気持ちになるようなあだ名は良くないと思います。しかし、あだ名で呼び合うことで絆ができることもあると、大人は経験している人たちもいるかと思います。お互い嫌な気持ちにならないあだ名であれば良いと思うし、あだ名禁止ではなく相手のことを思いやることを子供達に伝えることの方が大切だと思います。
+    <br /><span class="badge badge-dark">6 likes</span>
+  </li>
+  <li class="list-group-item">
+    親近感が湧くという、メリットもあるが、あだ名が原因でいじめに繋がったり、不登校にもなりえます。ちょっとしたあだ名によって、トラウマにもなりえます。だからこそさんあだ名禁止に賛成です。
+    <br /><span class="badge badge-dark">6 likes</span>
+  </li>
+  <li class="list-group-item">
+    あだ名で呼ばれると親しみが感じられ、距離が近くなるように思うからです。
+    <br /><span class="badge badge-dark">6 likes</span>
+  </li>
+  <li class="list-group-item">
+    あだ名によります。差別や卑下するようなのはよくないと思います。ただ、「さん」に徹底し過ぎるて罰則はやめて欲しいです。
+    <br /><span class="badge badge-dark">5 likes</span>
+  </li>
+  <li class="list-group-item">
+    身体や人格を否定するようなあだ名には反対ですが、親しみを込めるためのあだ名は良いと思います。
+    <br /><span class="badge badge-dark">5 likes</span>
+  </li>
+  <li class="list-group-item">
+    あだ名は下手すればいじめにもなりますが、親しみを込めた意味でもあります。その人が不愉快な思いをしているという話を聞いた時点で謝罪するなり、弁解するなりすれば良いと思います。その人が嫌がった時点で更に繰り返すようである場合のみ制限が必要ではないでしょうか。
+    <br /><span class="badge badge-dark">5 likes</span>
+  </li>
+  </div>
+  <button class="btn btn-light btn-block" type="button" data-toggle="collapse" data-target="#collapseOpinion1" aria-expanded="false" aria-controls="collapseOpinion1">
+    See more
+  </button>
+  </ul>
+</div>
+
+<p><br /></p>
+
+<h1 id="質問２">質問２</h1>
+
+<h2 id="最後に">最後に</h2>
+
+<p><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="Aska_systems_jp" data-hashtags="Aska" data-show-count="false">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+<h2 id="詳細">詳細</h2>
+
+<table class="table table-striped table-hover">
+  <thead>
+    <tr>
+      <th>Summary</th>
+      <th> </th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>期間</td>
+      <td>2021/2/14 - 2021/2/14</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>回答者数</td>
+      <td>327</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>回答意見数</td>
+      <td>263 (質問1)</td>
+      <td>236 (質問2)</td>
+    </tr>
+    <tr>
+      <td>初期回答数</td>
+      <td>0（質問1）</td>
+      <td>3 (質問2)</td>
+    </tr>
+    <tr>
+      <td>プラットフォーム</td>
+      <td>Crowdworks</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="palette-diagram">Palette diagram</h3>
+<p>（Palette diagramの見方については、例えば<a href="/jp/Clubhouse">こちらの記事</a>をご覧ください）</p>
+
+<p><img src="/jp/images/2021_LongMTG/linear_palette_diagram.jpg" alt="linear_palette_diagram" style="   width: 650px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; " /></p>
+
+<p><br /></p>
+
+<hr />
+<p>この結果を引用される場合は十分にご注意ください。
+本調査はデモの一環として実施しているものであり、学術的な信頼性はないとお考えください。
+本格的な調査に興味がある方は、<a href="mailto:request@aska.systems">request@aska.systems</a>までご相談ください。</p>
+
+<p>ここで掲載している調査の目的は、Askaシステムの挙動の実証実験です。
+意見のバラエティを増やすために、あえてバイアスのかかった質問の仕方をすることもありますが、その場合は、バイアス下での結果であることを十分にご注意ください。</p>
+:ET
