@@ -19,38 +19,31 @@ layout: intro
           </div>
       </div>
  -->
-      <div class="row">
-        <div class="col-5 py-5 col-md">
-          <h1 class="display-4 pt-2">
-            <img src="{{site.baseurl}}/images/aska_logo.svg" alt="logo" style = "margin: 1% 1% 4% 1%;">
-            Aska
-          </h1>
-          <p class="lead small">(投票クラスタリング)</p>
-          <p class="lead text-muted">Opinion-sharing platform</p>
-          <a href="{{site.baseurl}}/gallery/" role="button" class="btn btn-lg btn-dark btn-small mb-2">Gallery</a>
-          <a href="https://aska-1-6-0.herokuapp.com/ja/aska/form/" role="button" class="btn btn-outline-dark btn-small mb-2" target="_blank">DEMO</a>
-          <!-- <a href="javascript:OnLinkClick();" role="button" class="btn btn-outline-dark btn-small mb-2">
-            Askaとは
-          </a> -->
-          <blockquote class="blockquote text-left mt-5 mb-0 d-none d-sm-block">
-            <p class="mb-0 font-italic small">"Freedom of speech doesn't mean very much if you can't figure out what it is that you want to say."</p>
-            <footer class="blockquote-footer"><cite title="">Edward Snowden</cite></footer>
-          </blockquote>
-        </div>
-
-        <div class="col-7 py-5 col-md">
-          <div id="carouselExampleSlidesOnly" class="carousel slide shadow" data-ride="carousel">
-            <div class="carousel-inner">
-              <div class="carousel-item active">
-                <img src="{{site.baseurl}}/images/screenshot_main.png" class="img-thumbnail">
-              </div>
-              <div class="carousel-item">
-                <img src="{{site.baseurl}}/images/screenshot_main_typeB.png" class="img-thumbnail">
-              </div>
-            </div>
+        <div class="wrap_svgbg">
+        <div class="svgbg">
+          <div class="col-12 col-md text-center">
+            <p class="lead small mb-0">(投票クラスタリング)</p>
+            <h1 class="display-4">
+              <img src="{{site.baseurl}}/images/aska_logo.svg" alt="logo">
+              Aska
+            </h1>
+            <!-- <p class="lead text-muted" style = "margin: 1% 1% 1% 1%;">Opinion-sharing platform</p> -->
+            <p class="lead text-muted" style = "margin: 1% 1% 1% 1%;">意見共有プラットフォーム</p>
+            <a href="{{site.baseurl}}/gallery/" role="button" class="btn btn-lg btn-dark btn-small mb-2">Gallery</a>
+            <!-- <a href="https://aska-1-6-3.herokuapp.com/aska/form/" role="button" class="btn btn-outline-dark btn-small mb-2" target="_blank">DEMO</a> -->
+            <a href="javascript:OnLinkClick();" role="button" class="btn btn-outline-dark btn-small mb-2">
+              DEMO
+            </a>
           </div>
         </div>
-      </div>
+        </div>
+
+        <blockquote class="blockquote text-left mt-5 mb-0 d-none d-sm-block">
+          <p class="mb-0 font-italic small">"自分の言いたいことが何なのか分からないのなら、言論の自由なんてあまり意味がないんだよ。"</p>
+          <footer class="blockquote-footer"><cite title="">エドワード スノーデン</cite></footer>
+          <!-- <p class="mb-0 font-italic small">"Freedom of speech doesn't mean very much if you can't figure out what it is that you want to say."</p> -->
+          <!-- <footer class="blockquote-footer"><cite title="">Edward Snowden</cite></footer> -->
+        </blockquote>
 
     </div>
 
@@ -58,44 +51,73 @@ layout: intro
 
 
 
-<div class="container" id="howitworks">
+<div class="container">
+
+  <div class="row px-3 py-3 pt-md-5 pb-md-5 mx-auto">
+  <div class="col-12 col-md text-center">
+
+  <div class="card mb-3 shadow-none">
+    <div class="row no-gutters">
+      <div class="col-md-5">
+        <div class="card-body">
+          <h5 class="card-title">「みんな、どう思っている？」が分かります</h5>
+          <p class="card-text">Askaは、自由記述を含む大規模社会調査、組織内での意見共有に使うことができる、意見共有プラットフォームです</p>
+          <p class="card-text"><small class="text-muted">登録すると、固有のURLが発行されます</small></p>
+        </div>
+      </div>
+      <div class="col-md-7">
+            <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel" data-interval="8000">
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <img src="{{site.baseurl}}/images/lets_ask_1.svg" class="img-thumbnail border-0">
+                </div>
+                <div class="carousel-item">
+                  <img src="{{site.baseurl}}/images/lets_ask_2.svg" class="img-thumbnail border-0">
+                </div>
+              </div>
+            </div>
+      </div>
+    </div>
+  </div>
+
+  </div>
+  </div> <!-- row -->
+
 
   <div class="row px-3 py-3 pt-md-5 pb-md-5 mx-auto">
   <div class="col-12 col-md text-center">
     <h2>How Aska works</h2>
-    <p class="px-3 py-3 pt-md-2 pb-md-2 mx-3">
-      Askaは、意見共有プラットフォームです
-    </p>
-    <p class="px-3 py-3 pt-md-2 pb-md-2 mx-3">
-      意見共有したいテーマ（質問）を提示するホストの方へ、Askaインスタンスを提供します
-    </p>
-    <div class="card-deck mb-3 mt-3 text-center">
-      <div class="card mb-4 mx-4">
-        <div class="card-header">
-            カード形式のインターフェイスから、ユーザーは意見を投稿できます
-        </div>
-        <img class="card-img-top img-fluid" src="{{site.baseurl}}/images/OpinionSharing.png" alt="OpinionSharing" style="max-width:100%;height:auto;">
-        <div class="card-body">
-          <h4 class="card-title pricing-card-title text-info">意見共有（ユーザー側）</h4>
-          <p class="card-text">
-            ユーザーは、自分の意見を書き込んだり、他人の意見を支持（"いいね"）したりします。掲示板のように使うことができます。
-          </p>
-            <small class="text-muted">（ユーザーのアカウント登録は不要です）</small>
-        </div>
-      </div>
 
-      <div class="card mb-4 mx-4">
-        <div class="card-header">
-          Askaの特徴は、膨大な意見の集約（分類）ができることです
+    <div class="card my-5 shadow-none">
+      <div class="row no-gutters">
+        <div class="col-md-5">
+          <div class="card-body card-body-row">
+            <h5 class="card-title text-info">意見共有（ユーザー側）</h5>
+            <p class="card-text">カード形式のインターフェイスから、ユーザーは自分の意見を書き込んだり、他人の意見を支持（"いいね"）したりします。</p>
+            <p class="card-text"><small class="text-muted">（ユーザーのアカウント登録は不要です）</small></p>
+          </div>
         </div>
-        <img class="card-img-top img-fluid" src="{{site.baseurl}}/images/OpinionClassification.png" alt="OpinionSharing" style="max-width:100%;height:auto;">
-        <div class="card-body">
-          <h4 class="card-title pricing-card-title text-danger">意見集約（ホスト側）</h4>
-          <p class="card-text">
-          少人数の意見ならば、どんな意見が集まったか把握するのは簡単です。しかし、大量の意見が集まった場合はどうでしょうか？Askaなら、機械学習を用いた意見集約が可能です。</p>
+        <div class="col-md-7 px-2">
+          <img class="card-img-top img-fluid shadow" src="{{site.baseurl}}/images/screenshot_main_Mar2021.png" alt="UserSide" style="max-width:100%;height:auto;">
         </div>
       </div>
     </div>
+
+    <div class="card my-5 shadow-none">
+      <div class="row no-gutters">
+        <div class="col-md-5">
+          <div class="card-body card-body-row">
+            <h5 class="card-title text-danger">意見集約（ホスト側）</h5>
+            <p class="card-text">Askaの特徴は、膨大な意見の集約（分類）ができることです</p>
+            <p class="card-text"><small class="text-muted">少人数の意見ならば、どんな意見が集まったか把握するのは簡単です。しかし、大量の意見が集まった場合はどうでしょうか？Askaなら、機械学習を用いた意見集約が可能です。</small></p>
+          </div>
+        </div>
+        <div class="col-md-7 px-2">
+          <img class="card-img-top img-fluid shadow" src="{{site.baseurl}}/images/OpinionClassification.png" alt="HostSide" style="max-width:100%;height:auto;">
+        </div>
+      </div>
+    </div>
+
   </div>
   </div> <!-- row -->
 
@@ -156,10 +178,19 @@ layout: intro
 
     <div class="col-md-6 my-3">
       <div class="card mb-4 mx-0 py-2 shadow-none">
-        <h3 class="card-title">Readonlyモード</h3>
+        <h3 class="card-title">Sign-in/Readonlyモード</h3>
         <div class="card-body">
-        <img class="card-img-top img-fluid shadow" src="{{site.baseurl}}/images/Readonly.jpg" alt="Readonly" style="max-width:100%;height:auto;">
-        <p class="pt-3">Readonlyモードでは、閲覧のみ可能です</p>
+        <div class="card-img-top img-fluid shadow carousel slide" data-ride="carousel" data-interval="8000">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="{{site.baseurl}}/images/sign-in.png" class="img-thumbnail border-0">
+            </div>
+            <div class="carousel-item">
+              <img src="{{site.baseurl}}/images/Readonly.jpg" class="img-thumbnail border-0">
+            </div>
+          </div>
+        </div>
+        <p class="pt-3">共通パスワードによってアクセスを制限するsign-inモード、閲覧のみが可能なReadonlyモードを用意しています</p>
         </div>
       </div>
     </div>
@@ -226,7 +257,7 @@ layout: intro
     <ul class="list-group mt-4">
       <li class="list-group-item">世論調査・社会科学系研究</li>
       <li class="list-group-item">オンライン討論・ブレインストーミング</li>
-      <li class="list-group-item">各種アンケート（企業採用・研修・学内調査等）</li>
+      <li class="list-group-item">組織内の意見共有（企業採用・研修・調査等）</li>
       <li class="list-group-item">掲示板・コメント欄</li>
     </ul>    
 
@@ -235,7 +266,7 @@ layout: intro
 
 
 
-  <div class="row px-3 py-5 pt-md-5 pb-md-5 mx-auto">
+  <div class="row px-3 py-5 pt-md-5 pb-md-5 mx-auto" id="plans">
   <div class="col-12 col-md">
 
     <h2 class="text-center">Plans</h2>
@@ -251,7 +282,7 @@ layout: intro
             <li>有効期限：72時間</li>
             <li>サポートなし</li>
           </ul>
-          <a href="https://aska-1-5-2.herokuapp.com/ja/aska/form/" class="btn btn-lg btn-block btn-outline-dark" target="_blank">デモ生成</a>
+          <a href="https://aska-1-6-3.herokuapp.com/aska/form/" class="btn btn-lg btn-block btn-outline-dark" target="_blank">デモを立ち上げる</a>
           <!-- <a href="mailto:request@aska.systems?subject=【demo】Aska利用申込&amp;body=お名前：%0D%0A ご所属：%0D%0A ご利用目的：" class="btn btn-lg btn-block btn-outline-dark">リクエスト送信</a> -->
         </div>
       </div>
@@ -260,7 +291,8 @@ layout: intro
           <h4 class="my-0 font-weight-normal">Standard</h4>
         </div>
         <div class="card-body">
-          <h1 class="card-title pricing-card-title">¥-- <small class="text-muted">/ instance</small></h1>
+          <!-- <h1 class="card-title pricing-card-title">¥-- <small class="text-muted">/ instance</small></h1> -->
+          <h1 class="card-title pricing-card-title">Pay forward</h1>
           <ul class="list-unstyled mt-3 mb-4">
             <li>投稿数上限：10000</li>
             <li>有効期限：調整可能</li>
@@ -286,9 +318,9 @@ layout: intro
     </div>
     <p>
       <ul>
-        <li>お申し込みいただくと、内容確認の上、Askaシステムへの固有URLが提供されます。</li>
-        <li>1 URLにつき、1 instanceになります。</li>
-        <!-- <li>Demoには内容確認はありません。即時URLが配布されます。</li> -->
+        <li>お申し込みいただくと、内容確認の上、Askaインスタンスの固有URLが発行されます。</li>
+        <li>1 URLにつき、1インスタンスになります。</li>
+        <li><strong>Pay forward</strong>形式とは、「使ってみてよかった場合は他の人に紹介し、よくなかった場合は運営へコメントを返す」ことを対価とする仕組みです。料金はかかりません。</li>
       </ul>
     </p>
 
@@ -330,7 +362,7 @@ layout: intro
 
 <script type="text/javascript">
   function OnLinkClick() {
-    document.getElementById('howitworks').scrollIntoView({
+    document.getElementById('plans').scrollIntoView({
       behavior: 'smooth'
     });
   }

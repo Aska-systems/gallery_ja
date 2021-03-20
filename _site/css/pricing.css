@@ -7,6 +7,25 @@ html {
   }
 }
 
+.wrap_svgbg {
+        position: relative;
+        width: 100%;
+        }
+.wrap_svgbg:before {
+        content:"";
+        display: block;
+        padding-top: 70%; 
+        }
+.svgbg {
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        background: url("../images/aska_bg.svg") no-repeat;
+        background-size: 100% auto;
+        }        
+
 .container {
   max-width: 960px;
 }
@@ -17,4 +36,17 @@ html {
 
 .card-deck .card {
   min-width: 220px;
+}
+
+.btn-outline-dark {
+	background-color: white;
+}
+
+.card-body-row {
+  margin-top: 3rem;
+}
+@media (max-width: 896px) {
+  .card-body-row {
+    margin-top: 0rem;
+  }
 }
