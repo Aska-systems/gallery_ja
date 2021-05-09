@@ -1,20 +1,25 @@
-I"�<p>学校の授業で出産の映像を見せるのはありですか？</p>
+I":<p>製薬会社は、新型コロナワクチンの特許を放棄すべきでしょうか？</p>
 
-<p>高校の保健の授業で、男性教師が妻の出産を撮影した映像を流したことが波紋を呼びました。文化的な背景などから、海外に比べて日本は性に関連するトピックをタブー視している印象があります。現状の一歩先を行くとも言える出産映像について、人々がどのように思っているのか調査をしました。</p>
-
-<p>参考記事：
-<a href="https://news.yahoo.co.jp/articles/3a5e72d77089347ac50a1881886dcf8f0393c277">Yahooニュース『カンニング竹山が涙「学校で見せてはダメなのか?」 自身の出産映像を無加工で放送した山本カヨさんに聞く』</a></p>
+<p>アメリカのバイデン政権は、アメリカなどの富裕国がワクチンを独り占めしているという批判を受け、途上国などが自国で生産できるように製薬会社がワクチンの特許権を放棄することを支持しました。
+この問題はアメリカでも、ワクチンの迅速な普及の促進には放棄は必要という声や、開発者が特許を持てなければ次の開発への動機を削ぐなどの声が上がっており、賛否両論起こっています。
+日本の人々は、どのように思っているのでしょうか。</p>
 
 <p><br /></p>
 
 <h2 id="結果">結果</h2>
 
+<h4 id="属性分布-doughnut-chart複数選択可">属性分布: Doughnut chart（複数選択可）</h4>
+
+<p><img src="/jp/images/2021_COVIDpatent/demographic.png" alt="doughnut_chart" style="   width: 500px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; " /></p>
+
+<p>回答者の属性としては、男女はほぼ同数で、大半が30歳から50歳という生産年齢の人たちでした。</p>
+
 <div class="jumbotron py-2">
-<h5>高校の保健の授業でリアルな出産映像を見せることは適切かどうか、あなたの意見をお聞かせください。</h5>
-<p>兵庫県の高校の保健の授業で男性教師が妻の出産時の映像を流したことが話題になっています。リアルな教材を使うことは命への理解が進むと言う意見もあるものの、映像にショックを受けて具合が悪くなる生徒が出るなど、賛否両論が出ています。授業でリアルな出産映像を見せることについて、あなたの意見をお聞かせください。</p>
+<h5>新型コロナウイルスに対するワクチンを製造した製薬会社にその特許権の放棄を求めることは妥当ですか？</h5>
+<p>アメリカのバイデン政権はアメリカなどの富裕国がワクチンを独り占めしているという批判を受け、途上国などが自国で生産できるように製薬会社がワクチンの特許権を放棄することを支持しました。この問題は賛否両論ありますが、あなたの考えるメリットとデメリットを記入してください。</p>
 </div>
 
-<p><img src="/jp/images/2021_BirthMovie/table.svg" alt="incidence_matrix" style="   width: 500px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; " /></p>
+<p><img src="/jp/images/2021_COVIDpatent/table.svg" alt="incidence_matrix" style="   width: 500px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; " /></p>
 <p><small>回答者（行）と投稿意見（列）のテーブル図。回答者が賛成した意見は青色（紺色は自身の投稿意見）、賛成しなかった意見は黄色、未参照の意見は灰色。</small></p>
 
 <p>質問への回答の内容としては賛否両論あり、上図のような回答パターンになりました。</p>
@@ -62,12 +67,6 @@
 
 <p><br /></p>
 
-<h4 id="属性分布-doughnut-chart複数選択可">属性分布: Doughnut chart（複数選択可）</h4>
-
-<p><img src="/jp/images/2021_BirthMovie/demographic.png" alt="doughnut_chart" style="   width: 500px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; " /></p>
-
-<p>回答者の属性としては、女性の割合が多く、その中でも30代〜40代に偏っています。</p>
-
 <p><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="Aska_systems_jp" data-hashtags="Aska" data-show-count="false">Tweet</a><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
 <h2 id="詳細">詳細</h2>
@@ -100,14 +99,12 @@
       <td>プラットフォーム</td>
       <td>Crowdworks</td>
     </tr>
-    <tr>
-      <td>調査・記事担当</td>
-      <td>R. K.</td>
-    </tr>
   </tbody>
 </table>
 
 <p><br /></p>
+
+<h6 class="text-muted">調査・記事担当: <strong>R. K.</strong></h6>
 
 <hr />
 <p>この結果を引用される場合は十分にご注意ください。

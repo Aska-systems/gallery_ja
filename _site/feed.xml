@@ -6,9 +6,143 @@
 </description>
     <link>https://aska.systems/jp/</link>
     <atom:link href="https://aska.systems/jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 May 2021 16:32:59 +0900</pubDate>
-    <lastBuildDate>Sun, 02 May 2021 16:32:59 +0900</lastBuildDate>
+    <pubDate>Sun, 09 May 2021 14:29:35 +0900</pubDate>
+    <lastBuildDate>Sun, 09 May 2021 14:29:35 +0900</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>コロナワクチンの特許</title>
+        <description>&lt;p&gt;製薬会社は、新型コロナワクチンの特許を放棄すべきでしょうか？&lt;/p&gt;
+
+&lt;p&gt;アメリカのバイデン政権は、アメリカなどの富裕国がワクチンを独り占めしているという批判を受け、途上国などが自国で生産できるように製薬会社がワクチンの特許権を放棄することを支持しました。
+この問題はアメリカでも、ワクチンの迅速な普及の促進には放棄は必要という声や、開発者が特許を持てなければ次の開発への動機を削ぐなどの声が上がっており、賛否両論起こっています。
+日本の人々は、どのように思っているのでしょうか。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;結果&quot;&gt;結果&lt;/h2&gt;
+
+&lt;h4 id=&quot;属性分布-doughnut-chart複数選択可&quot;&gt;属性分布: Doughnut chart（複数選択可）&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/jp/images/2021_COVIDpatent/demographic.png&quot; alt=&quot;doughnut_chart&quot; style=&quot;   width: 500px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;回答者の属性としては、男女はほぼ同数で、30歳から50歳という生産年齢の人たちが多数でした。&lt;/p&gt;
+
+&lt;div class=&quot;jumbotron py-2&quot;&gt;
+&lt;h5&gt;新型コロナウイルスに対するワクチンを製造した製薬会社にその特許権の放棄を求めることは妥当ですか？&lt;/h5&gt;
+&lt;p&gt;アメリカのバイデン政権はアメリカなどの富裕国がワクチンを独り占めしているという批判を受け、途上国などが自国で生産できるように製薬会社がワクチンの特許権を放棄することを支持しました。この問題は賛否両論ありますが、あなたの考えるメリットとデメリットを記入してください。&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/jp/images/2021_COVIDpatent/table.svg&quot; alt=&quot;incidence_matrix&quot; style=&quot;   width: 500px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;回答者（行）と投稿意見（列）のテーブル図。回答者が賛成した意見は青色（紺色は自身の投稿意見）、賛成しなかった意見は黄色、未参照の意見は灰色。&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;質問への回答の内容としては賛否両論あり、上図のような回答パターンになりました。&lt;/p&gt;
+
+&lt;p&gt;まずメリットとして挙げられた意見の多くは、ワクチンの生産量が増えることや世界中（特に途上国）へのワクチンの供給が迅速化されること、さらにそれらの効果として新型コロナウイルスによるパンデミックがより短期間で収束に向かう可能性があるということが挙げられました。このメリットを受ける対象はあまり具体的に書かれていないものの、現時点でワクチン供給の少ない地域の市民が、主な受益者であると考えられます。また、パンデミックがより迅速に終焉すれば、米国政府・米国市民だけでなく、世界中の人々にメリットがあるという見方も回答からは伝わってきます。&lt;/p&gt;
+
+&lt;p&gt;一方、デメリットとしては、製薬会社の開発意欲を削ぐことや、開発者以外が製造することによる品質の低下への懸念が挙げられました。
+製薬会社の開発意欲が削がれれば、次に起こる疫病蔓延の際にワクチンを製造できるインフラが迅速に作れないため、長期的に見ればマイナスという意見もありました。
+デメリットを受ける主体としては、特許収入が得られたはずの製薬会社が主に挙げられました。
+ただし、ワクチンの品質低下が実際に起これば、それの摂取者にもデメリットの影響は広がると考えられます。&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  特許権放棄に賛成, ワクチンの質
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+	  &lt;li class=&quot;list-group-item&quot;&gt;
+	    &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 0&lt;/span&gt; メリットは自国それぞれでワクチンの生産ができるために、摂取できる方がこれまでより沢山増えることで、感染者も減り少し混乱を抑えることができるのではないかと思います。デメリットは、偽造ワクチンなど、不法に儲けを得たいとゆう人間による問題が出るのでは無いかと少し不安に感じています。
+	  &lt;/li&gt;
+	  &lt;li class=&quot;list-group-item&quot;&gt;
+	    &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 1&lt;/span&gt; 発展途上国や貧しい国でもワクチンを使用することができるようにするためにも特許権の放棄は妥当だと思います。もしも無理なのであれば期限を設けて期限間を特許権フリーにしてもいいと思います。
+	  &lt;/li&gt;
+	  &lt;li class=&quot;list-group-item&quot;&gt;
+	    &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 2&lt;/span&gt; ワクチンが広く普及するのは良いが、品質の低下がありえると思う。
+	  &lt;/li&gt;  
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 3&lt;/span&gt; 世界的危機のワクチンのため、特許権を認めても一時的に販売価格を安くするなどの行為を製薬会社に求めてもいいと思います。
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 4&lt;/span&gt; メリット さまざまな国が平等にワクチンを製造することが出来る様になる デメリット 特許権が出回ることで正規品であるかの見分けが難しくなる
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  ワクチンの普及, 製薬会社の利益と開発意欲
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 23&lt;/span&gt; 特許を放棄させられると莫大な開発費用の努力が台無しになるわ、経営にも開発意欲にも大打撃を与えるので放棄させるべきではない。民間への影響が考えられるなら民間会社に代わって国が売り上げに応じ特許料を支払うべきだ。
+    &lt;/li&gt;  
+	  &lt;li class=&quot;list-group-item&quot;&gt;
+	    &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 24&lt;/span&gt; 独占することを放棄することでより広くワクチン接種することができるのが良いかとは思いますが、政府によって介入されて利益を受けられないのは問題かと思います。
+	  &lt;/li&gt;
+	  &lt;li class=&quot;list-group-item&quot;&gt;
+	    &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 25&lt;/span&gt; メリットはコロナを収束させる時間が短くなること デメリットは製薬会社が今後ワクチンを積極的に作らなくなるかもしれないこと
+	  &lt;/li&gt;
+	  &lt;li class=&quot;list-group-item&quot;&gt;
+	    &lt;span class=&quot;badge badge-dark&quot;&gt;意見 27&lt;/span&gt; メリットとしては世界中にワクチンが行き届きやすくなること。 デメリットは製薬会社がワクチン開発に力を入れなくなること。
+	  &lt;/li&gt;  
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-via=&quot;Aska_systems_jp&quot; data-hashtags=&quot;Aska&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;詳細&quot;&gt;詳細&lt;/h2&gt;
+
+&lt;table class=&quot;table table-striped table-hover&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Summary&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;期間&lt;/td&gt;
+      &lt;td&gt;2021/5/6 - 2021/5/6&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;回答者数&lt;/td&gt;
+      &lt;td&gt;41&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;回答意見数&lt;/td&gt;
+      &lt;td&gt;27&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;初期回答数&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;プラットフォーム&lt;/td&gt;
+      &lt;td&gt;Crowdworks&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h6 class=&quot;text-muted&quot;&gt;調査・記事担当: &lt;strong&gt;R. K.&lt;/strong&gt;&lt;/h6&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;この結果を引用される場合は十分にご注意ください。
+本調査はデモの一環として実施しているものであり、学術的な信頼性はないとお考えください。
+本格的な調査に興味がある方は、&lt;a href=&quot;mailto:request@aska.systems&quot;&gt;request@aska.systems&lt;/a&gt;までご相談ください。&lt;/p&gt;
+
+&lt;p&gt;ここで掲載している調査の目的は、Askaシステムの挙動の実証実験です。
+意見のバラエティを増やすために、あえてバイアスのかかった質問の仕方をすることもありますが、その場合は、バイアス下での結果であることを十分にご注意ください。&lt;/p&gt;
+</description>
+        <pubDate>Sun, 09 May 2021 00:00:00 +0900</pubDate>
+        <link>https://aska.systems/jp/COVIDpatent/</link>
+        <guid isPermaLink="true">https://aska.systems/jp/COVIDpatent/</guid>
+        
+        
+      </item>
     
       <item>
         <title>教材としての出産映像</title>
@@ -2707,211 +2841,6 @@ style = &quot;
         <pubDate>Wed, 20 Jan 2021 00:00:00 +0900</pubDate>
         <link>https://aska.systems/jp/SNSregulation/</link>
         <guid isPermaLink="true">https://aska.systems/jp/SNSregulation/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>緊急事態宣言</title>
-        <description>&lt;p&gt;首都圏では緊急事態宣言が出され、他の地域でも発令が検討されています。&lt;/p&gt;
-
-&lt;h2 id=&quot;はじめに&quot;&gt;はじめに&lt;/h2&gt;
-&lt;p&gt;この調査は、首都圏で緊急事態宣言が発令され、他県でも発令が検討されている、2021/1/9 - 1/10に実施されたものです。
-今回は、具体的な問いかけはせず、この状況下での不安・不満を募集しました。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;結果&quot;&gt;結果&lt;/h2&gt;
-
-&lt;div class=&quot;jumbotron py-2&quot;&gt;
-&lt;h5&gt;あなたの不安・不満をお聞かせください&lt;/h5&gt;
-&lt;p&gt;
-首都圏では緊急事態宣言が出され、他の地域でも発令が検討されています。ご自身の実状をふまえ、コロナ禍で抱えている最も大きな不安・不満を１つお答えください。
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;（インタラクティブな図です）&lt;/p&gt;
-
-&lt;div&gt;                        &lt;script type=&quot;text/javascript&quot;&gt;window.PlotlyConfig = {MathJaxConfig: &apos;local&apos;};&lt;/script&gt;
-        &lt;script src=&quot;https://cdn.plot.ly/plotly-latest.min.js&quot;&gt;&lt;/script&gt;                &lt;div id=&quot;6d8169ed-03bd-46cb-b075-1ce988ffa586&quot; class=&quot;plotly-graph-div&quot; style=&quot;height:100%; width:100%;&quot;&gt;&lt;/div&gt;            &lt;script type=&quot;text/javascript&quot;&gt;                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById(&quot;6d8169ed-03bd-46cb-b075-1ce988ffa586&quot;)) {                    Plotly.newPlot(                        &quot;6d8169ed-03bd-46cb-b075-1ce988ffa586&quot;,                        [{&quot;branchvalues&quot;: &quot;total&quot;, &quot;customdata&quot;: [[82.0], [32.0], [73.0], [58.0], [24.0], [39.0], [72.05714285714286], [28.571428571428573], [61.160714285714285]], &quot;domain&quot;: {&quot;x&quot;: [0.0, 1.0], &quot;y&quot;: [0.0, 1.0]}, &quot;hovertemplate&quot;: &quot;labels=%{label}&lt;br&gt;Count_sum=%{value}&lt;br&gt;parent=%{parent}&lt;br&gt;id=%{id}&lt;br&gt;Count=%{color}&lt;extra&gt;&lt;/extra&gt;&quot;, &quot;ids&quot;: [&quot;\u305d\u306e\u4ed6\u306e\u5730\u57df/\u611f\u67d3\u30fb\u4ed5\u4e8b\u7b49\u3078\u306e\u4e0d\u5b89&quot;, &quot;\u95a2\u897f\u90fd\u5e02\u90e8/\u611f\u67d3\u30fb\u4ed5\u4e8b\u7b49\u3078\u306e\u4e0d\u5b89&quot;, &quot;\u9996\u90fd\u570f/\u611f\u67d3\u30fb\u4ed5\u4e8b\u7b49\u3078\u306e\u4e0d\u5b89&quot;, &quot;\u305d\u306e\u4ed6\u306e\u5730\u57df/\u7dca\u6025\u4e8b\u614b\u5ba3\u8a00\u3078\u306e\u61d0\u7591&quot;, &quot;\u95a2\u897f\u90fd\u5e02\u90e8/\u7dca\u6025\u4e8b\u614b\u5ba3\u8a00\u3078\u306e\u61d0\u7591&quot;, &quot;\u9996\u90fd\u570f/\u7dca\u6025\u4e8b\u614b\u5ba3\u8a00\u3078\u306e\u61d0\u7591&quot;, &quot;\u305d\u306e\u4ed6\u306e\u5730\u57df&quot;, &quot;\u95a2\u897f\u90fd\u5e02\u90e8&quot;, &quot;\u9996\u90fd\u570f&quot;], &quot;labels&quot;: [&quot;\u611f\u67d3\u30fb\u4ed5\u4e8b\u7b49\u3078\u306e\u4e0d\u5b89&quot;, &quot;\u611f\u67d3\u30fb\u4ed5\u4e8b\u7b49\u3078\u306e\u4e0d\u5b89&quot;, &quot;\u611f\u67d3\u30fb\u4ed5\u4e8b\u7b49\u3078\u306e\u4e0d\u5b89&quot;, &quot;\u7dca\u6025\u4e8b\u614b\u5ba3\u8a00\u3078\u306e\u61d0\u7591&quot;, &quot;\u7dca\u6025\u4e8b\u614b\u5ba3\u8a00\u3078\u306e\u61d0\u7591&quot;, &quot;\u7dca\u6025\u4e8b\u614b\u5ba3\u8a00\u3078\u306e\u61d0\u7591&quot;, &quot;\u305d\u306e\u4ed6\u306e\u5730\u57df&quot;, &quot;\u95a2\u897f\u90fd\u5e02\u90e8&quot;, &quot;\u9996\u90fd\u570f&quot;], &quot;marker&quot;: {&quot;coloraxis&quot;: &quot;coloraxis&quot;, &quot;colors&quot;: [82.0, 32.0, 73.0, 58.0, 24.0, 39.0, 72.05714285714286, 28.571428571428573, 61.160714285714285]}, &quot;name&quot;: &quot;&quot;, &quot;parents&quot;: [&quot;\u305d\u306e\u4ed6\u306e\u5730\u57df&quot;, &quot;\u95a2\u897f\u90fd\u5e02\u90e8&quot;, &quot;\u9996\u90fd\u570f&quot;, &quot;\u305d\u306e\u4ed6\u306e\u5730\u57df&quot;, &quot;\u95a2\u897f\u90fd\u5e02\u90e8&quot;, &quot;\u9996\u90fd\u570f&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;], &quot;type&quot;: &quot;sunburst&quot;, &quot;values&quot;: [82, 32, 73, 58, 24, 39, 140, 56, 112]}],                        {&quot;coloraxis&quot;: {&quot;colorbar&quot;: {&quot;title&quot;: {&quot;text&quot;: &quot;Count&quot;}}, &quot;colorscale&quot;: [[0.0, &quot;rgb(75, 41, 145)&quot;], [0.16666666666666666, &quot;rgb(135, 44, 162)&quot;], [0.3333333333333333, &quot;rgb(192, 54, 157)&quot;], [0.5, &quot;rgb(234, 79, 136)&quot;], [0.6666666666666666, &quot;rgb(250, 120, 118)&quot;], [0.8333333333333334, &quot;rgb(246, 169, 122)&quot;], [1.0, &quot;rgb(237, 217, 163)&quot;]]}, &quot;legend&quot;: {&quot;tracegroupgap&quot;: 0}, &quot;margin&quot;: {&quot;t&quot;: 60}, &quot;template&quot;: {&quot;data&quot;: {&quot;bar&quot;: [{&quot;error_x&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}, &quot;error_y&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}, &quot;marker&quot;: {&quot;line&quot;: {&quot;color&quot;: &quot;#E5ECF6&quot;, &quot;width&quot;: 0.5}}, &quot;type&quot;: &quot;bar&quot;}], &quot;barpolar&quot;: [{&quot;marker&quot;: {&quot;line&quot;: {&quot;color&quot;: &quot;#E5ECF6&quot;, &quot;width&quot;: 0.5}}, &quot;type&quot;: &quot;barpolar&quot;}], &quot;carpet&quot;: [{&quot;aaxis&quot;: {&quot;endlinecolor&quot;: &quot;#2a3f5f&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;minorgridcolor&quot;: &quot;white&quot;, &quot;startlinecolor&quot;: &quot;#2a3f5f&quot;}, &quot;baxis&quot;: {&quot;endlinecolor&quot;: &quot;#2a3f5f&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;minorgridcolor&quot;: &quot;white&quot;, &quot;startlinecolor&quot;: &quot;#2a3f5f&quot;}, &quot;type&quot;: &quot;carpet&quot;}], &quot;choropleth&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;type&quot;: &quot;choropleth&quot;}], &quot;contour&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;contour&quot;}], &quot;contourcarpet&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;type&quot;: &quot;contourcarpet&quot;}], &quot;heatmap&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;heatmap&quot;}], &quot;heatmapgl&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;heatmapgl&quot;}], &quot;histogram&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;histogram&quot;}], &quot;histogram2d&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;histogram2d&quot;}], &quot;histogram2dcontour&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;histogram2dcontour&quot;}], &quot;mesh3d&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;type&quot;: &quot;mesh3d&quot;}], &quot;parcoords&quot;: [{&quot;line&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;parcoords&quot;}], &quot;pie&quot;: [{&quot;automargin&quot;: true, &quot;type&quot;: &quot;pie&quot;}], &quot;scatter&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatter&quot;}], &quot;scatter3d&quot;: [{&quot;line&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatter3d&quot;}], &quot;scattercarpet&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattercarpet&quot;}], &quot;scattergeo&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattergeo&quot;}], &quot;scattergl&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattergl&quot;}], &quot;scattermapbox&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattermapbox&quot;}], &quot;scatterpolar&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatterpolar&quot;}], &quot;scatterpolargl&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatterpolargl&quot;}], &quot;scatterternary&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatterternary&quot;}], &quot;surface&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;surface&quot;}], &quot;table&quot;: [{&quot;cells&quot;: {&quot;fill&quot;: {&quot;color&quot;: &quot;#EBF0F8&quot;}, &quot;line&quot;: {&quot;color&quot;: &quot;white&quot;}}, &quot;header&quot;: {&quot;fill&quot;: {&quot;color&quot;: &quot;#C8D4E3&quot;}, &quot;line&quot;: {&quot;color&quot;: &quot;white&quot;}}, &quot;type&quot;: &quot;table&quot;}]}, &quot;layout&quot;: {&quot;annotationdefaults&quot;: {&quot;arrowcolor&quot;: &quot;#2a3f5f&quot;, &quot;arrowhead&quot;: 0, &quot;arrowwidth&quot;: 1}, &quot;autotypenumbers&quot;: &quot;strict&quot;, &quot;coloraxis&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;colorscale&quot;: {&quot;diverging&quot;: [[0, &quot;#8e0152&quot;], [0.1, &quot;#c51b7d&quot;], [0.2, &quot;#de77ae&quot;], [0.3, &quot;#f1b6da&quot;], [0.4, &quot;#fde0ef&quot;], [0.5, &quot;#f7f7f7&quot;], [0.6, &quot;#e6f5d0&quot;], [0.7, &quot;#b8e186&quot;], [0.8, &quot;#7fbc41&quot;], [0.9, &quot;#4d9221&quot;], [1, &quot;#276419&quot;]], &quot;sequential&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;sequentialminus&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]]}, &quot;colorway&quot;: [&quot;#636efa&quot;, &quot;#EF553B&quot;, &quot;#00cc96&quot;, &quot;#ab63fa&quot;, &quot;#FFA15A&quot;, &quot;#19d3f3&quot;, &quot;#FF6692&quot;, &quot;#B6E880&quot;, &quot;#FF97FF&quot;, &quot;#FECB52&quot;], &quot;font&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}, &quot;geo&quot;: {&quot;bgcolor&quot;: &quot;white&quot;, &quot;lakecolor&quot;: &quot;white&quot;, &quot;landcolor&quot;: &quot;#E5ECF6&quot;, &quot;showlakes&quot;: true, &quot;showland&quot;: true, &quot;subunitcolor&quot;: &quot;white&quot;}, &quot;hoverlabel&quot;: {&quot;align&quot;: &quot;left&quot;}, &quot;hovermode&quot;: &quot;closest&quot;, &quot;mapbox&quot;: {&quot;style&quot;: &quot;light&quot;}, &quot;paper_bgcolor&quot;: &quot;white&quot;, &quot;plot_bgcolor&quot;: &quot;#E5ECF6&quot;, &quot;polar&quot;: {&quot;angularaxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}, &quot;bgcolor&quot;: &quot;#E5ECF6&quot;, &quot;radialaxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}}, &quot;scene&quot;: {&quot;xaxis&quot;: {&quot;backgroundcolor&quot;: &quot;#E5ECF6&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;gridwidth&quot;: 2, &quot;linecolor&quot;: &quot;white&quot;, &quot;showbackground&quot;: true, &quot;ticks&quot;: &quot;&quot;, &quot;zerolinecolor&quot;: &quot;white&quot;}, &quot;yaxis&quot;: {&quot;backgroundcolor&quot;: &quot;#E5ECF6&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;gridwidth&quot;: 2, &quot;linecolor&quot;: &quot;white&quot;, &quot;showbackground&quot;: true, &quot;ticks&quot;: &quot;&quot;, &quot;zerolinecolor&quot;: &quot;white&quot;}, &quot;zaxis&quot;: {&quot;backgroundcolor&quot;: &quot;#E5ECF6&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;gridwidth&quot;: 2, &quot;linecolor&quot;: &quot;white&quot;, &quot;showbackground&quot;: true, &quot;ticks&quot;: &quot;&quot;, &quot;zerolinecolor&quot;: &quot;white&quot;}}, &quot;shapedefaults&quot;: {&quot;line&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}}, &quot;ternary&quot;: {&quot;aaxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}, &quot;baxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}, &quot;bgcolor&quot;: &quot;#E5ECF6&quot;, &quot;caxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}}, &quot;title&quot;: {&quot;x&quot;: 0.05}, &quot;xaxis&quot;: {&quot;automargin&quot;: true, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;, &quot;title&quot;: {&quot;standoff&quot;: 15}, &quot;zerolinecolor&quot;: &quot;white&quot;, &quot;zerolinewidth&quot;: 2}, &quot;yaxis&quot;: {&quot;automargin&quot;: true, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;, &quot;title&quot;: {&quot;standoff&quot;: 15}, &quot;zerolinecolor&quot;: &quot;white&quot;, &quot;zerolinewidth&quot;: 2}}}},                        {&quot;responsive&quot;: true}                    )                };                            &lt;/script&gt;        &lt;/div&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-	&lt;div class=&quot;card-header&quot;&gt;
-	感染・仕事等への不安 (164 posts)
-	&lt;/div&gt;
-	&lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		終わりが見えないことがとても不安です。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;15 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		あまりにも対応が遅すぎます。政府の人達はそれで高給取りなので許せないです。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;14 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		「またか」という気持ちもあるが、今は我慢の時。 一人一人が自覚して行動しないと、この戦いには勝てないと思う。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;div class=&quot;collapse&quot; id=&quot;collapseOpinion0&quot;&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		感染しないか本当に不安
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		飲食店だけが自粛の対象では、あまり効果が無いのではないかと不安に感じています。経済も大切ですが、感染者が減らない方が、経済損失は大きくなるのではないでしょうか。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		20時以降外出することを自粛しても、日中の人出の多さは変わらず、あまり効果は出ないと思います。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		早く収まって、安心して仕事がしたいです。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		経済活動が滞り生活に影響があり困ります。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		家庭の中でさえコロナに対する危機感が違うので全ての人が自分と同じような危機感をもって感染予防を徹底することの難しさに直面して虚しさを感じます。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		自分が感染しないようにしたり、感染させないように行動を制限し、我慢をしているのに、一部の人たちは旅行したり楽しんでいて、そこでクラスターを起こしていたりするのが腹立たしい。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;/div&gt;
-	&lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseOpinion0&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseOpinion0&quot;&gt;
-		See more
-	&lt;/button&gt;
-	&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-	&lt;div class=&quot;card-header&quot;&gt;
-	緊急事態宣言への懐疑 (103 posts)
-	&lt;/div&gt;
-	&lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		緊急事態宣言を出すのが遅すぎてすでに手遅れになっている。感染者はさらに増え続けていくと思う。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		これだけ拡大した感染を、地域を限定した緊急事態宣言で抑えることが出来るのか不安です。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;16 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		緊急事態宣言が発令されたからといって、子供の学校は通常通り、主人の会社もほぼ通常出勤、主婦の私は食料や日用品の買い出しのため、スーパー等には行かなければなりません。普通に多くの人と接触します。前回よりもコロナウィルスは蔓延しているはずなのに、前回よりも人の動きは活発になっています。自粛自粛と言われているけれど、自粛意識があっても中途半端な自粛しかできません。中途半端な緊急事態宣言ではもう取返しがつかないかもしれません。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;div class=&quot;collapse&quot; id=&quot;collapseOpinion1&quot;&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		対応が遅すぎます。 こうなることは目に見えていたと思います。 
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		飲食をメインターゲットにし、その他の対策が甘いことが疑問です。前回の緊急事態宣言下とは明らかに国民の意識が下がっていると思います。コロナに対してわかったことが多くなったとはいえ、1年間収束できていないので、もう少し厳しくしてもいい気がします。とはいえ経済を回さないといけないので、その対策をもっと政府に考えてほしいと思います。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		緊急事態宣言といっても飲食店などの時短要請などでは意味があるのかイマイチわからない。不要不急の外出を控えるだけでは首都圏の感染者が減るとは全く思えない。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		真面目に自粛する人と気にせず行動する人の差がでてきたように思います。緊急事態宣言が出ても気にしない人は気にしないだろうし、正直意味あるのかなという感じです。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		不満や不安はあるが、受け入れるしかないと思います。みんなが意識を変えないといけない。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		今回は一律の給付金が検討されていないのが大変不満
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		今回の緊急事態宣言で本当に人々の行動が制限されて、感染者が減少するのか。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;/div&gt;
-	&lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseOpinion1&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseOpinion1&quot;&gt;
-		See more
-	&lt;/button&gt;
-	&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;最後に&quot;&gt;最後に&lt;/h2&gt;
-&lt;p&gt;感染不安、仕事への影響の不安、緊急事態宣言の効果への懐疑、政府判断への不満などが多く寄せられました。
-ただ、今回は満足のいく分類ができなかったので、（人力分類という選択肢を除いて）ベストエフォートの結果ということで、
-緊急事態宣言の効果への懐疑（グループ2）を切り出しました（グループ1にも、意味としてはグループ2に属すべき意見もいくらかあります）。
-グループ1は「その他」と読んでいただいても結構です。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-via=&quot;Aska_systems_jp&quot; data-hashtags=&quot;Aska&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;!-- ## 詳細 --&gt;
-
-&lt;table class=&quot;table table-striped table-hover&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Summary&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;期間&lt;/td&gt;
-      &lt;td&gt;2021/1/9 - 2021/1/10&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;回答者数&lt;/td&gt;
-      &lt;td&gt;308&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;回答意見数&lt;/td&gt;
-      &lt;td&gt;267&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;初期回答数&lt;/td&gt;
-      &lt;td&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;プラットフォーム&lt;/td&gt;
-      &lt;td&gt;Crowdworks&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;!-- **Palette diagram**
-
-&lt;img src=&quot;/jp/images/2020_CriminalGPS/linear_palette_diagram.jpg&quot; alt=&quot;fig_group_size&quot;
-style = &quot;
-  width: 650px;
-  border: none;
-  background: none;
-  margin: 1% 1% 1% 1%;
-  text-align: center;
-  display: inline-block;
-&quot;&gt;
-
-上の図は、パレットダイアグラム[^0]という図で、各回答者の回答パターンを可視化したものです。
-パレットダイアグラムでは、回答者が横一列に並べられ、回答パターンが縦軸方向に記されています。
-
-[^0]: パレットダイアグラムに関する詳細は[こちら](https://github.com/palette-diagram/palette-diagram)をご覧ください。
- --&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;この結果を引用される場合は十分にご注意ください。
-本調査はデモの一環として実施しているものであり、学術的な信頼性はないとお考えください。
-本格的な調査に興味がある方は、&lt;a href=&quot;mailto:request@aska.systems&quot;&gt;request@aska.systems&lt;/a&gt;までご相談ください。&lt;/p&gt;
-
-&lt;p&gt;ここで掲載している調査の目的は、Askaシステムの挙動の実証実験です。
-意見のバラエティを増やすために、あえてバイアスのかかった質問の仕方をすることもありますが、その場合は、バイアス下での結果であることを十分にご注意ください。&lt;/p&gt;
-</description>
-        <pubDate>Thu, 14 Jan 2021 00:00:00 +0900</pubDate>
-        <link>https://aska.systems/jp/COVIDEmergency/</link>
-        <guid isPermaLink="true">https://aska.systems/jp/COVIDEmergency/</guid>
         
         
       </item>
