@@ -6,9 +6,136 @@
 </description>
     <link>https://aska.systems/jp/</link>
     <atom:link href="https://aska.systems/jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 22 May 2021 19:32:34 +0900</pubDate>
-    <lastBuildDate>Sat, 22 May 2021 19:32:34 +0900</lastBuildDate>
+    <pubDate>Sun, 23 May 2021 18:17:39 +0900</pubDate>
+    <lastBuildDate>Sun, 23 May 2021 18:17:39 +0900</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>予約システムの「確認」</title>
+        <description>&lt;p&gt;新聞記者によるワクチン摂取予約システムの報道は、適切だと思いますか？&lt;/p&gt;
+
+&lt;p&gt;朝日・毎日新聞の報道の調査手法について波紋が広がっています。先日、防衛省による新型コロナワクチンの大規模摂取会場での摂取が始まりました。突貫工事であったため、予約システムで二重予約ができてしまうなどの不具合が出てしまいました。その中で、朝日新聞と毎日新聞の記者が、予約システムの不備を指摘するため、虚偽の摂取予約番号を使って予約を取り、その方法の詳細を記事に書きました。記者はすぐに予約を取り消したので、問題ないと言っていますが、賛否両論起きています。江川紹子さんをはじめとするジャーナリストは、不備を指摘するのは報道機関として適切と述べています。しかし、方法を記載することで模倣犯が出ることや、ワクチン摂取を妨害しているという批判も安倍前首相をはじめ多くの人から上がっています。この調査手法が適切であったのかということについて、ご意見を募集しました。&lt;/p&gt;
+
+&lt;h4 id=&quot;質問１&quot;&gt;質問１&lt;/h4&gt;
+&lt;div class=&quot;jumbotron py-2&quot;&gt;
+&lt;h5&gt;朝日新聞・毎日新聞の記者による、ワクチン摂取の予約システムの”確認”は適切だと思いますか？&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/jp/images/2021_ReserveCheck/table.svg&quot; alt=&quot;incidence_matrix&quot; style=&quot;   width: 500px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;回答者（行）と投稿意見（列）のテーブル図。回答者が賛成した意見は青色（紺色は自身の投稿意見）、賛成しなかった意見は黄色、未参照の意見は灰色。&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;この行為については、否定的な意見が多い結果となりました。意見の方向性としては大きく分けて二つありました。一つ目は、仮に虚偽の予約をすぐに取り消していたとしても、短時間でもその摂取枠が塞がったことで予約を取れなくて困った人がいると考えられるからという意見です。また、ある種の実験としてこのような調査手法をとる場合でも、事前に関係部署に断りを入れるべきという意見もありました。二つ目は、虚偽予約の方法を拡散したことへの批判です。不備の発見は報道機関としての仕事であるが、その方法を拡散させることは模倣犯が出てくることにつながるので、不適切という意見があります。&lt;/p&gt;
+
+&lt;p&gt;一方、この調査手法を肯定する意見もある程度見られました。立憲民主党の枝野代表が述べたように、不備を見つけたこと自体は、システムを改善することにつながるので防衛省は抗議ではなく、むしろ感謝するべきという意見もありました。また、この報道がなければ国民は杜撰なシステム体制を知らないままなので、透明性を確保するためには、このような手段を取るのはやむを得ないという意見もありました。&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  「確認」を批判する意見
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 32&lt;/span&gt; 予約システムの不備を指摘し報道したという気持ちはわかるけど、自分の周囲の対象者に依頼するなどもっとやり方があったと思います。虚偽予約をすぐ取消したとしても、タイミング次第では予約できなかった人もいるかもしれないということを真摯に受け止めて欲しいです。
+    &lt;/li&gt;
+	  &lt;li class=&quot;list-group-item&quot;&gt;
+	    &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 33&lt;/span&gt; 問題あり、だと思います。指摘のある通り、その方法まで詳しく記載することで、模倣犯が出る可能性があります。また、予約が取りづらく、高齢者が苦労している中で、このような行為は予約システムの妨害行為と捉えられても仕方ないと思います。
+	  &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 34&lt;/span&gt; それによって予約をとれなかった人もいると思うので、あまりいいやり方とは思えません。
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  「確認」を支持する意見
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 1&lt;/span&gt; ワクチン接種の流れを妨害しているという点では適切な方法ではないが、ジャーナリストがいなければ、問題点を指摘し国民、消費者の意見が反映されないので、なんらかの形で透明性を作るべき
+    &lt;/li&gt;  
+	  &lt;li class=&quot;list-group-item&quot;&gt;
+	    &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 3&lt;/span&gt; システムに不備があったのであればそれを正すことが必要だと思います。方法がどうであれ不備は不備。
+	  &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 5&lt;/span&gt; 伝聞で済ませるのではなく、裏取りをするのは、報道するうえでは必要だと思う。
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;質問2&quot;&gt;質問2&lt;/h4&gt;
+&lt;div class=&quot;jumbotron py-2&quot;&gt;
+&lt;h5&gt;あなたはどの新聞を購読していますか？&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;p&gt;この調査結果は以下の円グラフにまとめられています。大半の人たちは新聞を購読していなく、新聞を読んでいる人で一番多いのはその他という回答でした。その他には地方紙や海外紙が入るので、全国主要五紙を購読している人はわずか7人でした。その中では朝日が3人と一番多かったです。
+今回の調査で朝日・毎日の調査手法に否定的な意見が多かった理由は、新聞を購読していない人が多いためかもしれません&lt;sup id=&quot;fnref:0&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:0&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/jp/images/2021_ReserveCheck/population_newspaper.png&quot; alt=&quot;newspaper&quot; style=&quot;   width: 500px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-via=&quot;Aska_systems_jp&quot; data-hashtags=&quot;Aska&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;詳細&quot;&gt;詳細&lt;/h2&gt;
+
+&lt;table class=&quot;table table-striped table-hover&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Summary&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;期間&lt;/td&gt;
+      &lt;td&gt;2021/5/22 - 2021/5/22&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;回答者数&lt;/td&gt;
+      &lt;td&gt;35&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;回答意見数&lt;/td&gt;
+      &lt;td&gt;質問１: 35, 質問2: 35&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;初期回答数&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;プラットフォーム&lt;/td&gt;
+      &lt;td&gt;Crowdworks&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h6 class=&quot;text-muted&quot;&gt;調査・記事担当: &lt;strong&gt;R. K.&lt;/strong&gt;&lt;/h6&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;この結果を引用される場合は十分にご注意ください。
+本調査はデモの一環として実施しているものであり、学術的な信頼性はないとお考えください。
+本格的な調査に興味がある方は、&lt;a href=&quot;mailto:request@aska.systems&quot;&gt;request@aska.systems&lt;/a&gt;までご相談ください。&lt;/p&gt;
+
+&lt;p&gt;ここで掲載している調査の目的は、Askaシステムの挙動の実証実験です。
+意見のバラエティを増やすために、あえてバイアスのかかった質問の仕方をすることもありますが、その場合は、バイアス下での結果であることを十分にご注意ください。&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:0&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;これについては質問１と質問２の連関を見ることで、もう少しちゃんと深掘りできますが、今回は割愛します。 &lt;a href=&quot;#fnref:0&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 23 May 2021 00:00:00 +0900</pubDate>
+        <link>https://aska.systems/jp/ReserveCheck/</link>
+        <guid isPermaLink="true">https://aska.systems/jp/ReserveCheck/</guid>
+        
+        
+      </item>
     
       <item>
         <title>ワクチン接種の順番</title>
@@ -2509,294 +2636,6 @@ style = &quot;
         <pubDate>Wed, 27 Jan 2021 00:00:00 +0900</pubDate>
         <link>https://aska.systems/jp/NukeTreaty/</link>
         <guid isPermaLink="true">https://aska.systems/jp/NukeTreaty/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>MAGA survey</title>
-        <description>&lt;p&gt;How did (or did not) the Trump administration Make America Great Again?&lt;/p&gt;
-
-&lt;h2 id=&quot;はじめに&quot;&gt;はじめに&lt;/h2&gt;
-&lt;p&gt;トランプ政権のスローガンは、”We will make America great again”でした。
-4年間を振り返って、人々のトランプ政権の貢献について意見を募集しました。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;質問&quot;&gt;質問&lt;/h2&gt;
-&lt;div class=&quot;jumbotron py-2&quot;&gt;
-&lt;h5&gt;Q1. How did (or did not) the Trump administration Make America Great Again?&lt;/h5&gt;
-&lt;!-- &lt;p&gt;
-Please choose the opinions you support AND/OR post your own opinion(s). When you post, please write down specifically what it is and categorize your opinion using the hashtag.
-&lt;/p&gt; --&gt;
-
-&lt;hr /&gt;
-
-&lt;h5&gt;Q2. Did you vote for Donald Trump in the 2016 and/or 2020 elections?&lt;/h5&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;結果&quot;&gt;結果&lt;/h2&gt;
-
-&lt;div&gt;                        &lt;script type=&quot;text/javascript&quot;&gt;window.PlotlyConfig = {MathJaxConfig: &apos;local&apos;};&lt;/script&gt;
-        &lt;script src=&quot;https://cdn.plot.ly/plotly-latest.min.js&quot;&gt;&lt;/script&gt;                &lt;div id=&quot;755ebe2f-82c3-476f-ac01-014807819664&quot; class=&quot;plotly-graph-div&quot; style=&quot;height:100%; width:100%;&quot;&gt;&lt;/div&gt;            &lt;script type=&quot;text/javascript&quot;&gt;                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById(&quot;755ebe2f-82c3-476f-ac01-014807819664&quot;)) {                    Plotly.newPlot(                        &quot;755ebe2f-82c3-476f-ac01-014807819664&quot;,                        [{&quot;domain&quot;: {&quot;x&quot;: [0.0, 1.0], &quot;y&quot;: [0.0, 1.0]}, &quot;hole&quot;: 0.5, &quot;hovertemplate&quot;: &quot;choice=%{label}&lt;br&gt;Count=%{value}&lt;extra&gt;&lt;/extra&gt;&quot;, &quot;labels&quot;: [&quot;I did not vote for anyone in both elections&quot;, &quot;No, I have never voted for Trump&quot;, &quot;Yes, both in 2016 and 2020&quot;, &quot;Yes, only in 2016&quot;, &quot;Yes, only in 2020&quot;], &quot;legendgroup&quot;: &quot;&quot;, &quot;name&quot;: &quot;&quot;, &quot;showlegend&quot;: true, &quot;type&quot;: &quot;pie&quot;, &quot;values&quot;: [26, 144, 61, 27, 13]}],                        {&quot;legend&quot;: {&quot;tracegroupgap&quot;: 0}, &quot;template&quot;: {&quot;data&quot;: {&quot;bar&quot;: [{&quot;error_x&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}, &quot;error_y&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}, &quot;marker&quot;: {&quot;line&quot;: {&quot;color&quot;: &quot;#E5ECF6&quot;, &quot;width&quot;: 0.5}}, &quot;type&quot;: &quot;bar&quot;}], &quot;barpolar&quot;: [{&quot;marker&quot;: {&quot;line&quot;: {&quot;color&quot;: &quot;#E5ECF6&quot;, &quot;width&quot;: 0.5}}, &quot;type&quot;: &quot;barpolar&quot;}], &quot;carpet&quot;: [{&quot;aaxis&quot;: {&quot;endlinecolor&quot;: &quot;#2a3f5f&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;minorgridcolor&quot;: &quot;white&quot;, &quot;startlinecolor&quot;: &quot;#2a3f5f&quot;}, &quot;baxis&quot;: {&quot;endlinecolor&quot;: &quot;#2a3f5f&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;minorgridcolor&quot;: &quot;white&quot;, &quot;startlinecolor&quot;: &quot;#2a3f5f&quot;}, &quot;type&quot;: &quot;carpet&quot;}], &quot;choropleth&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;type&quot;: &quot;choropleth&quot;}], &quot;contour&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;contour&quot;}], &quot;contourcarpet&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;type&quot;: &quot;contourcarpet&quot;}], &quot;heatmap&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;heatmap&quot;}], &quot;heatmapgl&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;heatmapgl&quot;}], &quot;histogram&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;histogram&quot;}], &quot;histogram2d&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;histogram2d&quot;}], &quot;histogram2dcontour&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;histogram2dcontour&quot;}], &quot;mesh3d&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;type&quot;: &quot;mesh3d&quot;}], &quot;parcoords&quot;: [{&quot;line&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;parcoords&quot;}], &quot;pie&quot;: [{&quot;automargin&quot;: true, &quot;type&quot;: &quot;pie&quot;}], &quot;scatter&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatter&quot;}], &quot;scatter3d&quot;: [{&quot;line&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatter3d&quot;}], &quot;scattercarpet&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattercarpet&quot;}], &quot;scattergeo&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattergeo&quot;}], &quot;scattergl&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattergl&quot;}], &quot;scattermapbox&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattermapbox&quot;}], &quot;scatterpolar&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatterpolar&quot;}], &quot;scatterpolargl&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatterpolargl&quot;}], &quot;scatterternary&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatterternary&quot;}], &quot;surface&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;surface&quot;}], &quot;table&quot;: [{&quot;cells&quot;: {&quot;fill&quot;: {&quot;color&quot;: &quot;#EBF0F8&quot;}, &quot;line&quot;: {&quot;color&quot;: &quot;white&quot;}}, &quot;header&quot;: {&quot;fill&quot;: {&quot;color&quot;: &quot;#C8D4E3&quot;}, &quot;line&quot;: {&quot;color&quot;: &quot;white&quot;}}, &quot;type&quot;: &quot;table&quot;}]}, &quot;layout&quot;: {&quot;annotationdefaults&quot;: {&quot;arrowcolor&quot;: &quot;#2a3f5f&quot;, &quot;arrowhead&quot;: 0, &quot;arrowwidth&quot;: 1}, &quot;autotypenumbers&quot;: &quot;strict&quot;, &quot;coloraxis&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;colorscale&quot;: {&quot;diverging&quot;: [[0, &quot;#8e0152&quot;], [0.1, &quot;#c51b7d&quot;], [0.2, &quot;#de77ae&quot;], [0.3, &quot;#f1b6da&quot;], [0.4, &quot;#fde0ef&quot;], [0.5, &quot;#f7f7f7&quot;], [0.6, &quot;#e6f5d0&quot;], [0.7, &quot;#b8e186&quot;], [0.8, &quot;#7fbc41&quot;], [0.9, &quot;#4d9221&quot;], [1, &quot;#276419&quot;]], &quot;sequential&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;sequentialminus&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]]}, &quot;colorway&quot;: [&quot;#636efa&quot;, &quot;#EF553B&quot;, &quot;#00cc96&quot;, &quot;#ab63fa&quot;, &quot;#FFA15A&quot;, &quot;#19d3f3&quot;, &quot;#FF6692&quot;, &quot;#B6E880&quot;, &quot;#FF97FF&quot;, &quot;#FECB52&quot;], &quot;font&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}, &quot;geo&quot;: {&quot;bgcolor&quot;: &quot;white&quot;, &quot;lakecolor&quot;: &quot;white&quot;, &quot;landcolor&quot;: &quot;#E5ECF6&quot;, &quot;showlakes&quot;: true, &quot;showland&quot;: true, &quot;subunitcolor&quot;: &quot;white&quot;}, &quot;hoverlabel&quot;: {&quot;align&quot;: &quot;left&quot;}, &quot;hovermode&quot;: &quot;closest&quot;, &quot;mapbox&quot;: {&quot;style&quot;: &quot;light&quot;}, &quot;paper_bgcolor&quot;: &quot;white&quot;, &quot;plot_bgcolor&quot;: &quot;#E5ECF6&quot;, &quot;polar&quot;: {&quot;angularaxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}, &quot;bgcolor&quot;: &quot;#E5ECF6&quot;, &quot;radialaxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}}, &quot;scene&quot;: {&quot;xaxis&quot;: {&quot;backgroundcolor&quot;: &quot;#E5ECF6&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;gridwidth&quot;: 2, &quot;linecolor&quot;: &quot;white&quot;, &quot;showbackground&quot;: true, &quot;ticks&quot;: &quot;&quot;, &quot;zerolinecolor&quot;: &quot;white&quot;}, &quot;yaxis&quot;: {&quot;backgroundcolor&quot;: &quot;#E5ECF6&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;gridwidth&quot;: 2, &quot;linecolor&quot;: &quot;white&quot;, &quot;showbackground&quot;: true, &quot;ticks&quot;: &quot;&quot;, &quot;zerolinecolor&quot;: &quot;white&quot;}, &quot;zaxis&quot;: {&quot;backgroundcolor&quot;: &quot;#E5ECF6&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;gridwidth&quot;: 2, &quot;linecolor&quot;: &quot;white&quot;, &quot;showbackground&quot;: true, &quot;ticks&quot;: &quot;&quot;, &quot;zerolinecolor&quot;: &quot;white&quot;}}, &quot;shapedefaults&quot;: {&quot;line&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}}, &quot;ternary&quot;: {&quot;aaxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}, &quot;baxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}, &quot;bgcolor&quot;: &quot;#E5ECF6&quot;, &quot;caxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}}, &quot;title&quot;: {&quot;x&quot;: 0.05}, &quot;xaxis&quot;: {&quot;automargin&quot;: true, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;, &quot;title&quot;: {&quot;standoff&quot;: 15}, &quot;zerolinecolor&quot;: &quot;white&quot;, &quot;zerolinewidth&quot;: 2}, &quot;yaxis&quot;: {&quot;automargin&quot;: true, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;, &quot;title&quot;: {&quot;standoff&quot;: 15}, &quot;zerolinecolor&quot;: &quot;white&quot;, &quot;zerolinewidth&quot;: 2}}}, &quot;title&quot;: {&quot;text&quot;: &quot;Q2. Did you vote for Donald Trump in the 2016 and/or 2020 elections?&quot;}},                        {&quot;responsive&quot;: true}                    )                };                            &lt;/script&gt;        &lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;/jp/images/2021_MAGA/popularity_matrix.jpg&quot; alt=&quot;fig_popularity&quot; style=&quot;   width: 500px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
-
-&lt;div&gt;                        &lt;script type=&quot;text/javascript&quot;&gt;window.PlotlyConfig = {MathJaxConfig: &apos;local&apos;};&lt;/script&gt;
-        &lt;script src=&quot;https://cdn.plot.ly/plotly-latest.min.js&quot;&gt;&lt;/script&gt;                &lt;div id=&quot;ead432b4-85ae-4336-bc42-0f9930d475ce&quot; class=&quot;plotly-graph-div&quot; style=&quot;height:600px; width:700px;&quot;&gt;&lt;/div&gt;            &lt;script type=&quot;text/javascript&quot;&gt;                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById(&quot;ead432b4-85ae-4336-bc42-0f9930d475ce&quot;)) {                    Plotly.newPlot(                        &quot;ead432b4-85ae-4336-bc42-0f9930d475ce&quot;,                        [{&quot;hovertemplate&quot;: &quot;Opinion=Biden supporters&lt;br&gt;Population ratio=%{x}&lt;br&gt;Did you vote for Donald Trump in the 2016 and/or 2020 elections?=%{y}&lt;extra&gt;&lt;/extra&gt;&quot;, &quot;legendgroup&quot;: &quot;Biden supporters&quot;, &quot;marker&quot;: {&quot;color&quot;: &quot;rgba(0,0,128,0.95)&quot;, &quot;line&quot;: {&quot;width&quot;: 0}, &quot;size&quot;: 16, &quot;symbol&quot;: &quot;circle&quot;}, &quot;mode&quot;: &quot;markers&quot;, &quot;name&quot;: &quot;Biden supporters&quot;, &quot;orientation&quot;: &quot;h&quot;, &quot;showlegend&quot;: true, &quot;type&quot;: &quot;scatter&quot;, &quot;x&quot;: [0.42, 0.84, 0.18, 0.41, 0.38], &quot;xaxis&quot;: &quot;x&quot;, &quot;y&quot;: [&quot;I did not vote for anyone in both elections&quot;, &quot;No, I have never voted for Trump&quot;, &quot;Yes, both in 2016 and 2020&quot;, &quot;Yes, only in 2016&quot;, &quot;Yes, only in 2020&quot;], &quot;yaxis&quot;: &quot;y&quot;}, {&quot;hovertemplate&quot;: &quot;Opinion=Neither&lt;br&gt;Population ratio=%{x}&lt;br&gt;Did you vote for Donald Trump in the 2016 and/or 2020 elections?=%{y}&lt;extra&gt;&lt;/extra&gt;&quot;, &quot;legendgroup&quot;: &quot;Neither&quot;, &quot;marker&quot;: {&quot;color&quot;: &quot;rgba(204, 204, 204, 0.95)&quot;, &quot;line&quot;: {&quot;width&quot;: 0}, &quot;size&quot;: 16, &quot;symbol&quot;: &quot;circle&quot;}, &quot;mode&quot;: &quot;markers&quot;, &quot;name&quot;: &quot;Neither&quot;, &quot;orientation&quot;: &quot;h&quot;, &quot;showlegend&quot;: true, &quot;type&quot;: &quot;scatter&quot;, &quot;x&quot;: [0.35, 0.13, 0.23, 0.48, 0.23], &quot;xaxis&quot;: &quot;x&quot;, &quot;y&quot;: [&quot;I did not vote for anyone in both elections&quot;, &quot;No, I have never voted for Trump&quot;, &quot;Yes, both in 2016 and 2020&quot;, &quot;Yes, only in 2016&quot;, &quot;Yes, only in 2020&quot;], &quot;yaxis&quot;: &quot;y&quot;}, {&quot;hovertemplate&quot;: &quot;Opinion=Trump supporters&lt;br&gt;Population ratio=%{x}&lt;br&gt;Did you vote for Donald Trump in the 2016 and/or 2020 elections?=%{y}&lt;extra&gt;&lt;/extra&gt;&quot;, &quot;legendgroup&quot;: &quot;Trump supporters&quot;, &quot;marker&quot;: {&quot;color&quot;: &quot;rgba(153,0,0,0.95)&quot;, &quot;line&quot;: {&quot;width&quot;: 0}, &quot;size&quot;: 16, &quot;symbol&quot;: &quot;circle&quot;}, &quot;mode&quot;: &quot;markers&quot;, &quot;name&quot;: &quot;Trump supporters&quot;, &quot;orientation&quot;: &quot;h&quot;, &quot;showlegend&quot;: true, &quot;type&quot;: &quot;scatter&quot;, &quot;x&quot;: [0.23, 0.03, 0.58, 0.11, 0.38], &quot;xaxis&quot;: &quot;x&quot;, &quot;y&quot;: [&quot;I did not vote for anyone in both elections&quot;, &quot;No, I have never voted for Trump&quot;, &quot;Yes, both in 2016 and 2020&quot;, &quot;Yes, only in 2016&quot;, &quot;Yes, only in 2020&quot;], &quot;yaxis&quot;: &quot;y&quot;}],                        {&quot;height&quot;: 600, &quot;hovermode&quot;: &quot;closest&quot;, &quot;legend&quot;: {&quot;title&quot;: {&quot;text&quot;: &quot;Opinion&quot;}, &quot;tracegroupgap&quot;: 0}, &quot;margin&quot;: {&quot;t&quot;: 60}, &quot;paper_bgcolor&quot;: &quot;white&quot;, &quot;plot_bgcolor&quot;: &quot;white&quot;, &quot;template&quot;: {&quot;data&quot;: {&quot;bar&quot;: [{&quot;error_x&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}, &quot;error_y&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}, &quot;marker&quot;: {&quot;line&quot;: {&quot;color&quot;: &quot;#E5ECF6&quot;, &quot;width&quot;: 0.5}}, &quot;type&quot;: &quot;bar&quot;}], &quot;barpolar&quot;: [{&quot;marker&quot;: {&quot;line&quot;: {&quot;color&quot;: &quot;#E5ECF6&quot;, &quot;width&quot;: 0.5}}, &quot;type&quot;: &quot;barpolar&quot;}], &quot;carpet&quot;: [{&quot;aaxis&quot;: {&quot;endlinecolor&quot;: &quot;#2a3f5f&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;minorgridcolor&quot;: &quot;white&quot;, &quot;startlinecolor&quot;: &quot;#2a3f5f&quot;}, &quot;baxis&quot;: {&quot;endlinecolor&quot;: &quot;#2a3f5f&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;minorgridcolor&quot;: &quot;white&quot;, &quot;startlinecolor&quot;: &quot;#2a3f5f&quot;}, &quot;type&quot;: &quot;carpet&quot;}], &quot;choropleth&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;type&quot;: &quot;choropleth&quot;}], &quot;contour&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;contour&quot;}], &quot;contourcarpet&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;type&quot;: &quot;contourcarpet&quot;}], &quot;heatmap&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;heatmap&quot;}], &quot;heatmapgl&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;heatmapgl&quot;}], &quot;histogram&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;histogram&quot;}], &quot;histogram2d&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;histogram2d&quot;}], &quot;histogram2dcontour&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;histogram2dcontour&quot;}], &quot;mesh3d&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;type&quot;: &quot;mesh3d&quot;}], &quot;parcoords&quot;: [{&quot;line&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;parcoords&quot;}], &quot;pie&quot;: [{&quot;automargin&quot;: true, &quot;type&quot;: &quot;pie&quot;}], &quot;scatter&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatter&quot;}], &quot;scatter3d&quot;: [{&quot;line&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatter3d&quot;}], &quot;scattercarpet&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattercarpet&quot;}], &quot;scattergeo&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattergeo&quot;}], &quot;scattergl&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattergl&quot;}], &quot;scattermapbox&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattermapbox&quot;}], &quot;scatterpolar&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatterpolar&quot;}], &quot;scatterpolargl&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatterpolargl&quot;}], &quot;scatterternary&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatterternary&quot;}], &quot;surface&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;surface&quot;}], &quot;table&quot;: [{&quot;cells&quot;: {&quot;fill&quot;: {&quot;color&quot;: &quot;#EBF0F8&quot;}, &quot;line&quot;: {&quot;color&quot;: &quot;white&quot;}}, &quot;header&quot;: {&quot;fill&quot;: {&quot;color&quot;: &quot;#C8D4E3&quot;}, &quot;line&quot;: {&quot;color&quot;: &quot;white&quot;}}, &quot;type&quot;: &quot;table&quot;}]}, &quot;layout&quot;: {&quot;annotationdefaults&quot;: {&quot;arrowcolor&quot;: &quot;#2a3f5f&quot;, &quot;arrowhead&quot;: 0, &quot;arrowwidth&quot;: 1}, &quot;autotypenumbers&quot;: &quot;strict&quot;, &quot;coloraxis&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;colorscale&quot;: {&quot;diverging&quot;: [[0, &quot;#8e0152&quot;], [0.1, &quot;#c51b7d&quot;], [0.2, &quot;#de77ae&quot;], [0.3, &quot;#f1b6da&quot;], [0.4, &quot;#fde0ef&quot;], [0.5, &quot;#f7f7f7&quot;], [0.6, &quot;#e6f5d0&quot;], [0.7, &quot;#b8e186&quot;], [0.8, &quot;#7fbc41&quot;], [0.9, &quot;#4d9221&quot;], [1, &quot;#276419&quot;]], &quot;sequential&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;sequentialminus&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]]}, &quot;colorway&quot;: [&quot;#636efa&quot;, &quot;#EF553B&quot;, &quot;#00cc96&quot;, &quot;#ab63fa&quot;, &quot;#FFA15A&quot;, &quot;#19d3f3&quot;, &quot;#FF6692&quot;, &quot;#B6E880&quot;, &quot;#FF97FF&quot;, &quot;#FECB52&quot;], &quot;font&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}, &quot;geo&quot;: {&quot;bgcolor&quot;: &quot;white&quot;, &quot;lakecolor&quot;: &quot;white&quot;, &quot;landcolor&quot;: &quot;#E5ECF6&quot;, &quot;showlakes&quot;: true, &quot;showland&quot;: true, &quot;subunitcolor&quot;: &quot;white&quot;}, &quot;hoverlabel&quot;: {&quot;align&quot;: &quot;left&quot;}, &quot;hovermode&quot;: &quot;closest&quot;, &quot;mapbox&quot;: {&quot;style&quot;: &quot;light&quot;}, &quot;paper_bgcolor&quot;: &quot;white&quot;, &quot;plot_bgcolor&quot;: &quot;#E5ECF6&quot;, &quot;polar&quot;: {&quot;angularaxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}, &quot;bgcolor&quot;: &quot;#E5ECF6&quot;, &quot;radialaxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}}, &quot;scene&quot;: {&quot;xaxis&quot;: {&quot;backgroundcolor&quot;: &quot;#E5ECF6&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;gridwidth&quot;: 2, &quot;linecolor&quot;: &quot;white&quot;, &quot;showbackground&quot;: true, &quot;ticks&quot;: &quot;&quot;, &quot;zerolinecolor&quot;: &quot;white&quot;}, &quot;yaxis&quot;: {&quot;backgroundcolor&quot;: &quot;#E5ECF6&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;gridwidth&quot;: 2, &quot;linecolor&quot;: &quot;white&quot;, &quot;showbackground&quot;: true, &quot;ticks&quot;: &quot;&quot;, &quot;zerolinecolor&quot;: &quot;white&quot;}, &quot;zaxis&quot;: {&quot;backgroundcolor&quot;: &quot;#E5ECF6&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;gridwidth&quot;: 2, &quot;linecolor&quot;: &quot;white&quot;, &quot;showbackground&quot;: true, &quot;ticks&quot;: &quot;&quot;, &quot;zerolinecolor&quot;: &quot;white&quot;}}, &quot;shapedefaults&quot;: {&quot;line&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}}, &quot;ternary&quot;: {&quot;aaxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}, &quot;baxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}, &quot;bgcolor&quot;: &quot;#E5ECF6&quot;, &quot;caxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}}, &quot;title&quot;: {&quot;x&quot;: 0.05}, &quot;xaxis&quot;: {&quot;automargin&quot;: true, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;, &quot;title&quot;: {&quot;standoff&quot;: 15}, &quot;zerolinecolor&quot;: &quot;white&quot;, &quot;zerolinewidth&quot;: 2}, &quot;yaxis&quot;: {&quot;automargin&quot;: true, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;, &quot;title&quot;: {&quot;standoff&quot;: 15}, &quot;zerolinecolor&quot;: &quot;white&quot;, &quot;zerolinewidth&quot;: 2}}}, &quot;title&quot;: {&quot;text&quot;: &quot;Response distribution&quot;}, &quot;width&quot;: 700, &quot;xaxis&quot;: {&quot;anchor&quot;: &quot;y&quot;, &quot;domain&quot;: [0.0, 1.0], &quot;dtick&quot;: 0.1, &quot;linecolor&quot;: &quot;rgb(102, 102, 102)&quot;, &quot;showgrid&quot;: true, &quot;showline&quot;: true, &quot;showticklabels&quot;: true, &quot;tickcolor&quot;: &quot;rgb(102, 102, 102)&quot;, &quot;tickfont&quot;: {&quot;color&quot;: &quot;rgb(102, 102, 102)&quot;}, &quot;ticks&quot;: &quot;outside&quot;, &quot;title&quot;: {&quot;text&quot;: &quot;Population ratio&quot;}}, &quot;yaxis&quot;: {&quot;anchor&quot;: &quot;x&quot;, &quot;domain&quot;: [0.0, 1.0], &quot;title&quot;: {&quot;text&quot;: &quot;Did you vote for Donald Trump in the 2016 and/or 2020 elections?&quot;}}},                        {&quot;responsive&quot;: true}                    )                };                            &lt;/script&gt;        &lt;/div&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-	&lt;div class=&quot;card-header&quot;&gt;
-	Negative opinions (54 posts)
-	&lt;/div&gt;
-	&lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		Trump did not make America great again. I think he divided the country more than any President in my lifetime.
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;64 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		They did not. They brought strife and mistrust to America in ways never seen before. They nearly brought democracy to a shattering end.
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;60 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		The &quot;law and order&quot; president tried to skirt the laws and create mass chaos and disorder. 
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;55 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;div class=&quot;collapse&quot; id=&quot;collapseOpinion0&quot;&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		He did not make America great, he made it worse. He Is the worst President we ever had. 
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;50 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		Trump made America worse and not great again. He delayed closing of market and it led to many covid19 related deaths.
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;47 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		Trump and the Trump Administration was self-serving and did not uphold the integrity and respect of holding office. The lies and deceitful nature of the whole administration is so disappointing. 
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;46 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		He tried to play the presidency like his game show. Sometimes it was a big joke to him.
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;36 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		Trash president. Trash human being. 
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;35 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		Trump disrespected many people and undermined democracy. He is responsible for the death of many hundreds of thousands of people. America may never be the same after this divisive administration. 
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;35 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		He sabotaged every American except the rich. #OnePercentPresident
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;33 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		He has and still continues to take away the rights of people who do not fit into the heteronormative. 
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;32 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		I&apos;m worried he&apos;s sown a seed of sedition that will drive millions of white nationalists to start a second civil war.
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;31 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		None of jobs he promised to bring back actually came back.
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;28 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		Trump was never fit to hold white house in the first place
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;28 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		He was an embarrassment to the entire country.  He led an attack on his own country&apos;s capital.  That says enough right there.
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;28 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		The Trump Admin was the worst admin ever in this country. 
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;28 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		Trump did not handle the pandemic well and the US is an embarrassment now
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;25 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		The rich got richer and the poor got poorer, business as usual.
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;25 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		Trump did not make America great again because he divided the country. He also cost Americans their lives.
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;25 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		President trump had some mistakes during covid beginning stages
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;24 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;/div&gt;
-	&lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseOpinion0&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseOpinion0&quot;&gt;
-		See more
-	&lt;/button&gt;
-	&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-	&lt;div class=&quot;card-header&quot;&gt;
-	Positive opinions (42 posts)
-	&lt;/div&gt;
-	&lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		He fought for the people ignored by mainstream media and represented some conservative values. The left is socialist, racist, and accepting of authoritarian values. 
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;18 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		He had a pandemic thrown at him from the hateful left and China and he still managed to help the economy to the best of his ability.  
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;18 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		He got rid of the individual mandate in Obama care that was harming so many.
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;18 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;div class=&quot;collapse&quot; id=&quot;collapseOpinion1&quot;&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		He brought back jobs and made us Energy independent the first time that has occured.
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;17 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		Well, he brought the Middle East a little closer together.  Who would have thought that a few years ago.
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;16 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		All of these options are against Trump. I do not know a lot of details, but I do know that he improved our relations with some countries and brought more production back to the USA which are both positives. 
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;16 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		The tax cuts he passed put more money in working families pockets and the stock market went up creating a better retirement for many.
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;16 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		Trump&apos;s action may be undone in many areas over time. but win or lose,his legacy will endure in the federal courts where his conservative lifetime appointees will influence every aspect of American life for decades.
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;14 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		Trump did an excellent job he did several peace deals in the Middle East. He was one of the only presidents to not actively start a war, he brought many troops home.
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		He exposed the corrupt media and many politicians that are not working for the people.
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		he did try to make America great again.
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		He raised a dead economy from the grave, began building a wall that protected Americans from criminal illegals, brought jobs back to America, supported policies that help small businesses, and pushed through vaccine development in the midst of a pandemic.
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		Trump did an excellent job with the economy, combatting the CCP, peace deals, no new wars, dealing with corrupt international organization like the WHO, lowest unemployment, sensible immigration policies. Covid and corrupt democrats ruined everything in the end.
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		THE LAW WILL NOT CHANGED BUT PEOPLE SHOULD THINK AND BRING OUT THE RIGHT PERSON FOR THE WELFARE OF OUR NATION
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		He didn&apos;t send troops to war, had the lowest unemployment rate in 50 years, moved the embassy to Jerusalem, brought relative peace to the middle east
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		He created Space X and double down on space exploration.
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		Trump did an excellent job
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		Trump made America worse by exacerbating a global pandemic, lying to people, and attacking and discrediting scientists.
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;5 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		first president to be invited to north Korea
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;5 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		America has been made greater than ever the past four years. But that all ends tomorrow.
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;5 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;/div&gt;
-	&lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseOpinion1&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseOpinion1&quot;&gt;
-		See more
-	&lt;/button&gt;
-	&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-via=&quot;Aska_systems_jp&quot; data-hashtags=&quot;Aska&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;!-- ## 詳細 --&gt;
-
-&lt;table class=&quot;table table-striped table-hover&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Summary&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;期間&lt;/td&gt;
-      &lt;td&gt;2021/1/19 - 2021/1/21&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;回答者数&lt;/td&gt;
-      &lt;td&gt;271&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;回答意見数&lt;/td&gt;
-      &lt;td&gt;97&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;初期回答数&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;プラットフォーム&lt;/td&gt;
-      &lt;td&gt;MTurk&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;!-- **Palette diagram**
-
-&lt;img src=&quot;/jp/images/2020_CriminalGPS/linear_palette_diagram.jpg&quot; alt=&quot;fig_group_size&quot;
-style = &quot;
-  width: 650px;
-  border: none;
-  background: none;
-  margin: 1% 1% 1% 1%;
-  text-align: center;
-  display: inline-block;
-&quot;&gt;
-
-上の図は、パレットダイアグラム[^0]という図で、各回答者の回答パターンを可視化したものです。
-パレットダイアグラムでは、回答者が横一列に並べられ、回答パターンが縦軸方向に記されています。
-
-[^0]: パレットダイアグラムに関する詳細は[こちら](https://github.com/palette-diagram/palette-diagram)をご覧ください。
- --&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;この結果を引用される場合は十分にご注意ください。
-本調査はデモの一環として実施しているものであり、学術的な信頼性はないとお考えください。
-本格的な調査に興味がある方は、&lt;a href=&quot;mailto:request@aska.systems&quot;&gt;request@aska.systems&lt;/a&gt;までご相談ください。&lt;/p&gt;
-
-&lt;p&gt;ここで掲載している調査の目的は、Askaシステムの挙動の実証実験です。
-意見のバラエティを増やすために、あえてバイアスのかかった質問の仕方をすることもありますが、その場合は、バイアス下での結果であることを十分にご注意ください。&lt;/p&gt;
-</description>
-        <pubDate>Fri, 22 Jan 2021 00:00:00 +0900</pubDate>
-        <link>https://aska.systems/jp/MAGA/</link>
-        <guid isPermaLink="true">https://aska.systems/jp/MAGA/</guid>
         
         
       </item>
