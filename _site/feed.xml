@@ -6,9 +6,178 @@
 </description>
     <link>https://aska.systems/jp/</link>
     <atom:link href="https://aska.systems/jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 23 May 2021 18:17:39 +0900</pubDate>
-    <lastBuildDate>Sun, 23 May 2021 18:17:39 +0900</lastBuildDate>
+    <pubDate>Sat, 05 Jun 2021 17:10:05 +0900</pubDate>
+    <lastBuildDate>Sat, 05 Jun 2021 17:10:05 +0900</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>東京オリンピック</title>
+        <description>&lt;p&gt;オリンピック開催の是非・適切な実施形態&lt;/p&gt;
+
+&lt;p&gt;東京オリンピックの開催日が２ヶ月後に迫るなか、開催すべきか否かについて議論が高まっています。開催方法についても、無観客での実施なのか入場制限をしつつ観客を入れるのか、今も議論されています。オリンピックを開催するべきかどうか、する場合はどのような形態で実施するべきか、しない場合は延期か中止のどちらなのかということについて人々に答えてもらいました&lt;sup id=&quot;fnref:0&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:0&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+
+&lt;h4 id=&quot;質問１&quot;&gt;質問１&lt;/h4&gt;
+&lt;div class=&quot;jumbotron py-2&quot;&gt;
+&lt;h5&gt;オリンピック開催の是非・適切な実施形態について、ご意見をお聞かせください&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;container text-center&quot;&gt;
+&lt;img src=&quot;/jp/images/2021_TokyoOlympics/table.svg&quot; alt=&quot;incidence_matrix&quot; style=&quot;
+  width: 300px;
+  border: none;
+  background: none;
+  margin: 1% 1% 1% 1%;
+  text-align: center;
+  display: inline-block;
+&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;small&gt;回答者（行）と投稿意見（列）のテーブル図。回答者が賛成した意見は青色（紺色は自身の投稿意見）、賛成しなかった意見は黄色、未参照の意見は灰色。&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;この質問への回答は、報道などでもある通り賛否両論ありました。ただ、中止を求める意見が目立ちました。中止を求める理由としては、感染拡大のきっかけになること、国民の五輪への感情が既に冷め切っていること、感染対策のコストが高いことが挙げられました。感染拡大につながる理由としては、それまでに日本のワクチン摂取が十分に進まないと思われること、外国人が指示に従わないことでバブル方式が崩れてしまうことが挙げられました。また、五輪を機会に感染拡大すれば、海外から非難を浴びる可能性があることも懸念事項として挙げられました。&lt;/p&gt;
+
+&lt;p&gt;一方、開催を支持する人の意見も一定数見受けられました。その主な理由としては、既に準備が進んでしまっていること、他のイベントが可能なら五厘も可能という意見、選手のためという意見が見られました。開催する際の現実的な条件としては、選手などの入国者へのワクチン摂取と行動制限の徹底、無観客での開催が挙げられました。観客については、無観客という声が多かったものの、人数制限は実施せずにワクチン摂取済みの人と陰性証明書を持っている人の観戦を認めるべきという意見もありました。&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  開催に反対
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 14&lt;/span&gt; コロナ対策にかかる人手・費用を考えれば、百害あって一利なしだと思うので、とにかくやらない方が良いと思います。
+    &lt;/li&gt;
+	  &lt;li class=&quot;list-group-item&quot;&gt;
+	    &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 13&lt;/span&gt; 今のままで開催しても感情的にも経済的にも損失しかないと思うので、やらない方向で考えた方が良いと思います。
+	  &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 12&lt;/span&gt; このまま開催してもしまたコロナが爆発的に流行してしまった場合、間違いなく日本のオリンピックのせいにされると思います。やらない方がいいです。
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  開催に賛成
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 1&lt;/span&gt; 中止にした方がいいと思うが、今の段階で中止にするのは手遅れな感じがするからできる限りの対策をして開催するしかないと思う。
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 2&lt;/span&gt; 開催してもしなくても感染は収まることないと思います。だったら選手のために無観客開催すべきです。
+    &lt;/li&gt;  
+	  &lt;li class=&quot;list-group-item&quot;&gt;
+	    &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 5&lt;/span&gt; 他のイベントは無観客どころか客を入れてやっているし外国人も入ってるのに、なぜ五輪だけ中止案が出ているのかよくわからない。無観客でやればいいと思う。
+	  &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;質問2&quot;&gt;質問2&lt;/h4&gt;
+&lt;div class=&quot;jumbotron py-2&quot;&gt;
+&lt;h5&gt;オリンピックを開催した場合、感染は拡大すると思いますか？&lt;/h5&gt;
+&lt;p class=&quot;text-muted&quot;&gt;
+海外からは選手・関係者のみの入国と仮定します
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;container text-center&quot;&gt;
+&lt;img src=&quot;/jp/images/2021_TokyoOlympics/doughnut_Q2.png&quot; alt=&quot;newspaper&quot; style=&quot;
+  width: 400px;
+  border: none;
+  background: none;
+  margin: 1% 1% 1% 1%;
+  text-align: center;
+  display: inline-block;
+&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;mt-3&quot;&gt;
+感染はどうやっても拡大してしまうという意見が多数を占めました。また、無観客出ないと感染が拡大してしまうという意見も多いので、開催するにしても現実的な判断としては無観客開催であるという見方が優勢と思われます。
+&lt;/p&gt;
+
+&lt;h4 id=&quot;質問3&quot;&gt;質問3&lt;/h4&gt;
+&lt;div class=&quot;jumbotron py-2&quot;&gt;
+&lt;h5&gt;あなたの支持政党をお答えください&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;container text-center&quot;&gt;
+&lt;img src=&quot;/jp/images/2021_TokyoOlympics/doughnut_Q3.png&quot; alt=&quot;newspaper&quot; style=&quot;
+  width: 400px;
+  border: none;
+  background: none;
+  margin: 1% 1% 1% 1%;
+  text-align: center;
+  display: inline-block;
+&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;mt-3&quot;&gt;
+立憲民主党といった野党系の支持者が目立ちました。新聞社が行う世論調査などは、自民党の支持者が多数派で約３割いることを考えると、少し意外な結果でした。新聞社の調査は固定電話の番号を使って回答者を選ぶ一方、今回の調査はweb上で行ったので、回答者の属性が異なると考えられます。五輪中止を求める声が目立ったのは、野党支持者が多いことが理由の一つとして考えられます。
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-via=&quot;Aska_systems_jp&quot; data-hashtags=&quot;Aska&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;詳細&quot;&gt;詳細&lt;/h2&gt;
+
+&lt;table class=&quot;table table-striped table-hover&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Summary&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;期間&lt;/td&gt;
+      &lt;td&gt;2021/5/31 - 2021/5/31&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;回答者数&lt;/td&gt;
+      &lt;td&gt;27&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;回答意見数&lt;/td&gt;
+      &lt;td&gt;質問１: 15&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;初期回答数&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;プラットフォーム&lt;/td&gt;
+      &lt;td&gt;Crowdworks&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h6 class=&quot;text-muted&quot;&gt;調査・記事担当: &lt;strong&gt;R. K.&lt;/strong&gt;&lt;/h6&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;この結果を引用される場合は十分にご注意ください。
+本調査はデモの一環として実施しているものであり、学術的な信頼性はないとお考えください。
+本格的な調査に興味がある方は、&lt;a href=&quot;mailto:request@aska.systems&quot;&gt;request@aska.systems&lt;/a&gt;までご相談ください。&lt;/p&gt;
+
+&lt;p&gt;ここで掲載している調査の目的は、Askaシステムの挙動の実証実験です。
+意見のバラエティを増やすために、あえてバイアスのかかった質問の仕方をすることもありますが、その場合は、バイアス下での結果であることを十分にご注意ください。&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:0&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;今回、システムトラブルもあり、回答者数がかなり少なめとなっています。 &lt;a href=&quot;#fnref:0&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 05 Jun 2021 00:00:00 +0900</pubDate>
+        <link>https://aska.systems/jp/TokyoOlympics/</link>
+        <guid isPermaLink="true">https://aska.systems/jp/TokyoOlympics/</guid>
+        
+        
+      </item>
     
       <item>
         <title>予約システムの「確認」</title>
@@ -2271,371 +2440,6 @@ style = &quot;
         <pubDate>Sun, 07 Feb 2021 00:00:00 +0900</pubDate>
         <link>https://aska.systems/jp/Clubhouse/</link>
         <guid isPermaLink="true">https://aska.systems/jp/Clubhouse/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>核禁止条約</title>
-        <description>&lt;p&gt;核兵器禁止条約が、批准国で順次発効されました。&lt;/p&gt;
-
-&lt;p&gt;現時点で日本は、核兵器禁止条約には批准していません。
-日本も批准すべきかについては賛否両論あると思いますが、具体的な意見を募集しました。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;質問&quot;&gt;質問&lt;/h2&gt;
-&lt;div class=&quot;jumbotron py-2&quot;&gt;
-&lt;h5&gt;日本は核兵器禁止条約へ批准すべきだと思いますか？&lt;/h5&gt;
-&lt;p&gt;
-核兵器禁止条約が、批准国で順次発効されました。日本は唯一の被爆国である一方、他国からの領海侵犯も頻発しています。批准に賛成・反対する、具体的な理由をお答えください。
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;結果&quot;&gt;結果&lt;/h2&gt;
-&lt;h3 id=&quot;男女比&quot;&gt;男女比&lt;/h3&gt;
-
-&lt;div&gt;                        &lt;script type=&quot;text/javascript&quot;&gt;window.PlotlyConfig = {MathJaxConfig: &apos;local&apos;};&lt;/script&gt;
-        &lt;script src=&quot;https://cdn.plot.ly/plotly-latest.min.js&quot;&gt;&lt;/script&gt;                &lt;div id=&quot;48651f37-416f-4d8f-b4c7-08efec78aef3&quot; class=&quot;plotly-graph-div&quot; style=&quot;height:70%; width:70%;&quot;&gt;&lt;/div&gt;            &lt;script type=&quot;text/javascript&quot;&gt;                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById(&quot;48651f37-416f-4d8f-b4c7-08efec78aef3&quot;)) {                    Plotly.newPlot(                        &quot;48651f37-416f-4d8f-b4c7-08efec78aef3&quot;,                        [{&quot;domain&quot;: {&quot;x&quot;: [0.0, 1.0], &quot;y&quot;: [0.0, 1.0]}, &quot;hole&quot;: 0.5, &quot;hovertemplate&quot;: &quot;choice=%{label}&lt;br&gt;Count=%{value}&lt;extra&gt;&lt;/extra&gt;&quot;, &quot;labels&quot;: [&quot;\u5973&quot;, &quot;\u7537&quot;], &quot;legendgroup&quot;: &quot;&quot;, &quot;name&quot;: &quot;&quot;, &quot;showlegend&quot;: true, &quot;type&quot;: &quot;pie&quot;, &quot;values&quot;: [153, 185]}],                        {&quot;legend&quot;: {&quot;tracegroupgap&quot;: 0}, &quot;template&quot;: {&quot;data&quot;: {&quot;bar&quot;: [{&quot;error_x&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}, &quot;error_y&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}, &quot;marker&quot;: {&quot;line&quot;: {&quot;color&quot;: &quot;#E5ECF6&quot;, &quot;width&quot;: 0.5}}, &quot;type&quot;: &quot;bar&quot;}], &quot;barpolar&quot;: [{&quot;marker&quot;: {&quot;line&quot;: {&quot;color&quot;: &quot;#E5ECF6&quot;, &quot;width&quot;: 0.5}}, &quot;type&quot;: &quot;barpolar&quot;}], &quot;carpet&quot;: [{&quot;aaxis&quot;: {&quot;endlinecolor&quot;: &quot;#2a3f5f&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;minorgridcolor&quot;: &quot;white&quot;, &quot;startlinecolor&quot;: &quot;#2a3f5f&quot;}, &quot;baxis&quot;: {&quot;endlinecolor&quot;: &quot;#2a3f5f&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;minorgridcolor&quot;: &quot;white&quot;, &quot;startlinecolor&quot;: &quot;#2a3f5f&quot;}, &quot;type&quot;: &quot;carpet&quot;}], &quot;choropleth&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;type&quot;: &quot;choropleth&quot;}], &quot;contour&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;contour&quot;}], &quot;contourcarpet&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;type&quot;: &quot;contourcarpet&quot;}], &quot;heatmap&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;heatmap&quot;}], &quot;heatmapgl&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;heatmapgl&quot;}], &quot;histogram&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;histogram&quot;}], &quot;histogram2d&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;histogram2d&quot;}], &quot;histogram2dcontour&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;histogram2dcontour&quot;}], &quot;mesh3d&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;type&quot;: &quot;mesh3d&quot;}], &quot;parcoords&quot;: [{&quot;line&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;parcoords&quot;}], &quot;pie&quot;: [{&quot;automargin&quot;: true, &quot;type&quot;: &quot;pie&quot;}], &quot;scatter&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatter&quot;}], &quot;scatter3d&quot;: [{&quot;line&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatter3d&quot;}], &quot;scattercarpet&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattercarpet&quot;}], &quot;scattergeo&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattergeo&quot;}], &quot;scattergl&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattergl&quot;}], &quot;scattermapbox&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattermapbox&quot;}], &quot;scatterpolar&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatterpolar&quot;}], &quot;scatterpolargl&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatterpolargl&quot;}], &quot;scatterternary&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatterternary&quot;}], &quot;surface&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;surface&quot;}], &quot;table&quot;: [{&quot;cells&quot;: {&quot;fill&quot;: {&quot;color&quot;: &quot;#EBF0F8&quot;}, &quot;line&quot;: {&quot;color&quot;: &quot;white&quot;}}, &quot;header&quot;: {&quot;fill&quot;: {&quot;color&quot;: &quot;#C8D4E3&quot;}, &quot;line&quot;: {&quot;color&quot;: &quot;white&quot;}}, &quot;type&quot;: &quot;table&quot;}]}, &quot;layout&quot;: {&quot;annotationdefaults&quot;: {&quot;arrowcolor&quot;: &quot;#2a3f5f&quot;, &quot;arrowhead&quot;: 0, &quot;arrowwidth&quot;: 1}, &quot;autotypenumbers&quot;: &quot;strict&quot;, &quot;coloraxis&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;colorscale&quot;: {&quot;diverging&quot;: [[0, &quot;#8e0152&quot;], [0.1, &quot;#c51b7d&quot;], [0.2, &quot;#de77ae&quot;], [0.3, &quot;#f1b6da&quot;], [0.4, &quot;#fde0ef&quot;], [0.5, &quot;#f7f7f7&quot;], [0.6, &quot;#e6f5d0&quot;], [0.7, &quot;#b8e186&quot;], [0.8, &quot;#7fbc41&quot;], [0.9, &quot;#4d9221&quot;], [1, &quot;#276419&quot;]], &quot;sequential&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;sequentialminus&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]]}, &quot;colorway&quot;: [&quot;#636efa&quot;, &quot;#EF553B&quot;, &quot;#00cc96&quot;, &quot;#ab63fa&quot;, &quot;#FFA15A&quot;, &quot;#19d3f3&quot;, &quot;#FF6692&quot;, &quot;#B6E880&quot;, &quot;#FF97FF&quot;, &quot;#FECB52&quot;], &quot;font&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}, &quot;geo&quot;: {&quot;bgcolor&quot;: &quot;white&quot;, &quot;lakecolor&quot;: &quot;white&quot;, &quot;landcolor&quot;: &quot;#E5ECF6&quot;, &quot;showlakes&quot;: true, &quot;showland&quot;: true, &quot;subunitcolor&quot;: &quot;white&quot;}, &quot;hoverlabel&quot;: {&quot;align&quot;: &quot;left&quot;}, &quot;hovermode&quot;: &quot;closest&quot;, &quot;mapbox&quot;: {&quot;style&quot;: &quot;light&quot;}, &quot;paper_bgcolor&quot;: &quot;white&quot;, &quot;plot_bgcolor&quot;: &quot;#E5ECF6&quot;, &quot;polar&quot;: {&quot;angularaxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}, &quot;bgcolor&quot;: &quot;#E5ECF6&quot;, &quot;radialaxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}}, &quot;scene&quot;: {&quot;xaxis&quot;: {&quot;backgroundcolor&quot;: &quot;#E5ECF6&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;gridwidth&quot;: 2, &quot;linecolor&quot;: &quot;white&quot;, &quot;showbackground&quot;: true, &quot;ticks&quot;: &quot;&quot;, &quot;zerolinecolor&quot;: &quot;white&quot;}, &quot;yaxis&quot;: {&quot;backgroundcolor&quot;: &quot;#E5ECF6&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;gridwidth&quot;: 2, &quot;linecolor&quot;: &quot;white&quot;, &quot;showbackground&quot;: true, &quot;ticks&quot;: &quot;&quot;, &quot;zerolinecolor&quot;: &quot;white&quot;}, &quot;zaxis&quot;: {&quot;backgroundcolor&quot;: &quot;#E5ECF6&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;gridwidth&quot;: 2, &quot;linecolor&quot;: &quot;white&quot;, &quot;showbackground&quot;: true, &quot;ticks&quot;: &quot;&quot;, &quot;zerolinecolor&quot;: &quot;white&quot;}}, &quot;shapedefaults&quot;: {&quot;line&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}}, &quot;ternary&quot;: {&quot;aaxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}, &quot;baxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}, &quot;bgcolor&quot;: &quot;#E5ECF6&quot;, &quot;caxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}}, &quot;title&quot;: {&quot;x&quot;: 0.05}, &quot;xaxis&quot;: {&quot;automargin&quot;: true, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;, &quot;title&quot;: {&quot;standoff&quot;: 15}, &quot;zerolinecolor&quot;: &quot;white&quot;, &quot;zerolinewidth&quot;: 2}, &quot;yaxis&quot;: {&quot;automargin&quot;: true, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;, &quot;title&quot;: {&quot;standoff&quot;: 15}, &quot;zerolinecolor&quot;: &quot;white&quot;, &quot;zerolinewidth&quot;: 2}}}, &quot;title&quot;: {&quot;text&quot;: &quot;\u6027\u5225&quot;}},                        {&quot;responsive&quot;: true}                    )                };                            &lt;/script&gt;        &lt;/div&gt;
-
-&lt;h3 id=&quot;affinity-matrix&quot;&gt;Affinity matrix&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/jp/images/2021_NukeTreaty/affinity_matrix.jpg&quot; alt=&quot;fig_popularity&quot; style=&quot;   width: 500px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;sunburst&quot;&gt;Sunburst&lt;/h3&gt;
-&lt;p&gt;&lt;small&gt;（インタラクティブな図です）&lt;/small&gt;&lt;/p&gt;
-
-&lt;div&gt;                        &lt;script type=&quot;text/javascript&quot;&gt;window.PlotlyConfig = {MathJaxConfig: &apos;local&apos;};&lt;/script&gt;
-        &lt;script src=&quot;https://cdn.plot.ly/plotly-latest.min.js&quot;&gt;&lt;/script&gt;                &lt;div id=&quot;c37b75ba-4bf9-4e80-b1ae-e61e64a7b195&quot; class=&quot;plotly-graph-div&quot; style=&quot;height:100%; width:100%;&quot;&gt;&lt;/div&gt;            &lt;script type=&quot;text/javascript&quot;&gt;                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById(&quot;c37b75ba-4bf9-4e80-b1ae-e61e64a7b195&quot;)) {                    Plotly.newPlot(                        &quot;c37b75ba-4bf9-4e80-b1ae-e61e64a7b195&quot;,                        [{&quot;branchvalues&quot;: &quot;total&quot;, &quot;customdata&quot;: [[21.0], [24.0], [99.0], [108.0], [33.0], [50.0], [21.0], [108.0], [24.0], [50.0], [99.0], [33.0], [41.42253521126761], [103.69565217391305], [29.210526315789473]], &quot;domain&quot;: {&quot;x&quot;: [0.0, 1.0], &quot;y&quot;: [0.0, 1.0]}, &quot;hovertemplate&quot;: &quot;labels=%{label}&lt;br&gt;Count_sum=%{value}&lt;br&gt;parent=%{parent}&lt;br&gt;id=%{id}&lt;br&gt;Count=%{color}&lt;extra&gt;&lt;/extra&gt;&quot;, &quot;ids&quot;: [&quot;\u6279\u51c6\u53cd\u5bfe/\u5973/0.3&quot;, &quot;\u96e3\u3057\u3044/\u5973/0.42&quot;, &quot;\u6279\u51c6\u8cdb\u6210/\u7537/0.48&quot;, &quot;\u6279\u51c6\u8cdb\u6210/\u5973/0.52&quot;, &quot;\u96e3\u3057\u3044/\u7537/0.58&quot;, &quot;\u6279\u51c6\u53cd\u5bfe/\u7537/0.7&quot;, &quot;\u6279\u51c6\u53cd\u5bfe/\u5973&quot;, &quot;\u6279\u51c6\u8cdb\u6210/\u5973&quot;, &quot;\u96e3\u3057\u3044/\u5973&quot;, &quot;\u6279\u51c6\u53cd\u5bfe/\u7537&quot;, &quot;\u6279\u51c6\u8cdb\u6210/\u7537&quot;, &quot;\u96e3\u3057\u3044/\u7537&quot;, &quot;\u6279\u51c6\u53cd\u5bfe&quot;, &quot;\u6279\u51c6\u8cdb\u6210&quot;, &quot;\u96e3\u3057\u3044&quot;], &quot;labels&quot;: [&quot;0.3&quot;, &quot;0.42&quot;, &quot;0.48&quot;, &quot;0.52&quot;, &quot;0.58&quot;, &quot;0.7&quot;, &quot;\u5973&quot;, &quot;\u5973&quot;, &quot;\u5973&quot;, &quot;\u7537&quot;, &quot;\u7537&quot;, &quot;\u7537&quot;, &quot;\u6279\u51c6\u53cd\u5bfe&quot;, &quot;\u6279\u51c6\u8cdb\u6210&quot;, &quot;\u96e3\u3057\u3044&quot;], &quot;marker&quot;: {&quot;coloraxis&quot;: &quot;coloraxis&quot;, &quot;colors&quot;: [21.0, 24.0, 99.0, 108.0, 33.0, 50.0, 21.0, 108.0, 24.0, 50.0, 99.0, 33.0, 41.42253521126761, 103.69565217391305, 29.210526315789473]}, &quot;name&quot;: &quot;&quot;, &quot;parents&quot;: [&quot;\u6279\u51c6\u53cd\u5bfe/\u5973&quot;, &quot;\u96e3\u3057\u3044/\u5973&quot;, &quot;\u6279\u51c6\u8cdb\u6210/\u7537&quot;, &quot;\u6279\u51c6\u8cdb\u6210/\u5973&quot;, &quot;\u96e3\u3057\u3044/\u7537&quot;, &quot;\u6279\u51c6\u53cd\u5bfe/\u7537&quot;, &quot;\u6279\u51c6\u53cd\u5bfe&quot;, &quot;\u6279\u51c6\u8cdb\u6210&quot;, &quot;\u96e3\u3057\u3044&quot;, &quot;\u6279\u51c6\u53cd\u5bfe&quot;, &quot;\u6279\u51c6\u8cdb\u6210&quot;, &quot;\u96e3\u3057\u3044&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;], &quot;type&quot;: &quot;sunburst&quot;, &quot;values&quot;: [21, 24, 99, 108, 33, 50, 21, 108, 24, 50, 99, 33, 71, 207, 57]}],                        {&quot;coloraxis&quot;: {&quot;colorbar&quot;: {&quot;title&quot;: {&quot;text&quot;: &quot;Count&quot;}}, &quot;colorscale&quot;: [[0.0, &quot;rgb(75, 41, 145)&quot;], [0.16666666666666666, &quot;rgb(135, 44, 162)&quot;], [0.3333333333333333, &quot;rgb(192, 54, 157)&quot;], [0.5, &quot;rgb(234, 79, 136)&quot;], [0.6666666666666666, &quot;rgb(250, 120, 118)&quot;], [0.8333333333333334, &quot;rgb(246, 169, 122)&quot;], [1.0, &quot;rgb(237, 217, 163)&quot;]]}, &quot;legend&quot;: {&quot;tracegroupgap&quot;: 0}, &quot;margin&quot;: {&quot;t&quot;: 60}, &quot;template&quot;: {&quot;data&quot;: {&quot;bar&quot;: [{&quot;error_x&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}, &quot;error_y&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}, &quot;marker&quot;: {&quot;line&quot;: {&quot;color&quot;: &quot;#E5ECF6&quot;, &quot;width&quot;: 0.5}}, &quot;type&quot;: &quot;bar&quot;}], &quot;barpolar&quot;: [{&quot;marker&quot;: {&quot;line&quot;: {&quot;color&quot;: &quot;#E5ECF6&quot;, &quot;width&quot;: 0.5}}, &quot;type&quot;: &quot;barpolar&quot;}], &quot;carpet&quot;: [{&quot;aaxis&quot;: {&quot;endlinecolor&quot;: &quot;#2a3f5f&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;minorgridcolor&quot;: &quot;white&quot;, &quot;startlinecolor&quot;: &quot;#2a3f5f&quot;}, &quot;baxis&quot;: {&quot;endlinecolor&quot;: &quot;#2a3f5f&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;minorgridcolor&quot;: &quot;white&quot;, &quot;startlinecolor&quot;: &quot;#2a3f5f&quot;}, &quot;type&quot;: &quot;carpet&quot;}], &quot;choropleth&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;type&quot;: &quot;choropleth&quot;}], &quot;contour&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;contour&quot;}], &quot;contourcarpet&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;type&quot;: &quot;contourcarpet&quot;}], &quot;heatmap&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;heatmap&quot;}], &quot;heatmapgl&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;heatmapgl&quot;}], &quot;histogram&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;histogram&quot;}], &quot;histogram2d&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;histogram2d&quot;}], &quot;histogram2dcontour&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;histogram2dcontour&quot;}], &quot;mesh3d&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;type&quot;: &quot;mesh3d&quot;}], &quot;parcoords&quot;: [{&quot;line&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;parcoords&quot;}], &quot;pie&quot;: [{&quot;automargin&quot;: true, &quot;type&quot;: &quot;pie&quot;}], &quot;scatter&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatter&quot;}], &quot;scatter3d&quot;: [{&quot;line&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatter3d&quot;}], &quot;scattercarpet&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattercarpet&quot;}], &quot;scattergeo&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattergeo&quot;}], &quot;scattergl&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattergl&quot;}], &quot;scattermapbox&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattermapbox&quot;}], &quot;scatterpolar&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatterpolar&quot;}], &quot;scatterpolargl&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatterpolargl&quot;}], &quot;scatterternary&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatterternary&quot;}], &quot;surface&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;surface&quot;}], &quot;table&quot;: [{&quot;cells&quot;: {&quot;fill&quot;: {&quot;color&quot;: &quot;#EBF0F8&quot;}, &quot;line&quot;: {&quot;color&quot;: &quot;white&quot;}}, &quot;header&quot;: {&quot;fill&quot;: {&quot;color&quot;: &quot;#C8D4E3&quot;}, &quot;line&quot;: {&quot;color&quot;: &quot;white&quot;}}, &quot;type&quot;: &quot;table&quot;}]}, &quot;layout&quot;: {&quot;annotationdefaults&quot;: {&quot;arrowcolor&quot;: &quot;#2a3f5f&quot;, &quot;arrowhead&quot;: 0, &quot;arrowwidth&quot;: 1}, &quot;autotypenumbers&quot;: &quot;strict&quot;, &quot;coloraxis&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;colorscale&quot;: {&quot;diverging&quot;: [[0, &quot;#8e0152&quot;], [0.1, &quot;#c51b7d&quot;], [0.2, &quot;#de77ae&quot;], [0.3, &quot;#f1b6da&quot;], [0.4, &quot;#fde0ef&quot;], [0.5, &quot;#f7f7f7&quot;], [0.6, &quot;#e6f5d0&quot;], [0.7, &quot;#b8e186&quot;], [0.8, &quot;#7fbc41&quot;], [0.9, &quot;#4d9221&quot;], [1, &quot;#276419&quot;]], &quot;sequential&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;sequentialminus&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]]}, &quot;colorway&quot;: [&quot;#636efa&quot;, &quot;#EF553B&quot;, &quot;#00cc96&quot;, &quot;#ab63fa&quot;, &quot;#FFA15A&quot;, &quot;#19d3f3&quot;, &quot;#FF6692&quot;, &quot;#B6E880&quot;, &quot;#FF97FF&quot;, &quot;#FECB52&quot;], &quot;font&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}, &quot;geo&quot;: {&quot;bgcolor&quot;: &quot;white&quot;, &quot;lakecolor&quot;: &quot;white&quot;, &quot;landcolor&quot;: &quot;#E5ECF6&quot;, &quot;showlakes&quot;: true, &quot;showland&quot;: true, &quot;subunitcolor&quot;: &quot;white&quot;}, &quot;hoverlabel&quot;: {&quot;align&quot;: &quot;left&quot;}, &quot;hovermode&quot;: &quot;closest&quot;, &quot;mapbox&quot;: {&quot;style&quot;: &quot;light&quot;}, &quot;paper_bgcolor&quot;: &quot;white&quot;, &quot;plot_bgcolor&quot;: &quot;#E5ECF6&quot;, &quot;polar&quot;: {&quot;angularaxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}, &quot;bgcolor&quot;: &quot;#E5ECF6&quot;, &quot;radialaxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}}, &quot;scene&quot;: {&quot;xaxis&quot;: {&quot;backgroundcolor&quot;: &quot;#E5ECF6&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;gridwidth&quot;: 2, &quot;linecolor&quot;: &quot;white&quot;, &quot;showbackground&quot;: true, &quot;ticks&quot;: &quot;&quot;, &quot;zerolinecolor&quot;: &quot;white&quot;}, &quot;yaxis&quot;: {&quot;backgroundcolor&quot;: &quot;#E5ECF6&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;gridwidth&quot;: 2, &quot;linecolor&quot;: &quot;white&quot;, &quot;showbackground&quot;: true, &quot;ticks&quot;: &quot;&quot;, &quot;zerolinecolor&quot;: &quot;white&quot;}, &quot;zaxis&quot;: {&quot;backgroundcolor&quot;: &quot;#E5ECF6&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;gridwidth&quot;: 2, &quot;linecolor&quot;: &quot;white&quot;, &quot;showbackground&quot;: true, &quot;ticks&quot;: &quot;&quot;, &quot;zerolinecolor&quot;: &quot;white&quot;}}, &quot;shapedefaults&quot;: {&quot;line&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}}, &quot;ternary&quot;: {&quot;aaxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}, &quot;baxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}, &quot;bgcolor&quot;: &quot;#E5ECF6&quot;, &quot;caxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}}, &quot;title&quot;: {&quot;x&quot;: 0.05}, &quot;xaxis&quot;: {&quot;automargin&quot;: true, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;, &quot;title&quot;: {&quot;standoff&quot;: 15}, &quot;zerolinecolor&quot;: &quot;white&quot;, &quot;zerolinewidth&quot;: 2}, &quot;yaxis&quot;: {&quot;automargin&quot;: true, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;, &quot;title&quot;: {&quot;standoff&quot;: 15}, &quot;zerolinecolor&quot;: &quot;white&quot;, &quot;zerolinewidth&quot;: 2}}}},                        {&quot;responsive&quot;: true}                    )                };                            &lt;/script&gt;        &lt;/div&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-	&lt;div class=&quot;card-header&quot;&gt;
-	批准賛成 (165 posts)
-	&lt;/div&gt;
-	&lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		唯一の被爆国でもあり、核の力に頼らない世界づくりのためにも批准すべきだと思います。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;23 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		核兵器のない世界にすべきと思うから
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;21 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		世界で唯一の被爆国として核兵器禁止条約は批准すべきと考えます。今まで批准して来なかったことをむしろ恥ずかしく思います。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;21 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;div class=&quot;collapse&quot; id=&quot;collapseOpinion0&quot;&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		核兵器は人を殺す武器です。是非賛成していただき核兵器を世界からなくして欲しいです。世界平和の為に核兵器は不要です。２度と戦争を起こさないためにも日本は賛成すべきです。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;21 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		核兵器はこの世界に必要ない
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;20 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		唯一の被爆国である限り、批准には賛成するべきです
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		唯一の被爆国として最後まで核兵器撲滅に腐心して欲しい
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		被爆国だからこそ、核兵器の恐ろしさを知っていると思うので核兵器の根絶を訴えつづけなければいけないと思う。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		唯一の被爆国として世界平和を訴えていくべきだと思うから
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;18 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		唯一の被爆国として、核兵器廃絶のために率先して進めていった方がいいと思う。誰かが率先して、非核化を進めていかないと、これから先自衛としながらも、もっと多くの核保有国が誕生してしまうように思われる。今後軍事衝突が各国発生することもあるかと思われるが、長い未来をみて、人類にとって、核の使用は反則という位置づけでどの国であっても使用が許されないよう、世論形成がされるべきである。最終兵器のような位置づけで核保有を許せば、核兵器は無くならないと思う。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;17 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		核兵器の拡散を防止するためにこの条約に批准し、核兵器のない世界の実現を目指すべきだと思います。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;17 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		核兵器は人を悲しませる道具だから
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;16 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		核兵器廃絶と領海侵犯を同じ土俵で考えるべきではないと思う。 日本に原爆が投下された頃と現在では世界情勢も違う。 核で守られているという人もいるが、そのような物に守られたいとも思わない。 世界を壊滅に追いやるものは、禁止すべきだと思う。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;16 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		唯一の被爆国である日本が声を上げて反核を宣言しなければどうする！！
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;15 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		核兵器については人間への影響にか変わらず、生態系すべてへの影響が大きい兵器。その為どの国でも持つべきではなく、日本と言う国が率先して核兵器廃絶に動くべきである。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;15 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		唯一の被爆国で、核兵器による悲惨さ・影響などを唯一知っている国なので同意すべきであると思います。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;15 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		この世界に、核兵器は必要ない。そんな願いを強く持って欲しい。我が国の過去を通して、世界に発信するべきです！
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;15 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		日本は唯一核兵器を落とされた国です。この悲惨さを知る国は日本しかいないのでだからこそ日本が核兵器の恐ろしさや悲惨さを伝えて世界から核兵器をなくすために活動すべきだとおもいます。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;14 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		唯一の被爆国である日本は、もっと強い意志をもって最終的意志を示すべきであると思います。 他国は被曝した経験がなく、持っている国の権力をふりかざすためだけに所有をしていることが、どれだけ意味がなく愚かなことであるか説得しなくてはいけない。 人類が生きていく上で、本当に必要なものであるのかどうか、被曝すると地球にどれほどのダメージがあるのか、核保有国は自国が被曝する覚悟がない限りこのことをもう一度立ち止まって考えて欲しい。 核を保有する＝被曝させられる可能性は高い。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;14 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		二度とあの時の悲しみや苦しみを生んではならないし、それを止めるために努力するのは被爆国である日本の役目だと思う。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;14 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;/div&gt;
-	&lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseOpinion0&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseOpinion0&quot;&gt;
-		See more
-	&lt;/button&gt;
-	&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-	&lt;div class=&quot;card-header&quot;&gt;
-	批准反対 (55 posts)
-	&lt;/div&gt;
-	&lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		核兵器のない世界、というのは最高の理想ではあるのですが、現実はそうはいきません。日本の場合、近くにロシア、中国、北朝鮮といった国々が存在し、ミサイルをこちらに向けているような現状です。 そんな中、日本だけが丸腰というのでは真っ当な外交は出来ません。 核兵器を持つことに積極的に賛成ではありませんが、持たざるをえない現状があると考えます。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		難しい問題ですが、他国からの脅威に晒されてる以上は反対。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		日本は被爆国だからこそ核を持って抑止するべきだと思います。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;div class=&quot;collapse&quot; id=&quot;collapseOpinion1&quot;&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		核武装するという選択肢を手放すべきではない。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;8 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		まず、核保有国が近隣国にあり、日本は自国での防衛手段を強化すべきと思っています。実際に核を保有すべきと思っている訳ではないが、発効はまだ待った方がよいと思います。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		結局、日本はアメリカと事実上共同であること、核兵器を保持している全ての国が同時に批准すること、この二つが同じタイミングが合わない限りは不可能だと思う。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		理想と現実は違う。 北朝鮮の脅威に対抗するには米国と揃えるしかない。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		気持ち的には賛成で全世界が核廃絶に向かってくれれば良いのだが、現実はそうはいかないので。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		実際に核を保有している米露英仏中などの国々が参加していないので意味がないのでは。仮に全て破棄しても核の技術はもう確立されていて世界中にその技術者がいるという問題もある。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		最近では中国が力を付けていますが、金光アメリカのGDPすら追い抜いて世界トップになることが予想されます。過去の行動からみて中国は領土を広げたがる思考があると思われます。 今後のことを考えて核を持つべきです。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		もちろん核兵器は危険であり非人道的なので核がない世界が理想だが、実際周辺に核などの脅威があるので核武装することが抑止力になるのではと思うから。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		核兵器は恐ろしい。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		確かに日本は唯一の被爆国です。 しかし中国、ロシア、北朝鮮に囲まれた環境下で、核の傘を突然無くすのは国防の面で危険です。 批准するにしても、今ではないと考えています。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		アメリカの力が弱まり、中国ロシア北朝鮮韓国があからさまに日本を狙う状況に変わってきており、実際に核兵器を配備せずとも、批准を止めて関連技術を示すだけで、防衛の本気度が伝わると思う
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		唯一の被爆国である為、核使用による甚大な被害を後世に伝えて二度と使用してはならないことを訴える義務があると思います
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		万が一、他国との戦争になった時に人を守れないから
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		核保有国が批准していない時点で意味のない条約だ。現実的には違う形で核兵器を減らす努力をするべきである。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		周辺国が核兵器で日本を威嚇している時に、何故日本だけが、そんな条例を批准しないといけないのですか？ 馬鹿げてますね。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		核を持っていないから中国になめられ侵略行為を許している。自主防衛の観点から保持すべき。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		戦争が起こる可能性もあるので
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;5 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;/div&gt;
-	&lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseOpinion1&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseOpinion1&quot;&gt;
-		See more
-	&lt;/button&gt;
-	&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-	&lt;div class=&quot;card-header&quot;&gt;
-	難しい (14 posts)
-	&lt;/div&gt;
-	&lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		今までの歴史や他国との関係を考えると、一筋縄ではいかないと思います。勿論核兵器には反対で全世界から無くなれば良いと思いますが、その為には色々な段階を踏む必要があると思います。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		核兵器禁止条約を批准するという事は、核の傘によってアメリカに守ってもらっている現状を自ら否定して核の傘から抜けることを意味します。現実的に考えて、軍事戦略的に核の傘を抜けた場合日本が自分の国を自分たちだけで自衛できるとはとても思えません。唯一の被爆国であり、各の被害をよく知っている日本だからこそ批准してほしいと言う気持ちもありますが、核の傘を抜けた後のプランが全くないままその条約を批准することはできないと思います。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		基本的には賛成の立場です。 ただ日本の現状を考えると、禁止条約批准より先にアメリカの核の傘問題を解決することが先決だと思います。 間接的に核の傘に守られている日本が、安易に署名できる現状ではないと思いますし、そこを解決しない限り先には進めないと思います。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;div class=&quot;collapse&quot; id=&quot;collapseOpinion2&quot;&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		核保有国が参加していないこの条約では実効性はありません。現実問題的に難しいとは思いますが日本は進んで核保有国も参加できる実効的な条約を早急に各国と調整して出すべきだと思います。唯一の被爆国としての役割が問われていると思います。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;5 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		批准すべきだと思いますが残念ながら核兵器の保有国がほとんど参加してない以上は全く意味がある条約だと思いませんのでまずは同盟国であるアメリカへの参加を促すことが大事だと思いますのでアメリカと同時の参加が望ましいと思います。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;5 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		批准するのが望ましいとは思うが、現状はアメリカに守ってもらっている立場であり、アメリカが批准していないのであれば、アメリカの顔色をみる必要はあると思う。また核を持っている国は批准していないことからも、賛成でも反対でもない。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;4 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		日本は憲法に非核3原則として明示しているため世界に向けてその意思を唱っていることになっている。故に、敢えて批准せずとも問題はないと思います。 
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;4 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		賛成と言いたい所だけど、アメリカの核の庇護化にある現状で賛成って言い難いよな。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;4 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		伊藤貫さんなどの話を聞いていると現在の流れだと10年後ぐらいにはアメリカの影響力も東アジアでは効かなくなっていて日本も中国の属国状態になっているようなのでそれがいやなら核武装して自主防衛の方向に進んだらいいと思います。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;2 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		唯一の被爆国であることから核兵器禁止条約に批准すべきだと思いますが、我が国の安寧が脅かさせる事態になれば、直ちに離脱し、国を守るための備えをするとの強固な姿勢を見せる必要があると考えています。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;2 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		他国の動向を静観し、時期がきたら決断を下せばよい
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;2 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		考え方は素晴らしいが、まずは核保有国間の諸問題を丁寧に解決していかないかぎり現実問題としてこの条約の目的（根本的な平和）は達成されない。 要は一番力を持つ絶対的な存在が一斉放棄を呼び掛けでもしないかぎりこの手の状況は改善しないということである。 特にアメリカ合衆国が参加していない現状において、日本もそれに従わざるをえない。 そもそも国内の諸問題を解決できていない貧弱な現状の日本に批准する余裕はない。 よってすべきともすべきでないともいえない。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;2 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		核兵器があることでもし何処かの国が攻めてきた時に対応できるので良い気もするが、そもそも機器があるから襲ってくるということも否めないため、なんともいえません。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;1 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		最後の切り札として、秘密裏に保有したほうが良いと心の奥底で思っています。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;1 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;/div&gt;
-	&lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseOpinion2&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseOpinion2&quot;&gt;
-		See more
-	&lt;/button&gt;
-	&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;最後に&quot;&gt;最後に&lt;/h2&gt;
-&lt;p&gt;「批准賛成」が割合としては一番多い結果となりました。
-全体での男女の割合はほぼ等しいですが、「批准反対」では男性の割合が多いです。&lt;/p&gt;
-
-&lt;p&gt;単に賛成か反対かだけではなく、今回その中身がある程度傾向としていくつか見えるのは面白いと思います。
-特に「難しい」グループ（このタグ付けは、分析者が勝手につけたものです）では、「アメリカの核の傘」に焦点があるものが多いことが、特徴的かと思います。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-via=&quot;Aska_systems_jp&quot; data-hashtags=&quot;Aska&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;!-- ## 詳細 --&gt;
-
-&lt;table class=&quot;table table-striped table-hover&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Summary&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;期間&lt;/td&gt;
-      &lt;td&gt;2021/1/24 - 2021/1/25&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;回答者数&lt;/td&gt;
-      &lt;td&gt;338&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;回答意見数&lt;/td&gt;
-      &lt;td&gt;237&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;初期回答数&lt;/td&gt;
-      &lt;td&gt;0&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;プラットフォーム&lt;/td&gt;
-      &lt;td&gt;Crowdworks&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;!-- **Palette diagram**
-
-&lt;img src=&quot;/jp/images/2020_CriminalGPS/linear_palette_diagram.jpg&quot; alt=&quot;fig_group_size&quot;
-style = &quot;
-  width: 650px;
-  border: none;
-  background: none;
-  margin: 1% 1% 1% 1%;
-  text-align: center;
-  display: inline-block;
-&quot;&gt;
-
-上の図は、パレットダイアグラム[^0]という図で、各回答者の回答パターンを可視化したものです。
-パレットダイアグラムでは、回答者が横一列に並べられ、回答パターンが縦軸方向に記されています。
-
-[^0]: パレットダイアグラムに関する詳細は[こちら](https://github.com/palette-diagram/palette-diagram)をご覧ください。
- --&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;この結果を引用される場合は十分にご注意ください。
-本調査はデモの一環として実施しているものであり、学術的な信頼性はないとお考えください。
-本格的な調査に興味がある方は、&lt;a href=&quot;mailto:request@aska.systems&quot;&gt;request@aska.systems&lt;/a&gt;までご相談ください。&lt;/p&gt;
-
-&lt;p&gt;ここで掲載している調査の目的は、Askaシステムの挙動の実証実験です。
-意見のバラエティを増やすために、あえてバイアスのかかった質問の仕方をすることもありますが、その場合は、バイアス下での結果であることを十分にご注意ください。&lt;/p&gt;
-</description>
-        <pubDate>Wed, 27 Jan 2021 00:00:00 +0900</pubDate>
-        <link>https://aska.systems/jp/NukeTreaty/</link>
-        <guid isPermaLink="true">https://aska.systems/jp/NukeTreaty/</guid>
         
         
       </item>
