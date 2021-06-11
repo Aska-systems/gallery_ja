@@ -6,9 +6,207 @@
 </description>
     <link>https://aska.systems/jp/</link>
     <atom:link href="https://aska.systems/jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 05 Jun 2021 17:10:05 +0900</pubDate>
-    <lastBuildDate>Sat, 05 Jun 2021 17:10:05 +0900</lastBuildDate>
+    <pubDate>Fri, 11 Jun 2021 22:23:24 +0900</pubDate>
+    <lastBuildDate>Fri, 11 Jun 2021 22:23:24 +0900</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>&apos;過激&apos;動画の規制</title>
+        <description>&lt;p&gt;‘過激’な動画の規制は必要でしょうか。誰が管理すべきでしょうか。&lt;/p&gt;
+
+&lt;p&gt;ネットの規制と表現の自由が話題になっています。先日Youtube上にあるYOASOBIという歌手の曲が自殺を肯定しているとして、規制の対象となりました。警告文が表示されるという程度のものでしたが、規制の是非について賛否両論出ています。規制は表現を萎縮させるという意見があるとともに、”過激な”動画が若者を誤った方向に導いてしまうという意見もあります。例えば、先日立川で殺人事件を起こした少年はその動機として殺人動画に触発されたことを挙げています。
+欧米では、差別的投稿やフェイクニュースをYoutubeやTwitterといったプラットフォームがAIなどを用いて、独自の基準で規制しています。しかし、トランプ大統領のアカウントが停止されたことに象徴されるように、特定の政治的思想を持った層（主に右派)の投稿が多く消されるということがあり、これは事実上の検閲であるという批判があります。&lt;/p&gt;
+
+&lt;p&gt;動画やSNSの規制の必要性と、規制が必要な場合はどこが行うべきかということについて、ご意見募集しました。&lt;/p&gt;
+
+&lt;h4 id=&quot;質問１&quot;&gt;質問１&lt;/h4&gt;
+&lt;div class=&quot;jumbotron py-2&quot;&gt;
+&lt;h5&gt;YoutubeやTwitterといったSNSの規制は必要であると思いますか？また、どのような内容をどの程度規制するべきだと思いますか？&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;container text-center&quot;&gt;
+&lt;img src=&quot;/jp/images/2021_YoutubeRestriction/table_1.svg&quot; alt=&quot;incidence_matrix&quot; style=&quot;
+  width: 300px;
+  border: none;
+  background: none;
+  margin: 1% 1% 1% 1%;
+  text-align: center;
+  display: inline-block;
+&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;small&gt;回答者（行）と投稿意見（列）のテーブル図。回答者が賛成した意見は青色（紺色は自身の投稿意見）、賛成しなかった意見は黄色、未参照の意見は灰色。&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;今回のアンケートでは、大多数の人が何らかの規制に賛成していました。
+まずは規制する内容ですが、炎上系、殺人系、著作権侵害、誹謗中傷（差別）など人に不快感を与えるとして問題になっている内容が主なものでした。
+意見を分析していくと、ただ過激だからという理由で規制が必要というより、犯罪や個人への中傷という形で人に危害や実害を与えることにつながるコンテンツは規制するべきというニュアンスが多かったです。&lt;/p&gt;
+
+&lt;p&gt;続いて規制する方法ですが、年齢制限、規約の厳格化、警告文からアカウント停止までの段階的な規制、免許制という意見が出てきました。
+年齢制限という意見が目立った理由は、立川の少年の事件について導入部分で触れたからかもしれません。
+規約の厳格化は、アカウント作成時や投稿前に「不適切な投稿はしないように」という表示をその都度つけるべきという意見でした。
+免許制というものは、どのSNSコンテンツもまだ実施していない、斬新な意見でした。
+投稿者が具体的に何を指すのか明らかではありませんが、例えば定期的に健全なSNS利用講習を実施して、それをクリアした人にのみ投稿の免許を与えるというのは一つのやり方かもしれません。&lt;/p&gt;
+
+&lt;p&gt;規制が必要な理由としては、子供が見るからという理由が目立ちました。
+子供は大人に比べて善悪の判断がつかないので、過激なコンテンツが子供の目に入らないような規制が必要です。
+また、誹謗中傷のある投稿により中傷された側が精神的苦痛を受けることを防ぐために、予めそのようなコンテンツを削除するという規制が必要という声も見受けられました。&lt;/p&gt;
+
+&lt;p&gt;規制賛成派が多数を占める中、それに懸念を示す意見もある程度見受けられました。
+主な理由としては表現の自由が挙げられます。
+何でもかんでも規制することは、表現の自由に反する行為であり、コンテンツをつまらなくするという意見が見られました。
+また、既に十分な規制が行われているので、これ以上は不要という声もありました。規制してもきりがないという規制の限界を指摘する声や、反社会的な行動をとる人はSNSを規制したところで変わらないという声も見られました。&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  規制賛成派
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 1&lt;/span&gt; 必要であると思います。これが原因で自殺者が増えるのは確実です。SNS等は新たないじめの道具になりえるからです。
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 2&lt;/span&gt; 年齢によって規制するべき
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 4&lt;/span&gt; 本当に殺人動画が存在するのならば、規制するのは当然である
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  規制懐疑派
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 88&lt;/span&gt; YoutubeやTwitterといったSNSの規制は必要だと思うが、規制されるべき表現を明確に規定しておくべき。なんでもかんでも規制するのは表現の自由に反する。
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 42&lt;/span&gt; 規制してもキリがありません。立川での殺人事件の動機はこじつけだと思います。罪を犯すには動画等とは別の問題があると思います。
+    &lt;/li&gt;  
+	  &lt;li class=&quot;list-group-item&quot;&gt;
+	    &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 35&lt;/span&gt; 制限しすぎてしまうと何も表現できなくなるし子供もそんなに馬鹿じゃないので規制はほどほどがいいと思います
+	  &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;質問2&quot;&gt;質問2&lt;/h4&gt;
+&lt;div class=&quot;jumbotron py-2&quot;&gt;
+&lt;h5&gt;”過激な”表現の規制が必要な場合は、どの機関が行うのが適切だと思いますか。&lt;/h5&gt;
+&lt;!-- &lt;p class=&quot;text-muted&quot;&gt;
+&lt;/p&gt; --&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;container text-center&quot;&gt;
+&lt;img src=&quot;/jp/images/2021_YoutubeRestriction/table_2.svg&quot; alt=&quot;incidence_matrix&quot; style=&quot;
+  width: 300px;
+  border: none;
+  background: none;
+  margin: 1% 1% 1% 1%;
+  text-align: center;
+  display: inline-block;
+&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;small&gt;回答者（行）と投稿意見（列）のテーブル図。回答者が賛成した意見は青色（紺色は自身の投稿意見）、賛成しなかった意見は黄色、未参照の意見は灰色。&lt;/small&gt;&lt;/p&gt;
+
+&lt;p class=&quot;mt-3&quot;&gt;
+主な意見としては、プラットフォーマー、警察や文科省などの政府機関、第三者委員会やサイバーパトロールといった民間機関という案が出ました。
+また、何が過激かということを一機関が決めるのは問題であるため、AIで客観性を持って判断するべき、世間全体で議論するべきという意見がありました。
+ある人にとっては過激でも、別の人からしたら普通な意見かもしれないので、一機関が“客観的な”検閲がそもそもできるのか懐疑的な意見もありました。
+また、政府が規制を行うことに反対する意見も多かったです。その理由としては、反政府思想の検閲につながる懸念が挙げられます。
+&lt;/p&gt;
+
+&lt;p&gt;一つ斬新な意見ですが、親がフィルタリングを使ってやるべきという意見がありました。何が過激か統一的な基準を設けるのは困難なため、各家庭で決めるのは手軽で良いと思いました。&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  政府が規制すべき
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 49&lt;/span&gt; 政府主導になるのかなと思います。警察も関与が必要と思います。
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  第三者が規制すべき
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 62&lt;/span&gt; 政府やプラットフォームでは思想や利害関係などが偏ってしまうおそれがある。政治的に中立な機関をできれば複数設けて、差別的な投稿やニュースのファクトチェックを偏りなくやってもらいたい。
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  プラットフォームが規制すべき
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 87&lt;/span&gt; プラットフォームでAIが行なっている方法が平等でよいと思います。
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-via=&quot;Aska_systems_jp&quot; data-hashtags=&quot;Aska&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;詳細&quot;&gt;詳細&lt;/h2&gt;
+
+&lt;table class=&quot;table table-striped table-hover&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Summary&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;期間&lt;/td&gt;
+      &lt;td&gt;2021/6/6 - 2021/6/7&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;回答者数&lt;/td&gt;
+      &lt;td&gt;86&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;回答意見数&lt;/td&gt;
+      &lt;td&gt;質問１: 91, 質問2: 95&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;初期回答数&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;プラットフォーム&lt;/td&gt;
+      &lt;td&gt;Crowdworks&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h6 class=&quot;text-muted&quot;&gt;調査・記事担当: &lt;strong&gt;R. K.&lt;/strong&gt;&lt;/h6&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;この結果を引用される場合は十分にご注意ください。
+本調査はデモの一環として実施しているものであり、学術的な信頼性はないとお考えください。
+本格的な調査に興味がある方は、&lt;a href=&quot;mailto:request@aska.systems&quot;&gt;request@aska.systems&lt;/a&gt;までご相談ください。&lt;/p&gt;
+
+&lt;p&gt;ここで掲載している調査の目的は、Askaシステムの挙動の実証実験です。
+意見のバラエティを増やすために、あえてバイアスのかかった質問の仕方をすることもありますが、その場合は、バイアス下での結果であることを十分にご注意ください。&lt;/p&gt;
+</description>
+        <pubDate>Fri, 11 Jun 2021 00:00:00 +0900</pubDate>
+        <link>https://aska.systems/jp/YoutubeRestriction/</link>
+        <guid isPermaLink="true">https://aska.systems/jp/YoutubeRestriction/</guid>
+        
+        
+      </item>
     
       <item>
         <title>東京オリンピック</title>
@@ -2089,357 +2287,6 @@ X行Y列目の数値は、回答者グループYの人たちが、意見グル�
         <pubDate>Wed, 17 Feb 2021 00:00:00 +0900</pubDate>
         <link>https://aska.systems/jp/LongMTG/</link>
         <guid isPermaLink="true">https://aska.systems/jp/LongMTG/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Clubhouse、どう？</title>
-        <description>&lt;p&gt;認知が広まると同時に、非常に注目が集まっているClubhouse。今後どうなっていくのでしょうか。&lt;/p&gt;
-
-&lt;p&gt;Clubhouseとは、音声をベースとした、ラジオのようなSNSアプリです。現在アプリは招待制で、既存ユーザーから招待を受けることで利用可能になります。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;質問&quot;&gt;質問&lt;/h2&gt;
-&lt;div class=&quot;jumbotron py-2&quot;&gt;
-&lt;h5&gt;Clubhouseについてどう思いますか？&lt;/h5&gt;
-&lt;p&gt;
-使ったことのある・なしに関わらず、期待感・嫌悪感、メリット・デメリットについて、最も感じていることをお答えください。
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;結果&quot;&gt;結果&lt;/h2&gt;
-
-&lt;h3 id=&quot;属性分布利用歴年齢&quot;&gt;属性分布（利用歴・年齢）&lt;/h3&gt;
-&lt;p&gt;（円の一部を押すと拡大されます）&lt;/p&gt;
-
-&lt;div&gt;                        &lt;script type=&quot;text/javascript&quot;&gt;window.PlotlyConfig = {MathJaxConfig: &apos;local&apos;};&lt;/script&gt;
-        &lt;script src=&quot;https://cdn.plot.ly/plotly-latest.min.js&quot;&gt;&lt;/script&gt;                &lt;div id=&quot;325ca7ba-c3f8-4cb8-8751-862e62fe47c6&quot; class=&quot;plotly-graph-div&quot; style=&quot;height:100%; width:100%;&quot;&gt;&lt;/div&gt;            &lt;script type=&quot;text/javascript&quot;&gt;                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById(&quot;325ca7ba-c3f8-4cb8-8751-862e62fe47c6&quot;)) {                    Plotly.newPlot(                        &quot;325ca7ba-c3f8-4cb8-8751-862e62fe47c6&quot;,                        [{&quot;branchvalues&quot;: &quot;total&quot;, &quot;customdata&quot;: [[8.0], [8.0], [1.0], [16.0], [38.0], [46.0], [24.0], [2.0], [57.0], [4.0], [140.0], [8.0], [16.0], [46.0], [24.0], [4.0], [140.0], [57.0], [2.0], [38.0], [8.0], [1.0], [100.10344827586206], [39.476190476190474], [3.0]], &quot;domain&quot;: {&quot;x&quot;: [0.0, 1.0], &quot;y&quot;: [0.0, 1.0]}, &quot;hovertemplate&quot;: &quot;labels=%{label}&lt;br&gt;Count_sum=%{value}&lt;br&gt;parent=%{parent}&lt;br&gt;id=%{id}&lt;br&gt;Count=%{color}&lt;extra&gt;&lt;/extra&gt;&quot;, &quot;ids&quot;: [&quot;30\u6b73\u4ee5\u4e0a\u300160\u6b73\u672a\u6e80/\u3059\u3067\u306b\u4f7f\u3063\u3066\u3044\u308b/0.03&quot;, &quot;30\u6b73\u672a\u6e80/\u77e5\u3089\u306a\u304b\u3063\u305f/0.08&quot;, &quot;60\u6b73\u4ee5\u4e0a/\u77e5\u3089\u306a\u304b\u3063\u305f/0.14&quot;, &quot;30\u6b73\u672a\u6e80/\u3059\u3067\u306b\u4f7f\u3063\u3066\u3044\u308b/0.15&quot;, &quot;30\u6b73\u4ee5\u4e0a\u300160\u6b73\u672a\u6e80/\u77e5\u3089\u306a\u304b\u3063\u305f/0.16&quot;, &quot;30\u6b73\u4ee5\u4e0a\u300160\u6b73\u672a\u6e80/\u305c\u3072\u4f7f\u3063\u3066\u307f\u305f\u3044\u304c\u3001\u62db\u5f85\u3055\u308c\u306a\u3044\u306e\u3067\u4f7f\u3048\u306a\u3044/0.2&quot;, &quot;30\u6b73\u672a\u6e80/\u305c\u3072\u4f7f\u3063\u3066\u307f\u305f\u3044\u304c\u3001\u62db\u5f85\u3055\u308c\u306a\u3044\u306e\u3067\u4f7f\u3048\u306a\u3044/0.23&quot;, &quot;60\u6b73\u4ee5\u4e0a/\u77e5\u3063\u3066\u3044\u305f\u304c\u3001\u4f7f\u3063\u3066\u307f\u305f\u3044\u3068\u306f\u601d\u3063\u3066\u3044\u306a\u3044/0.29&quot;, &quot;30\u6b73\u672a\u6e80/\u77e5\u3063\u3066\u3044\u305f\u304c\u3001\u4f7f\u3063\u3066\u307f\u305f\u3044\u3068\u306f\u601d\u3063\u3066\u3044\u306a\u3044/0.54&quot;, &quot;60\u6b73\u4ee5\u4e0a/\u305c\u3072\u4f7f\u3063\u3066\u307f\u305f\u3044\u304c\u3001\u62db\u5f85\u3055\u308c\u306a\u3044\u306e\u3067\u4f7f\u3048\u306a\u3044/0.57&quot;, &quot;30\u6b73\u4ee5\u4e0a\u300160\u6b73\u672a\u6e80/\u77e5\u3063\u3066\u3044\u305f\u304c\u3001\u4f7f\u3063\u3066\u307f\u305f\u3044\u3068\u306f\u601d\u3063\u3066\u3044\u306a\u3044/0.6&quot;, &quot;30\u6b73\u4ee5\u4e0a\u300160\u6b73\u672a\u6e80/\u3059\u3067\u306b\u4f7f\u3063\u3066\u3044\u308b&quot;, &quot;30\u6b73\u672a\u6e80/\u3059\u3067\u306b\u4f7f\u3063\u3066\u3044\u308b&quot;, &quot;30\u6b73\u4ee5\u4e0a\u300160\u6b73\u672a\u6e80/\u305c\u3072\u4f7f\u3063\u3066\u307f\u305f\u3044\u304c\u3001\u62db\u5f85\u3055\u308c\u306a\u3044\u306e\u3067\u4f7f\u3048\u306a\u3044&quot;, &quot;30\u6b73\u672a\u6e80/\u305c\u3072\u4f7f\u3063\u3066\u307f\u305f\u3044\u304c\u3001\u62db\u5f85\u3055\u308c\u306a\u3044\u306e\u3067\u4f7f\u3048\u306a\u3044&quot;, &quot;60\u6b73\u4ee5\u4e0a/\u305c\u3072\u4f7f\u3063\u3066\u307f\u305f\u3044\u304c\u3001\u62db\u5f85\u3055\u308c\u306a\u3044\u306e\u3067\u4f7f\u3048\u306a\u3044&quot;, &quot;30\u6b73\u4ee5\u4e0a\u300160\u6b73\u672a\u6e80/\u77e5\u3063\u3066\u3044\u305f\u304c\u3001\u4f7f\u3063\u3066\u307f\u305f\u3044\u3068\u306f\u601d\u3063\u3066\u3044\u306a\u3044&quot;, &quot;30\u6b73\u672a\u6e80/\u77e5\u3063\u3066\u3044\u305f\u304c\u3001\u4f7f\u3063\u3066\u307f\u305f\u3044\u3068\u306f\u601d\u3063\u3066\u3044\u306a\u3044&quot;, &quot;60\u6b73\u4ee5\u4e0a/\u77e5\u3063\u3066\u3044\u305f\u304c\u3001\u4f7f\u3063\u3066\u307f\u305f\u3044\u3068\u306f\u601d\u3063\u3066\u3044\u306a\u3044&quot;, &quot;30\u6b73\u4ee5\u4e0a\u300160\u6b73\u672a\u6e80/\u77e5\u3089\u306a\u304b\u3063\u305f&quot;, &quot;30\u6b73\u672a\u6e80/\u77e5\u3089\u306a\u304b\u3063\u305f&quot;, &quot;60\u6b73\u4ee5\u4e0a/\u77e5\u3089\u306a\u304b\u3063\u305f&quot;, &quot;30\u6b73\u4ee5\u4e0a\u300160\u6b73\u672a\u6e80&quot;, &quot;30\u6b73\u672a\u6e80&quot;, &quot;60\u6b73\u4ee5\u4e0a&quot;], &quot;labels&quot;: [&quot;0.03&quot;, &quot;0.08&quot;, &quot;0.14&quot;, &quot;0.15&quot;, &quot;0.16&quot;, &quot;0.2&quot;, &quot;0.23&quot;, &quot;0.29&quot;, &quot;0.54&quot;, &quot;0.57&quot;, &quot;0.6&quot;, &quot;\u3059\u3067\u306b\u4f7f\u3063\u3066\u3044\u308b&quot;, &quot;\u3059\u3067\u306b\u4f7f\u3063\u3066\u3044\u308b&quot;, &quot;\u305c\u3072\u4f7f\u3063\u3066\u307f\u305f\u3044\u304c\u3001\u62db\u5f85\u3055\u308c\u306a\u3044\u306e\u3067\u4f7f\u3048\u306a\u3044&quot;, &quot;\u305c\u3072\u4f7f\u3063\u3066\u307f\u305f\u3044\u304c\u3001\u62db\u5f85\u3055\u308c\u306a\u3044\u306e\u3067\u4f7f\u3048\u306a\u3044&quot;, &quot;\u305c\u3072\u4f7f\u3063\u3066\u307f\u305f\u3044\u304c\u3001\u62db\u5f85\u3055\u308c\u306a\u3044\u306e\u3067\u4f7f\u3048\u306a\u3044&quot;, &quot;\u77e5\u3063\u3066\u3044\u305f\u304c\u3001\u4f7f\u3063\u3066\u307f\u305f\u3044\u3068\u306f\u601d\u3063\u3066\u3044\u306a\u3044&quot;, &quot;\u77e5\u3063\u3066\u3044\u305f\u304c\u3001\u4f7f\u3063\u3066\u307f\u305f\u3044\u3068\u306f\u601d\u3063\u3066\u3044\u306a\u3044&quot;, &quot;\u77e5\u3063\u3066\u3044\u305f\u304c\u3001\u4f7f\u3063\u3066\u307f\u305f\u3044\u3068\u306f\u601d\u3063\u3066\u3044\u306a\u3044&quot;, &quot;\u77e5\u3089\u306a\u304b\u3063\u305f&quot;, &quot;\u77e5\u3089\u306a\u304b\u3063\u305f&quot;, &quot;\u77e5\u3089\u306a\u304b\u3063\u305f&quot;, &quot;30\u6b73\u4ee5\u4e0a\u300160\u6b73\u672a\u6e80&quot;, &quot;30\u6b73\u672a\u6e80&quot;, &quot;60\u6b73\u4ee5\u4e0a&quot;], &quot;marker&quot;: {&quot;coloraxis&quot;: &quot;coloraxis&quot;, &quot;colors&quot;: [8.0, 8.0, 1.0, 16.0, 38.0, 46.0, 24.0, 2.0, 57.0, 4.0, 140.0, 8.0, 16.0, 46.0, 24.0, 4.0, 140.0, 57.0, 2.0, 38.0, 8.0, 1.0, 100.10344827586206, 39.476190476190474, 3.0]}, &quot;name&quot;: &quot;&quot;, &quot;parents&quot;: [&quot;30\u6b73\u4ee5\u4e0a\u300160\u6b73\u672a\u6e80/\u3059\u3067\u306b\u4f7f\u3063\u3066\u3044\u308b&quot;, &quot;30\u6b73\u672a\u6e80/\u77e5\u3089\u306a\u304b\u3063\u305f&quot;, &quot;60\u6b73\u4ee5\u4e0a/\u77e5\u3089\u306a\u304b\u3063\u305f&quot;, &quot;30\u6b73\u672a\u6e80/\u3059\u3067\u306b\u4f7f\u3063\u3066\u3044\u308b&quot;, &quot;30\u6b73\u4ee5\u4e0a\u300160\u6b73\u672a\u6e80/\u77e5\u3089\u306a\u304b\u3063\u305f&quot;, &quot;30\u6b73\u4ee5\u4e0a\u300160\u6b73\u672a\u6e80/\u305c\u3072\u4f7f\u3063\u3066\u307f\u305f\u3044\u304c\u3001\u62db\u5f85\u3055\u308c\u306a\u3044\u306e\u3067\u4f7f\u3048\u306a\u3044&quot;, &quot;30\u6b73\u672a\u6e80/\u305c\u3072\u4f7f\u3063\u3066\u307f\u305f\u3044\u304c\u3001\u62db\u5f85\u3055\u308c\u306a\u3044\u306e\u3067\u4f7f\u3048\u306a\u3044&quot;, &quot;60\u6b73\u4ee5\u4e0a/\u77e5\u3063\u3066\u3044\u305f\u304c\u3001\u4f7f\u3063\u3066\u307f\u305f\u3044\u3068\u306f\u601d\u3063\u3066\u3044\u306a\u3044&quot;, &quot;30\u6b73\u672a\u6e80/\u77e5\u3063\u3066\u3044\u305f\u304c\u3001\u4f7f\u3063\u3066\u307f\u305f\u3044\u3068\u306f\u601d\u3063\u3066\u3044\u306a\u3044&quot;, &quot;60\u6b73\u4ee5\u4e0a/\u305c\u3072\u4f7f\u3063\u3066\u307f\u305f\u3044\u304c\u3001\u62db\u5f85\u3055\u308c\u306a\u3044\u306e\u3067\u4f7f\u3048\u306a\u3044&quot;, &quot;30\u6b73\u4ee5\u4e0a\u300160\u6b73\u672a\u6e80/\u77e5\u3063\u3066\u3044\u305f\u304c\u3001\u4f7f\u3063\u3066\u307f\u305f\u3044\u3068\u306f\u601d\u3063\u3066\u3044\u306a\u3044&quot;, &quot;30\u6b73\u4ee5\u4e0a\u300160\u6b73\u672a\u6e80&quot;, &quot;30\u6b73\u672a\u6e80&quot;, &quot;30\u6b73\u4ee5\u4e0a\u300160\u6b73\u672a\u6e80&quot;, &quot;30\u6b73\u672a\u6e80&quot;, &quot;60\u6b73\u4ee5\u4e0a&quot;, &quot;30\u6b73\u4ee5\u4e0a\u300160\u6b73\u672a\u6e80&quot;, &quot;30\u6b73\u672a\u6e80&quot;, &quot;60\u6b73\u4ee5\u4e0a&quot;, &quot;30\u6b73\u4ee5\u4e0a\u300160\u6b73\u672a\u6e80&quot;, &quot;30\u6b73\u672a\u6e80&quot;, &quot;60\u6b73\u4ee5\u4e0a&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;], &quot;type&quot;: &quot;sunburst&quot;, &quot;values&quot;: [8, 8, 1, 16, 38, 46, 24, 2, 57, 4, 140, 8, 16, 46, 24, 4, 140, 57, 2, 38, 8, 1, 232, 105, 7]}],                        {&quot;coloraxis&quot;: {&quot;colorbar&quot;: {&quot;title&quot;: {&quot;text&quot;: &quot;Count&quot;}}, &quot;colorscale&quot;: [[0.0, &quot;rgb(75, 41, 145)&quot;], [0.16666666666666666, &quot;rgb(135, 44, 162)&quot;], [0.3333333333333333, &quot;rgb(192, 54, 157)&quot;], [0.5, &quot;rgb(234, 79, 136)&quot;], [0.6666666666666666, &quot;rgb(250, 120, 118)&quot;], [0.8333333333333334, &quot;rgb(246, 169, 122)&quot;], [1.0, &quot;rgb(237, 217, 163)&quot;]]}, &quot;legend&quot;: {&quot;tracegroupgap&quot;: 0}, &quot;margin&quot;: {&quot;t&quot;: 60}, &quot;template&quot;: {&quot;data&quot;: {&quot;bar&quot;: [{&quot;error_x&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}, &quot;error_y&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}, &quot;marker&quot;: {&quot;line&quot;: {&quot;color&quot;: &quot;#E5ECF6&quot;, &quot;width&quot;: 0.5}}, &quot;type&quot;: &quot;bar&quot;}], &quot;barpolar&quot;: [{&quot;marker&quot;: {&quot;line&quot;: {&quot;color&quot;: &quot;#E5ECF6&quot;, &quot;width&quot;: 0.5}}, &quot;type&quot;: &quot;barpolar&quot;}], &quot;carpet&quot;: [{&quot;aaxis&quot;: {&quot;endlinecolor&quot;: &quot;#2a3f5f&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;minorgridcolor&quot;: &quot;white&quot;, &quot;startlinecolor&quot;: &quot;#2a3f5f&quot;}, &quot;baxis&quot;: {&quot;endlinecolor&quot;: &quot;#2a3f5f&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;minorgridcolor&quot;: &quot;white&quot;, &quot;startlinecolor&quot;: &quot;#2a3f5f&quot;}, &quot;type&quot;: &quot;carpet&quot;}], &quot;choropleth&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;type&quot;: &quot;choropleth&quot;}], &quot;contour&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;contour&quot;}], &quot;contourcarpet&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;type&quot;: &quot;contourcarpet&quot;}], &quot;heatmap&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;heatmap&quot;}], &quot;heatmapgl&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;heatmapgl&quot;}], &quot;histogram&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;histogram&quot;}], &quot;histogram2d&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;histogram2d&quot;}], &quot;histogram2dcontour&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;histogram2dcontour&quot;}], &quot;mesh3d&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;type&quot;: &quot;mesh3d&quot;}], &quot;parcoords&quot;: [{&quot;line&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;parcoords&quot;}], &quot;pie&quot;: [{&quot;automargin&quot;: true, &quot;type&quot;: &quot;pie&quot;}], &quot;scatter&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatter&quot;}], &quot;scatter3d&quot;: [{&quot;line&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatter3d&quot;}], &quot;scattercarpet&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattercarpet&quot;}], &quot;scattergeo&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattergeo&quot;}], &quot;scattergl&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattergl&quot;}], &quot;scattermapbox&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattermapbox&quot;}], &quot;scatterpolar&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatterpolar&quot;}], &quot;scatterpolargl&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatterpolargl&quot;}], &quot;scatterternary&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatterternary&quot;}], &quot;surface&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;surface&quot;}], &quot;table&quot;: [{&quot;cells&quot;: {&quot;fill&quot;: {&quot;color&quot;: &quot;#EBF0F8&quot;}, &quot;line&quot;: {&quot;color&quot;: &quot;white&quot;}}, &quot;header&quot;: {&quot;fill&quot;: {&quot;color&quot;: &quot;#C8D4E3&quot;}, &quot;line&quot;: {&quot;color&quot;: &quot;white&quot;}}, &quot;type&quot;: &quot;table&quot;}]}, &quot;layout&quot;: {&quot;annotationdefaults&quot;: {&quot;arrowcolor&quot;: &quot;#2a3f5f&quot;, &quot;arrowhead&quot;: 0, &quot;arrowwidth&quot;: 1}, &quot;autotypenumbers&quot;: &quot;strict&quot;, &quot;coloraxis&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;colorscale&quot;: {&quot;diverging&quot;: [[0, &quot;#8e0152&quot;], [0.1, &quot;#c51b7d&quot;], [0.2, &quot;#de77ae&quot;], [0.3, &quot;#f1b6da&quot;], [0.4, &quot;#fde0ef&quot;], [0.5, &quot;#f7f7f7&quot;], [0.6, &quot;#e6f5d0&quot;], [0.7, &quot;#b8e186&quot;], [0.8, &quot;#7fbc41&quot;], [0.9, &quot;#4d9221&quot;], [1, &quot;#276419&quot;]], &quot;sequential&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;sequentialminus&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]]}, &quot;colorway&quot;: [&quot;#636efa&quot;, &quot;#EF553B&quot;, &quot;#00cc96&quot;, &quot;#ab63fa&quot;, &quot;#FFA15A&quot;, &quot;#19d3f3&quot;, &quot;#FF6692&quot;, &quot;#B6E880&quot;, &quot;#FF97FF&quot;, &quot;#FECB52&quot;], &quot;font&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}, &quot;geo&quot;: {&quot;bgcolor&quot;: &quot;white&quot;, &quot;lakecolor&quot;: &quot;white&quot;, &quot;landcolor&quot;: &quot;#E5ECF6&quot;, &quot;showlakes&quot;: true, &quot;showland&quot;: true, &quot;subunitcolor&quot;: &quot;white&quot;}, &quot;hoverlabel&quot;: {&quot;align&quot;: &quot;left&quot;}, &quot;hovermode&quot;: &quot;closest&quot;, &quot;mapbox&quot;: {&quot;style&quot;: &quot;light&quot;}, &quot;paper_bgcolor&quot;: &quot;white&quot;, &quot;plot_bgcolor&quot;: &quot;#E5ECF6&quot;, &quot;polar&quot;: {&quot;angularaxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}, &quot;bgcolor&quot;: &quot;#E5ECF6&quot;, &quot;radialaxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}}, &quot;scene&quot;: {&quot;xaxis&quot;: {&quot;backgroundcolor&quot;: &quot;#E5ECF6&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;gridwidth&quot;: 2, &quot;linecolor&quot;: &quot;white&quot;, &quot;showbackground&quot;: true, &quot;ticks&quot;: &quot;&quot;, &quot;zerolinecolor&quot;: &quot;white&quot;}, &quot;yaxis&quot;: {&quot;backgroundcolor&quot;: &quot;#E5ECF6&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;gridwidth&quot;: 2, &quot;linecolor&quot;: &quot;white&quot;, &quot;showbackground&quot;: true, &quot;ticks&quot;: &quot;&quot;, &quot;zerolinecolor&quot;: &quot;white&quot;}, &quot;zaxis&quot;: {&quot;backgroundcolor&quot;: &quot;#E5ECF6&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;gridwidth&quot;: 2, &quot;linecolor&quot;: &quot;white&quot;, &quot;showbackground&quot;: true, &quot;ticks&quot;: &quot;&quot;, &quot;zerolinecolor&quot;: &quot;white&quot;}}, &quot;shapedefaults&quot;: {&quot;line&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}}, &quot;ternary&quot;: {&quot;aaxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}, &quot;baxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}, &quot;bgcolor&quot;: &quot;#E5ECF6&quot;, &quot;caxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}}, &quot;title&quot;: {&quot;x&quot;: 0.05}, &quot;xaxis&quot;: {&quot;automargin&quot;: true, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;, &quot;title&quot;: {&quot;standoff&quot;: 15}, &quot;zerolinecolor&quot;: &quot;white&quot;, &quot;zerolinewidth&quot;: 2}, &quot;yaxis&quot;: {&quot;automargin&quot;: true, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;, &quot;title&quot;: {&quot;standoff&quot;: 15}, &quot;zerolinecolor&quot;: &quot;white&quot;, &quot;zerolinewidth&quot;: 2}}}},                        {&quot;responsive&quot;: true}                    )                };                            &lt;/script&gt;        &lt;/div&gt;
-
-&lt;h3 id=&quot;意見分布&quot;&gt;意見分布&lt;/h3&gt;
-
-&lt;div&gt;                        &lt;script type=&quot;text/javascript&quot;&gt;window.PlotlyConfig = {MathJaxConfig: &apos;local&apos;};&lt;/script&gt;
-        &lt;script src=&quot;https://cdn.plot.ly/plotly-latest.min.js&quot;&gt;&lt;/script&gt;                &lt;div id=&quot;da90b990-57ea-4052-8eef-ea930099e988&quot; class=&quot;plotly-graph-div&quot; style=&quot;height:600px; width:700px;&quot;&gt;&lt;/div&gt;            &lt;script type=&quot;text/javascript&quot;&gt;                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById(&quot;da90b990-57ea-4052-8eef-ea930099e988&quot;)) {                    Plotly.newPlot(                        &quot;da90b990-57ea-4052-8eef-ea930099e988&quot;,                        [{&quot;hovertemplate&quot;: &quot;\u610f\u898b=\u5426\u5b9a\u7684&lt;br&gt;\u5272\u5408=%{x}&lt;br&gt;\u5229\u7528\u6b74\u30fb\u5e74\u9f62=%{y}&lt;extra&gt;&lt;/extra&gt;&quot;, &quot;legendgroup&quot;: &quot;\u5426\u5b9a\u7684&quot;, &quot;marker&quot;: {&quot;color&quot;: &quot;rgba(162,121,143,0.95)&quot;, &quot;line&quot;: {&quot;width&quot;: 0}, &quot;size&quot;: 16, &quot;symbol&quot;: &quot;circle&quot;}, &quot;mode&quot;: &quot;markers&quot;, &quot;name&quot;: &quot;\u5426\u5b9a\u7684&quot;, &quot;orientation&quot;: &quot;h&quot;, &quot;showlegend&quot;: true, &quot;type&quot;: &quot;scatter&quot;, &quot;x&quot;: [0.3, 0.37, 0.54, 0.57, 0.5, 0.46, 0.86], &quot;xaxis&quot;: &quot;x&quot;, &quot;y&quot;: [&quot;\u3059\u3067\u306b\u4f7f\u3063\u3066\u3044\u308b&quot;, &quot;\u305c\u3072\u4f7f\u3063\u3066\u307f\u305f\u3044\u304c\u3001\u62db\u5f85\u3055\u308c\u306a\u3044\u306e\u3067\u4f7f\u3048\u306a\u3044&quot;, &quot;\u77e5\u3063\u3066\u3044\u305f\u304c\u3001\u4f7f\u3063\u3066\u307f\u305f\u3044\u3068\u306f\u601d\u3063\u3066\u3044\u306a\u3044&quot;, &quot;\u77e5\u3089\u306a\u304b\u3063\u305f&quot;, &quot;30\u6b73\u4ee5\u4e0a\u300160\u6b73\u672a\u6e80&quot;, &quot;30\u6b73\u672a\u6e80&quot;, &quot;60\u6b73\u4ee5\u4e0a&quot;], &quot;yaxis&quot;: &quot;y&quot;}, {&quot;hovertemplate&quot;: &quot;\u610f\u898b=\u80af\u5b9a\u7684&lt;br&gt;\u5272\u5408=%{x}&lt;br&gt;\u5229\u7528\u6b74\u30fb\u5e74\u9f62=%{y}&lt;extra&gt;&lt;/extra&gt;&quot;, &quot;legendgroup&quot;: &quot;\u80af\u5b9a\u7684&quot;, &quot;marker&quot;: {&quot;color&quot;: &quot;rgba(140,171,168, 0.95)&quot;, &quot;line&quot;: {&quot;width&quot;: 0}, &quot;size&quot;: 16, &quot;symbol&quot;: &quot;circle&quot;}, &quot;mode&quot;: &quot;markers&quot;, &quot;name&quot;: &quot;\u80af\u5b9a\u7684&quot;, &quot;orientation&quot;: &quot;h&quot;, &quot;showlegend&quot;: true, &quot;type&quot;: &quot;scatter&quot;, &quot;x&quot;: [0.7, 0.6, 0.42, 0.4, 0.46, 0.52, 0.14], &quot;xaxis&quot;: &quot;x&quot;, &quot;y&quot;: [&quot;\u3059\u3067\u306b\u4f7f\u3063\u3066\u3044\u308b&quot;, &quot;\u305c\u3072\u4f7f\u3063\u3066\u307f\u305f\u3044\u304c\u3001\u62db\u5f85\u3055\u308c\u306a\u3044\u306e\u3067\u4f7f\u3048\u306a\u3044&quot;, &quot;\u77e5\u3063\u3066\u3044\u305f\u304c\u3001\u4f7f\u3063\u3066\u307f\u305f\u3044\u3068\u306f\u601d\u3063\u3066\u3044\u306a\u3044&quot;, &quot;\u77e5\u3089\u306a\u304b\u3063\u305f&quot;, &quot;30\u6b73\u4ee5\u4e0a\u300160\u6b73\u672a\u6e80&quot;, &quot;30\u6b73\u672a\u6e80&quot;, &quot;60\u6b73\u4ee5\u4e0a&quot;], &quot;yaxis&quot;: &quot;y&quot;}, {&quot;hovertemplate&quot;: &quot;\u610f\u898b=\u30c7\u30e1\u30ea\u30c3\u30c8&lt;br&gt;\u5272\u5408=%{x}&lt;br&gt;\u5229\u7528\u6b74\u30fb\u5e74\u9f62=%{y}&lt;extra&gt;&lt;/extra&gt;&quot;, &quot;legendgroup&quot;: &quot;\u30c7\u30e1\u30ea\u30c3\u30c8&quot;, &quot;marker&quot;: {&quot;color&quot;: &quot;rgba(215,198,207,0.95)&quot;, &quot;line&quot;: {&quot;width&quot;: 0}, &quot;size&quot;: 16, &quot;symbol&quot;: &quot;circle&quot;}, &quot;mode&quot;: &quot;markers&quot;, &quot;name&quot;: &quot;\u30c7\u30e1\u30ea\u30c3\u30c8&quot;, &quot;orientation&quot;: &quot;h&quot;, &quot;showlegend&quot;: true, &quot;type&quot;: &quot;scatter&quot;, &quot;x&quot;: [0.03, 0.04, 0.02, 0.04, 0.02], &quot;xaxis&quot;: &quot;x&quot;, &quot;y&quot;: [&quot;\u305c\u3072\u4f7f\u3063\u3066\u307f\u305f\u3044\u304c\u3001\u62db\u5f85\u3055\u308c\u306a\u3044\u306e\u3067\u4f7f\u3048\u306a\u3044&quot;, &quot;\u77e5\u3063\u3066\u3044\u305f\u304c\u3001\u4f7f\u3063\u3066\u307f\u305f\u3044\u3068\u306f\u601d\u3063\u3066\u3044\u306a\u3044&quot;, &quot;\u77e5\u3089\u306a\u304b\u3063\u305f&quot;, &quot;30\u6b73\u4ee5\u4e0a\u300160\u6b73\u672a\u6e80&quot;, &quot;30\u6b73\u672a\u6e80&quot;], &quot;yaxis&quot;: &quot;y&quot;}],                        {&quot;height&quot;: 600, &quot;hovermode&quot;: &quot;closest&quot;, &quot;legend&quot;: {&quot;title&quot;: {&quot;text&quot;: &quot;\u610f\u898b&quot;}, &quot;tracegroupgap&quot;: 0}, &quot;margin&quot;: {&quot;t&quot;: 60}, &quot;paper_bgcolor&quot;: &quot;white&quot;, &quot;plot_bgcolor&quot;: &quot;white&quot;, &quot;template&quot;: {&quot;data&quot;: {&quot;bar&quot;: [{&quot;error_x&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}, &quot;error_y&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}, &quot;marker&quot;: {&quot;line&quot;: {&quot;color&quot;: &quot;#E5ECF6&quot;, &quot;width&quot;: 0.5}}, &quot;type&quot;: &quot;bar&quot;}], &quot;barpolar&quot;: [{&quot;marker&quot;: {&quot;line&quot;: {&quot;color&quot;: &quot;#E5ECF6&quot;, &quot;width&quot;: 0.5}}, &quot;type&quot;: &quot;barpolar&quot;}], &quot;carpet&quot;: [{&quot;aaxis&quot;: {&quot;endlinecolor&quot;: &quot;#2a3f5f&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;minorgridcolor&quot;: &quot;white&quot;, &quot;startlinecolor&quot;: &quot;#2a3f5f&quot;}, &quot;baxis&quot;: {&quot;endlinecolor&quot;: &quot;#2a3f5f&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;minorgridcolor&quot;: &quot;white&quot;, &quot;startlinecolor&quot;: &quot;#2a3f5f&quot;}, &quot;type&quot;: &quot;carpet&quot;}], &quot;choropleth&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;type&quot;: &quot;choropleth&quot;}], &quot;contour&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;contour&quot;}], &quot;contourcarpet&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;type&quot;: &quot;contourcarpet&quot;}], &quot;heatmap&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;heatmap&quot;}], &quot;heatmapgl&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;heatmapgl&quot;}], &quot;histogram&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;histogram&quot;}], &quot;histogram2d&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;histogram2d&quot;}], &quot;histogram2dcontour&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;histogram2dcontour&quot;}], &quot;mesh3d&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;type&quot;: &quot;mesh3d&quot;}], &quot;parcoords&quot;: [{&quot;line&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;parcoords&quot;}], &quot;pie&quot;: [{&quot;automargin&quot;: true, &quot;type&quot;: &quot;pie&quot;}], &quot;scatter&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatter&quot;}], &quot;scatter3d&quot;: [{&quot;line&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatter3d&quot;}], &quot;scattercarpet&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattercarpet&quot;}], &quot;scattergeo&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattergeo&quot;}], &quot;scattergl&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattergl&quot;}], &quot;scattermapbox&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattermapbox&quot;}], &quot;scatterpolar&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatterpolar&quot;}], &quot;scatterpolargl&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatterpolargl&quot;}], &quot;scatterternary&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatterternary&quot;}], &quot;surface&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;surface&quot;}], &quot;table&quot;: [{&quot;cells&quot;: {&quot;fill&quot;: {&quot;color&quot;: &quot;#EBF0F8&quot;}, &quot;line&quot;: {&quot;color&quot;: &quot;white&quot;}}, &quot;header&quot;: {&quot;fill&quot;: {&quot;color&quot;: &quot;#C8D4E3&quot;}, &quot;line&quot;: {&quot;color&quot;: &quot;white&quot;}}, &quot;type&quot;: &quot;table&quot;}]}, &quot;layout&quot;: {&quot;annotationdefaults&quot;: {&quot;arrowcolor&quot;: &quot;#2a3f5f&quot;, &quot;arrowhead&quot;: 0, &quot;arrowwidth&quot;: 1}, &quot;autotypenumbers&quot;: &quot;strict&quot;, &quot;coloraxis&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;colorscale&quot;: {&quot;diverging&quot;: [[0, &quot;#8e0152&quot;], [0.1, &quot;#c51b7d&quot;], [0.2, &quot;#de77ae&quot;], [0.3, &quot;#f1b6da&quot;], [0.4, &quot;#fde0ef&quot;], [0.5, &quot;#f7f7f7&quot;], [0.6, &quot;#e6f5d0&quot;], [0.7, &quot;#b8e186&quot;], [0.8, &quot;#7fbc41&quot;], [0.9, &quot;#4d9221&quot;], [1, &quot;#276419&quot;]], &quot;sequential&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;sequentialminus&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]]}, &quot;colorway&quot;: [&quot;#636efa&quot;, &quot;#EF553B&quot;, &quot;#00cc96&quot;, &quot;#ab63fa&quot;, &quot;#FFA15A&quot;, &quot;#19d3f3&quot;, &quot;#FF6692&quot;, &quot;#B6E880&quot;, &quot;#FF97FF&quot;, &quot;#FECB52&quot;], &quot;font&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}, &quot;geo&quot;: {&quot;bgcolor&quot;: &quot;white&quot;, &quot;lakecolor&quot;: &quot;white&quot;, &quot;landcolor&quot;: &quot;#E5ECF6&quot;, &quot;showlakes&quot;: true, &quot;showland&quot;: true, &quot;subunitcolor&quot;: &quot;white&quot;}, &quot;hoverlabel&quot;: {&quot;align&quot;: &quot;left&quot;}, &quot;hovermode&quot;: &quot;closest&quot;, &quot;mapbox&quot;: {&quot;style&quot;: &quot;light&quot;}, &quot;paper_bgcolor&quot;: &quot;white&quot;, &quot;plot_bgcolor&quot;: &quot;#E5ECF6&quot;, &quot;polar&quot;: {&quot;angularaxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}, &quot;bgcolor&quot;: &quot;#E5ECF6&quot;, &quot;radialaxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}}, &quot;scene&quot;: {&quot;xaxis&quot;: {&quot;backgroundcolor&quot;: &quot;#E5ECF6&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;gridwidth&quot;: 2, &quot;linecolor&quot;: &quot;white&quot;, &quot;showbackground&quot;: true, &quot;ticks&quot;: &quot;&quot;, &quot;zerolinecolor&quot;: &quot;white&quot;}, &quot;yaxis&quot;: {&quot;backgroundcolor&quot;: &quot;#E5ECF6&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;gridwidth&quot;: 2, &quot;linecolor&quot;: &quot;white&quot;, &quot;showbackground&quot;: true, &quot;ticks&quot;: &quot;&quot;, &quot;zerolinecolor&quot;: &quot;white&quot;}, &quot;zaxis&quot;: {&quot;backgroundcolor&quot;: &quot;#E5ECF6&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;gridwidth&quot;: 2, &quot;linecolor&quot;: &quot;white&quot;, &quot;showbackground&quot;: true, &quot;ticks&quot;: &quot;&quot;, &quot;zerolinecolor&quot;: &quot;white&quot;}}, &quot;shapedefaults&quot;: {&quot;line&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}}, &quot;ternary&quot;: {&quot;aaxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}, &quot;baxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}, &quot;bgcolor&quot;: &quot;#E5ECF6&quot;, &quot;caxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}}, &quot;title&quot;: {&quot;x&quot;: 0.05}, &quot;xaxis&quot;: {&quot;automargin&quot;: true, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;, &quot;title&quot;: {&quot;standoff&quot;: 15}, &quot;zerolinecolor&quot;: &quot;white&quot;, &quot;zerolinewidth&quot;: 2}, &quot;yaxis&quot;: {&quot;automargin&quot;: true, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;, &quot;title&quot;: {&quot;standoff&quot;: 15}, &quot;zerolinecolor&quot;: &quot;white&quot;, &quot;zerolinewidth&quot;: 2}}}, &quot;title&quot;: {&quot;text&quot;: &quot;\u56de\u7b54\u306e\u5206\u5e03&quot;}, &quot;width&quot;: 700, &quot;xaxis&quot;: {&quot;anchor&quot;: &quot;y&quot;, &quot;domain&quot;: [0.0, 1.0], &quot;dtick&quot;: 0.1, &quot;linecolor&quot;: &quot;rgb(102, 102, 102)&quot;, &quot;showgrid&quot;: true, &quot;showline&quot;: true, &quot;showticklabels&quot;: true, &quot;tickcolor&quot;: &quot;rgb(102, 102, 102)&quot;, &quot;tickfont&quot;: {&quot;color&quot;: &quot;rgb(102, 102, 102)&quot;}, &quot;ticks&quot;: &quot;outside&quot;, &quot;title&quot;: {&quot;text&quot;: &quot;\u5272\u5408&quot;}}, &quot;yaxis&quot;: {&quot;anchor&quot;: &quot;x&quot;, &quot;domain&quot;: [0.0, 1.0], &quot;title&quot;: {&quot;text&quot;: &quot;\u5229\u7528\u6b74\u30fb\u5e74\u9f62&quot;}}},                        {&quot;responsive&quot;: true}                    )                };                            &lt;/script&gt;        &lt;/div&gt;
-
-&lt;h3 id=&quot;意見グループ-vs-回答者グループ-親和性行列&quot;&gt;意見グループ vs 回答者グループ (親和性行列)&lt;/h3&gt;
-
-&lt;p&gt;各行が意見グループのラベル、各列が回答者グループのラベルとなっています。
-ラベルは、分析者が投稿意見の内訳と、回答パターンを見て付けたものです。
-X行Y列目の数値は、回答者グループYの人たちが、意見グループXの意見（のどれか）を支持した投票数です。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/jp/images/2021_Clubhouse/popularity_matrix.jpg&quot; alt=&quot;fig_popularity&quot; style=&quot;   width: 500px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;各意見グループの内訳一部&quot;&gt;各意見グループの内訳（一部）&lt;/h3&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-	&lt;div class=&quot;card-header&quot;&gt;
-	デメリット (35 posts)
-	&lt;/div&gt;
-	&lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		使いやすいのはメリットとしてありますが、やはりこの様な類いにつきものが派閥中傷や犯罪に近い行為などのデメリットが必ず存在すると思います。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;18 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		リアルタイムで音声のみで気軽に複数人と交流ができるという点では、今までにない新しいシステムだと思った。ただ自動で電話帳に登録されている知り合いに通知がいくという話も聞いているので、利用する際の個人情報の観点のリスクが払拭できたら使ってみたいと思う。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;16 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		気軽にたくさんの人の意見を聞くことができると言うメリットがある一方で、情報の取捨選択が難しくなり、偏った思想や局所的な批判の増大につながるなど、使い勝手の良さが故の問題もたくさん生じそうである。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		退会ができないと聞いて使ってみたくないと思った
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;div class=&quot;collapse&quot; id=&quot;collapseOpinion0&quot;&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		Clubhouseは安全に使用できると思うが、とても怖いです。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		聞かれてしまったらマズイ話を口走ってしまった時に、知らない人に聞かれてしまい取り返しがつかなくなってしまい怖い気がします
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		ラジオ感覚のSNSということで、自分の情報を音声で発信していくことに強みを感じている人や、音声メディアを通して人と繋がりたい人には良いSNSだと思いますが、個人情報管理や、トラブル対応などもう少し見極めたいですね。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		招待されないと入れないということが違和感を覚えますが、ここだけの話がエスカレートしないかと心配ですし、記録が残らないのも良いような怖いような気がします。経験したいとは思いました。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		音声でのSNSということで、今までの文字とは違った感覚で使うことができそうです。ただ、肉声が残るということでプライバシーなどが心配になるし、今までとは違った問題が起きそうです。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		中毒性がある
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;/div&gt;
-	&lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseOpinion0&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseOpinion0&quot;&gt;
-		See more
-	&lt;/button&gt;
-	&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-	&lt;div class=&quot;card-header&quot;&gt;
-	否定的・一時的流行 (110 posts)
-	&lt;/div&gt;
-	&lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		一時的な流行りだと思う。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		流行りなのはわかりますが、とりあえず流行りなだけでなんでものっかるのはちょっと…内容から自分に本当に必要なものだけ利用するほうがいいと思います
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;17 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		期待感は特に感じない。 2人までの招待制とう制度に特別感を感じて流行っていると思うが、招待する権利を悪用されるデメリットはあると思う。 
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;16 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		すぐになくなる気がする
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;15 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;div class=&quot;collapse&quot; id=&quot;collapseOpinion1&quot;&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		使ったことがないですが、招待制で音声通話と聞いたことがあるので、まだメリットが分からないです。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		不自然にゴリ押しされてる気がしてならない
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		使ったことがなく、よくわかりません。招待制なら安心して使えるかな、とは思います。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		新し物好きな人がまた何か見つけたんだなぁ。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		芸能人の声を聴けるのは楽しいかもしれないが、素人の会話などは全く興味もないし面白くなさそうで参加したいと思えない
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		こんなことしなくても直接話せばいいいと思う
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;8 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;/div&gt;
-	&lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseOpinion1&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseOpinion1&quot;&gt;
-		See more
-	&lt;/button&gt;
-	&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-	&lt;div class=&quot;card-header&quot;&gt;
-	若者向け・期待感 (69 posts)
-	&lt;/div&gt;
-	&lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		パリピ向けのサービスという感じがする。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;26 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		若者向けなイメージ
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;15 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		音声なので楽だとは思う。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		まだ使ったことはありません。有名な方の話や興味があることの話を音声で聞けるのは魅力的です。ただ、自分が会話の中に入っていくのは難しいかなと思っています。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;div class=&quot;collapse&quot; id=&quot;collapseOpinion2&quot;&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		もしするので安全性があるかどうか慎重に見極めてから、するべき。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		楽しそうでいいと思います。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		あまり見たことないタイプのSNSで新たなかたちとして普及していくと思うので、機会があればやりたいです。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		新しい感覚のSNSで人気が出そう
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		しばらく目新しい媒体がなかったので、期待している。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		雑談が聞けてワクワクしてきます。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;8 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;/div&gt;
-	&lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseOpinion2&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseOpinion2&quot;&gt;
-		See more
-	&lt;/button&gt;
-	&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-	&lt;div class=&quot;card-header&quot;&gt;
-	興味はある (32 posts)
-	&lt;/div&gt;
-	&lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		最初は気になって登録しようとしたが、招待制でしかも電話番号を相手が知らないと登録できないと聞いて友達が少ない上にSNSに興味が無い人達ばかりなので一生出来ないなと諦めました。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;15 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		工夫により様々なシーンで使え可能性の広がりを感じます。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;14 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		招待制ということなので、ユーザーが管理できて、同じようなことに興味を持つ人たちが集まって楽しむ分には良いと思います。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;14 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		使ったことがないので良く分かりませんが、招待制でmixiみたいな特別感に優越感を感じるのが良いのかなと思いますが、、、当人同士が楽しくやっている分にはよいと思います。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;div class=&quot;collapse&quot; id=&quot;collapseOpinion3&quot;&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		話題にはなっているが、結局は流行らずに収束しそうな気がする。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		気になっているので、使ってみたい気持ちはありますね。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		SNSに音声が追加されるという事ですが、便利になる面も多いと思いますが誹謗中傷も多くなる危険性はあると思います。変声器を使えばいかようにもなります。ある意味名誉棄損等を誘発しないか心配になります。
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		今後の発展にとても期待が持てる
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;8 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		リアルタイムでラジオ感覚で聞けたりSNSだけども電話感覚で気軽に話せるのは楽しそうだと思う
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;8 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li class=&quot;list-group-item&quot;&gt;
-		有名な方がこぞっていきなりやりだして、かなり怪しいと思っている。 色々なSNSがあるから自分に合うものを選べばいいと思っている
-		&lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;/div&gt;
-	&lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseOpinion3&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseOpinion3&quot;&gt;
-		See more
-	&lt;/button&gt;
-	&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&quot;palette-diagram&quot;&gt;Palette diagram&lt;/h3&gt;
-&lt;p&gt;（読み飛ばしていただいても構いません）&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/jp/images/2021_Clubhouse/linear_palette_diagram.jpg&quot; alt=&quot;linear_palette_diagram&quot; style=&quot;   width: 650px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/palette-diagram/palette-diagram&quot;&gt;Palette diagram&lt;/a&gt;という図を見ると、もう少し回答傾向の詳細が分かります。
-これは、上記の親和性行列の詳細をプロットしたようなものです。
-回答者を横方向に並べ、各回答者の回答パターンを縦方向に色分けしてプロット（stack plot）しています。&lt;/p&gt;
-
-&lt;p&gt;例えば、一番左端に対応している回答者は、（すべて赤色なので）「若者向け・期待感」の意見のみを支持していることが分かります。
-一方、一番右端の回答者は、（すべて黄色なので）「否定的・一時的流行」の意見のみを支持しています。
-縦方向に見たときに、複数の色がある回答者は、複数の意見グループの意見を支持していることを意味しています（縦方向の幅は、意見グループへの支持の割合）。&lt;/p&gt;
-
-&lt;p&gt;Palette diagramを見ると、「デメリット」（緑色）と「興味はある」（青色）は、他の意見グループとのオーバーラップが顕著に見られるため、
-意見文章としては若干他の意見グループの意見も混ざって見える（べき）傾向にあると考えられます。&lt;/p&gt;
-
-&lt;h2 id=&quot;最後に&quot;&gt;最後に&lt;/h2&gt;
-&lt;p&gt;全体的に利用に慎重なニュアンスの意見が多く見られました。&lt;/p&gt;
-
-&lt;p&gt;意見グループ「否定的・一時的流行」からは、否定的である”理由”よりも、（ただの）一過性のものであるという”見解”が多いです。
-一方、意見グループ「デメリット」は、メリットも挙げた上でデメリットもあるという特徴があります。
-ある程度興味があり中立的だが、安全面で不安があるというような中身（理由）が伺えます。&lt;/p&gt;
-
-&lt;p&gt;意見グループ「若者向け・期待感」「興味はある」は、回答者グループとしては一つにまとまる結果となりました。
-「若者向け・期待感」のグループは、同じ文章でも肯定的か否定的かははっきりしないものもありますが、全体的には肯定的・やや肯定的な意見とより強く紐づいているようです。
-「興味はある」は、少し引いた見方が多い様子です。「自身は積極的に利用しない/できないが、使いたい人には良いものなのではないか」と言った意見が目立ちます。&lt;/p&gt;
-
-&lt;p&gt;まだ世論が定着していない段階での調査のせいか、様々な視点の意見が出現した印象があります。
-また、各意見グループ（回答者グループ）から特徴的な傾向を拾うことができたので、興味深い結果になったと思います。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-via=&quot;Aska_systems_jp&quot; data-hashtags=&quot;Aska&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;!-- ## 詳細 --&gt;
-
-&lt;table class=&quot;table table-striped table-hover&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Summary&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;期間&lt;/td&gt;
-      &lt;td&gt;2021/2/7 - 2021/2/7&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;回答者数&lt;/td&gt;
-      &lt;td&gt;320&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;回答意見数&lt;/td&gt;
-      &lt;td&gt;246&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;初期回答数&lt;/td&gt;
-      &lt;td&gt;4&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;プラットフォーム&lt;/td&gt;
-      &lt;td&gt;Crowdworks&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;!-- **Palette diagram**
-
-&lt;img src=&quot;/jp/images/2020_CriminalGPS/linear_palette_diagram.jpg&quot; alt=&quot;fig_group_size&quot;
-style = &quot;
-  width: 650px;
-  border: none;
-  background: none;
-  margin: 1% 1% 1% 1%;
-  text-align: center;
-  display: inline-block;
-&quot;&gt;
-
-上の図は、パレットダイアグラム[^0]という図で、各回答者の回答パターンを可視化したものです。
-パレットダイアグラムでは、回答者が横一列に並べられ、回答パターンが縦軸方向に記されています。
-
-[^0]: パレットダイアグラムに関する詳細は[こちら](https://github.com/palette-diagram/palette-diagram)をご覧ください。
- --&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;この結果を引用される場合は十分にご注意ください。
-本調査はデモの一環として実施しているものであり、学術的な信頼性はないとお考えください。
-本格的な調査に興味がある方は、&lt;a href=&quot;mailto:request@aska.systems&quot;&gt;request@aska.systems&lt;/a&gt;までご相談ください。&lt;/p&gt;
-
-&lt;p&gt;ここで掲載している調査の目的は、Askaシステムの挙動の実証実験です。
-意見のバラエティを増やすために、あえてバイアスのかかった質問の仕方をすることもありますが、その場合は、バイアス下での結果であることを十分にご注意ください。&lt;/p&gt;
-</description>
-        <pubDate>Sun, 07 Feb 2021 00:00:00 +0900</pubDate>
-        <link>https://aska.systems/jp/Clubhouse/</link>
-        <guid isPermaLink="true">https://aska.systems/jp/Clubhouse/</guid>
         
         
       </item>
