@@ -6,9 +6,163 @@
 </description>
     <link>https://aska.systems/jp/</link>
     <atom:link href="https://aska.systems/jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 Jun 2021 18:49:23 +0900</pubDate>
-    <lastBuildDate>Thu, 17 Jun 2021 18:49:23 +0900</lastBuildDate>
+    <pubDate>Fri, 25 Jun 2021 10:08:25 +0900</pubDate>
+    <lastBuildDate>Fri, 25 Jun 2021 10:08:25 +0900</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>酒類の制限</title>
+        <description>&lt;p&gt;19時まで、二人以下、９０分以下…&lt;/p&gt;
+
+&lt;p&gt;先日緊急事態宣言が蔓延防止等措置に移行し、制限付き（東京都では、１９時まで、二人以下、９０分以下）で飲食店の酒類提供の禁止措置が撤廃されました。ニュースなどでは、歓迎する声、不安に思う声、制作自体を疑問視する声など、賛否両論出ています。この件について、人々がどのような意見を持っているのか聞いてみました。&lt;/p&gt;
+
+&lt;h4 id=&quot;質問１&quot;&gt;質問１&lt;/h4&gt;
+&lt;div class=&quot;jumbotron py-2&quot;&gt;
+&lt;h5&gt;この緊急事態宣言、蔓防における酒類の制限についての賛否、効果はあるのか、不公平感はあるかなどについて、ご意見お聞かせください。&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;container text-center&quot;&gt;
+&lt;img src=&quot;/jp/images/2021_LiquorRestriction/table.svg&quot; alt=&quot;incidence_matrix&quot; style=&quot;
+  width: 300px;
+  border: none;
+  background: none;
+  margin: 1% 1% 1% 1%;
+  text-align: center;
+  display: inline-block;
+&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;small&gt;回答者（行）と投稿意見（列）のテーブル図。回答者が賛成した意見は青色（紺色は自身の投稿意見）、賛成しなかった意見は黄色、未参照の意見は灰色。&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;今回興味深いことに、大域的には、賛成派 vs 反対派という分かれ方はしませんでした。&lt;/p&gt;
+
+&lt;p&gt;まず上のテーブルで番号の大きい回答者の方々（下の方の行）を見ると、灰色と青色のセルが目立ちます。
+従って、これらの回答者はその時点でのどの意見にも概ね賛成していることを意味しています。
+また、これらの回答者が参照し、賛同している意見（番号の大きい、右の列に対応する意見）は、「酒類禁止が本質ではない」というような、そもそも論の意見が目立ちます。&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  酒類禁止が本質ではない
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 15&lt;/span&gt; なんだかんだ言っても、国民は政治家の背中を見ている。政治家が矛盾してダラけてくれば、国全体もダラける。緊急事態宣言も蔓防も関係なく、筋の通った一貫した姿勢を見せること。そこからやり直さないと無理だと思う。
+    &lt;/li&gt;  
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 18&lt;/span&gt; 酒は悪くない。 入口問題で外国人を安易に入国させること自体が問題である。
+    &lt;/li&gt;  
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 20&lt;/span&gt; お酒の問題ではなくて密な環境であるかどうかを考えることが重要だと思います。
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 21&lt;/span&gt; お酒が根源悪ではない。お酒を飲んで開放的になった人間の一般的な行動が感染拡大の元である。飲み方を正せばアルコールの販売には何ら問題ないと感じている。私自身は下戸なので正直どっちでも構わないのだけど…
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;お酒自体は悪くないが、マナーを守らない人により感染が拡大するという意見は多く見られました。これは抜け穴で指摘されている路上飲みや制限を破り酒類を提供する店に関する議論と同根です。お酒を飲んで騒ぐ人に対して規制をしなければ、多くのマナーを守る人や飲食店が不利益を被り、マナーの悪い人は路上飲みなどの抜け道を見つけて結局感染が拡大してしまうという問題が指摘されています。感染拡大の原因を飲酒で騒ぐことではなく入国制限の不備とする意見など、政策の柔軟性の不備を指摘する声も挙げられました。&lt;/p&gt;
+
+&lt;p&gt;一方、上のテーブルで番号の小さい回答者の方々（上の方の行）を見ると、色々な意見を見た上で、「いいね」するものを選んでいるのが分かります。
+こちらは特定の意見に強く賛成しているというほどの傾向はありませんが、上の行の10人の方は、番号の小さい、左の列に対応する意見に「いいね」しています。&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  賛成・部分的に賛成・疑問視
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 7&lt;/span&gt; 今回の上記の措置については、一応、賛成ですがその効果は薄く、不公平感はあると思います。 何度も緊急事態宣言が発令と解除が繰り返しされた時点で私たちへの意識は完全に薄れ、また強制力が強いわけではないので守る人間も蔓延防止ではますます減っていくのはやむを得ないです。
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 9&lt;/span&gt; ただの食事と違いお酒が入るとマスクを外す時間が長くなり会話量も増えるので仕方ないと思う。 人数制限は必要だと思うが、時間制限は120分などもう少し伸ばしてもいいのではと感じる。
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 10&lt;/span&gt; 複数人での飲酒は、クラスターが発生する可能性が非常に高いので、制限をかけるのは当然のことです。 一人の飲酒であっても、お店の人や他のお客さんと大声で話してしまうことも多々あるので、インド型が広がりつつある状況下においては、一人であっても時間制限をかけて良いくらいだと思います。
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;こちらはより具体的に飲酒についての賛否を回答していただいているものが多く、制限に賛成もしくは部分的に賛成という意見が見られました。
+クラスターを防ぐことが主なものでした。やはり酒が入ってしまうと大声で話してしまい、一人のみであっても店員や他の客と話すことはあるので、クラスターが発生するリスクは高いということです。ただ、賛成派からも時間制限や強制力の無さなど、制作の欠陥を指摘する声もありました。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;質問2&quot;&gt;質問2&lt;/h4&gt;
+&lt;div class=&quot;jumbotron py-2&quot;&gt;
+&lt;h5&gt;7/4の都議選ではどこに投票しますか？&lt;/h5&gt;
+東京都以外に在住の方は、東京都民であった場合はどこに投票したいか選んでください。
+&lt;/div&gt;
+
+&lt;div class=&quot;container text-center&quot;&gt;
+&lt;img src=&quot;/jp/images/2021_LiquorRestriction/TokkyoVote.png&quot; alt=&quot;demograhpic&quot; style=&quot;
+  width: 300px;
+  border: none;
+  background: none;
+  margin: 1% 1% 1% 1%;
+  text-align: center;
+  display: inline-block;
+&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;small&gt;回答者（行）と投稿意見（列）のテーブル図。回答者が賛成した意見は青色（紺色は自身の投稿意見）、賛成しなかった意見は黄色、未参照の意見は灰色。&lt;/small&gt;&lt;/p&gt;
+
+&lt;p class=&quot;mt-3&quot;&gt;
+投票先として最も多かったのは、その他でした。ここには、現役の会派としては少数な立憲民主党や令和新撰組などの左派政党が入るので、これらの政党が議席を大幅に増やす結果になると考えられます。また、都民ファーストの会と自民党の二大政党間では、自民党の方を投票先として選ぶ人が多かったため、今回の都議選をきっかけに都議会の最大政党が変わる可能性があります。
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-via=&quot;Aska_systems_jp&quot; data-hashtags=&quot;Aska&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;詳細&quot;&gt;詳細&lt;/h2&gt;
+
+&lt;table class=&quot;table table-striped table-hover&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Summary&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;期間&lt;/td&gt;
+      &lt;td&gt;2021/6/24 - 2021/6/24&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;回答者数&lt;/td&gt;
+      &lt;td&gt;72&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;回答意見数&lt;/td&gt;
+      &lt;td&gt;24&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;初期回答数&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;プラットフォーム&lt;/td&gt;
+      &lt;td&gt;Crowdworks&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h6 class=&quot;text-muted&quot;&gt;調査・記事担当: &lt;strong&gt;R. K.&lt;/strong&gt;&lt;/h6&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;この結果を引用される場合は十分にご注意ください。
+本調査はデモの一環として実施しているものであり、学術的な信頼性はないとお考えください。
+本格的な調査に興味がある方は、&lt;a href=&quot;mailto:request@aska.systems&quot;&gt;request@aska.systems&lt;/a&gt;までご相談ください。&lt;/p&gt;
+
+&lt;p&gt;ここで掲載している調査の目的は、Askaシステムの挙動の実証実験です。
+意見のバラエティを増やすために、あえてバイアスのかかった質問の仕方をすることもありますが、その場合は、バイアス下での結果であることを十分にご注意ください。&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Jun 2021 00:00:00 +0900</pubDate>
+        <link>https://aska.systems/jp/LiquorRestriction/</link>
+        <guid isPermaLink="true">https://aska.systems/jp/LiquorRestriction/</guid>
+        
+        
+      </item>
     
       <item>
         <title>トランスジェンダーとオリンピック</title>
@@ -1387,594 +1541,6 @@ Palette diagramの詳細は、&lt;a href=&quot;https://github.com/palette-diagra
         <pubDate>Wed, 24 Mar 2021 00:00:00 +0900</pubDate>
         <link>https://aska.systems/jp/EmergencyLifted/</link>
         <guid isPermaLink="true">https://aska.systems/jp/EmergencyLifted/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>あだ名禁止？</title>
-        <description>&lt;p&gt;最近の小学校では、名字に「さん」をつけて呼ぶのが望ましいとする指導が定着し、あだ名を禁止しているそうです。&lt;/p&gt;
-
-&lt;p&gt;小学生にあだ名を禁止させる指導について、皆さんの意見を募集しました。
-また、あだ名に対する意見と比較するため、髪色・髪型や服装に制限についても回答いただきました。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;質問&quot;&gt;質問&lt;/h2&gt;
-&lt;h3 id=&quot;質問１&quot;&gt;質問１&lt;/h3&gt;
-&lt;div class=&quot;jumbotron py-2&quot;&gt;
-&lt;h5&gt;学校が、子供同士の呼び名に制限を設けるのには賛成でしょうか。それはなぜですか？&lt;/h5&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&quot;質問2&quot;&gt;質問2&lt;/h3&gt;
-&lt;div class=&quot;jumbotron py-2&quot;&gt;
-&lt;h5&gt;学校が、子供の髪色・髪型や服装に制限を設けるのには賛成でしょうか。それはなぜですか？&lt;/h5&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;結果&quot;&gt;結果&lt;/h2&gt;
-
-&lt;h3 id=&quot;pie-chart&quot;&gt;Pie chart&lt;/h3&gt;
-&lt;p&gt;回答者の分類&lt;/p&gt;
-
-&lt;div&gt;                        &lt;script type=&quot;text/javascript&quot;&gt;window.PlotlyConfig = {MathJaxConfig: &apos;local&apos;};&lt;/script&gt;
-        &lt;script src=&quot;https://cdn.plot.ly/plotly-latest.min.js&quot;&gt;&lt;/script&gt;                &lt;div id=&quot;f64524e7-29b7-45d1-a4ef-b0f922dda7c1&quot; class=&quot;plotly-graph-div&quot; style=&quot;height:100%; width:100%;&quot;&gt;&lt;/div&gt;            &lt;script type=&quot;text/javascript&quot;&gt;                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById(&quot;f64524e7-29b7-45d1-a4ef-b0f922dda7c1&quot;)) {                    Plotly.newPlot(                        &quot;f64524e7-29b7-45d1-a4ef-b0f922dda7c1&quot;,                        [{&quot;branchvalues&quot;: &quot;total&quot;, &quot;customdata&quot;: [[91.0], [38.0], [8.0], [113.0], [37.0], [10.0], [103.18627450980392], [37.50666666666667], [9.11111111111111]], &quot;domain&quot;: {&quot;x&quot;: [0.0, 1.0], &quot;y&quot;: [0.0, 1.0]}, &quot;hovertemplate&quot;: &quot;labels=%{label}&lt;br&gt;Count_sum=%{value}&lt;br&gt;parent=%{parent}&lt;br&gt;id=%{id}&lt;br&gt;Count=%{color}&lt;extra&gt;&lt;/extra&gt;&quot;, &quot;ids&quot;: [&quot;Q1&lt;br&gt;\u898f\u5236\u53cd\u5bfe/Q2&lt;br&gt;\u898f\u5236\u53cd\u5bfe&quot;, &quot;Q1&lt;br&gt;\u898f\u5236\u8cdb\u6210/Q2&lt;br&gt;\u898f\u5236\u53cd\u5bfe&quot;, &quot;Q1&lt;br&gt;\u8cdb\u5426\u4e21\u8ad6/Q2&lt;br&gt;\u898f\u5236\u53cd\u5bfe&quot;, &quot;Q1&lt;br&gt;\u898f\u5236\u53cd\u5bfe/Q2&lt;br&gt;\u898f\u5236\u8cdb\u6210&quot;, &quot;Q1&lt;br&gt;\u898f\u5236\u8cdb\u6210/Q2&lt;br&gt;\u898f\u5236\u8cdb\u6210&quot;, &quot;Q1&lt;br&gt;\u8cdb\u5426\u4e21\u8ad6/Q2&lt;br&gt;\u898f\u5236\u8cdb\u6210&quot;, &quot;Q1&lt;br&gt;\u898f\u5236\u53cd\u5bfe&quot;, &quot;Q1&lt;br&gt;\u898f\u5236\u8cdb\u6210&quot;, &quot;Q1&lt;br&gt;\u8cdb\u5426\u4e21\u8ad6&quot;], &quot;labels&quot;: [&quot;Q2&lt;br&gt;\u898f\u5236\u53cd\u5bfe&quot;, &quot;Q2&lt;br&gt;\u898f\u5236\u53cd\u5bfe&quot;, &quot;Q2&lt;br&gt;\u898f\u5236\u53cd\u5bfe&quot;, &quot;Q2&lt;br&gt;\u898f\u5236\u8cdb\u6210&quot;, &quot;Q2&lt;br&gt;\u898f\u5236\u8cdb\u6210&quot;, &quot;Q2&lt;br&gt;\u898f\u5236\u8cdb\u6210&quot;, &quot;Q1&lt;br&gt;\u898f\u5236\u53cd\u5bfe&quot;, &quot;Q1&lt;br&gt;\u898f\u5236\u8cdb\u6210&quot;, &quot;Q1&lt;br&gt;\u8cdb\u5426\u4e21\u8ad6&quot;], &quot;marker&quot;: {&quot;coloraxis&quot;: &quot;coloraxis&quot;, &quot;colors&quot;: [91.0, 38.0, 8.0, 113.0, 37.0, 10.0, 103.18627450980392, 37.50666666666667, 9.11111111111111]}, &quot;name&quot;: &quot;&quot;, &quot;parents&quot;: [&quot;Q1&lt;br&gt;\u898f\u5236\u53cd\u5bfe&quot;, &quot;Q1&lt;br&gt;\u898f\u5236\u8cdb\u6210&quot;, &quot;Q1&lt;br&gt;\u8cdb\u5426\u4e21\u8ad6&quot;, &quot;Q1&lt;br&gt;\u898f\u5236\u53cd\u5bfe&quot;, &quot;Q1&lt;br&gt;\u898f\u5236\u8cdb\u6210&quot;, &quot;Q1&lt;br&gt;\u8cdb\u5426\u4e21\u8ad6&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;], &quot;type&quot;: &quot;sunburst&quot;, &quot;values&quot;: [91, 38, 8, 113, 37, 10, 204, 75, 18]}],                        {&quot;coloraxis&quot;: {&quot;colorbar&quot;: {&quot;title&quot;: {&quot;text&quot;: &quot;Count&quot;}}, &quot;colorscale&quot;: [[0.0, &quot;rgb(75, 41, 145)&quot;], [0.16666666666666666, &quot;rgb(135, 44, 162)&quot;], [0.3333333333333333, &quot;rgb(192, 54, 157)&quot;], [0.5, &quot;rgb(234, 79, 136)&quot;], [0.6666666666666666, &quot;rgb(250, 120, 118)&quot;], [0.8333333333333334, &quot;rgb(246, 169, 122)&quot;], [1.0, &quot;rgb(237, 217, 163)&quot;]]}, &quot;legend&quot;: {&quot;tracegroupgap&quot;: 0}, &quot;margin&quot;: {&quot;t&quot;: 60}, &quot;template&quot;: {&quot;data&quot;: {&quot;bar&quot;: [{&quot;error_x&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}, &quot;error_y&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}, &quot;marker&quot;: {&quot;line&quot;: {&quot;color&quot;: &quot;#E5ECF6&quot;, &quot;width&quot;: 0.5}}, &quot;type&quot;: &quot;bar&quot;}], &quot;barpolar&quot;: [{&quot;marker&quot;: {&quot;line&quot;: {&quot;color&quot;: &quot;#E5ECF6&quot;, &quot;width&quot;: 0.5}}, &quot;type&quot;: &quot;barpolar&quot;}], &quot;carpet&quot;: [{&quot;aaxis&quot;: {&quot;endlinecolor&quot;: &quot;#2a3f5f&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;minorgridcolor&quot;: &quot;white&quot;, &quot;startlinecolor&quot;: &quot;#2a3f5f&quot;}, &quot;baxis&quot;: {&quot;endlinecolor&quot;: &quot;#2a3f5f&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;minorgridcolor&quot;: &quot;white&quot;, &quot;startlinecolor&quot;: &quot;#2a3f5f&quot;}, &quot;type&quot;: &quot;carpet&quot;}], &quot;choropleth&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;type&quot;: &quot;choropleth&quot;}], &quot;contour&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;contour&quot;}], &quot;contourcarpet&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;type&quot;: &quot;contourcarpet&quot;}], &quot;heatmap&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;heatmap&quot;}], &quot;heatmapgl&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;heatmapgl&quot;}], &quot;histogram&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;histogram&quot;}], &quot;histogram2d&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;histogram2d&quot;}], &quot;histogram2dcontour&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;histogram2dcontour&quot;}], &quot;mesh3d&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;type&quot;: &quot;mesh3d&quot;}], &quot;parcoords&quot;: [{&quot;line&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;parcoords&quot;}], &quot;pie&quot;: [{&quot;automargin&quot;: true, &quot;type&quot;: &quot;pie&quot;}], &quot;scatter&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatter&quot;}], &quot;scatter3d&quot;: [{&quot;line&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatter3d&quot;}], &quot;scattercarpet&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattercarpet&quot;}], &quot;scattergeo&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattergeo&quot;}], &quot;scattergl&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattergl&quot;}], &quot;scattermapbox&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scattermapbox&quot;}], &quot;scatterpolar&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatterpolar&quot;}], &quot;scatterpolargl&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatterpolargl&quot;}], &quot;scatterternary&quot;: [{&quot;marker&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;type&quot;: &quot;scatterternary&quot;}], &quot;surface&quot;: [{&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}, &quot;colorscale&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;type&quot;: &quot;surface&quot;}], &quot;table&quot;: [{&quot;cells&quot;: {&quot;fill&quot;: {&quot;color&quot;: &quot;#EBF0F8&quot;}, &quot;line&quot;: {&quot;color&quot;: &quot;white&quot;}}, &quot;header&quot;: {&quot;fill&quot;: {&quot;color&quot;: &quot;#C8D4E3&quot;}, &quot;line&quot;: {&quot;color&quot;: &quot;white&quot;}}, &quot;type&quot;: &quot;table&quot;}]}, &quot;layout&quot;: {&quot;annotationdefaults&quot;: {&quot;arrowcolor&quot;: &quot;#2a3f5f&quot;, &quot;arrowhead&quot;: 0, &quot;arrowwidth&quot;: 1}, &quot;autotypenumbers&quot;: &quot;strict&quot;, &quot;coloraxis&quot;: {&quot;colorbar&quot;: {&quot;outlinewidth&quot;: 0, &quot;ticks&quot;: &quot;&quot;}}, &quot;colorscale&quot;: {&quot;diverging&quot;: [[0, &quot;#8e0152&quot;], [0.1, &quot;#c51b7d&quot;], [0.2, &quot;#de77ae&quot;], [0.3, &quot;#f1b6da&quot;], [0.4, &quot;#fde0ef&quot;], [0.5, &quot;#f7f7f7&quot;], [0.6, &quot;#e6f5d0&quot;], [0.7, &quot;#b8e186&quot;], [0.8, &quot;#7fbc41&quot;], [0.9, &quot;#4d9221&quot;], [1, &quot;#276419&quot;]], &quot;sequential&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]], &quot;sequentialminus&quot;: [[0.0, &quot;#0d0887&quot;], [0.1111111111111111, &quot;#46039f&quot;], [0.2222222222222222, &quot;#7201a8&quot;], [0.3333333333333333, &quot;#9c179e&quot;], [0.4444444444444444, &quot;#bd3786&quot;], [0.5555555555555556, &quot;#d8576b&quot;], [0.6666666666666666, &quot;#ed7953&quot;], [0.7777777777777778, &quot;#fb9f3a&quot;], [0.8888888888888888, &quot;#fdca26&quot;], [1.0, &quot;#f0f921&quot;]]}, &quot;colorway&quot;: [&quot;#636efa&quot;, &quot;#EF553B&quot;, &quot;#00cc96&quot;, &quot;#ab63fa&quot;, &quot;#FFA15A&quot;, &quot;#19d3f3&quot;, &quot;#FF6692&quot;, &quot;#B6E880&quot;, &quot;#FF97FF&quot;, &quot;#FECB52&quot;], &quot;font&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}, &quot;geo&quot;: {&quot;bgcolor&quot;: &quot;white&quot;, &quot;lakecolor&quot;: &quot;white&quot;, &quot;landcolor&quot;: &quot;#E5ECF6&quot;, &quot;showlakes&quot;: true, &quot;showland&quot;: true, &quot;subunitcolor&quot;: &quot;white&quot;}, &quot;hoverlabel&quot;: {&quot;align&quot;: &quot;left&quot;}, &quot;hovermode&quot;: &quot;closest&quot;, &quot;mapbox&quot;: {&quot;style&quot;: &quot;light&quot;}, &quot;paper_bgcolor&quot;: &quot;white&quot;, &quot;plot_bgcolor&quot;: &quot;#E5ECF6&quot;, &quot;polar&quot;: {&quot;angularaxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}, &quot;bgcolor&quot;: &quot;#E5ECF6&quot;, &quot;radialaxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}}, &quot;scene&quot;: {&quot;xaxis&quot;: {&quot;backgroundcolor&quot;: &quot;#E5ECF6&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;gridwidth&quot;: 2, &quot;linecolor&quot;: &quot;white&quot;, &quot;showbackground&quot;: true, &quot;ticks&quot;: &quot;&quot;, &quot;zerolinecolor&quot;: &quot;white&quot;}, &quot;yaxis&quot;: {&quot;backgroundcolor&quot;: &quot;#E5ECF6&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;gridwidth&quot;: 2, &quot;linecolor&quot;: &quot;white&quot;, &quot;showbackground&quot;: true, &quot;ticks&quot;: &quot;&quot;, &quot;zerolinecolor&quot;: &quot;white&quot;}, &quot;zaxis&quot;: {&quot;backgroundcolor&quot;: &quot;#E5ECF6&quot;, &quot;gridcolor&quot;: &quot;white&quot;, &quot;gridwidth&quot;: 2, &quot;linecolor&quot;: &quot;white&quot;, &quot;showbackground&quot;: true, &quot;ticks&quot;: &quot;&quot;, &quot;zerolinecolor&quot;: &quot;white&quot;}}, &quot;shapedefaults&quot;: {&quot;line&quot;: {&quot;color&quot;: &quot;#2a3f5f&quot;}}, &quot;ternary&quot;: {&quot;aaxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}, &quot;baxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}, &quot;bgcolor&quot;: &quot;#E5ECF6&quot;, &quot;caxis&quot;: {&quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;}}, &quot;title&quot;: {&quot;x&quot;: 0.05}, &quot;xaxis&quot;: {&quot;automargin&quot;: true, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;, &quot;title&quot;: {&quot;standoff&quot;: 15}, &quot;zerolinecolor&quot;: &quot;white&quot;, &quot;zerolinewidth&quot;: 2}, &quot;yaxis&quot;: {&quot;automargin&quot;: true, &quot;gridcolor&quot;: &quot;white&quot;, &quot;linecolor&quot;: &quot;white&quot;, &quot;ticks&quot;: &quot;&quot;, &quot;title&quot;: {&quot;standoff&quot;: 15}, &quot;zerolinecolor&quot;: &quot;white&quot;, &quot;zerolinewidth&quot;: 2}}}},                        {&quot;responsive&quot;: true}                    )                };                            &lt;/script&gt;        &lt;/div&gt;
-
-&lt;p&gt;内側が質問１の回答者グループの割合、外側が質問２の回答者グループの割合です。
-あだ名の規制（質問１）については、反対する人の方が多いという結果になりましたが、
-髪色・髪型や服装の制限（質問２）と相関（連関）している様子が見られないのは少し驚きでした。
-（データ処理のミスかと思いましたが、回答の中身を見ていくと、どうも正しいようです）&lt;/p&gt;
-
-&lt;p&gt;あだ名の規制に賛成し、髪色・髪型や服装の制限に反対する人の例としては、
-「あだ名で嫌な思いをする子供がなくなる方が良いので賛成」＆「（髪色について）もともと黒髪ではない子供もいるので反対」
-といったパターンがありました。&lt;/p&gt;
-
-&lt;p&gt;あだ名の規制に反対し、髪色・髪型や服装の制限に賛成する人の例としては、
-「個性がなくなる」＆「風紀が乱れる・服装が自由なゆえにいじめが起こる可能性もある」
-といったパターンがありました。&lt;/p&gt;
-
-&lt;p&gt;いじめに焦点が集まっている傾向は強くありますが、それぞれの質問の、賛否の背後にある論理は様々です。
-今回のテーマは、単にyes/noの選択式質問として実施することも可能です。
-しかし、今回の結果は、安易に賛否を二択で答えてもらうことが、結果の解釈を大きく見誤る危険性を示唆しています。&lt;/p&gt;
-
-&lt;p&gt;意見の詳細は下記をご覧ください。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;各意見グループの内訳質問１&quot;&gt;各意見グループの内訳（質問１）&lt;/h3&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-  規制賛成 (86 posts)
-  &lt;/div&gt;
-  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    お互いを尊重する感じが出るので、さん付けで呼ぶことは良いと思う。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    良いあだ名で有ればいいが、悪口のようなあだ名が定着していじめにつながる可能性(実際に小学生の頃ありました)があるので、あだ名を推奨するのは絶対に反対です。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    あだ名がいじめの原因になる場合があるので、今の指導で良いと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;div class=&quot;collapse&quot; id=&quot;collapseOpinion0&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    場合によってはあだ名でも人を傷つけてしまう可能性もあるので加減の分からない小学生だからやむを得ない処置かなと思ったので。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;8 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    嫌な思いをする子供もいるから
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    親しみのあるあだ名なら問題ないのですが個人をバカにしたり身体的特徴のあるようなあだ名をつけることによる子供の心理に与える影響がある場合があるから制限を設けることに賛成です。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    小学生だとまだ自分の発言に責任を持てないことや知識不足から、無意識のうちに相手のことを傷つけてしまうようなあだ名を考えがちです。だから制限を設けるのに賛成します。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    子供が呼ばれて嫌なあだ名は避けられるからです。ただ、頭ごなしに何でもダメだと制限するのは良くないと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    親近感が湧くという、メリットもあるが、あだ名が原因でいじめに繋がったり、不登校にもなりえます。ちょっとしたあだ名によって、トラウマにもなりえます。だからこそさんあだ名禁止に賛成です。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    あだ名に限らず、本人が呼ばれたくない呼び方はしない方が良いと思うから
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    アダ名は親しみを込めて言う場合も多いが、時に身体的特徴をとらまえて言う場合もあります。言われた本人は外に出さないが内心気にしていても笑ってこたえて、周りも勘違いして傷つける結果になることもあるので、アダ名禁止はありと思います
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    あだ名で呼ばれると親しみが感じられ、距離が近くなるように思うからです。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    あだ名というのは、親しみを込めてあり、呼びやすく、仲の良さを表すものでもあるが、外見のことやその子の性格だったり、名前をいじったり、必ずしも呼ばれる方が嬉しいものであるとは限らないため。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;5 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    子供たちがいじめていると自覚がなくても傷ついている子がいるかもしれないからです。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;5 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    その呼び名が言われた本人にとっては大変嫌に感じるもので、いじめや不登校に繋がるものだといけないという理由で制限を設けるというなら賛成かなと思う。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;4 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    適切でないあだ名で友達を呼ぶことは、ひいてはいじめにつながるので、これを禁止するのは妥当だと思う。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;4 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    あだ名を禁止にして、個人の間に距離を置いた方がいじめが減ると思う。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;4 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    全員同じように呼ぶことで、名前でいじめに発展するパターンがあるだろ、統一に
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;4 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    その人を傷つけるようなあだ名は良くない。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;4 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    あだ名は時として、呼ばれる本人にとっては、嫌悪感を催すものでしかない場合があるから。  その場合、呼ばれる本人がそのあだ名を訂正できれば良いが、できない場合はいじめとなる可能性が高いから。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;4 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;/div&gt;
-  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseOpinion0&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseOpinion0&quot;&gt;
-    See more
-  &lt;/button&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-  賛否両論 (40 posts)
-  &lt;/div&gt;
-  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    あだ名だけが問題なのかと思います。 昔からこの論争はあり私が小さい頃も小学校が合併してあだ名禁止校、あだ名が大丈夫な学校と合併しましたが何も変わりませんでした。 禁止をされても子供同士は好きなように呼び合います。 あだ名よりもっと他に目を向けてほしいです。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    なんでもかんでも規制すれば良いというものではない。差別や侮辱的なあだ名は許されることではないが、あだ名によってユーモアの線引きを学ぶことも必要な気がする。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    あだ名にも色々あり、その内容で判断すべきです。高山→たかやん、てつや→てっちゃんなど、愛称であれば問題ないでしょう。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;div class=&quot;collapse&quot; id=&quot;collapseOpinion1&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    どちらともいえない。全てに制限をかけてしまうのはあまりに支配的すぎると思うが、あだ名から始まるいじり、いじめは存在するので反対ともいえない。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    もちろん、相手が嫌な気持ちになるようなあだ名は良くないと思います。しかし、あだ名で呼び合うことで絆ができることもあると、大人は経験している人たちもいるかと思います。お互い嫌な気持ちにならないあだ名であれば良いと思うし、あだ名禁止ではなく相手のことを思いやることを子供達に伝えることの方が大切だと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    あだ名によります。差別や卑下するようなのはよくないと思います。ただ、「さん」に徹底し過ぎるて罰則はやめて欲しいです。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;5 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    あだ名は下手すればいじめにもなりますが、親しみを込めた意味でもあります。その人が不愉快な思いをしているという話を聞いた時点で謝罪するなり、弁解するなりすれば良いと思います。その人が嫌がった時点で更に繰り返すようである場合のみ制限が必要ではないでしょうか。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;5 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    親しみのある呼び名であれば良いと思いますが、イジメに繋がる恐れのあるもの、イジメで使われるあだ名は反対です。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;5 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    身体や人格を否定するようなあだ名には反対ですが、親しみを込めるためのあだ名は良いと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;5 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    実際に私もあだ名で呼ばれたり、逆に呼んだりしていましたが、子供なりの親しみをこめた呼び方なので特にいいのではないかと思います。ただ、中にはその人をけなすようなあだ名をつけられ嫌な思いをしてしまうことがあるのであれば、制限を設けるというのもひとつの対策ではないかと考えます。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;4 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    わざわざ禁止にするほどのことなのか疑問。学校側のメリットか生徒側にメリットがある事か理由を詳しく知りたい。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;4 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    あだ名の賛成か反対かどちらも決めにくいと思いました。なぜなら私は30代ですが、あだ名が親しみやすさというふうにも捉えていますが、イジメにも繋がるとも考えているからです。 親しみやすさで言うと、その子の個性だとも思います。 ですが、周りが親しみやすいからと呼んでいるあだ名がもしかしたら本人は嫌な場合もあります。 あだ名禁止に賛成か反対か2択ではなく、他の方法を考えてみた結果、ひとりひとりに小学生以前に呼ばれていた(友達や家族など)あだ名をアンケートでとるのはどうかと思いました。 (さん)づけで呼ぶのもありかと思います。 甲乙付け難い問題です。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;4 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    人が嫌がる呼び名を使うことを禁止、程度に留めておいて、様子を見てもいいと思いました。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;4 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    自分があだ名で呼びあっていたので、他人行儀に聞こえてしまう。いじめの問題で制限していると思うが、ここまで踏み込む必要はないと思った。 でも、ジェンダーの問題もあるので、もしかしたら◯◯君と呼ばれて嫌な気持ちになる子どももいるかもしれないので、その面を考えれば全員を◯◯さんに統一するのは賛成。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;3 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    子供の意に反してあだ名がつけられるのは良くないと思うが、子供がこう呼んでほしいという愛称であれば良いと思う。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;3 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    呼び方の問題だとおもいます、たとえば、卑下した言い方や、からかったあだ名は、だめですが、本人が望み、また親が呼んでるなら、よいかとおもいます、
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;3 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    授業中に制限を設けるのは賛成。 休み時間など、自由な時間に制限するのは反対。 ルールや倫理、自由なコミュニケーションのオンとオフの切り替えを、教育課程に入れるべきと考えるから。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;2 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    私が子供の頃は、あだ名が当たり前のようで、そのあだ名のおかげで、友達とコミュニケーションとりやすかったり距離が近くなったりという良いこともありました。一方で、嫌なあだ名をつけられ辛い思いをする場面も確かにありました。いくらあだ名を禁止しても、陰口をいったり、仲間外れにしたら同等のことで、あだ名がなぜ禁止されるようになったのかをきちんと理解することが大事だと思います。ちなみに、うちの小学校では、ある先生は生徒の名前を呼び捨てで呼んでいるそうです。本末転倒ではないでしょうか。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;2 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    賛成なのにはいくつかの理由があり、あだ名は賛成です名前に関係するあだ名や本人がこう呼んで欲しいと望んでいた場合です。 私は言いたくないけどある動物の名前で呼ばれ、その人はその時呼んだだけで終わりましたが、小3くらいのその出来事が、何故か中学になって呼ばれ続けました。嫌だともはっきりいう事ができずすごく辛かったです。だから本人が望むものと名前に関係するもの以外については反対します。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;2 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    呼び名あだ名で呼ぶことで親しさを表せる一方、小学生のときは侮蔑的な表現を深く考えずに使うこともあるから指導は必要とおもう
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;2 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;/div&gt;
-  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseOpinion1&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseOpinion1&quot;&gt;
-    See more
-  &lt;/button&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-  規制反対 (193 posts)
-  &lt;/div&gt;
-  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    子供同士の呼び方に学校が干渉すべきではないと思います。いじめの防止という意見もありますが、意味はない規制だと感じています。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;20 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    あだ名は親しみを込められていたり、個性を認めるひとつのツールだと思います。あだ名で呼び合う事で距離感も縮まります。あだ名が全て悪いのではなくあだ名をつけられた人の気持ちを傷つけるようなあだ名はやめようということを、家庭や学校で教えることが一番大事だと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    そもそも何故あだ名禁止が望ましいとされるのかよくわからないが、もしそれがいじめや嫌がらせにつながる原因だと考えられているのだとしたら、大半が特に問題のないあだ名なのに全てを禁止するというのはいささか安直だと思う。 子供が名字に「さん」付けなんて堅苦しい。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;16 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;div class=&quot;collapse&quot; id=&quot;collapseOpinion2&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    呼び名を付けることそのものが悪いことではないと思うから。確かに子供は、何の気なしに相手を傷つけるようなあだ名を考えがちかもしれないが、何が良くて何が悪いのか、子供に考えさせるのも教育のうちだと思う。呼び名そのものに制限を付けることは、その過程をすっ飛ばすことと同じだと感じる。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;14 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    ニックネームで呼び合うのは、フランクな人間関係を築く上で大切な事だと思う。 禁止するより、悪意であだ名を付けないという教育をすべき
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;14 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    確かに人を傷つけるようなあだ名を付けて喜んでいる子もいるとは思いますが、そういうことも含めて、「それはどうなの？ちゃんと相手の気持ちになって考えられてる？」などと指導して、クラスなり学年なりで考えさせるのも教育だと思います。大人が指導することにめんどくささを感じたり、トラブルが起きることを恐れてこのような規制を作っているとしたら子どもの学びや自由を奪うことだとも思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;14 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    あだ名を付けあうことで生まれるコミュニケーションが無くなるのは寂しい気がします。 あだ名を付けることによって仲が深まっていく最初の一歩だと思うので反対です。 「さん」付けだと距離が遠いままのような気がします。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    子供同士であだ名を、つけること自体は、反対では、ありませんが、他の人より劣ってるいるような、あだ名や、身体的な、あだ名だと、つけた方は、満足しますが、つけられた、本人は、コンプレクスを、感じたり、不快な気持ちに、おちいりやすい！例、ちびだとか、ゼッペキだとか、赤顔とか、明らかに身体的な、ことは、やめてほしい！
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    いじめ防止対策であだ名を禁止にしたがそもそもそれでいじめが減るとは思わない。むしろあだ名は友達同士の距離が近くなると思っているので、禁止するほどなのかとは思っている。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    個性を消してしまうから
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    子供同士が呼び合う名前は子供同士で決めたらいい。もしそこに悪意を感じられる、モラル的におかしいなどの問題があるのであれば、それは大人の指導が必要になるかもしれないが、学校が最初から決めるようなことではないし、基本的には介入するべきではないと思う。たとえあだ名禁止を決めたとしても子供たちは陰であだ名を使うだろうと思う。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    確かに嫌がらせのようなあだ名をつけられて嫌な思いをする子どもがいるので、あだ名を禁止することが全く悪いとは思いません。 しかし、小学生くらいの子供は、友達同士あだ名で呼びあって徐々に仲良くなっていくものだと思います。さん付けだとよそよそしい感じがして、仲良くなるのに時間がかかりそうな印象を受けます。 社会人になったら職場でさん付けで呼びあうのが当たり前になるので、子供のうちは子供らしくあだ名で呼びあってもいいのではないかと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    小学生の時は友達を作るうえであだ名などで呼び合い中を深めていたので、校則等で決めるほどのことではないかなぁと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    明らかに相手を蔑む言い方は良くないが、親しみを込めた呼び方はお互い自由にしたらいい。嫌な呼ばれ方ならやめてもらえばよい。そういった意思表示をすることもコミュニケーションを学ぶ一貫になる。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    確かに嫌なあだ名もあると思いますが、何でも禁止するのではなく、子供に良いあだ名かどうか、嫌なあだ名をつけられたらどう思うかなど考えさせる事も必要に思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    いじめの根本的解決にはならないと思う。 表面的なことを禁止しても、形を変えて発生する可能性がある。 人の嫌がることをしない、相手の気持ちを考える、嫌なことは嫌ときちんというなどの力を養うことの方が大切。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    あだ名まで規制をかけるべきではないと思います。 あだ名を付けられた人がネガティブな気持ちになるのなら、その名前では呼ぶべきではないです。しかし、あだ名をつけられ、そのあだ名で呼ばれるのは、必ずしも悪いことばかりではないと思います。友人同士でも◯◯さんと呼び合っていたら、なんだか隔たりがあるように感じますが、あだ名で呼び合うことができれば、仲が深まると思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    制限を設けても、人をからかうような悪いあだ名は無くならないと思います。むしろ、大人の見ていないところでいじめが進行すると思います。また、「さん」付けを強制すると、生徒同士の仲が縮まりにくくなるのではとも思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    あだ名で呼ぶこと自体は悪いことではないですし、仲の良さに合わせて呼び方を変えることは社会に出てからも普通にあります。ただ、相手のことを悪く言ったり貶めるような呼び方はしてはいけないということだと思うので、わざわざ制限を設けることはしなくていいと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    みんな名字にさん付だと、なんだかよそよそしく感じる また呼び名に制限を設けた所でいじめ自体がなくなるわけではないし結局陰で変なあだ名はつけられるだろうから
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;/div&gt;
-  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseOpinion2&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseOpinion2&quot;&gt;
-    See more
-  &lt;/button&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&quot;各意見グループの内訳質問2&quot;&gt;各意見グループの内訳（質問2）&lt;/h3&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-  規制賛成 (171 posts)
-  &lt;/div&gt;
-  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    行き過ぎた校則は問題ですが、最低限のルールがないと秩序が乱れるので、必要だと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;22 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    学校は規則を学ぶ場だと思うので、賛成です。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;17 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    一定の基準を定めることで、風紀を乱させないようにする。 また、自由にしすぎたら、服装や髪型でいじめなどが起きることも考えられる。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;13 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;div class=&quot;collapse&quot; id=&quot;collapseOpinion0&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    規則や規律というのを学生時代に学ぶ必要があると思います。 厳しく規制する事は必要ないかもしれませんが、ある程度の教育という事は必要で、自主性や自由という事と、好き勝手にするという事をはき違えない事が必要と思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;12 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    一定の秩序を保った上で、自己主張を楽しむべきだと思う。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;11 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    社会のルールを守るということを当たり前に、自然に学べるようにするため。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    ある程度の規制は必要
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    厳しい制限は不要だと思いますが、行き過ぎたファッション（例えば露出が多いものや金髪など）を制限する必要はあると思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    生活レベルの差も出てくるので、制限すべきだとおもう
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    ある程度はルールを決めておいたほうがいいと思います。ただ、生まれつき髪の色が明るい子などもいるので、そこを無理に変えさせるようなことはしないで欲しいです。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    髪色、髪型、服装は社会に出てからも必要なスキルになる為ある程度の規則は必要だと思うが過剰な規制は必要ないと思う。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    自分もそうやってきて特に問題はなかったから。 たしかに不自由だし、個性を尊重していないという考え方もあるが、社会に出るためにはルールを守る事の大切さや協調性も覚えるべきだと思うから。 好きな服装や髪型はそれらを学んだ後、大人になってからやれば良い。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;8 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    生まれたときの髪色まで黒染めする必要は全くなくそれはやり過ぎだと思うが、ある程度の髪色や髪型の制限はあって良いと思う。なぜなら、正しい制服の着こなし方や一般的に相手を不快にさせない身だしなみを身に付けるのも学校生活が必要なことだと思うから。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;8 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    やはり髪型、服装はある程度制限をして欲しいです。小学生でのパーマ、ヘアカラーは私は絶対無し派ですね。見た目で印象が決まります。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    なんでも許されると大人になったときに不自由に耐えられないかもしれないから
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    学校でのきまりを守る大切さを学ぶためにも必要だと思う
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    義務教育段階の、自分で選択できない学校に関しては、制限を設けることに賛成です。 ある程度の規律を守ることは、これからの人生において必要な事だと思うからです。 ただ、それ以降の学校に関しては、色々な学校があっていいと思うので、その他を選択しました。 高校になると進学先の幅が広がり、進路を自分で選択するのなら、決めるのは本人なので、厳しい学校もあれば、自由な学校もあっていいのかなと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    ある程度は賛成。あくまで集団で生活する場なので、TPOをわきまえるというのも成長する過程では必要だと思うから。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    生まれつきの髪質や髪の色を強制的に変えさせる必要はないが、わざわざ染めたり、子供にわざわざ露出の多い服や奇抜なものを着せるのには、常識範囲内での規制は必要だと思います。いろいろな考えをお持ちの親御さんも多いと思うので。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    学校に通う限り、規律を守ってもらわないとためだと思うため。 ただし、転校生やアルビノの方に新規の制服や黒髪を求めるのは例外的に緩和するべきだと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;/div&gt;
-  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseOpinion0&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseOpinion0&quot;&gt;
-    See more
-  &lt;/button&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-  規制反対 (145 posts)
-  &lt;/div&gt;
-  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    規制をすることに対するはっきりとした妥当性はないと思います。意味のない規制はすべきではないと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;19 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    個性を消してしまうから
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;18 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    地毛で色素が薄い子もいますし、外国籍の子供など地毛の色が黒とは限らないので反対です。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;div class=&quot;collapse&quot; id=&quot;collapseOpinion1&quot;&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    見た目がどうあれ、関係ない。生来のものでも選んだものでも、または自然に変化したものでもどうでもいいのでは？
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    個性を無くしてしまうから反対です。見た目は自分の意思の表現だと思うのでそれに制限をつけられてしまうと自分の好きなことやものに興味を示さない子になってしまうと思うからです。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;10 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    あまりにも奇抜な服装や学生に相応しくない髪色にしている場合には制限する必要はあると思いますが、髪色など生まれつき周囲と少し違う人もいます。服装にしても子供自身が学校に通うのに相応しいかどうか判断すべきで頭ごなしに何でも禁止する必要もないと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    個性がなくなるから
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    生まれつき天然パーマの子だっているし、髪の色も黒色が地毛ではない子もいると思うので、そういう子達も含めて制限を設けるのは反対だ。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;9 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    華美な服装などは行き過ぎた個性なので制限が必要だが、たとえば一律同じ髪型などは感情的な制限に感じる。「自律」を学ばせた上で、行き過ぎた校則はなくして自由を教えてあげればいいと思う。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;8 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    元からの髪質もあるのにそれを周りに合わせる事に何の意味があるのか疑問です。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;8 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    規範意識を持たせることは大切だと思いますが、それは髪の毛の色を全員同じようにすることでしか身につけられないことではないと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    今の学校の仕組みがみんな同じでないといけないという考えを植え付け、個性をなくす原因になっているのでやめた方が良い。抑えつけず自由にするべき。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    自由な服装や髪型で感性を磨いてほしいからです。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    そもそも髪の毛の色で何が違うのかもわからない。外見で判断してはならない、個性を尊重と教育しているのと矛盾している
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;7 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    多様性を認めないようなことを小学校のうちから押し付けるべきではないと思う。規則を決めるから守りたくなくなるので自由にさせたらよい。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    過度な制限はどうかと思いますが、常識の範囲である程度の制限はあっても良いと思います。社会に出たら会社のカラーによってルールがあるのと同じで、学校も制限のある所とない所、そこを子供自身がどう選択するかを学んでいくのも大切なことかなと思います。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    子供は、自由に、学業を、学ばせて欲しい。あまり型にハマった規制、規則は、やめて欲しい！もう少し、道徳、礼儀を、教えて欲しい。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    意味が無いし、合理性を欠くから。結局は秩序が保たれた、統制されることに慣れた人間を育成したいだけなように感じる。どんな格好が適切なのか、自分でよく考えた上で自由に髪や服装を選び、自分らしい何かを表現することも、子供を成長させると思う。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    義務教育の学生である以上はルールを守るべきだとは思うが、髪色や服装はまだわかるが髪型は男なら短くて当たり前みたいな制限は納得がいかない。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;li class=&quot;list-group-item&quot;&gt;
-    髪色はともかく、髪型や服装にまで規制を設けるのは、基本的人権に反している。道義的、倫理的に問題ない範囲であれば、子供の自由にさせるべき。
-    &lt;br /&gt;&lt;span class=&quot;badge badge-dark&quot;&gt;6 likes&lt;/span&gt;
-  &lt;/li&gt;
-  &lt;/div&gt;
-  &lt;button class=&quot;btn btn-light btn-block&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#collapseOpinion1&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapseOpinion1&quot;&gt;
-    See more
-  &lt;/button&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;最後に&quot;&gt;最後に&lt;/h2&gt;
-&lt;p&gt;メインの考察は、上記sunburst図の節に記載した通りです。
-あだ名の規制については反対意見が多かったわけですが、問いかけの仕方に若干のバイアスがあると感じられる方もおられるかもしれません。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-via=&quot;Aska_systems_jp&quot; data-hashtags=&quot;Aska&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;詳細&quot;&gt;詳細&lt;/h2&gt;
-
-&lt;p&gt;今回の募集では、各自由記述回答に「賛成」「反対」「その他」のタグ付け（hashtag）をして投稿していただきました。
-ただ、必ずしも意見グループや回答者グループがこのタグに従って分けられているわけではありせん。
-例えば、質問２では賛成と反対のグループしかありません。
-これは、「その他」のタグは、実際には賛成か反対かのどちらかを強く示唆している場合が多く、
-回答を投稿した人以外の支持傾向（コンセンサス）も踏まえると、グループとしては賛成か反対の２分類になっています。&lt;/p&gt;
-
-&lt;table class=&quot;table table-striped table-hover&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Summary&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;期間&lt;/td&gt;
-      &lt;td&gt;2021/2/27 - 2021/2/27&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;回答者数&lt;/td&gt;
-      &lt;td&gt;325&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;回答意見数&lt;/td&gt;
-      &lt;td&gt;345 (質問1)&lt;/td&gt;
-      &lt;td&gt;345 (質問2)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;初期回答数&lt;/td&gt;
-      &lt;td&gt;2（質問1）&lt;/td&gt;
-      &lt;td&gt;2 (質問2)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;プラットフォーム&lt;/td&gt;
-      &lt;td&gt;Crowdworks&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;この結果を引用される場合は十分にご注意ください。
-本調査はデモの一環として実施しているものであり、学術的な信頼性はないとお考えください。
-本格的な調査に興味がある方は、&lt;a href=&quot;mailto:request@aska.systems&quot;&gt;request@aska.systems&lt;/a&gt;までご相談ください。&lt;/p&gt;
-
-&lt;p&gt;ここで掲載している調査の目的は、Askaシステムの挙動の実証実験です。
-意見のバラエティを増やすために、あえてバイアスのかかった質問の仕方をすることもありますが、その場合は、バイアス下での結果であることを十分にご注意ください。&lt;/p&gt;
-</description>
-        <pubDate>Sat, 27 Feb 2021 00:00:00 +0900</pubDate>
-        <link>https://aska.systems/jp/Nickname/</link>
-        <guid isPermaLink="true">https://aska.systems/jp/Nickname/</guid>
         
         
       </item>
