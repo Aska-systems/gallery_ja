@@ -1,0 +1,155 @@
+---
+layout: post
+title:  "CMは逆効果？"
+img: 2021_OlympicAds/OlympicAds.png
+---
+
+スポンサー企業のCM、どう思われているのでしょうか？
+
+東京五輪が開幕しましたが、スポンサー企業のオリンピックとの距離感が話題になっています。トヨタなどはオリンピック関連のCMの放映を中止すると発表し、スポンサー企業幹部の開会式への出席辞退が起こっています。主な理由としては、五輪を支持する姿勢を示すことが消費者にマイナスイメージを与えるためとされています。そこで、実際に人々はこの件についてどのように思っているのか聞いてみました。
+
+#### 質問1
+<div class="jumbotron py-2">
+<h5>あなたの世代を教えてください。</h5>
+</div>
+
+<div class="container text-center">
+<img src="{{site.baseurl}}/images/2021_OlympicAds/doughnut_agree_disagree.png" alt="demograhpic"
+style = "
+  width: 300px;
+  border: none;
+  background: none;
+  margin: 1% 1% 1% 1%;
+  text-align: center;
+  display: inline-block;
+">
+</div>
+
+<p class="mt-3">
+結果は、賛成、反対がほぼ同数に分かれるという結果になりました。
+(賛成: 28, 反対: 34, どちらでもない: 19)
+</p>
+
+
+#### 質問2
+<div class="jumbotron py-2">
+<h5>東京五輪のスポンサーがオリンピック関連のCMを流すことや、オリンピックを支持する姿勢を表明することをどう思いますか。</h5>
+</div>
+
+<div class="container text-center">
+<img src="{{site.baseurl}}/images/2021_OlympicAds/table.svg" alt="incidence_matrix"
+style = "
+  width: 300px;
+  border: none;
+  background: none;
+  margin: 1% 1% 1% 1%;
+  text-align: center;
+  display: inline-block;
+">
+</div>
+<p><small>回答者（行）と投稿意見（列）のテーブル図。回答者が賛成した意見は青色（紺色は自身の投稿意見）、賛成しなかった意見は黄色、未参照の意見は灰色。</small></p>
+
+質問１のオリンピックの開催の可否が大きく分かれたように、この質問の結果も企業へマイナスのイメージを持つ人、特に気にしない中立な人、イメージダウンにならないとする人に別れました。
+質問１の回答と照らし合わせると、マイナスイメージを持つ人にはオリンピック開催に反対の人が顕著に多く、プラスのイメージを持つ人にはオリンピック開催に賛成の人が多い傾向が見られました（対応図は掲載していません）。
+
+オリンピックへの企業の協力にマイナスイメージを持つ人は、その理由として、中途半端な姿勢、不公平感、自分や多くの国民がコロナ渦での五輪に反対していることが挙げられました。
+最初の二つの理由の具体例として、オリンピックと距離をおきたいならCMを降りるだけでなくスポンサーを降りるべき、一般の人は無観客で観覧ができないのにスポンサーは観覧が許されることは不公平、飲食店や医療従事者など、我慢を強いられてお祭り気分になれない人が不公平感を感じることが挙げられます。
+また、自分や他の国民の多くが反対しているイベントをわざわざ支持するのはマイナスであり、怒りの矛先を探している人に集中砲火を企業が浴びる危険性があるとする意見もありました。
+CM以外でアスリートの支援をするべき、CM中止に留まらず、開催の中止もスポンサーが進言する責任があるとする意見も一部ありました。
+
+中立な人、企業に対して特に何も思わない人は、その理由として、CM自体にそれほど注目している人はいない、商品を買う時オリンピックのことなど考えない、オリンピック自体に興味がないから気にしないとする意見が挙げられました。
+
+イメージダウンにならないとする人、CMを流すことに賛成な人は、その理由として、企業に決める権利があること、明るい話題を提供できること、五輪自体に自身が賛成していることが挙げられました。
+企業は金を出しているので、企業が決める権利があり、それについてマイナスなイメージは持たないとする意見が多くありました。
+その他にも、ステイホーム向けのCMなど工夫次第では楽しめる、オリンピックを盛り上げる明るい話題を提供できる、選手を応援することを支持する消費者の方が圧倒的に多いとする意見も見られました。
+五輪に反対する人は特殊な政治団体に属している人が多いとして、不信感を持つ人も見受けられました。
+
+
+<div class="card">
+  <div class="card-header">
+  プラスのイメージ
+  </div>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item">
+      <span class="badge badge-dark mr-2">意見 87</span> スポンサーとしてお金を出しているのであれば、活用しても構わないと思う。オリンピック開催は可否があり、個人的には延期を求めていたが、ステイホーム前提でのCMはいいのではないか。
+    </li>  
+    <li class="list-group-item">
+      <span class="badge badge-dark mr-2">意見 73</span> コロナで人々の気持ちが沈んでいる中でオリンピックを盛り上げていくことは明るい話題を提供する意味で必要と感じる。よって企業がオリンピック関連のCMを流し応援を表明することは悪いことではないと思う。
+    </li>
+    <li class="list-group-item">
+      <span class="badge badge-dark mr-2">意見 71</span> オリンピック開催反対はある政治団体の運動だと感じている。なので個人的にはマイナスイメージは感じられない。
+    </li>
+  </ul>
+</div>
+
+<div class="card">
+  <div class="card-header">
+  マイナスのイメージ
+  </div>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item">
+      <span class="badge badge-dark mr-2">意見 3</span> コロナ禍であることを考えると、私自身オリンピックの開催には反対だったので、オリンピック関連のCMを流す企業に対してはあまりいい気はしません。
+    </li>  
+    <li class="list-group-item">
+      <span class="badge badge-dark mr-2">意見 54</span> 中途半端な姿勢は逆に企業としての支持をうしなうと考えます。そんなに嫌ならスポンサーを降りるべきです。
+    </li>
+    <li class="list-group-item">
+      <span class="badge badge-dark mr-2">意見 24</span> 感染者の対応をしている医療従事者、感染者を増やさないように尽力している地方行政、緊急事態宣言の影響で我慢を強いられている飲食店等の心情を考えるとオリンピックのCMを流している企業のイメージは、良く感じません。 トヨタのような気配りの出来る企業の方が好感度が高いと思います。
+    </li>
+  </ul>
+</div>
+
+<div class="card">
+  <div class="card-header">
+  中立
+  </div>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item">
+      <span class="badge badge-dark mr-2">意見 35</span> スポンサー料払ってIOCがおいしい思いするのもバカバカしい。商品購入する時に企業のオリンピックイメージを思い出す人は少ないはず。
+    </li>  
+    <li class="list-group-item">
+      <span class="badge badge-dark mr-2">意見 72</span> 私はオリンピック反対派ですが、もちろん賛成の人もいるわけで、企業がCMを流そうが支持しようが特に何とも思いません。私とは違う考え方の企業なのねと思うだけです。スポンサーであることに変わりはないのでCM云々で特に印象は変わりません。
+    </li>
+  </ul>
+</div>
+
+
+
+
+
+<br>
+
+
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="Aska_systems_jp" data-hashtags="Aska" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+
+
+## 詳細
+
+
+| Summary | |
+|------|------|
+| 期間 | 2021/7/25 - 2021/7/25 |
+| 回答者数 | 70 |
+| 回答意見数 | 87 |
+| 初期回答数 | 質問１: 2 |
+| 質問形式 | Type B |
+| プラットフォーム | Crowdworks |
+{: .table .table-striped .table-hover}
+
+<br>
+
+<h6 class="text-muted">調査・記事担当: <strong>R. K.</strong></h6>
+
+
+
+---
+この結果を引用される場合は十分にご注意ください。
+本調査はデモの一環として実施しているものであり、学術的な信頼性はないとお考えください。
+本格的な調査に興味がある方は、<a href="mailto:request@aska.systems">request@aska.systems</a>までご相談ください。
+
+ここで掲載している調査の目的は、Askaシステムの挙動の実証実験です。
+意見のバラエティを増やすために、あえてバイアスのかかった質問の仕方をすることもありますが、その場合は、バイアス下での結果であることを十分にご注意ください。

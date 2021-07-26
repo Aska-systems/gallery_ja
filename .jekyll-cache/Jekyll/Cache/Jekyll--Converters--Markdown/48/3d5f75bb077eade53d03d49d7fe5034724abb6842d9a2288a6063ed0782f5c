@@ -1,10 +1,6 @@
-I"n*<p>現金？クレカ？スマホ決済？</p>
+I"�'<p>スポンサー企業のCM、どう思われているのでしょうか？</p>
 
-<p>近年政府のキャッシュレス決済推進により、様々な支払い手段が増えています。
-各サービスが、それぞれポイント還元などでユーザーを獲得しようと激戦が続いています。
-そうした環境の中で、皆さんがどのような支払い手段を普段利用していて、なぜそれを選んだかという点を調査してみました。</p>
-
-<p>質問1は本質的には選択式質問ですが、その全選択候補（すべての決済手段）はリストアップしきれないほどたくさんあるため、<strong>Askaのフレームワークが有効に機能する例となっています</strong>。</p>
+<p>東京五輪が開幕しましたが、スポンサー企業のオリンピックとの距離感が話題になっています。トヨタなどはオリンピック関連のCMの放映を中止すると発表し、スポンサー企業幹部の開会式への出席辞退が起こっています。主な理由としては、五輪を支持する姿勢を示すことが消費者にマイナスイメージを与えるためとされています。そこで、実際に人々はこの件についてどのように思っているのか聞いてみました。</p>
 
 <h4 id="質問１">質問１</h4>
 <div class="jumbotron py-2">
@@ -134,13 +130,13 @@
   </ul>
 </div>
 
-<h4 id="質問2-1">質問2</h4>
+<h4 id="質問3">質問3</h4>
 <div class="jumbotron py-2">
-<h5>あなたの年齢、性別を教えてください。</h5>
+<h5>あなたの世代を教えてください。</h5>
 </div>
 
 <div class="container text-center">
-<img src="/jp/images/2021_ChuoMaglev/demographic.png" alt="demograhpic" style="
+<img src="/jp/images/2021_Payments/demographic.png" alt="demograhpic" style="
   width: 300px;
   border: none;
   background: none;
@@ -149,10 +145,9 @@
   display: inline-block;
 " />
 </div>
-<p><small>回答者（行）と投稿意見（列）のテーブル図。回答者が賛成した意見は青色（紺色は自身の投稿意見）、賛成しなかった意見は黄色、未参照の意見は灰色。</small></p>
 
 <p class="mt-3">
-回答者の属性は上のグラフの通りでした。男女はほぼ同数で、30歳以上50歳未満の層が一番多かったです。
+今回はいつもと異なるプラットフォームにて調査を実施しましたが、世代分布としてはおおよそ他の回と変わらない結果となりました。
 </p>
 
 <p><br /></p>
@@ -171,27 +166,27 @@
   <tbody>
     <tr>
       <td>期間</td>
-      <td>2021/7/1 - 2021/7/1</td>
+      <td>2021/7/15 - 2021/7/15</td>
     </tr>
     <tr>
       <td>回答者数</td>
-      <td>78</td>
+      <td>50</td>
     </tr>
     <tr>
       <td>回答意見数</td>
-      <td>80</td>
+      <td>69</td>
     </tr>
     <tr>
       <td>初期回答数</td>
-      <td>2</td>
+      <td>質問１: 10, 質問2: 5</td>
     </tr>
     <tr>
       <td>質問形式</td>
-      <td>Type B <sup id="fnref:0" role="doc-noteref"><a href="#fn:0" class="footnote">2</a></sup></td>
+      <td>Type B [^0]</td>
     </tr>
     <tr>
       <td>プラットフォーム</td>
-      <td>Crowdworks</td>
+      <td>Lancers</td>
     </tr>
   </tbody>
 </table>
@@ -211,9 +206,6 @@
   <ol>
     <li id="fn:1" role="doc-endnote">
       <p>これらは質問２との連関を調べると明らかになりますが、今回は割愛します。 <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-    <li id="fn:0" role="doc-endnote">
-      <p>Type A形式では、回答者は他人の回答を参照しながら自身の意見を投稿します。Type B形式では、回答者は自身の意見を投稿した後に他人の意見を参照します。 <a href="#fnref:0" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
 </div>
