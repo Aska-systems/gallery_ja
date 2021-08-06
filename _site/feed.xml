@@ -6,9 +6,174 @@
 </description>
     <link>https://aska.systems/jp/</link>
     <atom:link href="https://aska.systems/jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Jul 2021 11:49:14 +0900</pubDate>
-    <lastBuildDate>Mon, 26 Jul 2021 11:49:14 +0900</lastBuildDate>
+    <pubDate>Fri, 06 Aug 2021 16:37:55 +0900</pubDate>
+    <lastBuildDate>Fri, 06 Aug 2021 16:37:55 +0900</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>ジェネリック医薬品</title>
+        <description>&lt;p&gt;ジェネリック医薬品に不安はありますか？&lt;/p&gt;
+
+&lt;p&gt;近年、新薬と同等の有効成分を持つ「ジェネリック医薬品」の普及が進められています。
+政府は医療費削減のために普及を推進しているものの、日本では不安を持つ人が多く、目標普及率である８割には届いていません。
+人々がジェネリック医薬品にどのような印象を持っているのか、なぜ不安に思うのか、聞いてみました。&lt;/p&gt;
+
+&lt;h4 id=&quot;質問1&quot;&gt;質問1&lt;/h4&gt;
+&lt;div class=&quot;jumbotron py-2&quot;&gt;
+&lt;h5&gt;ジェネリック（後発）医薬品の使用に不安はありますか？&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;container text-center&quot;&gt;
+&lt;img src=&quot;/jp/images/2021_Generics/table.svg&quot; alt=&quot;incidence_matrix&quot; style=&quot;
+  width: 300px;
+  border: none;
+  background: none;
+  margin: 1% 1% 1% 1%;
+  text-align: center;
+  display: inline-block;
+&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;small&gt;回答者（行）と投稿意見（列）のテーブル図。回答者が賛成した意見は青色（紺色は自身の投稿意見）、賛成しなかった意見は黄色、未参照の意見は灰色。&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;報道などでも議論されている通り、不安を感じる人、不安に思わない人両方とも様々な意見が目立ちました。&lt;/p&gt;
+
+&lt;p&gt;不安に思う理由としては、患者が詳細を知れない、品質・信頼度にかける、製造会社が異なる、体質に合わない可能性、効果・副作用への不安などが挙げられました。
+一言でまとめると、自分の体に入れるものなので、小さな違いであっても、納得いくまで知らなければ不安と言う人が多かったです。
+患者が詳細を知らないということは、報道や薬局の窓口での説明の強化によって改善できるかもしれません。
+そもそもジェネリック自体がどういうものなのかわからない、ネガティブな報道を見てなんとなく怖いものに思うという認識の人が見られたので、正しい情報の普及が必要だと思います。
+新薬と同等の成分だとしても、製造会社やコーティング剤など細かい違いはあるので、それによる効き目の違いや副作用を心配する人は多く見られました。
+また、同じ新薬のジェネリック製品であっても、製造会社によって効果が異なると言う経験をした人もいました。&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  不安に思う意見
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 17&lt;/span&gt; ジェネリックはニュース等で色々な問題を耳にしたりしてイマイチ信用できないのと、身体にどのような影響があるか後々にならないと分からず、怖いので拒否しています。
+    &lt;/li&gt;  
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 19&lt;/span&gt; ジェネリックってなに？って思う人がほとんど。薬剤師にジェネリックでもいいですか？と言われてもポカーンとすることが多い。ジェネリック薬品という薬を認知してる人が少ないからこのような結果が生まれる。ジェネリック薬品をもっとわかりやすく浸透すればジェネリックに対する不安は減ると思う。
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 51&lt;/span&gt; 新薬と同等の成分で作られているとはいえ、まわりのコーティング剤が多少違うと言う話を聞いたので、そのコーティング剤が体に合わない事はないか？と不安になる時があります。
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;特に不安を持たない人たちで多かった理由は、後発なのでその分安全、規定に沿って製造されている、薬価の削減に貢献、医師・薬剤師が丁寧に説明、新薬と効果は変わらない、日本製という意見でした。
+不安を持たない人は、政府の規定や医師・薬剤師の説明に強い信頼を感じていることがわかります。
+後発であることにより、新薬に比べて改善されており、その分安全であるとする意見は多く見られました。
+また、ジェネリックを使用することで自分の医療費や国の医療費を削減できるメリットを感じる人も多く見られました。&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+  &lt;div class=&quot;card-header&quot;&gt;
+  不安に思わない意見
+  &lt;/div&gt;
+  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 10&lt;/span&gt; 新薬ではなくなり、開発費がかからなくなったことで価格が下がったものだと把握しています。新薬よりもデータが集まり、本来よりも改良されたものであると思うので、安全性は高まっているのではないかと思います。
+    &lt;/li&gt;  
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 63&lt;/span&gt; 特にありません。お医者さんが処方してくれる薬なので信じます。薬がなるべく安くなるようならばありがたい。
+    &lt;/li&gt;
+    &lt;li class=&quot;list-group-item&quot;&gt;
+      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 77&lt;/span&gt; 国が認めているなら大丈夫なんじゃないかと思うから、特に不安はない。服用してる人はいるし自分もジェネリックでいいんじゃないかと思っている。
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&quot;質問2&quot;&gt;質問2&lt;/h4&gt;
+&lt;div class=&quot;jumbotron py-2&quot;&gt;
+&lt;h5&gt;あなたの性別を教えてください。&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;container text-center&quot;&gt;
+&lt;img src=&quot;/jp/images/2021_Generics/doughnut_sex.png&quot; alt=&quot;demograhpic&quot; style=&quot;
+  width: 300px;
+  border: none;
+  background: none;
+  margin: 1% 1% 1% 1%;
+  text-align: center;
+  display: inline-block;
+&quot; /&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&quot;質問3&quot;&gt;質問3&lt;/h4&gt;
+&lt;div class=&quot;jumbotron py-2&quot;&gt;
+&lt;h5&gt;あなたの年齢を教えてください。&lt;/h5&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;container text-center&quot;&gt;
+&lt;img src=&quot;/jp/images/2021_Generics/doughnut_age.png&quot; alt=&quot;demograhpic&quot; style=&quot;
+  width: 300px;
+  border: none;
+  background: none;
+  margin: 1% 1% 1% 1%;
+  text-align: center;
+  display: inline-block;
+&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-via=&quot;Aska_systems_jp&quot; data-hashtags=&quot;Aska&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;詳細&quot;&gt;詳細&lt;/h2&gt;
+
+&lt;table class=&quot;table table-striped table-hover&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Summary&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;期間&lt;/td&gt;
+      &lt;td&gt;2021/8/1 - 2021/8/2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;回答者数&lt;/td&gt;
+      &lt;td&gt;89&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;回答意見数&lt;/td&gt;
+      &lt;td&gt;88&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;初期回答数&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;質問形式&lt;/td&gt;
+      &lt;td&gt;Type B&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;プラットフォーム&lt;/td&gt;
+      &lt;td&gt;Crowdworks&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h6 class=&quot;text-muted&quot;&gt;調査・記事担当: &lt;strong&gt;R. K.&lt;/strong&gt;&lt;/h6&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;この結果を引用される場合は十分にご注意ください。
+本調査はデモの一環として実施しているものであり、学術的な信頼性はないとお考えください。
+本格的な調査に興味がある方は、&lt;a href=&quot;mailto:request@aska.systems&quot;&gt;request@aska.systems&lt;/a&gt;までご相談ください。&lt;/p&gt;
+
+&lt;p&gt;ここで掲載している調査の目的は、Askaシステムの挙動の実証実験です。
+意見のバラエティを増やすために、あえてバイアスのかかった質問の仕方をすることもありますが、その場合は、バイアス下での結果であることを十分にご注意ください。&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 Aug 2021 00:00:00 +0900</pubDate>
+        <link>https://aska.systems/jp/Generics/</link>
+        <guid isPermaLink="true">https://aska.systems/jp/Generics/</guid>
+        
+        
+      </item>
     
       <item>
         <title>CMは逆効果？</title>
@@ -1523,140 +1688,6 @@ IOCの規約では、男性ホルモンを大会１年前から抑制してい�
         <pubDate>Sun, 16 May 2021 00:00:00 +0900</pubDate>
         <link>https://aska.systems/jp/VaccineRules/</link>
         <guid isPermaLink="true">https://aska.systems/jp/VaccineRules/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>コロナワクチンの特許</title>
-        <description>&lt;p&gt;製薬会社は、新型コロナワクチンの特許を放棄すべきでしょうか？&lt;/p&gt;
-
-&lt;p&gt;アメリカのバイデン政権は、アメリカなどの富裕国がワクチンを独り占めしているという批判を受け、途上国などが自国で生産できるように製薬会社がワクチンの特許権を放棄することを支持しました。
-この問題はアメリカでも、ワクチンの迅速な普及の促進には放棄は必要という声や、開発者が特許を持てなければ次の開発への動機を削ぐなどの声が上がっており、賛否両論起こっています。
-日本の人々は、どのように思っているのでしょうか。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;結果&quot;&gt;結果&lt;/h2&gt;
-
-&lt;h4 id=&quot;属性分布-doughnut-chart複数選択可&quot;&gt;属性分布: Doughnut chart（複数選択可）&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;/jp/images/2021_COVIDpatent/demographic.png&quot; alt=&quot;doughnut_chart&quot; style=&quot;   width: 500px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;回答者の属性としては、男女はほぼ同数で、30歳から50歳という生産年齢の人たちが多数でした。&lt;/p&gt;
-
-&lt;div class=&quot;jumbotron py-2&quot;&gt;
-&lt;h5&gt;新型コロナウイルスに対するワクチンを製造した製薬会社にその特許権の放棄を求めることは妥当ですか？&lt;/h5&gt;
-&lt;p&gt;アメリカのバイデン政権はアメリカなどの富裕国がワクチンを独り占めしているという批判を受け、途上国などが自国で生産できるように製薬会社がワクチンの特許権を放棄することを支持しました。この問題は賛否両論ありますが、あなたの考えるメリットとデメリットを記入してください。&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;/jp/images/2021_COVIDpatent/table.svg&quot; alt=&quot;incidence_matrix&quot; style=&quot;   width: 500px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;回答者（行）と投稿意見（列）のテーブル図。回答者が賛成した意見は青色（紺色は自身の投稿意見）、賛成しなかった意見は黄色、未参照の意見は灰色。&lt;/small&gt;&lt;/p&gt;
-
-&lt;p&gt;質問への回答の内容としては賛否両論あり、上図のような回答パターンになりました。&lt;/p&gt;
-
-&lt;p&gt;まずメリットとして挙げられた意見の多くは、ワクチンの生産量が増えることや世界中（特に途上国）へのワクチンの供給が迅速化されること、さらにそれらの効果として新型コロナウイルスによるパンデミックがより短期間で収束に向かう可能性があるということが挙げられました。このメリットを受ける対象はあまり具体的に書かれていないものの、現時点でワクチン供給の少ない地域の市民が、主な受益者であると考えられます。また、パンデミックがより迅速に終焉すれば、米国政府・米国市民だけでなく、世界中の人々にメリットがあるという見方も回答からは伝わってきます。&lt;/p&gt;
-
-&lt;p&gt;一方、デメリットとしては、製薬会社の開発意欲を削ぐことや、開発者以外が製造することによる品質の低下への懸念が挙げられました。
-製薬会社の開発意欲が削がれれば、次に起こる疫病蔓延の際にワクチンを製造できるインフラが迅速に作れないため、長期的に見ればマイナスという意見もありました。
-デメリットを受ける主体としては、特許収入が得られたはずの製薬会社が主に挙げられました。
-ただし、ワクチンの品質低下が実際に起これば、それの摂取者にもデメリットの影響は広がると考えられます。&lt;/p&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-  特許権放棄に賛成, ワクチンの質
-  &lt;/div&gt;
-  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-	  &lt;li class=&quot;list-group-item&quot;&gt;
-	    &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 0&lt;/span&gt; メリットは自国それぞれでワクチンの生産ができるために、摂取できる方がこれまでより沢山増えることで、感染者も減り少し混乱を抑えることができるのではないかと思います。デメリットは、偽造ワクチンなど、不法に儲けを得たいとゆう人間による問題が出るのでは無いかと少し不安に感じています。
-	  &lt;/li&gt;
-	  &lt;li class=&quot;list-group-item&quot;&gt;
-	    &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 1&lt;/span&gt; 発展途上国や貧しい国でもワクチンを使用することができるようにするためにも特許権の放棄は妥当だと思います。もしも無理なのであれば期限を設けて期限間を特許権フリーにしてもいいと思います。
-	  &lt;/li&gt;
-	  &lt;li class=&quot;list-group-item&quot;&gt;
-	    &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 2&lt;/span&gt; ワクチンが広く普及するのは良いが、品質の低下がありえると思う。
-	  &lt;/li&gt;  
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 3&lt;/span&gt; 世界的危機のワクチンのため、特許権を認めても一時的に販売価格を安くするなどの行為を製薬会社に求めてもいいと思います。
-    &lt;/li&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 4&lt;/span&gt; メリット さまざまな国が平等にワクチンを製造することが出来る様になる デメリット 特許権が出回ることで正規品であるかの見分けが難しくなる
-    &lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;card&quot;&gt;
-  &lt;div class=&quot;card-header&quot;&gt;
-  ワクチンの普及, 製薬会社の利益と開発意欲
-  &lt;/div&gt;
-  &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
-    &lt;li class=&quot;list-group-item&quot;&gt;
-      &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 23&lt;/span&gt; 特許を放棄させられると莫大な開発費用の努力が台無しになるわ、経営にも開発意欲にも大打撃を与えるので放棄させるべきではない。民間への影響が考えられるなら民間会社に代わって国が売り上げに応じ特許料を支払うべきだ。
-    &lt;/li&gt;  
-	  &lt;li class=&quot;list-group-item&quot;&gt;
-	    &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 24&lt;/span&gt; 独占することを放棄することでより広くワクチン接種することができるのが良いかとは思いますが、政府によって介入されて利益を受けられないのは問題かと思います。
-	  &lt;/li&gt;
-	  &lt;li class=&quot;list-group-item&quot;&gt;
-	    &lt;span class=&quot;badge badge-dark mr-2&quot;&gt;意見 25&lt;/span&gt; メリットはコロナを収束させる時間が短くなること デメリットは製薬会社が今後ワクチンを積極的に作らなくなるかもしれないこと
-	  &lt;/li&gt;
-	  &lt;li class=&quot;list-group-item&quot;&gt;
-	    &lt;span class=&quot;badge badge-dark&quot;&gt;意見 27&lt;/span&gt; メリットとしては世界中にワクチンが行き届きやすくなること。 デメリットは製薬会社がワクチン開発に力を入れなくなること。
-	  &lt;/li&gt;  
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/share?ref_src=twsrc%5Etfw&quot; class=&quot;twitter-share-button&quot; data-size=&quot;large&quot; data-via=&quot;Aska_systems_jp&quot; data-hashtags=&quot;Aska&quot; data-show-count=&quot;false&quot;&gt;Tweet&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;詳細&quot;&gt;詳細&lt;/h2&gt;
-
-&lt;table class=&quot;table table-striped table-hover&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Summary&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;期間&lt;/td&gt;
-      &lt;td&gt;2021/5/6 - 2021/5/6&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;回答者数&lt;/td&gt;
-      &lt;td&gt;41&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;回答意見数&lt;/td&gt;
-      &lt;td&gt;27&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;初期回答数&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;プラットフォーム&lt;/td&gt;
-      &lt;td&gt;Crowdworks&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h6 class=&quot;text-muted&quot;&gt;調査・記事担当: &lt;strong&gt;R. K.&lt;/strong&gt;&lt;/h6&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;この結果を引用される場合は十分にご注意ください。
-本調査はデモの一環として実施しているものであり、学術的な信頼性はないとお考えください。
-本格的な調査に興味がある方は、&lt;a href=&quot;mailto:request@aska.systems&quot;&gt;request@aska.systems&lt;/a&gt;までご相談ください。&lt;/p&gt;
-
-&lt;p&gt;ここで掲載している調査の目的は、Askaシステムの挙動の実証実験です。
-意見のバラエティを増やすために、あえてバイアスのかかった質問の仕方をすることもありますが、その場合は、バイアス下での結果であることを十分にご注意ください。&lt;/p&gt;
-</description>
-        <pubDate>Sun, 09 May 2021 00:00:00 +0900</pubDate>
-        <link>https://aska.systems/jp/COVIDpatent/</link>
-        <guid isPermaLink="true">https://aska.systems/jp/COVIDpatent/</guid>
         
         
       </item>
