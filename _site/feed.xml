@@ -4,10 +4,10 @@
     <title>Aska (投票クラスタリング)</title>
     <description>A graph-based open-ended survey framework.
 </description>
-    <link>https://aska.systems/jp/</link>
-    <atom:link href="https://aska.systems/jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 Aug 2021 16:37:55 +0900</pubDate>
-    <lastBuildDate>Fri, 06 Aug 2021 16:37:55 +0900</lastBuildDate>
+    <link>https://www.aska.systems/ja/</link>
+    <atom:link href="https://www.aska.systems/ja/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 07 Sep 2021 00:33:50 +0900</pubDate>
+    <lastBuildDate>Tue, 07 Sep 2021 00:33:50 +0900</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -24,7 +24,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;container text-center&quot;&gt;
-&lt;img src=&quot;/jp/images/2021_Generics/table.svg&quot; alt=&quot;incidence_matrix&quot; style=&quot;
+&lt;img src=&quot;/ja/images/2021_Generics/table.svg&quot; alt=&quot;incidence_matrix&quot; style=&quot;
   width: 300px;
   border: none;
   background: none;
@@ -89,7 +89,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;container text-center&quot;&gt;
-&lt;img src=&quot;/jp/images/2021_Generics/doughnut_sex.png&quot; alt=&quot;demograhpic&quot; style=&quot;
+&lt;img src=&quot;/ja/images/2021_Generics/doughnut_sex.png&quot; alt=&quot;demograhpic&quot; style=&quot;
   width: 300px;
   border: none;
   background: none;
@@ -105,7 +105,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;container text-center&quot;&gt;
-&lt;img src=&quot;/jp/images/2021_Generics/doughnut_age.png&quot; alt=&quot;demograhpic&quot; style=&quot;
+&lt;img src=&quot;/ja/images/2021_Generics/doughnut_age.png&quot; alt=&quot;demograhpic&quot; style=&quot;
   width: 300px;
   border: none;
   background: none;
@@ -169,8 +169,8 @@
 意見のバラエティを増やすために、あえてバイアスのかかった質問の仕方をすることもありますが、その場合は、バイアス下での結果であることを十分にご注意ください。&lt;/p&gt;
 </description>
         <pubDate>Fri, 06 Aug 2021 00:00:00 +0900</pubDate>
-        <link>https://aska.systems/jp/Generics/</link>
-        <guid isPermaLink="true">https://aska.systems/jp/Generics/</guid>
+        <link>https://www.aska.systems/ja/Generics/</link>
+        <guid isPermaLink="true">https://www.aska.systems/ja/Generics/</guid>
         
         
       </item>
@@ -187,7 +187,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;container text-center&quot;&gt;
-&lt;img src=&quot;/jp/images/2021_OlympicAds/doughnut_agree_disagree.png&quot; alt=&quot;demograhpic&quot; style=&quot;
+&lt;img src=&quot;/ja/images/2021_OlympicAds/doughnut_agree_disagree.png&quot; alt=&quot;demograhpic&quot; style=&quot;
   width: 300px;
   border: none;
   background: none;
@@ -208,7 +208,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;container text-center&quot;&gt;
-&lt;img src=&quot;/jp/images/2021_OlympicAds/table.svg&quot; alt=&quot;incidence_matrix&quot; style=&quot;
+&lt;img src=&quot;/ja/images/2021_OlympicAds/table.svg&quot; alt=&quot;incidence_matrix&quot; style=&quot;
   width: 300px;
   border: none;
   background: none;
@@ -336,8 +336,8 @@ CM以外でアスリートの支援をするべき、CM中止に留まらず、�
 意見のバラエティを増やすために、あえてバイアスのかかった質問の仕方をすることもありますが、その場合は、バイアス下での結果であることを十分にご注意ください。&lt;/p&gt;
 </description>
         <pubDate>Sun, 25 Jul 2021 00:00:00 +0900</pubDate>
-        <link>https://aska.systems/jp/OpympicAds/</link>
-        <guid isPermaLink="true">https://aska.systems/jp/OpympicAds/</guid>
+        <link>https://www.aska.systems/ja/OpympicAds/</link>
+        <guid isPermaLink="true">https://www.aska.systems/ja/OpympicAds/</guid>
         
         
       </item>
@@ -359,7 +359,7 @@ CM以外でアスリートの支援をするべき、CM中止に留まらず、�
 &lt;/div&gt;
 
 &lt;div class=&quot;container text-center&quot;&gt;
-&lt;img src=&quot;/jp/images/2021_Payments/table1.svg&quot; alt=&quot;incidence_matrix&quot; style=&quot;
+&lt;img src=&quot;/ja/images/2021_Payments/table1.svg&quot; alt=&quot;incidence_matrix&quot; style=&quot;
   width: 300px;
   border: none;
   background: none;
@@ -412,7 +412,7 @@ CM以外でアスリートの支援をするべき、CM中止に留まらず、�
 &lt;/div&gt;
 
 &lt;div class=&quot;container text-center&quot;&gt;
-&lt;img src=&quot;/jp/images/2021_Payments/table2.svg&quot; alt=&quot;incidence_matrix&quot; style=&quot;
+&lt;img src=&quot;/ja/images/2021_Payments/table2.svg&quot; alt=&quot;incidence_matrix&quot; style=&quot;
   width: 300px;
   border: none;
   background: none;
@@ -486,7 +486,7 @@ CM以外でアスリートの支援をするべき、CM中止に留まらず、�
 &lt;/div&gt;
 
 &lt;div class=&quot;container text-center&quot;&gt;
-&lt;img src=&quot;/jp/images/2021_Payments/demographic.png&quot; alt=&quot;demograhpic&quot; style=&quot;
+&lt;img src=&quot;/ja/images/2021_Payments/demographic.png&quot; alt=&quot;demograhpic&quot; style=&quot;
   width: 300px;
   border: none;
   background: none;
@@ -561,8 +561,8 @@ CM以外でアスリートの支援をするべき、CM中止に留まらず、�
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 21 Jul 2021 00:00:00 +0900</pubDate>
-        <link>https://aska.systems/jp/Payments/</link>
-        <guid isPermaLink="true">https://aska.systems/jp/Payments/</guid>
+        <link>https://www.aska.systems/ja/Payments/</link>
+        <guid isPermaLink="true">https://www.aska.systems/ja/Payments/</guid>
         
         
       </item>
@@ -581,7 +581,7 @@ CM以外でアスリートの支援をするべき、CM中止に留まらず、�
 &lt;/div&gt;
 
 &lt;div class=&quot;container text-center&quot;&gt;
-&lt;img src=&quot;/jp/images/2021_ChuoMaglev/table.svg&quot; alt=&quot;incidence_matrix&quot; style=&quot;
+&lt;img src=&quot;/ja/images/2021_ChuoMaglev/table.svg&quot; alt=&quot;incidence_matrix&quot; style=&quot;
   width: 300px;
   border: none;
   background: none;
@@ -646,7 +646,7 @@ CM以外でアスリートの支援をするべき、CM中止に留まらず、�
 &lt;/div&gt;
 
 &lt;div class=&quot;container text-center&quot;&gt;
-&lt;img src=&quot;/jp/images/2021_ChuoMaglev/demographic.png&quot; alt=&quot;demograhpic&quot; style=&quot;
+&lt;img src=&quot;/ja/images/2021_ChuoMaglev/demographic.png&quot; alt=&quot;demograhpic&quot; style=&quot;
   width: 300px;
   border: none;
   background: none;
@@ -722,8 +722,8 @@ CM以外でアスリートの支援をするべき、CM中止に留まらず、�
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 02 Jul 2021 00:00:00 +0900</pubDate>
-        <link>https://aska.systems/jp/ChuoMaglevTrain/</link>
-        <guid isPermaLink="true">https://aska.systems/jp/ChuoMaglevTrain/</guid>
+        <link>https://www.aska.systems/ja/ChuoMaglevTrain/</link>
+        <guid isPermaLink="true">https://www.aska.systems/ja/ChuoMaglevTrain/</guid>
         
         
       </item>
@@ -740,7 +740,7 @@ CM以外でアスリートの支援をするべき、CM中止に留まらず、�
 &lt;/div&gt;
 
 &lt;div class=&quot;container text-center&quot;&gt;
-&lt;img src=&quot;/jp/images/2021_LiquorRestriction/table.svg&quot; alt=&quot;incidence_matrix&quot; style=&quot;
+&lt;img src=&quot;/ja/images/2021_LiquorRestriction/table.svg&quot; alt=&quot;incidence_matrix&quot; style=&quot;
   width: 300px;
   border: none;
   background: none;
@@ -811,7 +811,7 @@ CM以外でアスリートの支援をするべき、CM中止に留まらず、�
 &lt;/div&gt;
 
 &lt;div class=&quot;container text-center&quot;&gt;
-&lt;img src=&quot;/jp/images/2021_LiquorRestriction/TokkyoVote.png&quot; alt=&quot;demograhpic&quot; style=&quot;
+&lt;img src=&quot;/ja/images/2021_LiquorRestriction/TokkyoVote.png&quot; alt=&quot;demograhpic&quot; style=&quot;
   width: 300px;
   border: none;
   background: none;
@@ -876,8 +876,8 @@ CM以外でアスリートの支援をするべき、CM中止に留まらず、�
 意見のバラエティを増やすために、あえてバイアスのかかった質問の仕方をすることもありますが、その場合は、バイアス下での結果であることを十分にご注意ください。&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Jun 2021 00:00:00 +0900</pubDate>
-        <link>https://aska.systems/jp/LiquorRestriction/</link>
-        <guid isPermaLink="true">https://aska.systems/jp/LiquorRestriction/</guid>
+        <link>https://www.aska.systems/ja/LiquorRestriction/</link>
+        <guid isPermaLink="true">https://www.aska.systems/ja/LiquorRestriction/</guid>
         
         
       </item>
@@ -898,7 +898,7 @@ IOCの規約では、男性ホルモンを大会１年前から抑制してい�
 &lt;/div&gt;
 
 &lt;div class=&quot;container text-center&quot;&gt;
-&lt;img src=&quot;/jp/images/2021_Transgender/table.svg&quot; alt=&quot;incidence_matrix&quot; style=&quot;
+&lt;img src=&quot;/ja/images/2021_Transgender/table.svg&quot; alt=&quot;incidence_matrix&quot; style=&quot;
   width: 300px;
   border: none;
   background: none;
@@ -954,7 +954,7 @@ IOCの規約では、男性ホルモンを大会１年前から抑制してい�
 &lt;h4 id=&quot;属性分布年齢と性別&quot;&gt;属性分布：年齢と性別&lt;/h4&gt;
 
 &lt;div class=&quot;container text-center&quot;&gt;
-&lt;img src=&quot;/jp/images/2021_Transgender/demograhpic.png&quot; alt=&quot;demograhpic&quot; style=&quot;
+&lt;img src=&quot;/ja/images/2021_Transgender/demograhpic.png&quot; alt=&quot;demograhpic&quot; style=&quot;
   width: 300px;
   border: none;
   background: none;
@@ -1019,8 +1019,8 @@ IOCの規約では、男性ホルモンを大会１年前から抑制してい�
 意見のバラエティを増やすために、あえてバイアスのかかった質問の仕方をすることもありますが、その場合は、バイアス下での結果であることを十分にご注意ください。&lt;/p&gt;
 </description>
         <pubDate>Thu, 17 Jun 2021 00:00:00 +0900</pubDate>
-        <link>https://aska.systems/jp/Transgender/</link>
-        <guid isPermaLink="true">https://aska.systems/jp/Transgender/</guid>
+        <link>https://www.aska.systems/ja/Transgender/</link>
+        <guid isPermaLink="true">https://www.aska.systems/ja/Transgender/</guid>
         
         
       </item>
@@ -1040,7 +1040,7 @@ IOCの規約では、男性ホルモンを大会１年前から抑制してい�
 &lt;/div&gt;
 
 &lt;div class=&quot;container text-center&quot;&gt;
-&lt;img src=&quot;/jp/images/2021_YoutubeRestriction/table_1.svg&quot; alt=&quot;incidence_matrix&quot; style=&quot;
+&lt;img src=&quot;/ja/images/2021_YoutubeRestriction/table_1.svg&quot; alt=&quot;incidence_matrix&quot; style=&quot;
   width: 300px;
   border: none;
   background: none;
@@ -1114,7 +1114,7 @@ IOCの規約では、男性ホルモンを大会１年前から抑制してい�
 &lt;/div&gt;
 
 &lt;div class=&quot;container text-center&quot;&gt;
-&lt;img src=&quot;/jp/images/2021_YoutubeRestriction/table_2.svg&quot; alt=&quot;incidence_matrix&quot; style=&quot;
+&lt;img src=&quot;/ja/images/2021_YoutubeRestriction/table_2.svg&quot; alt=&quot;incidence_matrix&quot; style=&quot;
   width: 300px;
   border: none;
   background: none;
@@ -1217,8 +1217,8 @@ IOCの規約では、男性ホルモンを大会１年前から抑制してい�
 意見のバラエティを増やすために、あえてバイアスのかかった質問の仕方をすることもありますが、その場合は、バイアス下での結果であることを十分にご注意ください。&lt;/p&gt;
 </description>
         <pubDate>Fri, 11 Jun 2021 00:00:00 +0900</pubDate>
-        <link>https://aska.systems/jp/YoutubeRestriction/</link>
-        <guid isPermaLink="true">https://aska.systems/jp/YoutubeRestriction/</guid>
+        <link>https://www.aska.systems/ja/YoutubeRestriction/</link>
+        <guid isPermaLink="true">https://www.aska.systems/ja/YoutubeRestriction/</guid>
         
         
       </item>
@@ -1235,7 +1235,7 @@ IOCの規約では、男性ホルモンを大会１年前から抑制してい�
 &lt;/div&gt;
 
 &lt;div class=&quot;container text-center&quot;&gt;
-&lt;img src=&quot;/jp/images/2021_TokyoOlympics/table.svg&quot; alt=&quot;incidence_matrix&quot; style=&quot;
+&lt;img src=&quot;/ja/images/2021_TokyoOlympics/table.svg&quot; alt=&quot;incidence_matrix&quot; style=&quot;
   width: 300px;
   border: none;
   background: none;
@@ -1295,7 +1295,7 @@ IOCの規約では、男性ホルモンを大会１年前から抑制してい�
 &lt;/div&gt;
 
 &lt;div class=&quot;container text-center&quot;&gt;
-&lt;img src=&quot;/jp/images/2021_TokyoOlympics/doughnut_Q2.png&quot; alt=&quot;newspaper&quot; style=&quot;
+&lt;img src=&quot;/ja/images/2021_TokyoOlympics/doughnut_Q2.png&quot; alt=&quot;newspaper&quot; style=&quot;
   width: 400px;
   border: none;
   background: none;
@@ -1315,7 +1315,7 @@ IOCの規約では、男性ホルモンを大会１年前から抑制してい�
 &lt;/div&gt;
 
 &lt;div class=&quot;container text-center&quot;&gt;
-&lt;img src=&quot;/jp/images/2021_TokyoOlympics/doughnut_Q3.png&quot; alt=&quot;newspaper&quot; style=&quot;
+&lt;img src=&quot;/ja/images/2021_TokyoOlympics/doughnut_Q3.png&quot; alt=&quot;newspaper&quot; style=&quot;
   width: 400px;
   border: none;
   background: none;
@@ -1386,8 +1386,8 @@ IOCの規約では、男性ホルモンを大会１年前から抑制してい�
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 05 Jun 2021 00:00:00 +0900</pubDate>
-        <link>https://aska.systems/jp/TokyoOlympics/</link>
-        <guid isPermaLink="true">https://aska.systems/jp/TokyoOlympics/</guid>
+        <link>https://www.aska.systems/ja/TokyoOlympics/</link>
+        <guid isPermaLink="true">https://www.aska.systems/ja/TokyoOlympics/</guid>
         
         
       </item>
@@ -1403,7 +1403,7 @@ IOCの規約では、男性ホルモンを大会１年前から抑制してい�
 &lt;h5&gt;朝日新聞・毎日新聞の記者による、ワクチン摂取の予約システムの”確認”は適切だと思いますか？&lt;/h5&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/jp/images/2021_ReserveCheck/table.svg&quot; alt=&quot;incidence_matrix&quot; style=&quot;   width: 500px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/ja/images/2021_ReserveCheck/table.svg&quot; alt=&quot;incidence_matrix&quot; style=&quot;   width: 500px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;回答者（行）と投稿意見（列）のテーブル図。回答者が賛成した意見は青色（紺色は自身の投稿意見）、賛成しなかった意見は黄色、未参照の意見は灰色。&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;この行為については、否定的な意見が多い結果となりました。意見の方向性としては大きく分けて二つありました。一つ目は、仮に虚偽の予約をすぐに取り消していたとしても、短時間でもその摂取枠が塞がったことで予約を取れなくて困った人がいると考えられるからという意見です。また、ある種の実験としてこのような調査手法をとる場合でも、事前に関係部署に断りを入れるべきという意見もありました。二つ目は、虚偽予約の方法を拡散したことへの批判です。不備の発見は報道機関としての仕事であるが、その方法を拡散させることは模倣犯が出てくることにつながるので、不適切という意見があります。&lt;/p&gt;
@@ -1454,7 +1454,7 @@ IOCの規約では、男性ホルモンを大会１年前から抑制してい�
 &lt;p&gt;この調査結果は以下の円グラフにまとめられています。大半の人たちは新聞を購読していなく、新聞を読んでいる人で一番多いのはその他という回答でした。その他には地方紙や海外紙が入るので、全国主要五紙を購読している人はわずか7人でした。その中では朝日が3人と一番多かったです。
 今回の調査で朝日・毎日の調査手法に否定的な意見が多かった理由は、新聞を購読していない人が多いためかもしれません&lt;sup id=&quot;fnref:0&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:0&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/jp/images/2021_ReserveCheck/population_newspaper.png&quot; alt=&quot;newspaper&quot; style=&quot;   width: 500px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/ja/images/2021_ReserveCheck/population_newspaper.png&quot; alt=&quot;newspaper&quot; style=&quot;   width: 500px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -1513,8 +1513,8 @@ IOCの規約では、男性ホルモンを大会１年前から抑制してい�
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 23 May 2021 00:00:00 +0900</pubDate>
-        <link>https://aska.systems/jp/ReserveCheck/</link>
-        <guid isPermaLink="true">https://aska.systems/jp/ReserveCheck/</guid>
+        <link>https://www.aska.systems/ja/ReserveCheck/</link>
+        <guid isPermaLink="true">https://www.aska.systems/ja/ReserveCheck/</guid>
         
         
       </item>
@@ -1529,7 +1529,7 @@ IOCの規約では、男性ホルモンを大会１年前から抑制してい�
 &lt;p&gt;新型コロナウイルスのワクチン摂取が日本でも始まりました。現時点では65歳以上の高齢者の摂取が始まった状況ですが、摂取の順番をめぐって議論が起きています。原則として予約を入れた人から摂取していくという仕組みですが、陣頭式にあたる政治家や外国人選手と接するオリンピック選手の摂取を優先するべきという意見もあります。さらに、愛知県では地元の高額納税者が優先摂取を受けようとした事案が発生しました。摂取の順番を厳格化するべきでしょうか、ある程度柔軟に対応するべきでしょうか。ご意見をお聞かせください。&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/jp/images/2021_VaccineRules/table1.svg&quot; alt=&quot;incidence_matrix1&quot; style=&quot;   width: 500px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/ja/images/2021_VaccineRules/table1.svg&quot; alt=&quot;incidence_matrix1&quot; style=&quot;   width: 500px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;回答者（行）と投稿意見（列）のテーブル図。回答者が賛成した意見は青色（紺色は自身の投稿意見）、賛成しなかった意見は黄色、未参照の意見は灰色。&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;一番多かった意見は、摂取の順番はしっかり守るべきという意見でした。以下のように、命は誰であろうと平等なので、誰であろうと特別扱いするのは良くないという意見が多くありました。医療従事者は例外で、先に摂取することは問題ないそうです。
@@ -1585,7 +1585,7 @@ IOCの規約では、男性ホルモンを大会１年前から抑制してい�
 &lt;p&gt;日本にはワクチンへの不信感を持つ人がいまだに多く、全人口への円滑な摂取が課題となっています。また、摂取が進んでいるアメリカや香港でも、摂取をしたい人は一通り終わったものの、ワクチンに不信感を持っている人にどのように摂取を促すか議論されています。その中で、オハイオ州では摂取した人は一億円当たるチャンスを与えるというキャンペーンを行いました。&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/jp/images/2021_VaccineRules/table2.svg&quot; alt=&quot;incidence_matrix2&quot; style=&quot;   width: 500px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/ja/images/2021_VaccineRules/table2.svg&quot; alt=&quot;incidence_matrix2&quot; style=&quot;   width: 500px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;回答者（行）と投稿意見（列）のテーブル図。回答者が賛成した意見は青色（紺色は自身の投稿意見）、賛成しなかった意見は黄色、未参照の意見は灰色。&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;一番多かった意見は摂取したいという意見でした。副反応への懸念の声もある程度は見受けられましたが、副反応が出てもコロナウイルスへの免疫がつくこと、重症化するリスクが減ることのメリットの方があまりにも大きいので、摂取に前向きな声がほとんどでした。ただし、摂取予約の手続きの煩雑さへの不満も見受けられたので、ここを改善する必要はあると思いました。また、一億円の懸賞については、もらえるチャンスがあるなら嬉しいという声が多いものの、それによって180度行動が変わるという人は少なそうでした。&lt;/p&gt;
@@ -1634,7 +1634,7 @@ IOCの規約では、男性ホルモンを大会１年前から抑制してい�
 
 &lt;h4 id=&quot;属性分布-doughnut-chart&quot;&gt;属性分布: Doughnut chart&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&quot;/jp/images/2021_VaccineRules/demographic.png&quot; alt=&quot;doughnut_chart&quot; style=&quot;   width: 500px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/ja/images/2021_VaccineRules/demographic.png&quot; alt=&quot;doughnut_chart&quot; style=&quot;   width: 500px;   border: none;   background: none;   margin: 1% 1% 1% 10%;   text-align: center;   display: inline-block; &quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -1686,8 +1686,8 @@ IOCの規約では、男性ホルモンを大会１年前から抑制してい�
 意見のバラエティを増やすために、あえてバイアスのかかった質問の仕方をすることもありますが、その場合は、バイアス下での結果であることを十分にご注意ください。&lt;/p&gt;
 </description>
         <pubDate>Sun, 16 May 2021 00:00:00 +0900</pubDate>
-        <link>https://aska.systems/jp/VaccineRules/</link>
-        <guid isPermaLink="true">https://aska.systems/jp/VaccineRules/</guid>
+        <link>https://www.aska.systems/ja/VaccineRules/</link>
+        <guid isPermaLink="true">https://www.aska.systems/ja/VaccineRules/</guid>
         
         
       </item>
